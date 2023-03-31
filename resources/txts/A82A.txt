@@ -1,0 +1,423 @@
+Cégautóadó és az ahhoz kapcsolódó szja-szabályok 
+
+2021
+
+
+
+Cégautóadót kell fizetni azok után a személygépkocsik után, amelyek nem magánszemély tulajdonában állnak, vagy magánszemély tulajdonában állnak, de a személygépkocsik után költséget, értékcsökkenési leírást számoltak el. 
+
+
+
+Ebben az információs füzetben a cégautóadóról és az azzal összefüggő egyes személyijövedelemadó-szabályokról olvasható bővebb információ.
+
+
+
+Az információs füzet tartalma:
+
+
+
+A cégautó bevallása és megfizetése
+
+Az adó tárgya
+
+Az adó alanya
+
+Az adókötelezettség keletkezése és megszűnése
+
+Nem magánszemély tulajdonában lévő személygépkocsi
+
+Magánszemély (ideértve az egyéni vállalkozót) tulajdonában lévő személygépkocsi
+
+Hatósági nyilvántartásban nem szereplő személygépkocsi
+
+Adókötelezettséggel nem járó esetek
+
+Összefoglaló a cégautóadó-kötelezettségről
+
+Adómentességek
+
+Az adó mértéke
+
+A kétszeres adózás kizárása
+
+A cégautóadó bevallása és megfizetése
+
+
+
+A cégautóadót fő szabály szerint negyedévenként, önadózással (mely ez esetben adómegállapítási-, adóbevallási- és adófizetési kötelezettséget jelent) kell megállapítani a naptári év minden olyan hónapjára, amelyben az adókötelezettség fennáll. 
+
+
+
+A bevallást a negyedévet követő hónap 20. napjáig kell benyújtani a NAV-hoz, és ugyaneddig kell megfizetni az adót az alábbi számlaszámra:
+
+
+
+NAV Cégautóadó bevételi számla  
+
+10032000-01076167
+
+
+
+Örökléssel szerzett személygépkocsi esetén az adókötelezettséget a hagyatékátadó végzés jogerőre emelkedésének negyedévét követő hónap 20. napjáig kell teljesíteni.
+
+
+
+A cégautóadó bevallására 2021-ben – minden adóalany, tehát a magánszemélyek és a kifizetők számára is – a 2101-es bevallás szolgál. 
+
+
+
+ Az adó tárgya
+
+
+
+		A cégautóadó szempontjából személygépkocsinak minősül az Szja tv. szerinti személygépkocsi, ide nem értve a környezetkímélő gépkocsit.
+
+		
+
+		Személygépkocsinak minősül a négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas. Idetartozik a benzinüzemű, a dízelüzemű és a gázüzemű személygépkocsi, a versenyautó és az önjáró lakóautó is. Személygépkocsinak minősül továbbá az a vegyes használatú, 2 500 kilogrammot meg nem haladó együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi) is, amelynek a rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel, egyszerűen oldható ülésrögzítése révén a felhasználás szerinti terhek szállítására bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
+
+		Az előzőek alapján tehát a vezetővel együtt több mint nyolc fő szállítására alkalmas (mikrobusz, transzporter, autóbusz), valamint a 2 500 kilogrammot meghaladó, együttes tömegű, vegyes használatú tehergépjárművek nem számítanak személygépkocsinak. Tehergépjárműnek számít, ha a járművet gyárilag úgy alakították ki, hogy átalakítva sem alkalmas kettőnél több utas szállítására. Ilyenkor az együttes tömegre vonatkozó feltételt nem kell vizsgálni. Ha azonban a jármű alaptípusa szerint kettőnél több utas szállítására is alkalmas lett volna, akkor a 2 500 kilogrammot el nem érő együttes tömeg esetén személygépkocsinak minősül abban az esetben is, ha oly módon távolították el például a hátsó üléseket, hogy azokat már utóbb sem lehet visszaszerelni, és ha ennél fogva valójában nem alkalmas már kettőnél több utas szállítására.
+
+		
+
+		Környezetkímélő gépkocsi az elektromos gépkocsi, továbbá a nulla emissziós gépkocsi. Nulla emissziós gépkocsinak az a gépkocsi minősül, amely rendeltetésszerű használata során nem bocsát ki a légszennyező anyagot (környezetvédelmi osztályjelzése: 5Z).
+
+		
+
+		A Gjt. szerint a cégautóadó tárgyát képezi az a személygépkocsi, amely 
+
+		 nem magánszemély tulajdonában álló belföldi hatósági nyilvántartásba vett, magyar rendszámú személygépkocsi,
+
+		magánszemély tulajdonában álló vagy hatósági nyilvántartásban nem szereplő személygépkocsi, amely után az Sztv. szerinti költséget, ráfordítást, vagy az Szja tv. szerint tételes költségelszámolási módszerrel költséget, értékcsökkenési leírást (a továbbiakban együtt: költséget) számoltak el.
+
+		A leírtak alapján megállapítható, hogy nem befolyásolja az adókötelezettséget, ha például egy társaság magyar rendszámú személygépkocsiját a forgalomból kivonták. Szintén adókötelezettséggel jár a külföldi rendszámú személygépkocsi is, ami után az Szja tv., illetve a Sztv. alapján költséget számoltak el. 
+
+		
+
+A cégautóadó szempontjából a tulajdonban lévő személygépkocsira vonatkozó szabályok érvényesek a pénzügyi lízingbe vett személygépkocsira is. 
+
+		
+
+		A személygépkocsi utáni költségnek, ráfordításnak a személygépkocsi üzemeltetésével közvetlenül összefüggő, kizárólag a személygépkocsi tulajdonlása, használata esetén felmerülő költségek minősülnek. Különösen idetartozik a személygépkocsi üzemanyag-, kenőanyag költsége, az adóéven belül elhasználódó tartalékalkatrészek költsége, a javítás, a karbantartás díja, a személygépkocsi bérleti-, illetve lízingdíja, az értékcsökkenési leírás, a kötelező felelősségbiztosítás, baleseti adó, a casco díja, a gépjárműadó.
+
+		
+
+		Tételes költségelszámolás, ha a magánszemély útnyilvántartás alapján a személygépkocsi után a hivatali, üzleti célból megtett utak arányában tételesen számolja el a költségeket. Nem minősül tételes költségelszámolásnak, amikor az egyéni vállalkozó vagy az őstermelő igazolás nélkül havi 500 kilométer utat számol el átalányban. A költségek tételes elszámolására egyebekben az Szja tv. járművek költségeire vonatkozó szabályai irányadóak.
+
+		
+
+Az adó alanya
+
+
+
+	Az adóalanyiság fő szabály szerint a tulajdonos személyéhez kapcsolódik. Az adó alanya hatósági nyilvántartásban szereplő személygépkocsi esetén a járműnyilvántartás szerint bejegyzett tulajdonos, kivéve, ha a tulajdonos magánszemély, és a személygépkocsi után nem számol el költséget. Ha a személygépkocsinak több tulajdonosa van, akkor a tulajdonosok a cégautóadót tulajdoni hányadukkal arányosan viselik. Ez arra az estre is igaz, ha a közös tulajdonban levő személygépkocsinak magánszemély és nem magánszemély egyaránt (Országos Járműnyilvántartás szerinti) tulajdonosa. Fennáll az adókötelezettség akkor is, ha két magánszemély közös (Országos Járműnyilvántartás szerinti) tulajdonában levő személygépkocsi után csak az egyik magánszemély tulajdonos számol el költséget. A cégautóadót a tulajdonostársak ilyenkor is tulajdoni hányaduknak megfelelően viselik.
+
+	
+
+	Ha a hatósági nyilvántartásban szereplő személygépkocsit pénzügyi lízingbe adják, akkor a lízingbe vevő az adóalany, kivéve azt az esetet, ha a lízingbe vevő magánszemély, és az általa lízingbe vett személygépkocsi után nincs költségelszámolás. 
+
+A Gjt. 18. § 31. pontja a következők szerint határozza meg a pénzügyi lízing fogalmát: „pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing”.
+
+	Az utóbb említett törvény értelmében pénzügyi lízing során a lízingbeadó a tulajdonában lévő dolgot a lízingbevevő határozott idejű használatába adja. A lízingbevevő a szerződésben kikötött időtartam lejártával a lízingdíj teljes tőketörlesztő és kamattörlesztő részének, valamint a szerződésben kikötött maradványérték megfizetésével a dolgon ő vagy az általa megjelölt személy tulajdonjogot szerez.
+
+	
+
+	A magyar állam tulajdonában álló, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya az a személy vagy szervezet, amely a személygépkocsi vagyonkezelői jogával rendelkezik. Ha a személygépkocsin használati jog is fennáll, akkor az adó alanya a használatra jogosult személy.
+
+	
+
+	Hatósági nyilvántartásban nem szereplő személygépkocsi esetén az a személy vagy szervezet lesz az adó alanya, amely a (például külföldi rendszámú) személygépkocsi használata után költséget számol el (az Sztv. szerint költséget, ráfordítást, illetve az Szja tv. szerinti tételes költségelszámolással költséget, értékcsökkenési leírást). 
+
+	
+
+	Az átalányadózó és a kisadózó vállalkozások tételes adóját (kata) választó egyéni vállalkozó, továbbá a fizetővendéglátó tevékenységére tételes átalányadózást alkalmazó magánszemély személygépkocsijára nem vonatkozik a cégautóadó-fizetési kötelezettség, függetlenül attól, hogy a személygépkocsi szerepel-e a magyar hatósági nyilvántartásban vagy sem, esetükben ugyanis nem valósul meg tételes költségelszámolás.
+
+	
+
+Összefoglalva, akkor minősül a cégautóadó alanyának egy társaság, ha
+
+magyar rendszámú, pénzügy lízingbe nem adott személygépkocsi tulajdonjogával rendelkezik,
+
+a hatósági nyilvántartásban nem szereplő (például külföldi rendszámú) személygépkocsi után költséget számol el,
+
+a társaság pénzügyi lízingbe vesz személygépkocsit.
+
+A magánszemély akkor mikor minősül a cégautóadó alanyának, ha
+
+a tulajdonában lévő jármű után költséget számol el, 
+
+magyar rendszámú személygépkocsija után más számol el költséget,
+
+a hatósági nyilvántartásban nem szereplő személygépkocsi után költséget számol el,
+
+az általa pénzügyi lízingbe vett személygépkocsi után ő maga, vagy más költséget számol el,
+
+a személygépkocsinak, a magánszemélyen kívül társasági tulajdonosa is van.
+
+
+
+Az adókötelezettség keletkezése és megszűnése
+
+
+
+	A cégautóadót az adóévet képező naptári évben azokra a hónapokra kell megfizetni, amelyekben az adókötelezettség fennállt. A cégautóadó-kötelezettség – más tárgyi adókhoz hasonlóan – az adókötelezettség keletkezése napján kezdődik, és mindaddig fennáll, amíg az adókötelezettség meg nem szűnik a Gjt. 17/C. §-ban említett okok miatt.
+
+	
+
+	4.1. Nem magánszemély tulajdonában lévő személygépkocsi
+
+	
+
+	A nem magánszemély tulajdonában álló vagy a nem magánszemély által pénzügyi lízingbe vett, hatósági nyilvántartásban szereplő (tehát magyar rendszámú) személygépkocsi esetén az adókötelezettség a tulajdonszerzés, illetve a pénzügyi lízingbe vétel hónapját követő hónap első napján keletkezik. Az adókötelezettség független attól, hogy a járművel kapcsolatban történik-e költségelszámolás, használják-e vagy esetleg a forgalomból kivonják. Az adókötelezettség annak a hónapnak az utolsó napján szűnik meg, amikor a személygépkocsit a tulajdonos eladja vagy elajándékozza, illetve a lízingbe adónak visszaadja. Megszűnik az adókötelezettség annak a hónapnak az utolsó napján, amelyben a személygépkocsit jogellenesen elidegenítették vagy amelyben a személygépkocsi megsemmisült.
+
+	
+
+	4.2. Magánszemély (ideértve az egyéni vállalkozót is) tulajdonában lévő személygépkocsi
+
+	
+
+	Ha a hatósági nyilvántartásban szereplő, magyar rendszámú személygépkocsi magánszemély tulajdonában áll vagy azt magánszemély vette pénzügyi lízingbe, akkor az adókötelezettség annak a hónapnak az első napján keletkezik, ami követi azt a hónapot, amikor a személygépkocsi után a tulajdonos, illetve a lízingbe vevő költséget számolt el. Az adókötelezettség annak a hónapnak az utolsó napján szűnik meg, amelyben a magánszemély utoljára számol el költséget. 
+
+	
+
+	Ha például a magánszemély tulajdonos 2021 februárjától áprilisig számol el „tételes módszerrel” költséget a személygépkocsi után, akkor a személygépkocsi után az adókötelezettség március 1-jétől április utolsó napjáig, azaz két hónapon keresztül áll fenn. Ha a magánszemély 2021 júniusában újra számol el költséget a személygépkocsijával kapcsolatosan, akkor 2021 július 1-jétől a cégautóadó-kötelezettség újra kezdődik. Az adóalany mindvégig a tulajdonos. 
+
+	
+
+	Ha a magánszemély tulajdonos, pénzügyi lízingbe vevő a személygépkocsi használatát ellenérték fejében nem magánszemélynek engedi át és a használó költséget számol el (például a bérleti díjat), akkor az adókötelezettség a személygépkocsi használatra való átengedését követő hónap első napján keletkezik. Az adó alanya a tulajdonos magánszemély. Az adókötelezettség annak a hónapnak az utolsó napján szűnik meg, amelyben a személygépkocsi után a bérbe vevő utoljára számol el költséget, például amikor a bérleti jogviszony megszűnik. 
+
+	
+
+	Ha a személygépkocsi használatának átengedése ingyenesen vagy másik magánszemély részére ellenérték fejében történik, és a költséget a személygépkocsi után nem a magánszemély tulajdonos, illetve pénzügyi lízingbe vevő számolja el, akkor az adókötelezettség annak a hónapnak az első napján keletkezik, amelyet megelőző hónapban a költségelszámolás ténylegesen megtörtént. 
+
+	
+
+	Ha a személygépkocsi után a költséget nem a magánszemély tulajdonos, illetve a pénzügyi lízingbe vevő számolja el, akkor a költség első ízben való elszámolásának tényéről és időpontjáról a használó, 8 napon belül a tulajdonost, illetve pénzügyi lízingbe vevőt köteles írásban értesíteni. Ha ezt a nyilatkozattételt elmulasztja, akkor egy esetleges adóvizsgálat által megállapított adóhiányt a használó köteles megfizetni. 
+
+	
+
+Arra az esetre, ha a költséget magánszemély számolja el, a költség elszámolásának napja 
+
+az a nap, amikor a költségről szóló bizonylatot kiállították, vagy 
+
+az, amit az útnyilvántartásba a gépjármű használatával összefüggésben bejegyeztek, 
+
+értékcsökkenési leírás elszámolása esetén - ha az átalányban történik - a személygépkocsi használatbavételének napja, 
+
+az értékcsökkenési leírás megkezdésétől a teljes leírásig terjedő időszak minden hónapjának első napja.
+
+	
+
+	4.3. Hatósági nyilvántartásban nem szereplő személygépkocsi
+
+	
+
+	A hatósági nyilvántartásban nem szereplő (külföldi rendszámú) személygépkocsi után az adókötelezettség annak a hónapnak az első napján keletkezik, ami követi azt a hónapot, amikor a személygépkocsi után költséget számoltak el. Az adókötelezettség annak a hónapnak az utolsó napján szűnik meg, amikor a személygépkocsi után a használó utoljára számolt el költséget.
+
+	
+
+	4.4. Adókötelezettséggel nem járó esetek
+
+	
+
+	A kifizető által a magánszemély tulajdonában levő személygépkocsi hivatalos használatára tekintettel kifizetett, és személyi jellegű egyéb ráfordításként elszámolt költségtérítés sem a kifizetőnél, sem a magánszemélynél nem keletkeztet cégautóadó-fizetési kötelezettséget, feltéve, hogy a magánszemély nem számol el tételesen személygépjármű-használattal kapcsolatos költséget. 
+
+	
+
+		Nem keletkeztet cégautóadó-fizetési kötelezettséget az sem, ha a magánszemély tulajdonában álló személygépkocsi után kizárólag a kiküldetési rendelvény alapján hivatali, üzleti utazás költségtérítése címén a teljesített kilométer-távolság (futásteljesítmény) figyelembevételével az utazásra kifizetett összeg nem haladja meg a jogszabályban meghatározott, igazolás nélkül elszámolható mértéket. Az Szja tv. 3. számú mellékletének II/6. pontja alapján igazolás nélkül elismert költségnek minősül a kifizető által a magánszemélynek a saját személygépkocsi használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett távolság szerint az üzemanyag-fogyasztási norma és legfeljebb a NAV által közzétett üzemanyagár, valamint a 15 Ft/km általános személygépkocsi-normaköltség alapulvételével kifizetett összeg. 
+
+		
+
+		A kiküldetési rendelvény alapján bevételnek nem számító költségtérítésben figyelembe vett futásteljesítményt az egyébként kötelezően vezetett útnyilvántartásban nem lehet hivatali (üzleti) utazásnak tekinteni.
+
+		
+
+		A kiküldetési rendelvényt a kifizetőnek két példányban kell kiállítania: az eredeti példányt a kifizetőnek, a másolatát a magánszemélynek kell az adó megállapításához való jog elévüléséig megőriznie. A bizonylaton fel kell tüntetni a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányát, típusát, forgalmi rendszámát, a hivatali, üzleti utazás célját, időtartamát, útvonalát, futásteljesítményét, az utazás költségtérítését, az élelmezési költségtérítést. A költségtérítések kiszámításához szükséges adatokat (az üzemanyag-fogyasztási normát, az üzemanyagárat stb.) is rögzíteni kell. 
+
+A kiküldetési rendelvényt elektronikus úton is ki lehet állítani. 
+
+
+
+Ha a kiküldetési rendelvény alapján kifizetett költségtérítés összege meghaladja a jogszabályban meghatározott, igazolás nélkül elszámolható mértéket, akkor a kifizető – ha a magánszemély nem nyilatkozik a költségelszámolási szándékáról – a kifizetéskor a bevételnek nem számító részt meghaladó többlettérítésből személyijövedelemadó-előleget von le. Ilyenkor (feltéve, hogy a magánszemély később sem számol el tételesen költséget) a magánszemélynek nem keletkezik cégautóadó fizetési kötelezettsége. 
+
+Ha az előzőek szerint kifizetett és igazolt bevételével szemben a magánszemély utóbb (az adóbevallásban) mégis tételes költségelszámolással állapítja meg a kapott költségtérítés jövedelemtartalmát, akkor emiatt utólagosan és visszamenőlegesen keletkezik cégautóadó-fizetési kötelezettsége minden olyan hónapra, amelyet a költségelszámolás érint, de ezt már csak késedelmi pótlékkal növelten tudja teljesíteni. 
+
+
+
+Nincs akadálya annak sem, hogy a magánszemély a kifizetéskor az adóelőleg-levonásra vonatkozó rendelkezések szerint költségelszámolásra vonatkozó olyan nyilatkozatot adjon a kifizetőnek, miszerint a kapott bevétellel, mint költségtérítéssel szemben részben vagy egészben útnyilvántartás és az igazolt kiadásai alapján tételesen kívánja elszámolni a költségeit, mert például több igazolt kiadása lesz, mint az igazolás nélkül elismert költség. Ekkor a kifizetőnek csak a nyilatkozat szerint elszámolni kívánt összeget meghaladó bevételrészből kell adóelőleget levonnia. Ebben az esetben a magánszemély önadózó lesz, személyijövedelemadó-bevallást kell benyújtania, amiben a teljes költségtérítést a bevételei között szerepeltetnie kell, és abból az elismert költségek levonhatók. Továbbá cégautóadót is fizetnie kell azokra a hónapokra, amelyekben tételesen költséget számolt el. 
+
+
+
+		Nem keletkezik cégautóadó-fizetési kötelezettség akkor sem, amikor költségtérítés címén (ideértve például a saját gépjárművel történő munkába járás költségtérítését is) a munkában töltött napokra vagy a hazautazásra a munkahely és a lakóhely között közforgalmi úton mért oda-vissza távolság figyelembe vételével kilométerenként legfeljebb 15 forintot kap a magánszemély. A 15 forint fölötti rész munkaviszonyból származó jövedelemnek (ezen belül bérnek) minősül, amellyel szemben költség nem számolható el, így többlet-költségtérítéssel kapcsolatosan cégautóadó-fizetési kötelezettség sem keletkezik. 
+
+		
+
+		A járművezető-képzési tevékenységet folytató munkáltató, valamint társaság vele munkaviszonyban, illetve tagsági viszonyban álló szakoktatójának a saját tulajdonú járműve gyakorlati oktatási célú használatáért a kormányrendeletben meghatározott költségtérítést fizetheti. A járművezető-oktató saját járműve oktatási célú használatáért a külön jogszabályban meghatározott üzemanyag-felhasználási ellenérték és a kormányrendelet 2. §-ának (1) bekezdésében szereplő táblázat szerinti költség összegében megállapított költségtérítést vehet igénybe. 
+
+		Tekintve, hogy az oktatási tevékenységet munkavállalói vagy vállalkozási jogviszonyban ellátó oktatók mindezek alapján – a járművezető oktatással összefüggésben – tételes költségelszámolással a személygépkocsijuk után költséget nem számolnak el, ezen személygépkocsit cégautóadó-fizetési kötelezettség nem terheli abban az esetben, ha a jármű után a kormányrendeletben szabályozott „átalányon” túl egyéb költséget senki  nem számol el.
+
+		
+
+		4.5. Összefoglaló a cégautóadó kötelezettségről
+
+		
+
+ 
+
+Adókötelezettség fennállása
+
+Az adó alanya
+
+Adókötelezettség keletkezése
+
+Adókötelezettség megszűnése
+
+Hatósági nyilvántartásban szereplő (magyar rendszámú) személygépkocsi 
+
+Nem magánszemély tulajdonában álló, általa pénzügyi lízingbe vett
+
+Minden esetben adóköteles
+
+A tulajdonos
+
+A megszerzést követő hónap 1. napjával.
+
+Azon hónap utolsó napjával, amelyben a járművet elidegenítik, megsemmisül.
+
+Magánszemély tulajdonában álló,  általa pénzügyi lízingbe vett
+
+Költségelszámolás esetén adóköteles 
+
+A tulajdonos
+
+Annak a hónapnak az első napján, amelyet megelőző hónapban költséget számoltak el
+
+Azon hónap utolsó napjával, amelyben a járműre utoljára költséget elszámoltak el.
+
+Hatósági nyilvántartásban nem szereplő személygépkocsi 
+
+Nem magánszemélynél
+
+Költségelszámolás esetén adóköteles 
+
+Költségelszámoló
+
+Annak a hónapnak az első napján, amelyet megelőző hónapban költséget számoltak el
+
+Azon hónap utolsó napjával, amelyben a járműre utoljára költséget elszámoltak el.
+
+Magánszemélynél
+
+Költségelszámolás esetén adóköteles 
+
+Költségelszámoló
+
+Annak a hónapnak az első napján, amelyet megelőző hónapban költséget számoltak el
+
+Azon hónap utolsó napjával, amelyben a járműre utoljára költséget elszámoltak el.
+
+		
+
+		Adómentesség
+
+
+
+	Mentes az adó alól a különös méltánylást érdemlő személygépkocsi is, a következők szerint: 
+
+	amelyet a jogszabály előírásainak megfelelően megkülönböztető jelzést adó készülékkel szereltek fel;
+
+	amelyet az egyházi jogi személy elsődlegesen vallási vagy azzal közvetlenül összefüggő más tevékenysége ellátásához üzemeltet;
+
+	amelyet a személygépkocsi-kereskedelemmel üzletszerűen foglalkozó személy vagy szervezet kizárólag továbbértékesítési céllal szerzett be;
+
+	amely kizárólag halottszállításra szolgál;
+
+	amelyet a betegségmegelőző vagy gyógyító céllal, szociális céllal, az egészségkárosodott, hátrányos helyzetűek segítésére létrehozott alapítvány, közalapítvány, egyesület, köztestület, nonprofit gazdasági társaság kizárólag - a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti - súlyosan fogyatékos magánszemély(ek), vagy a magasabb összegű családi pótlékra jogosító látási, hallási, értelmi, mozgásszervi fogyatékos vagy autista magánszemély(ek) rendszeres szállítására üzemeltet, ha működési szabályzatából, gazdálkodásából - az összes körülmény figyelembevételével - egyértelműen megállapítható, hogy az üzemeltetés ténylegesen az említett cél érdekében történik,
+
+	amelyet kizárólag az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 5. § (1) bekezdése vagy 16. §-a szerinti tevékenység ellátása érdekében, valamint az egészségügyi államigazgatási szerv törvény alapján kizárólag betegségmegelőző, gyógyító, egészségkárosodást csökkentő közegészségügyi, járványügyi és egészségvédelmi alapfeladatának ellátása érdekében üzemeltetnek,
+
+amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltetet;
+
+amely törvényes öröklés eredményeként a magyar állam tulajdonában áll, azon hónap utolsó napjáig, melyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
+
+
+
+Az adó mértéke
+
+
+
+Az adó havi mértéke személygépkocsinként, a személygépkocsi kW-ban kifejezett teljesítménye és környezetvédelmi osztályjelzése alapján a következő:
+
+ 
+
+ Környezetvédelmi osztály-jelzés
+
+ gépjármű hajtómotorjának teljesítménye (kW)
+
+ „0”-„4” osztályjelzések esetén
+
+ „6”-„10” osztályjelzések esetén
+
+ „5”; „14-15” osztályjelzések esetén
+
+ 0-50
+
+ 16 500 Ft
+
+ 8 800 Ft
+
+ 7 700 Ft
+
+ 51-90
+
+ 22 000 Ft
+
+ 11 000 Ft
+
+ 8 800 Ft
+
+ 91-120
+
+ 33 000 Ft
+
+ 22 000 Ft
+
+ 11 000 Ft
+
+ 120 felett
+
+ 44 000 Ft
+
+ 33 000 Ft
+
+ 22 000 Ft
+
+	
+
+ A kétszeres adózás kizárása
+
+
+
+A negyedévre fizetendő cégautóadóból levonható a személygépkocsi után az adóalany terhére aNAV által megállapított gépjárműadó a negyedév azon hónapjaira, amelyben a személygépkocsi utáni cégautóadó-, gépjárműadó-kötelezettsége egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó fizetési kötelezettségének határidőben eleget tett.
+
+
+
+	Ha a két adó megfizetésére két különböző személy kötelezett, akkor a levonás nem érvényesíthető.
+
+	
+
+	A fenti rendelkezés értelmében a gépjárműadó cégautóadóba történő beszámítása csak a két feltétel együttes fennállása esetén lehetséges. Tehát az adóalany az általa megfizetett gépjárműadót csak azon hónapokra eső cégautóadóból vonhatja le, amely hónapokban az adókötelezettsége ugyanazon gépjárműre mindkét adónemben fennállt. Másrészt a levonhatósághoz az is szükséges, hogy gépjárműadó-fizetési kötelezettségének az adóalany határidőben eleget tegyen.
+
+	
+
+	Ez azonban nem jelenti törvényszerűen azt, hogy csak azon adózók élhetnek a gépjárműadó beszámításának lehetőségével, akik azt 2021-ben április, illetve szeptember 15-igfizetik meg. Előfordulhat ugyanis, hogy valamely, az adózó hibájára vissza nem vezethető okból a cégautóadó-bevallás benyújtásakor a bevallással érintett hónapokra eső gépjárműadó megfizetésére még nem került sor (például a gépjárműadó-határozat későbbi kiadása miatt az adót még az említett időpontig nem tudta megfizetni). Ebben az esetben tehát nem esik el a gépjárműadó-kötelezettségét jogszerűen (azaz a NAV által előírt esedékességi időpontig) teljesítő adózó a gépjárműadó-beszámítás lehetőségétől. Az érintett hónapokra eső cégautóadóról szóló bevallását ebben az esetben önellenőrzéssel helyesbítheti.
+
+	
+
+	A késedelmesen megfizetett gépjárműadó sem utólag, sem a késedelmes befizetést követően esedékes cégautóadóból nem vonható le. 
+
+	
+
+	Nemzeti Adó- és Vámhivatal
+
+4

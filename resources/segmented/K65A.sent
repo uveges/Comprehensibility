@@ -1,0 +1,9 @@
+Tájékoztatás ÁNYK program működésével kapcsolatban Tájékoztatjuk Ügyfeleinket, hogy az ÁNYK űrlapkitöltő a Java környezet 1.8.0 291-es verziójával nem megfelelően működik.
+Az ÁNYK program működésének módosítása folyamatban van.
+Amennyiben az ÁNYK programból kíván nyomtatványt beküldeni, a módosított ÁNYK verzió interneten történő megjelentetéséig a Java fent említett verziójának letöltését nem javasoljuk.
+A módosított ÁNYK program kiadásáig az alábbi kerülő utakat tudjuk javasolni a nyomtatványok beküldésére azon ügyfelek számára, akik letöltötték a 1.8.0_291 java verziót.
+A NAV honlapjáról (  ) töltse le az  abevjava_install_oracle_jre.exe telepítő programot.
+Ez a program az Általános Nyomtatványkitöltő Program (ÁNYK) legfrissebb verzióját, és a használatához szükséges ingyenes java futtatókörnyezetet (Oracle JRE v1.8.0_202) telepíti a számítógépére.
+Ennek a java környezetnek a használatával be tudja küldeni a megszokott módon a nyomtatványokat.
+Távolítsa el a gépéről a java 1.8.0_291-es környezetet és térjen vissza az előzőleg használt Java verzióhoz, amennyiben lehetősége van rá.
+Oracle honlapján még a legfrissebb java verzióként a java 1.8.0_281 szerepel, ami le is tölthető az alábbi elérhetőségen.  Lépjen be a tárhely szolgáltatásba és töltse fel a beadandó kr állományát. 

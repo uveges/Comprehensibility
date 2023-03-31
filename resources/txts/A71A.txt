@@ -1,0 +1,84 @@
+v1.0 (2021-10-21)
+
+		TERVEZET
+
+Iktatószám: ………..
+
+Tisztelt Szoftverfejlesztő (Példa Kft.)!
+
+Ezt a levelet azért kapta, mert az Ön által fejlesztett számlázóprogram(ok)ból 2021 szeptemberébenszámos sikertelen adatszolgáltatási kísérletet regisztrált az Online Számla rendszer.
+A szoftverfejlesztői érintettség a softwareDevTaxNumber (a számlázóprogram fejlesztőjének adószáma) elem alapján volt azonosítható. 
+
+Ezúton tájékoztatjuk, hogy a NAV az érintett adózókat (az Ön ügyfeleit) a következő napokban értesíti a 2021 szeptemberében észlelt sikertelen adatszolgáltatási kísérleteikről, és arra kéri őket, hogy a hibák elhárítása érdekében vegyék fel a kapcsolatot az adatszolgáltatásra használt számlázóprogramjuk fejlesztőjével. Az értesítésben felhívjuk az ügyfelek figyelmét, hogy a tájékoztatásban foglalt hibák nem feltétlenül programhibából erednek.
+
+Azok az adózók kapnak értesítést az elektronikus tárhelyükre, akik esetében nagyobb számban fordultak elő sikertelen manageInvoice műveletek 2021 szeptemberében. 
+
+Kérjük, működjön együtt az Ön által fejlesztett számlázóprogramot használó adózókkal, segítse a hibák okainak feltárását és a hibák elhárítását. 
+
+Az 1. számú mellékletben megtalálja az Ön által fejlesztett számlázóprogram(ok)ból küldött sikertelen számlaadat-szolgáltatások statisztikáját, ami szoftverazonosítónként (softwareID) és hibakódonként tartalmazza az adott hiba előfordulásainak és az érintett adózók számát. Az érintett adózók kilétére vonatkozó információk adótitoknak minősülnek, azokról nem adhat bővebb felvilágosítást a NAV. 
+
+Javasoljuk, hogy mielőbb intézkedjen az esetleges szoftverhibák vagy -hiányosságok feltárásáról és javításáról. A NAV legközelebb 2022 januárjában vizsgálja meg az érintett adózók adatszolgáltatásainak sikerességét (a decemberi adatok alapján). 
+
+Kérjük, vegye figyelembe a szoftverek kialakításához összeállított NAV-ajánlást a programok működésének áttekintésénél.
+
+Ez a levél az Ön tájékoztatását szolgálja, kérjük, ne válaszoljon rá! 
+
+Ha a hibákat már észlelte, és a szükséges intézkedéseket is megtette, jelzésünket tekintse tárgytalannak. 
+
+Köszönjük, hogy a levelünkben foglaltakkal kapcsolatban együttműködik a számlázóprogramját használó adózókkal! 
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+
+1. melléklet
+
+
+
+Az értesített adózók 2021. szeptemberi adatszolgáltatásaiban előforduló sikertelen manageInvoice műveletek által érintett szoftverazonosítók (softwareID), a hibakód, az előfordulások összesített darabszáma, valamint az érintett adózók száma ott, ahol a softwareDevTaxNumber értéke az Ön adószámának első nyolc számjegye.
+
+
+
+
+
+Érintett sortwareId
+
+Hibakód
+
+Előfordulás
+(db)
+
+Érintett adózó (db) 
+
+HU51042446000009
+
+INVALID_EXCHANGE_TOKEN
+
+1
+
+1
+
+HU51042446000009
+
+INVALID_INVOICE_REFERENCE
+
+  435 941 
+
+3
+
+HU51042446000009
+
+SUPPLIER_TAX_NUMBER_MISMATCH
+
+208 801
+
+1 
+
+HU51042446000011
+
+INVALID_EXCHANGE_TOKEN
+
+5 200
+
+2

@@ -1,0 +1,101 @@
+Gyakran Ismételt Kérdések
+
+
+
+Pontosan mi változik 2021. július 1-jét követően, ha külföldről rendelek?
+
+2021. július 1-jétől az Európai Unión kívülről érkező 22 eurót meg nem haladó értékű áruk áfamentessége megszűnik. Ez azt jelenti, hogy értéktől függetlenül áfát kell fizetni a termékek után, és azokra minden esetben írásbeli vám-árunyilatkozatot kell benyújtani a NAV felé. 
+
+A július 1-jei dátum mire vonatkozik? A rendelés leadására vagy a csomag beérkezésére? 
+
+A 2021. július 1-jén vagy azt követően Magyarországra érkező és vámeljárás alá vont termékek után kell áfát fizetni. A megrendelés időpontja ebből a szempontból nem releváns.
+
+Kinek kell benyújtania a vám-árunyilatkozatot?
+
+A vám-árunyilatkozatot a postai vagy gyorspostai szolgáltató, vagy a címzett maga is benyújthatja. 
+
+Mi a teendőm, ha én szeretném benyújtani a vám-árunyilatkozatot?
+
+Erre a NAV által kialakításra kerülő webes bejelentő felületen lesz lehetősége, azonban erről a szándékáról a küldeményt szállító szolgáltatót (pl. Magyar Posta, gyorsposták) előzetesen értesítenie kell. A felületen a vám-árunyilatkozat benyújtására ügyfélkapus azonosítással, a postai küldeményazonosító (ragszám) birtokában, a küldemény Magyarországra érkezését követően nyílik lehetőség, de az előzetesen rögzített adatokat tervezetként ezt megelőzően is elmentheti. A felületen a termékkel és a vásárlással kapcsolatos adatok megadását követően a kiszabott áfát is meg tudja fizetni. A fizetést követően a küldeményt a szállító kézbesítheti önnek. Fontos azonban tudni, hogy a szállítást végző szolgáltató ebben az esetben is felszámíthat bizonyos díjakat, melyeket a küldemény kézbesítésekor kell megfizetnie. Ezekről a díjakról a szolgáltató weboldalán érdemes tájékozódni.
+
+Mi a teendőm, ha a szolgáltató (pl. a Magyar Posta) nyújtja be a vám-árunyilatkozatot?
+
+Ha előzetesen nem értesítette a szolgáltatóját arról, hogy a küldeményre saját maga szeretné a vám-árunyilatkozatot benyújtani, akkor a szolgáltató a küldeményt automatikusan levámkezelteti. A kiszabott áfát és a szolgáltató által felszámított szolgáltatási díjakat legkésőbb a küldemény kézbesítésekor kell megfizetnie. A szolgáltatási díjakról a szolgáltató weboldalán érdemes tájékozódni.
+
+Mennyi áfát kell fizetnem? 
+
+Az általános forgalmi adó a termék vételára és az esetleges szállítási költség alapján kerül megállapításra. Az általános forgalmi adóról szóló 2007. évi CXVII. törvény szerint a fizetendő áfa a főszabály szerint 27%, egyes estekben ettől alacsonyabb is lehet. 
+
+Vámot is kell fizetnem a külföldről rendelt küldemények után?
+
+A 150 eurót meg nem haladó belső értékű küldeményekre a vámmentesség 2021. július 1-jét követően változatlanul fennáll. Fontos tudni, hogy ez a vámmentesség nem vonatkozik a jövedéki termékekre (például az alkohol tartalmú termékekre, dohánytermékekre), valamint a parfümökre és kölnivizekre. Ezekre a termékekre, valamint a 150 eurót meghaladó értékű áruk után a Kereskedelmi Vámtarifa alapján számított vámot is fizetni kell.
+
+Létezik-e olyan hivatalos kalkulátor, amellyel könnyen kiszámíthatók az adott rendelés esetén várható áfa- és vámterhek?
+
+A TARIC web szolgáltatás honlapján (elérhetősége: http://kkk.nav.gov.hu/eles/1/taricweb/) a vámtarifaszám, az időpont és a származási hely ismeretében lekérdezhetők az alkalmazandó vám- és adótételek. 
+
+Milyen módon fizethetem meg a kiszabott összeget? 
+
+A fizetés mind bankkártyával, mind átutalással lehetséges.
+
+Meg kell-e fizetni a kiszabott áfát, ha annak összege 10 euró alatti? 
+
+Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. tv. 162. § (5) pontja alapján a 10 euró alatti áfa összeget 2021. június 30-ig nem veti ki a NAV a vámeljárás során. 2021. július 1-jétől a 150 eurót meg nem haladó belső értékű vámmentes küldemények vámeljárása során ez a rendelkezés már nem alkalmazandó, azaz a NAV a 10 euró alatti áfa összeget is kiveti.
+
+Hogyan kell meghatározni egy küldemény belső értékét?
+
+Az alábbiakban több példát mutatunk be a belső érték meghatározásának módjára.
+
+1. példa: A számla a termékekért fizetett ár teljes összegét tartalmazza, a termék nettó ára és a fuvardíj szerinti bontás nélkül.
+
+A termékek számla szerinti ára: 140 EUR
+
+Ebben a példában a szállítási költségeket a számla külön nem tartalmazza. A termékek nettó ára azonban nem haladja meg az 150 eurót, ezért a behozatalkor nem kerül sor vám felszámítására, de áfát fizetni kell.
+
+2. példa: A számla a termékekért fizetett ár teljes összegét tartalmazza, a termék nettó ára és a fuvardíj szerinti bontásban.
+
+A termékek számla szerinti ára: 140 EUR
+
+A számlán feltüntetett szállítási díjak: 20 EUR
+
+A számla végösszege: 160 EUR
+
+Ebben a példában a szállítási költségeket a megrendelés/számla elkülönítve tartalmazza. Így a szállítási költség a belső értéknek nem része. A termékek belső értéke nem haladja meg a 150 eurót, ezért a behozatalkor nem kerül sor vám felszámítására, de áfát fizetni kell. Megjegyzendő, hogy az áfát az értékesítés összértéke (vagyis a termék értékét és a szállítási díjat is magában foglaló 160 euró) után kell felszámítani.
+
+A megrendeléskor kaptam egy IOSS azonosító számot. Mit jelent ez?
+
+Abban az esetben kap ilyen IOSS azonosító számot, ha az import áfát már a vásárláskor felszámította az erre feljogosított értékesítő, és ön azt a termék vételárával együtt megfizette. A vámeljárás során ezzel a számmal tudja igazolni, hogy az áfát már megfizette, így a NAV nem fogja újból kiszabni azt a vámkezelés során.
+
+Az IOSS alkalmazása esetén kinek kell ellenőriznie az értékesítéskor alkalmazott áfamérték helyességét?
+
+Az IOSS-ben regisztrált értékesítő vagy elektronikus felület feladata, hogy az érintett fogyasztás szerinti tagállamban (tehát pl. Magyarországon) az értékesítésre a helyes áfamérték alkalmazásával felszámítsa az áfát. A fogyasztás helye szerinti tagállamnak kell ellenőriznie az IOSS bevallásban bejelentett áfakulcsok helyességét.
+
+Mi történik az IOSS alkalmazásában, ha egyetlen elektronikus felületen keresztül egyetlen tételben 150 eurót meghaladó értékű terméket rendelek, de a termékeket ugyanazon elektronikus felületet használatával különböző értékesítők értékesítik?
+
+Minden egyes elsődleges értékesítő az elektronikus felület számára értékesíti termékeit, és azokat az uniós vevő részére a felület értékesíti. Következésképpen a megrendelésben érintett minden egyes értékesítő általi eladás külön termékértékesítésnek minősül, amelyet rendes körülmények között külön-külön küldeményben adnak fel/fuvaroznak. Ebben az esetben az egyes elsődleges értékesítők által teljesített termékértékesítéseket akkor lehet az IOSS keretében bejelenteni, ha küldeményenként a belső érték nem haladja meg a 150 eurót. Amennyiben az elsődleges értékesítő által teljesített termékértékesítések belső értéke küldeményenként meghaladja a 150 eurót, az IOSS nem használható.
+
+Mi történik, ha az Európai Unió valamelyik tagállamából, vagy valamely online platform európai raktárából rendelek? 
+
+Alapesetben, amennyiben az Európai Unión belülről történik a vásárlás, akkor nem kell import áfát és vámot fizetni. Ha azonban az áru úgy van egy másik tagállambeli raktárban, hogy annak vámkezelése (szabad forgalomba bocsátása) még nem történt meg, akkor az estleges vámot és az áfát meg kell fizetni. Ez a vásárló részére nem feltétlenül jelent külön megjelenített fizetési kötelezettséget, mert ezeket a díjakat jellemzően a vételárba beépítve fogja megfizetni.
+
+Észak-Írország az EU részének minősül? 
+
+Észak-Írországban az Európai Unió vámjogszabályait kell alkalmazni, így vámfizetési kötelezettség és vámalakiságok nem merülnek fel az Észak-Írország és az Európai Unió közötti áruforgalomban.
+
+Bármilyen terméket megrendelhetek?
+
+A 150 eurót meg nem haladó értékű küldemények esetén a vámhatóság kockázatelemzés alapján fogja kiszűrni a tiltott termékeket (például gyógyszert, kábítószert, fegyvert, robbanószert) tartalmazó küldeményeket, mert ezeket csak külön engedély birtokában lehet az Európai Unió területére behozni. 
+
+Ajándék küldemény esetén mi a teendőm?
+
+Ha nem vásárolta az Európai Unión kívülről érkező küldeményben lévő árukat, hanem ajándékba kapta azokat, akkor azok behozatala 45 euró értékig vám- és áfamentes. A mentesség feltétele, hogy a küldeményt egy harmadik országbeli magánszemély ellenszolgáltatás nélkül küldi önnek, mint magánszemélynek, a termékek kizárólag saját és családi felhasználásra szolgálnak, és a küldemény nem tartalmazhat jövedéki terméket (például alkohol tartalmú terméket vagy dohányterméket). A 45 eurót meg nem haladó értékű ajándék-jellegű küldemények vám- és áfa mentessége a feltételek teljesülése esetén 2021. július 1-jét követően nem változik, azonban a vámmentes vámkezelés feltételeinek vizsgálata érdekében ezekre a küldeményekre szintén vám-árunyilatkozatot kell benyújtani. Ha ajándék küldeményére ön nyújt be vám-árunyilatkozatot a NAV webes felületén, akkor ajándékozási nyilatkozatot kell csatolnia a feltételek igazolására.
+
+Mennyi idő alatt kapom meg a küldeményemet?
+
+A vámhatóság a postai küldemények vámkezelését a vám-árunyilatkozat benyújtását követően általában néhány perc alatt elvégzi, ha nincs szükség okmány- és/vagy fizikai áruvizsgálatra. A kiszállítási idő ezt követően a szállítást végző szolgáltató logisztikai folyamatainak függvénye. Általánosságban elmondható, hogy várhatóan azon küldemények kiszállítása, kézbesítése lesz a leggyorsabb, melyekre az áfát az IOSS alkalmazásával – vagyis a vásárlással egyidőben – megfizetik. Ha nem ön nyújtja be a vám-árunyilatkozatot, hanem a szállítást végző szolgáltató, akkor a szállítmányozó fogja meghatározni azt az időintervallumot, melyen belül az áfa megfizethető. Az áfa megfizetését legkésőbb a küldemény kézbesítésekor kell teljesíteni.
+
+Mi történik, ha nem értek egyet a szolgáltató által közölt fizetendő összeggel?
+
+Ha a vám-árunyilatkozatot a szállítást végző szolgáltató nyújtotta be, és a 45 eurónál alacsonyabb értékű ajándék küldeménye után tévesen áfafizetési kötelezettsége jelentkezett, ezt a szolgáltató felé a szolgáltató által meghatározott módon jelezheti.
+
+Azokat a küldeményeket, amelyek után az áfát vagy a szolgáltatási díjakat nem fizeti meg a vevő, a szállítmányozó visszaküldi a feladónak.

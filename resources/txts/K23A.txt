@@ -1,0 +1,84 @@
+1. Mi a módja a fizetési kedvezmény kérelmezésének? Van-e speciális szabály, eljárás, igazolási forma arra az esetre, ha a fizetési nehézség a járványügyi helyzet miatt alakult ki?
+
+Fizetési kedvezmény iránti kérelmet az elektronikus kapcsolattartásra kötelezett jogi személy és egyéb szervezet a FAG01, az egyéni vállalkozók pedig a FAM01 űrlapon terjeszthet elő. Az űrlapok az alábbi útvonalon érhetők el:
+
+ 
+
+Az elektronikus kapcsolattartásra nem kötelezett adózóknak is van lehetőségük arra, hogy az űrlapokon az Ügyfélkapun keresztül, elektronikusan küldjék be a kérelmüket, vagy dönthetnek a papíralapú előterjesztés mellett is, levélformában vagy a NAV honlapján az „Adatlapok fizetési könnyítésre és/vagy mérséklésre irányuló kérelmek elbírálásához" menüpontban elérhető adatlap kitöltésével, az alábbi elérési útvonalon:
+
+ 
+
+A papíralapú kérelmet a lakóhely, tartózkodási hely, illetve a székhely, telephely szerint illetékes NAV-igazgatósághoz címezve kell előterjeszteni.
+
+Azt, hogy a fizetési nehézség a járványügyi helyzet miatt alakult ki, bizonyítja egyrészt a tartozás keletkezésének időpontja, másrészt a természetes személy kérelmezőnek a veszélyhelyzet elrendelését megelőző és követő jövedelmi és vagyoni helyzetének, illetve a gazdálkodási tevékenységet folytató kérelmezőnek a veszélyhelyzet elrendelését megelőző és követő gazdálkodási adatainak összehasonlítása.
+
+A 318/2021. (VI. 9.) Korm. rendelet 2-3. §-aiban átmenetileg az Art. 198. és 200. §-aiban foglalt általános szabályaitól eltérő fizetés kedvezmények engedélyezését is lehetővé teszi. 
+
+A NAV egy alkalommal
+
+•	legfeljebb 5 millió Ft összegű adóra maximum 6 havi fizetési halasztást vagy 12 havi részletfizetést engedélyez pótlékmentesen, 
+
+•	nem természetes személy adózó adótartozását, egy adónem tekintetében legfeljebb 20 százalékban, maximum 5 millió Ft összeghatárig mérsékeli, 
+
+ideértve a levont jellegű kötelezettségeket is.
+
+Fontos, hogy ha az adózó ilyen kedvezményt szeretne kérni, akkor kérelmet kell előterjeszteni és a kérelem benyújtásával egyidejűleg igazolnia kell, hogy
+
+•	a fizetési nehézsége a veszélyhelyzetre vezethető vissza,
+
+•	a mérséklés esetében pedig azt, hogy tevékenysége a veszélyhelyzetre visszavezethető okok miatt lehetetlenülne el.
+
+Az ilyen típusú kérelem 2021. december 31-ig terjeszthető elő illetékmentesen, az általános szabályok szerint.
+
+
+
+2. Ha az adott vállalkozás a járvány alatt teljesen fizetésképtelenné válik, jogosult lesz-e valamilyen kedvezményre, élhet-e méltányossági kérelemmel?
+
+Az egyéni vállalkozó, a jogi személy vagy egyéb szervezet kérelmére a bírság- vagy pótléktartozás mérsékelhető, ha annak megfizetése gazdálkodási tevékenységét ellehetetlenítené. Tehát a mérséklés akkor engedélyezhető, ha a racionális gazdálkodási körülmények ezáltal helyreállíthatók. Azonban nincs lehetőség a tőke-, illetve adótartozás mérséklésére, továbbá nincs helye a mérséklésnek, ha a gazdálkodási tevékenység már ellehetetlenült.
+
+Ha a vállalkozás átmeneti fizetési nehézséggel küzd, akkor lehetősége van fizetési halasztást kérni, illetve akár arra is, hogy a halasztást követően részletekben tegyen eleget fizetési kötelezettségének.
+
+Ha a gazdálkodó szervezet átmeneti fizetési nehézséggel küzd és más hitelezőknek is tartozik, azonban gazdasági helyzetét tekintve van reális esélye annak, hogy idővel gazdálkodását rendbe tudja hozni és képes lesz tovább működni, indokolt lehet csődvédelmet kérnie. A csődeljárás célja, hogy az adós cég a hitelezőivel egyezséget kötve elkerülje a fizetésképtelenséget, és tovább tudjon működni. A csődeljárás elrendelése iránti kérelem benyújtásával már ideiglenes moratórium, azaz fizetési haladék illeti meg a gazdálkodó szervezetet, vele szemben végrehajtás nem indítható. Lényeges, hogy a fizetési haladék bizonyos kifizetések alól nem mentesít. A NAV viszonylatában ilyen a kifizetett munkabéreket terhelő adó és járulék, valamint az áfa, a jövedéki adó és a termékdíj. A fizetési haladékkal nem érintett, a NAV által végrehajtás alá vont tartozásokra végrehajtási eljárás felfüggesztését lehet kérni.
+
+
+
+3. Mi a fizetési kedvezmény kérelmezésének menete, illetve kérhető-e a 10 ezer forint eljárási illeték elengedése, ha ennek megfizetése is terhet jelent a vállalkozásnak?
+
+Fizetési kedvezmény iránti kérelmet az elektronikus kapcsolattartásra kötelezett jogi személyek és jogi személyiséggel nem rendelkező gazdálkodó szervezetek a FAG01, az egyéni vállalkozók pedig a FAM01 űrlapon terjeszthetnek elő. Az űrlapok az alábbi útvonalon érhetők el:
+
+https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok 
+
+2021. január 1-jétől már a gazdálkodó szervezetek, az egyéni vállalkozók és a magánszemélyek fizetési kedvezményre irányuló kérelme alapján folytatott elsőfokú eljárás is illetékmentes.
+
+
+
+
+
+
+4. A járványügyi helyzetre tekintettel mentesülhetnek-e vagy kaphatnak-e részletfizetési kedvezményt az egészségügyi szolgáltatási járulékra, illetve a személyi jövedelemadóra a magánszemélyek?
+
+Az ilyen kötelezettségeket az adózó kérelmére a NAV akkor mérsékelheti vagy engedheti el, ha azok megfizetése a magánszemély és a vele közös háztartásban élő hozzátartozók megélhetését súlyosan veszélyezteti. A részletfizetés engedélyezésének feltétele pedig a fizetési nehézség bizonyított fennállása és a részletek megfizetésének valószínűsíthetősége. A döntéshez a NAV vizsgálja az adózó és a közös háztartásban élő hozzátartozók jövedelmi, vagyoni körülményeit.
+
+Legfeljebb 1 000 000 forint adótartozásra évi egy alkalommal, legfeljebb 12 havi automatikus részletfizetést is kérhet az természetes személy adózó, aminek elbírálásakor a NAV a jövedelmi, vagyoni körülményeket nem vizsgálja.
+
+Ezen felül a személyijövedelemadó-bevallásban is egyszerűen jelölheti az adózó, hogy a 200 ezer forintot meg nem haladó személyi jövedelemadóját és szociális hozzájárulási adóját részletekben fizeti meg. Ebben az esetben legfeljebb 6 havi részlet engedélyezhető, amiből az elsőt a bevallás benyújtásának határidejéig, május 20-áig kell kiegyenlíteni.
+
+
+
+5. Számíthatnak-e arra a magánszemélyek, hogy az előző kérdésben említett közterheknél az állam automatikusan elengedi tartozásukat, illetve kérhetnek-e adómérséklést, elengedést?
+
+Nincs lehetőség bármely közteher automatikus elengedésére, megfizetése alóli mentesülésre. A NAV az adótartozás mérséklését, elengedését a magánszemély kérelmére akkor engedélyezheti, ha bizonyított, hogy annak megfizetése az adózó és a közös háztartásban élők megélhetését súlyosan veszélyezteti. A mérlegelés során a NAV vizsgálja az adózó és a közös háztartásban élő hozzátartozók jövedelmi, vagyoni körülményeit.
+
+
+
+6. A folyamatban lévő részletfizetését nem tudja az adózó a járványügyi helyzet miatt tovább teljesíteni. Vonatkozik-e rá a kormány által kihirdetett moratórium, illetve kérhet-e újabb kedvezményt?
+
+A kormány által kihirdetett moratórium nem vonatkozik az adó- és köztartozásokra engedélyezett fizetési könnyítésekre. A NAV azonban továbbra is figyelembe veszi, ha a járvány miatt nehéz helyzetbe került adózók a folyamatban lévő és a veszélyhelyzet kihirdetéséig egyébként teljesített részletfizetését nem tudja tovább fizetni. Ebben az esetben újabb fizetési kedvezményi kérelemmel fordulhat a NAV-hoz. Kérelme alapján a még fennálló hátralékára pótlékmentes fizetési halasztást kérhet, továbbá kérheti azt is, hogy a halasztást követően részletekben fizethesse meg a tartozását. Fizetési kedvezmény iránti kérelmet az elektronikus kapcsolattartásra kötelezett jogi személyek és egyéb szervezetek a FAG01, az egyéni vállalkozók pedig a FAM01 űrlapon terjeszthetnek elő. Az űrlapok az alábbi útvonalon érhetők el:
+
+https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok 
+
+Az elektronikus kapcsolattartásra nem kötelezett adózóknak is van lehetőségük arra, hogy az űrlapokon az Ügyfélkapun keresztül, elektronikusan küldjék be kérelmüket, vagy dönthetnek a papíralapú előterjesztés mellett is, levélformában vagy a NAV honlapján az „Adatlapok fizetési könnyítésre és/vagy mérséklésre irányuló kérelmek elbírálásához" menüpontban elérhető adatlap kitöltésével, az alábbi elérési útvonalon:
+
+ 
+
+A papíralapú kérelmet a lakóhely / tartózkodási hely, illetve a székhely / telephely szerint illetékes adó- és vámigazgatósághoz címezve kell előterjeszteni.

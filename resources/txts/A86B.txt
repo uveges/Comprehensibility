@@ -1,0 +1,37 @@
+Új cikk megrendelés (ISZ-174)
+
+
+
+Kérjük az alábbi közlemény közzétételét a NAV honlapján:
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+Közlemény az onlinepénztárgép-gyártók és -forgalmazók számára a naplóállomány-ellenőrző séma (XSD-állomány) változásáról
+
+
+
+A NAV elkészítette az online pénztárgépek naplóállományait ellenőrző séma 6.6.5-ös (2021.01.20.) verzióját, ami a mellékletből XSD-formátumban letölthető. A folyamatban lévő fejlesztésekben ezt a verziót kell használni.
+
+
+
+Az új verzióban az egyéb fizetőeszköz nevének bejegyzésére szolgáló FEN-mező kibővült az AFR-értékkel. Az AFR-érték az azonnali fizetési rendszerben teljesült fizetések rögzítésére szolgál. Az azonnali fizetések pénztárgépi rögzítéséről szóló információk külön tájékoztatóban (https://nav.gov.hu/nav/ado/online_penztargepek_friss/Tajekoztatas_az_azonn20210118.html) szerepelnek.
+
+
+
+Az XSD-állomány új verziójának közzététele a már üzembe helyezett pénztárgépek működését nem befolyásolja, az üzemeltetőknek nincs teendőjük.
+
+
+
+Az XSD-állománnyal kapcsolatos észrevételeket vagy kérdéseket a NAV OPG Helpdesk e-mail-címén (opg.helpdesk@nav.gov.hu) várják munkatársaink.
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+Kérjük, hogy a közlemény szövege után letölthető dokumentumként kerüljön csatolásra a mellékelt V2_AEEnaplo_6.5.5.xsd fájl.

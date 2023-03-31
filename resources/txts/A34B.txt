@@ -1,0 +1,27 @@
+A biztosítotti jogviszony már az ONYA-n is bejelenthető
+
+
+
+Új szolgáltatással bővült a Nemzeti Adó- és Vámhivatal (NAV) saját fejlesztésű webes alkalmazása, az Online Nyomtatványkitöltő Alkalmazás (ONYA), ami már a biztosítotti jogviszony bejelentésére is alkalmas, tovább egyszerűsítve az adózói kötelezettségek adminisztrációját.
+
+A NAV 2019-ben vezette be az ONYA-t. A portál, bevezetése óta folyamatosan új szolgáltatásokkal bővül. Előnye, hogy használatához nem kell külön kitöltőprogramot, szoftvert és nyomtatványt letölteni, mert a folyamat teljes egészében webes alapú, a hibák már kitöltéskor, a beküldés előtt kiderülnek. A szolgáltatás minden okoseszközről, akár tabletről vagy okostelefonról is elérhető, használatához kizárólag egy internetes böngésző szükséges.
+
+Az ONYA új, „Biztosítotti bejelentés” szolgáltatásával újabb lehetőség nyílik a biztosítotti jogviszonyok intézésére, tovább egyszerűsödik a foglalkoztatottak bejelentése.
+
+
+
+A „Biztosítotti bejelentés” szolgáltatás előnyei:
+
+a NAV a foglalkoztató választásának megfelelően megjeleníti a korábban bejelentett és feldolgozott, biztosítotti jogviszonnyal kapcsolatos bejelentés adatát. Módosítás, helyesbítés vagy törlés a bejelentésbe is betölthető.
+
+A nyilvántartásban tárolt adatok átemelésével a NAV jelentősen csökkentheti a jogviszonyok azonosításából eredő hibákat.
+
+A NAV az adózó döntése alapján a foglalkoztatott azonosító adatainak előtöltésével segíti a további, új biztosítotti jogviszonyok bejelentését.
+
+A NAV a név és az adóazonosító jel vizsgálatával ellenőrzi a foglalkoztatott adatait, és betölti az azonosításhoz szükséges, nyilvántartásban szereplő további adatokat.
+
+Ez a rendkívül egyszerű és gyors alkalmazás 2021-től bővült a háztartási munkára létesített  foglalkoztatási jogviszony bejelentésével is. Az újítással az ilyen foglalkoztatás adminisztrációja is egyszerűbb lett.
+
+Az ONYA elérhető a NAV oldalán az Online Nyomtatványkitöltő Alkalmazás menüpontból, valamint a https://onya.nav.gov.hu linken is.
+
+Nemzeti Adó- és Vámhivatal

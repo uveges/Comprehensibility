@@ -1,0 +1,25 @@
+Információk az Általános Nyomtatványkitöltő (ÁNYK) programról 
+
+
+
+Az ÁNYK program használatához nem javasoljuk a Java 1.8.0_291-es verziójának letöltését, mert ezzel a verzióval a program nem működik megfelelően. Az ÁNYK módosítása elkezdődött.
+
+
+
+Akik már letöltötték az 1.8.0_291 Java-verziót, a következő megoldási lehetőségeket ajánljuk a módosított ÁNYK megjelenéséig.
+
+
+
+
+
+
+
+
+
+
+
+A NAV honlapjáról ( https://nav.gov.hu/nav/letoltesek/anyk_jre_exe.html ) töltse le az  abevjava_install_oracle_jre.exe telepítő programot. Ez a program az ÁNYK legfrissebb verzióját, és a használatához szükséges ingyenes Java futtatókörnyezetet (Oracle JRE v1.8.0_202) telepíti a számítógépére. Ennek használatával a megszokott módon küldhet be nyomtatványokat.
+
+Távolítsa el a gépéről a Java 1.8.0_291-es környezetet és térjen vissza az előzőleg használt Java verzióhoz. Az Oracle honlapján letölthető a Java 1.8.0_281 verzió: https://www.oracle.com/uk/java/technologies/javase-jre8-downloads.html
+
+Lépjen be a tárhelyszolgáltatásba és töltse fel a beadandó kr állományát. https://tarhely.gov.hu

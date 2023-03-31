@@ -1,0 +1,105 @@
+Gépjárműadóval kapcsolatos gyakran ismételt kérdések:
+
+
+
+Miért a NAV-tól kaptam a gépjárműadó kivetéséről határozatot?
+
+
+
+A gépjárműadóval kapcsolatos adóztatási feladatokat 2021. január 1-től az önkormányzati adóhatóságok helyett a Nemzeti Adó- és Vámhivatal (NAV) látja át, tekintettel a gépjárműadóról szóló 1991. évi LXXXII. törvény (Gjt.) 9. § (1) bekezdésében írtakra.
+
+
+
+Miért határozatot kaptam a NAV-tól és nem levelet?
+
+
+
+Az adóhatóság határozatot hoz az adókötelezettségről, az adózó jogát, kötelezettségét érintő kérdésben. [Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (Air.)  72. §] Az adó összege, a fizetési határidő az adókötelezettséggel kapcsolatos tény, ezért határozatot kell hozni. 2021-ben a fizetési határidő és az a számlaszám is változik, ahova fizetni kell, ezért is ad ki határozatot a NAV.
+
+
+
+Miért kell 1000 Ft-ra kerekítve megfizetnem a gépjárműadót és miért van forintra pontosan meghatározva a határozat rendelkező részében az adó összege? 
+
+
+
+A gépjárműadó számításának módját meghatározza a Gjt. az adóalap és adómérték alkalmazásával matematikailag forintra pontos összegben. Tehát az adókötelezettség összegét így kell megállapítani, az adót ezer forintra kerekítve a megfizetésére vonatkozó szabály miatt kell – ahogyan a NAV által kezelt adónemek többségét – ezer forintban megfizetni.
+
+A határozat indokolásban tájékoztatjuk erről az adózókat, és a kerekítési szabály betartásának segítése érdekében készültek így a csekkek is. Ha ugyanis valakinek több autója van, nem kell mindegyik után kerekíteni a fizetendő adót, csak az összesen összeg után. A kerekített összesen összeg fele szerepel a két csekken. Nem csak felfelé, hanem lefelé kerekített összegek is előfordulnak, 499 forintig lefelé, 500 forinttól felfelé kell a kerekítést elvégezni.
+
+
+
+Miért a könyvelőm kapja az adókivetésről szóló határozatot?
+
+Könyvelőként miért kapom Én meg a határozatokat?
+
+
+
+Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 79. § (1) bekezdése értelmében az adóhatósági iratot - ideértve a döntést is - a meghatalmazott képviselővel rendelkező adózó esetében a képviselőnek kell kézbesíteni az iratot.
+
+Sok természetes személy adóügyeinek vitelével úgy bízott meg számviteli szakembert (pl. könyvelőt), hogy állandó jelleggel, valamennyi adóügyére kiterjedő meghatalmazást adott, és nem szűkítette azokat az ügyeket, amelyekben eljárhat. Emiatt tehát a teljeskörű állandó meghatalmazott részére történt a kézbesítés.
+
+
+
+A 6. kérdéssel összefüggésben tehát javasoljuk, hogy ha mégsem szeretné, hogy minden adóügyében a könyvelője járjon el, adjanak be új ún. EGYKE adatlapot úgy, hogy ne „pipálják” a minden adóügyben való felhatalmazást, hanem tekintsék át az adtalapot, és válasszák ki azokat az ügyeket, amelyekben a könyvelő ténylegesen eljárhat. A módosítás a vonatkozó jogszabályi rendelkezések miatt csak a jövőre nézve tud érvényesülni.
+
+A megszüntetés is az EGYKE adatlapon jelenthető be.
+
+A 7. kérdéssel összefüggésben javasoljuk, hogy amennyiben ügyfele képviseletét mégsem látja el, vagy nem tervezi azt a későbbiekben minden adóügyben megtenni, egyeztessenek egymással és tegyenek új bejelentést, amelyben csak azokat az ügyeket jelölik meg, melyekben a könyvelő ténylegesen el akar járni. A megszüntetés is az EGYKE adatlapon jelenthető be.
+
+Meddig postázza a NAV a gépjárműadó fizetésre vonatkozó készpénz-átutalási megbízásokat (csekkeket)?
+
+
+
+A papíralapú határozatokhoz küld 2 db csekket a NAV, a határozatok kézbesítése február közepén indult. Gyártásuk és kézbesítésük akár több hetet is igénybe vehet, 2021 márciusának végéig jutatja el a címzettekhez a Magyar Posta Zrt. 
+
+
+
+Miért van a csekken az adóazonosító jel után plusz egy karakter?
+
+
+
+A Magyar Posta által kézbesített határozatokhoz mellékelt csekken technikai okból van 11 jegyű számsor. Az első 10 számjegy alapján történik a beazonosítás a befizetések könyvelésekor a NAV-nál. Az első 10 számjegy a fizetésre kötelezett adóazonosító jele.
+
+
+
+2021-ben meddig kell befizetni a gépjárműadót? 
+
+
+
+Az éves gépjárműadót főszabályként két egyenlő részletben kell megfizetni a 410-es adónemhez tartozó, 10032000-01079160 számú NAV Belföldi gépjárműadó bevételi számlára. Azon személyek, akik postai úton kapnak határozatot, az adót a határozathoz mellékelt csekken is megfizethetik. A 2021. év I. részletét 2021. április 15-éig kell megfizetni, ha a gépjárműadót megállapító határozat addig végleges lesz. Ha az előbbi időpontig nem lesz végleges a határozat, akkor a véglegessé válásától számított 15 napon belül kell az adót megfizetni. A 2021. év II. részletét szeptember 15-éig kell megfizetni. 
+
+
+
+A korábbi adóévekben a Gjt. alapján az adózóknak járó kedvezményeket automatikusan figyelembe veszi-e a NAV is vagy be kell-e újra jelenteni azokat a GJADO-jelű adat- és változásbejelentő nyomtatványon?
+
+
+
+
+
+A NAV az önkormányzati adóhatóság által 2020. december 31-én nyilvántartott és 2020. december 31-én hatályos mentességekre vonatkozó adatokat az önkormányzatok adatszolgáltatása alapján megkapta, azt az adókivetés során hivatalból figyelembe veszi/vette, újból bejelenteni nem kell. 
+
+Amennyiben 2021. évben új mentességet szeretnének igénybe venni vagy szünetelés/adókedvezményt kérnek, úgy azt a GJADO „adat- és változásbejelentő lap a gépjárműadó mentesség/kedvezmény/szüneteltetés igénybevételéhez” elnevezésű adatlap benyújtásával tehetik meg, mely elektronikusan elérhető a NAV honlapján az Általános Nyomtatványkitöltő keretprogramban (ÁNYK), illetve az Online Nyomtatványkitöltő Alkalmazással (ONYA) is elkészíthető, továbbá a központi ügyfélszolgálatokon papír alapon is rendelkezésre áll.
+
+
+
+Elektromos hajtású gépjármű után kell-e gépjárműadót fizetni?
+
+
+
+A környezetkímélő gépjármű adómentes. A jogszabályi rendelkezések alapján ilyen az elektromos gépkocsi és a nulla emissziós gépkocsi. Ezek a
+
+tisztán elektromos gépkocsi (a forgalmiban 5E környezetvédelmi osztály jelölés van)
+
+külső töltésű (plug-in) hibrid (a forgalmiban 5P környezetvédelmi osztály jelölés van)
+
+növelt hatótávolságú hibrid (a forgalmiban 5N környezetvédelmi osztály jelölés van)
+
+nulla emissziós gépkocsi (a forgalmiban 5Z környezetvédelmi osztály jelölés van)
+
+
+
+„P” betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetén kell-e gépjárműadót fizetni?
+
+
+
+A Gjt. 7. § (3) bekezdése értelmében a „P” betűjelű ideiglenes rendszámtábla kiadása esetén 23 000 Ft adót kell fizetni. A Gjt. 3. § (2) bekezdése szerint az adókötelezettség a rendszámtábla kiadásakor keletkezik.

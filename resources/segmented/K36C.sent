@@ -1,0 +1,14 @@
+Online Számlázó 1.25-ös verzió 80 mm-es számlakép bevezetése VTSZ/SZJ/TESZOR-szám nem kezdődhet „pont” karakterrel A bruttó ár megadásának bevezetése A felületet érintő változások FAD-áfakulcsú tétel rögzítése csak „Belföldi áfaalanynak” lehetséges Rövid cégnév megjelenítése az eladó adatai között Mobiljelszó megadása 1. 80 mm-es számlakép bevezetése Ettől a verziótól kezdve a számla és a díjbekérő létrehozásakor a 80-mm-es vagy az A4-es számlakép választható.
+Alapértelmezett a korábban is használt A4-es formátum lesz.
+Papíralapú számlánál a nyomtatási kép később is változtatható.
+E-számlánál csak a számla kiállításakor választott formátum lesz alkalmazható.
+A „Számláim” és a „Díjbekérő” listaoldalon a számla vagy a díjbekérő a „megnyitás PDF-ben” ikonra kattintáskor, a rögzítéskor kiválasztott formátumban nyílik meg.
+2. VTSZ/SZJ/TESZOR-szám nem kezdődhet „pont” karakterrel Termék létrehozásakor és számla, díjbekérő rögzítésekor megadott tételnél a VTSZ/SZJ/TESZOR-szám mezőben az érték nem kezdődhet „pont” karakterrel.
+3. A bruttó ár megadásának bevezetése Termék létrehozásakor és számla, díjbekérő rögzítésekor a nettó egységár mellett a bruttó egységár is megadható.
+Bruttó egységár megadásakor automatikusan megjelenik a nettó párja a kiválasztott áfakulcs alapján.
+4. A felületet érintő változások Akadálymentességi alapelveket figyelembe véve a következő oldalakon változtak mezőelrendezések: Termék létrehozása Termékek listája részletes keresés Számláim részletes keresés Számlázási beállítások Partner létrehozása Partnerek listája részletes keresés Díjbekérők részletes keresés Az oldalakon megjelenő információs üzenetek és hibaüzenetek mellett a számlakép-megjelenítés és -letöltés akadálymentesítése is megtörtént, 5. FAD-áfakulcsú tétel rögzítése csak „Belföldi áfaalanynak” lehetséges Új számla és díjbekérő létrehozásakor FAD-áfakulcsú tételt csak „Belföldi áfaalany” típusú vevő adhat meg.
+6. Rövid cégnév megjelenítése az eladó adatai között Ha az adott eladó rendelkezik rövid cégnévvel az Online Számla rendszerben, akkor a felhasználó ezt az adatot is frissítheti az „Adatok frissítése” funkcióval.
+A frissítés után a számlaképen a rövid név fog megjelenni.
+7. Mobiljelszó megadása „A mobilalkalmazás párosítása” oldal kiegészül egy „Mobiljelszó” megadása funkcióval, ahol a mobilapplikáció későbbi használatához szükséges jelszó adható meg.
+Ezt egyszer, az első alkalommal kell megadni az Online Számlázóban.
+Később az Online Számla rendszerben változtatható.

@@ -1,0 +1,15 @@
+A 2117-es átvezetési és kiutalási kérelem már az ONYA-ban is kitölthető
+
+
+
+
+
+2021. július 1-jétől a 2117-es nyomtatvány az Online Nyomtatványkitöltő Alkalmazásban (ONYA) is kitölthető, így külön segédprogram telepítése nélkül, bármilyen okoseszközön, akár mobiltelefonon is kérhető az adószámla-túlfizetés kiutalása vagy éppen átvezetése egy másik adónemre. 
+
+
+
+Az ONYA használatához kizárólag ügyfélkapu-regisztrációra van szükség, a kitöltést segíti, hogy belépés után az azonosító adatok a nyomtatványon automatikusan megjelennek. 
+
+
+
+Az ONYA a NAV honlapján az „Online Nyomtatványkitöltő Alkalmazás” menüpontból, valamint a https://onya.nav.gov.hu linken érhető el.”

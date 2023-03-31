@@ -1,0 +1,67 @@
+A behajthatatlan követelésekkel kapcsolatos áfaszabályok módosítása
+
+
+
+Az Áfa tv. 2020. január 1-jétől lehetőséget teremtett az adóalanyok számára, hogy az általuk teljesített termékértékesítés vagy szolgáltatásnyújtás után fizetendő áfa alapját önellenőrzés keretében, utólag csökkentsék a behajthatatlan követelésként elszámolt ellenérték vagy részellenérték adót nem tartalmazó összegével. 
+
+
+
+Az adóalap-csökkentés Áfa tv.-ben meghatározott feltételei és a behajthatatlan követelés fogalma 2021. január 1-jétől módosultak az alábbiak szerint.
+
+
+
+2021. január 1-jétől lehetőség nyílt az adóalap-csökkentésre abban az esetben is, ha a termék beszerzője, szolgáltatás igénybevevője (vagyis az adós) adószámmal nem rendelkező, áfaalanynak nem minősülő személy, szervezet (például természetes személy, gazdasági tevékenységet nem folytató alapítvány).
+
+
+
+Bővült azon esetek köre, amikor a termékértékesítés, szolgáltatásnyújtás alapján keletkezett, követelésként fennálló ellenérték vagy részellenérték adót is tartalmazó összege behajthatatlan követelésként elszámolható. Így 2021. január 1-jétől behajthatatlanként számolható el a követelés akkor is, ha a természetes személyek adósságrendezési eljárása során a bíróság az adóst a fennmaradó adósságai megfizetése alól mentesítő döntést hoz. Ennek igazolásául a bírósági határozat szolgálhat. (Az eljárás részletszabályai a természetes személyek adósságrendezési eljárásáról szóló 2015. évi CV. törvényben olvashatók.)
+
+
+
+Ha a vevő nem adóalany, részére nem kell értesítést küldeni az adóalap-csökkentésről.
+
+
+
+Abban az önellenőrzési bevallásban, amelyben az adóalany az adóalap-csökkentést érvényesíti, csak az adóalanynak minősülő vevő nevéről és adószámáról kell adatot szolgáltatni (az egyéb adatok mellett). Nem adóalany vevő esetén elégséges a behajthatatlan követelésként történő elszámolás okáról, az adóalap-csökkentéssel érintett számla sorszámáról, az adóalap-csökkentés összegéről, és arról nyilatkozni, hogy az ellenérték más módon nem térült, nem térül meg.
+
+
+
+Ha az adóalap-csökkentést követően az adóalany részére a behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét mégis megtérítik, a megtérített ellenérték vagy részellenérték erejéig az adóalap- és adócsökkentést egy újabb önellenőrzéssel vissza kell rendezni. Ebben az esetben nem adóalany vevő esetén csak a megtérített ellenérték vagy részellenérték adóval csökkentett összegéről kell a bevallásban nyilatkozni, a vevő nevéről és adószámáról csak akkor, ha adóalany.
+
+
+
+A további, Áfa tv.-beli feltételeket megfelelően alkalmazni kell nem adóalany vevő esetén is. 
+
+
+
+Így az adóalanynak nem minősülő vevőre nézve is teljesülniük kell az alábbi feltételeknek:
+
+az adóalany és a vevő független felek,
+
+a vevő nem szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adóhatósági adatbázisában a behajthatatlan követeléssel érintett termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában és az azt megelőző egy évben.
+
+
+
+Továbbá nem adóalany vevő esetén is csak akkor csökkenthető az adóalap, ha
+
+a követelés az adóalany által teljesített termékértékesítésből, szolgáltatásnyújtásból fakad,
+
+a követelés az adóalap-csökkentés időpontjában is fennáll (például nem faktorálták),
+
+a behajthatatlan követeléssel érintett termékértékesítés, szolgáltatásnyújtás ellenértéke más módon nem térült vagy térül meg (például biztosításból),
+
+az adóalapot csökkenteni kívánó adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt az adóalap-csökkentést tartalmazó önellenőrzési bevallás benyújtásának időpontjában,
+
+a behajthatatlan követeléssel érintett termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt. Ez utóbbi feltétel 2021. január 1-jétől úgy módosul, hogy az adóalap-csökkentéssel nem kell várni a fizetési határidőtől számítva egy évig, ha az érintett ügyletre vonatkozó polgári jogi igényekre alkalmazandó elévülési idő nem haladja meg az egy évet. Ilyenek például az elektronikus hírközlésről szóló törvény szerinti előfizetői szerződésekből eredő polgári jogi igények, vagy a fuvarozási szerződések alapján támasztható igények. Ebben az esetben abban az időpontban alkalmazható az adóalap-csökkentés, amikor annak valamennyi feltétele fennáll, és az adóalany a követelést behajtatlan követelésként elszámolja. 
+
+
+
+A fentiekben ismertetett módosítások 2021. január 1-jén léptek hatályba, de azok – az önellenőrzési bevallás 2021. január 1-jét követő benyújtása során – alkalmazhatók akkor is, ha a behajthatatlan követeléssel érintett termékértékesítés, szolgáltatásnyújtás teljesítésének időpontja 2021. január 1. napját megelőzi, de 2015. december 31. napját követő időpontra esik.
+
+
+
+A NAV honlapján 2019. december 23-án a „Behajthatatlan követelés miatti áfa csökkentés lehetősége” címen megjelent tájékoztatóban foglaltak egyebekben továbbra is alkalmazhatók.
+
+
+
+[Pénzügyminisztérium Fogyasztási és Forgalmi Adók Főosztály /2020. – NAV KI Ügyfélkapcsolati és Tájékoztatási Főosztály /2020.]

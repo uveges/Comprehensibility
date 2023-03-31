@@ -1,0 +1,5 @@
+Internet Explorer 11 böngésző támogatásának kivezetése
+
+Az Online Számla tesztrendszer/éles rendszer felületének megjelenítéséhez és működéséhez eddig használt Internet Explorer 11 (IE11) böngésző támogatását a NAV 2021. szeptember 29-én 20 órától kivezeti. 
+
+Az IE11 támogatásának kivezetését követően tapasztalt hibákat, - melyek az IE11 használatára vezethetők vissza - a NAV nem javítja, ezért kérjük, hogy a továbbiakban a rendszer problémamentes működéséhez a Kezdőlapon (A felület használatához szükséges informatikai feltételek pontban) felsorolt, böngészőket szíveskedjenek használni.

@@ -1,0 +1,67 @@
+A pénzügyi biztosíték szabályai, adattartalma
+
+
+
+A jövedéki biztosíték az adóbevételek biztosítását, és a jövedéki termékek adófizetés nélküli előállításából, tárolásából, szállításából, valamint a halasztott adófizetésből fakadó adókockázatok mérséklését szolgálja. 
+
+
+
+A jövedéki biztosíték lehet
+
+készpénz, 
+
+pénzügyi biztosíték és 
+
+bizonyos, jogszabályban meghatározott feltételek mellett készfizető kezesség.
+
+
+
+A pénzügyi biztosíték pedig
+
+az Európai Unió tagállamában, illetve az EGT-államban székhellyel rendelkező hitelintézet bankgaranciája, fedezetigazolása, és 
+
+a biztosítási szerződés alapján kiállított kötelezvény.
+
+
+
+Nem fogadható el a pénzügyi biztosíték, ha
+
+a bankgaranciát, fedezetigazolást nyújtó hitelintézettel szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti kivételes intézkedést alkalmaztak, vagy 
+
+ha a kötelezvényt adó biztosítónál a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási szükséghelyzet alakult ki.
+
+
+
+Az pénzügyi biztosítéknak érvényesíthetőnek kell lennie
+
+adófelfüggesztési eljárásban végzett szállításkor a jövedéki termék kiszállítását követő 4 hónapig, 
+
+az adó részletfizetésének vagy fizetési halasztásának engedélyezésekor a fizetési könnyítés határidejének leteltét követő 60 napig, 
+
+adófizetési kötelezettség más esetében a kötelezettség keletkezését követő 60 napig.
+
+Az adókockázatra jutó készpénzes jövedéki biztosíték e határidők leteltéig nem fizethető vissza a biztosítékot nyújtónak.
+
+
+
+Jövedéki termék tagállamok közötti, vagy tagállamon keresztül harmadik országba szállításakor pénzügyi biztosítékul az Európai Unió valamennyi tagállamában érvényesíthető pénzügyi biztosítékot kell adni.
+
+
+
+A jövedéki biztosítékot pénzügyi biztosítékként nyújtó felhasználói engedélyesnek a pénzügyi biztosíték hatályvesztése előtt legalább 30 nappal, a lejáratot követő naptól hatályos újabb pénzügyi biztosítékot kell a NAV-hoz benyújtania.
+
+A pénzügyi biztosítéknak tartalmaznia kell:
+
+a pénzügyi biztosítékot nyújtó megnevezését, bankszámlaszámát,
+
+a megbízó nevét, címét, fizetési számlaszámát, adószámát,
+
+a pénzügyi biztosíték egyedi azonosítóját, valamint összegét számmal és betűvel,
+
+a pénzügyi biztosíték érvényességének kezdő és végső időpontját és
+
+a garanciát vállaló hitelintézet kötelezettségvállalását arra, hogy a biztosító a NAV igénybejelentése alapján, feltétel nélkül – bankgarancia esetén a banki forgalom szabályozására vonatkozó előírások szerint, legfeljebb 3 munkanapon belül – az igénybejelentésben megjelölt államháztartási számlára megfizeti a megbízó lejárt tartozását.
+
+
+
+A pénzügyi biztosíték másolatban nem, kizárólag eredeti okiratként, elektronikusan vagy papíralapon nyújtható be. Ha magyar, angol, német vagy francia nyelvtől eltérő nyelven állítják ki, akkor csak hiteles magyar fordítással együtt fogadható el.

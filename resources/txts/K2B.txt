@@ -1,0 +1,101 @@
+Ismét változtak a behajthatatlan követelésekkel kapcsolatos áfaszabályok
+
+
+
+A termékértékesítés vagy szolgáltatásnyújtás után fizetendő áfa alapját az eladó bizonyos feltételekkel csökkentheti, ha vevője a termék vagy szolgáltatás ellenértékét nem egyenlítette ki. A meg nem térített ellenérték vagy részellenérték behajthatatlan követelésként számolható el, annak adó nélküli összegével az adóalap utólag, önellenőrzéssel csökkenthető. 
+
+
+
+Az adóalap-csökkentés feltételeinek és a behajthatatlan követelés fogalmának 2021. év eleji változása után június 10-én ismét módosult a szabályozás. A következőkben a legfontosabb változásokat foglaljuk össze.
+
+
+
+A jogszabály-módosítás alapján – a korábbiaktól eltérően – az adóalap már akkor is csökkenthető, ha:
+
+a termék beszerzője, szolgáltatás igénybe vevője csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt áll a termék értékesítésekor vagy a szolgáltatás nyújtásakor,
+
+a termék beszerzője, szolgáltatás igénybe vevője szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adatbázisában a termék értékesítésekor, a szolgáltatás nyújtásakor, valamint az azt megelőző egy évben,
+
+a termék beszerzőjének, szolgáltatás igénybe vevőjének adószámát a NAV törölte, így érvényes adószámmal a termék értékesítésekor, a szolgáltatás nyújtásakor nem rendelkezik,
+
+a termék értékesítésének, a szolgáltatás nyújtásának időpontjáig NAV tájékoztatta az adóalanyt a terméket beszerző, szolgáltatást igénybe vevő adókötelezettsége teljesítésének megkerüléséről.
+
+
+
+Az adóalap utólagos csökkentéséhez a következő feltételeknek egyszerre kell teljesülniük:
+
+a követelés az adóalany termékértékesítésből, szolgáltatásnyújtásból fakad,
+
+a követelés az adóalap-csökkentés időpontjában is fennáll, 
+
+az adóalany és a termék beszerzője, szolgáltatás igénybevevője független felek,
+
+az adóalany erről a termék adóalany beszerzőjét, szolgáltatás adóalany igénybe vevőjét előzetesen írásban értesíti, kivéve, ha a termék beszerzője, szolgáltatás igénybevevője jogutód nélkül megszűnt,
+
+az adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követeléssel érintett bevallás benyújtásakor,
+
+a termék, szolgáltatás ellenértékét legalább egy éve nem térítették meg, kivéve, ha az ügyletre vonatkozó polgári jogi igényekre alkalmazandó elévülési idő nem haladja meg az egy évet,
+
+a termék, szolgáltatás ellenértéke más módon nem térült vagy térül meg,
+
+az adóalany a bevallással egyidejűleg, az annak részét képező nyomtatványon nyilatkozik 
+
+a behajthatatlan követeléskénti elszámolás okáról, 
+
+azon számla sorszámáról, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza, 
+
+az adóalap-csökkentés összegéről, 
+
+az adóalany termékbeszerző, szolgáltatást igénybe vevő nevéről és adószámáról, valamint arról, hogy 
+
+a követelése nem térült, nem térül meg.
+
+
+
+A módosítás 2021. június 10-én lépett hatályba, de akkor is alkalmazható, ha 2021. június 10. és 2015. december 31. közé esik a termék értékesítésének, a szolgáltatás nyújtásának időpontja.
+
+
+
+Az adóalapot alapvetően az adó megállapításra vonatkozó elévülési időn, azaz … éven belül lehet csökkenteni. 2021. június 10-étől azonban az adóalany akkor is kérelmezheti a behajthatatlan követelésre eső, általa megfizetett adó visszatérítését, ha az erre alapot adó ok az elévülési idő után következik be.
+
+
+
+Az erre vonatkozó kérelmet akkor lehet benyújtani, ha az adóalap-csökkentés korábban részletezett feltételei teljesülnek, a vevő értesítésére vonatkozó feltétel kivételével. További feltétel, hogy a behajthatatlan követeléskénti elszámolásra alapot adó ok bekövetkezésétől a kérelem benyújtásáig legfeljebb egy év telt el. Az adóalany kérelmét – akár ellenőrzési eljárásban is – írásban, terjesztheti elő a Nemzeti Adó- és Vámhivatalnál (NAV). Az egyéves határidő jogvesztő, azaz túllépésekor igazolási kérelmet nem lehet benyújtani. 
+
+
+
+A kérelemben nyilatkozni kell 
+
+a behajthatatlan követeléskénti elszámolás okáról, 
+
+azon számla sorszámáról, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza, 
+
+az adóalap-csökkentés összegéről, 
+
+az adóalany termékbeszerző, szolgáltatás igénybe vevő nevéről és adószámáról, valamint 
+
+arról, hogy a követelés nem térült, nem térül meg. 
+
+
+
+Emellett a kérelemben be kell mutatni, hogy a követelés behajthatatlanná vált, mely időpontban történt ez, továbbá, hogy a feltételek teljesülnek.
+
+
+
+Ha az adó-visszatérítés után az adóalanynak a korábban behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét mégis megtérítik, akkor a megtérített ellenértékre vagy részellenértékre jutó adót köteles visszafizetni. Ezt az összeget fizetendő adót növelő tételként a megtérítés időszakára benyújtott bevallásában kell szerepeltetnie.
+
+
+
+A különös adóvisszatérítési kérelem akkor nyújtható be – akár 2021. június 10-én folyamatban levő ellenőrzés alatt is – ha az az ok, ami a behajthatatlan követeléskénti elszámolásra alapot ad
+
+2021. június 10-én vagy utána következett be, vagy
+
+2021. június 10. előtt, de az említett egyéves jogvesztő határidő még nem telt el, vagyis a követelés 2021. június 10-ét megelőző egy évben vált behajthatatlanná. Ebben az esetben a kérelmet 2021. december 7-éig lehet benyújtani, mely határidő jogvesztő.
+
+
+
+A NAV honlapján 2019. december 23-án a „Behajthatatlan követelés miatti áfacsökkentés lehetősége” címmel és 2021. január 22-én a „Változtak a behajthatatlan követelésekkel kapcsolatos áfaszabályok” címmel megjelent tájékoztatókban foglaltak egyebekben továbbra is alkalmazhatók.
+
+
+
+[Pénzügyminisztérium Fogyasztási és Forgalmi Adók Főosztály    /2021. – NAV KI Ügyfélkapcsolati és Tájékoztatási Főosztály          /2021.]

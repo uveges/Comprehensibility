@@ -1,0 +1,261 @@
+Hatósági bizonyítvány igénylése
+
+
+
+
+
+I. Ki igényelhet hatósági bizonyítványt?
+
+
+
+Aki egyéni vállalkozó, illetve korábban az volt, vagy annak igazolását kéri, hogy nem szerepel az Egyéni Vállalkozók Nyilvántartásában.
+
+
+
+
+
+II. Hol intézhető?
+
+
+
+Hatósági bizonyítvány igényelhető:
+
+a Webes Ügysegéd felületén,
+
+személyesen a NAV ügyfélszolgálatain,
+
+postán, az illetékes adó- és vámigazgatóságnál.
+
+
+
+A Webes Ügysegéd a Központi Azonosítási Ügynök (KAÜ) általi azonosítással vehető igénybe, tehát
+
+Ügyfélkapu-regisztrációval vagy
+
+Részleges Kódú Telefonos Azonosítással (RKTA) vagy
+
+e-személyi igazolvánnyal.
+
+
+
+A bejelentés megtehető a NAV bármelyik ügyfélszolgálatán – személyesen vagy meghatalmazott segítségével is.
+
+
+
+Postai igénylésnél a „Kérelem hatósági bizonyítvány kiállítására” elnevezésű formanyomtatványt kell kitöltés után a NAV illetékes igazgatóságához elküldeni. A kérelem kitöltését a következő kitöltési útmutató segíti: „Kitöltési útmutató hatósági bizonyítvány iránti kérelemhez”.
+
+
+
+
+
+III. Milyen iratokra van szükség?
+
+
+
+Az ügyfélszolgálatos ügyintézéskor szükség van
+
+a kitöltött, „Kérelem hatósági bizonyítvány kiállítására” elnevezésű űrlapra
+
+személyazonosításra alkalmas érvényes okmányra (állandó személyazonosító igazolvány, útlevél, kártya formátumú vezetői engedély), valamint
+
+a meghatalmazotti eljárás esetében magát a meghatalmazást is be kell mutatni. 
+
+
+
+
+
+IV. Milyen költségei vannak az igénylésnek?
+
+
+
+A hatósági bizonyítvány igénylése díj- és illetékmentes, azaz ingyenes.
+
+
+
+
+
+V. Ügyintézési idő
+
+
+
+A NAV a hatósági bizonyítványt a kérelem előterjesztésétől számított nyolc napon belül kiadja, és elektronikusan továbbítja a kérelmező tárhelyére, vagy postán az általa megadott címre.
+
+
+
+
+
+VI. Érdemes tudni
+
+
+
+A NAV az Egyéni Vállalkozók Nyilvántartásában szereplő adatokat a megszűnéstől számított tíz évig kezeli az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény értelmében. 
+
+
+
+Az új szabályozás 2010. január 1-jén lépett hatályba, ezzel egyidejűleg az egyéni vállalkozók korábbi nyilvántartása, az Egyéni Vállalkozói Igazolvánnyal Rendelkező Vállalkozók Központi Nyilvántartása megszűnt. A korábbi nyilvántartásból a jogszabály által meghatározott adatkör átkerült a jelenlegi, Egyéni Vállalkozók Nyilvántartásába a  többi adatot pedig a nyilvántartó szerv törölte. A korábbi nyilvántartásban az egyéni vállalkozók adatait a vállalkozói tevékenység megszűnésétől számított két évig kezelte a nyilvántartást vezető szerv, a korábbi szabályozás, vagyis az egyéni vállalkozásról szóló 1990. évi V. törvény értelmében.
+
+
+
+Ebből következően lehetséges, ha a kérelmező korábban már volt egyéni vállalkozó, de tevékenysége 2008. január 1. előtt megszűnt, a NAV adatbázisában már nem szerepelhet. Ezeket az adatokat az egyéni vállalkozó utolsó székhelye szerint illetékes járási hivatal tartja nyilván.
+
+
+
+VII. Elektronikus ügyintézés 
+
+
+
+1. Webes Ügysegéd
+
+
+
+A hatósági bizonyítványt kizárólag elektronikusan, a Webes Ügysegéden keresztül lehet igényelni.
+
+
+
+Elektronikusan intézhető:
+
+a tevékenység megkezdésének bejelentése,
+
+az adatváltozás bejelentése,
+
+a tevékenység szüneteltetésének bejelentése,
+
+a tevékenység szünetelés utáni folytatásának bejelentése,
+
+a tevékenység megszüntetésének bejelentése.
+
+
+
+Kizárólag elektronikusan intézhető:
+
+az adatváltozás bejelentése,
+
+a tevékenység szüneteltetésének bejelentése,
+
+a tevékenység szünetelés utáni folytatásának bejelentése.
+
+
+
+2. A Webes Ügysegéd használatának általános feltételei
+
+
+
+Azonosítás
+
+
+
+A Webes Ügysegéd KAÜ-azonosítással vehető igénybe, tehát
+
+Ügyfélkapu-regisztrációval vagy
+
+Részleges Kódú Telefonos Azonosítással (RKTA) vagy
+
+e-személyi igazolvánnyal.
+
+
+
+Ügyfélkapu nyitható 
+
+személyesen bármely okmányirodában és kormányablakban, a NAV kiemelt ügyfélszolgálatain, egyes postahivatalokban, illetve 
+
+elektronikusan, e-személyi igazolvánnyal az ugyfelkapu.gov.hu webes felületen.
+
+
+
+A Részleges Kódú Telefonos Azonosítási szolgáltatásra személyesen, bármely okmányirodában és kormányablakban regisztrálhat.
+
+
+
+A KAÜ-szolgáltatással kapcsolatos kérdéseivel forduljon bizalommal a 1818-as hívószámon elérhető Kormányzati Ügyfélvonalhoz.
+
+
+
+Bejelentkezés
+
+
+
+A Webes Ügysegédbe KAÜ-azonosítással lehet bejelentkezni. Az azonosítási mód – Ügyfélkapu, RKTA, e-személyi – kiválasztása és az azonosító adatok megadása után néhány másodpercen belül megjelenik a Webes Ügysegéd főoldala.
+
+
+
+A Webes Ügysegéd legtöbb szolgáltatásának használatához, például új kérelem, bejelentés, nyilatkozat benyújtásához be kell jelentkezni.
+
+
+
+Személyes adatok megadása az első belépéskor
+
+
+
+Sikeres azonosítás után, a Webes Ügysegéd első használatakor meg kell adni a hiányzó azonosító adatokat és az elektronikus levélcímet (e-mail-címet) is.
+
+
+
+Kérelem, bejelentés, nyilatkozat összeállítása
+
+
+
+A sikeres azonosítás után a kiválasztott ügytípushoz tartozó űrlap jelenik meg, amelynek mezőit értelemszerűen kell kitölteni. A Webes Ügysegéd a kitöltés közben megjeleníti az esetleges hibákat.
+
+
+
+Kérelem, bejelentés, nyilatkozat benyújtása
+
+
+
+A kérelem, bejelentés, nyilatkozat benyújtásával az ügy intézése megkezdődik, ezt a Webes Ügysegéd visszaigazolja.
+
+
+
+Kérelem, bejelentés, nyilatkozat státusza
+
+
+
+Ismételt bejelentkezéssel akár utólag is megtekinthetők a Webes Ügysegédről indított ügyek és azok státusza. 
+
+
+
+A bejelentett adatok ellenőrizhetők az Egyéni Vállalkozók Nyilvántartásában.
+
+
+
+
+
+VIII. Letölthető dokumentumok
+
+Kérelem hatósági bizonyítvány kiállítására
+
+Kitöltési útmutató hatósági bizonyítvány iránti kérelemhez
+
+
+
+IX. További információ
+
+
+
+További információ telefonon a NAV Infóvonalán, a 1819-es számon vagy személyesen a NAV ügyfélszolgálatain kérhető.
+
+
+
+Fogalmak
+
+
+
+Gyakran ismételt kérdések
+
+
+
+
+
+X. Jogszabályok
+
+2009. évi CXV. törvény az egyéni vállalkozóról és az egyéni cégről,
+
+2009. évi LXXVI. törvény a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól,
+
+210/2009. (IX. 29.) Korm. rendelet a kereskedelmi tevékenységek végzésének feltételeiről,
+
+5/1997. (III. 5.) IKIM rendelet az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről,
+
+21/2010. (V. 14.) NFGM rendelet az egyes ipari és kereskedelmi tevékenységek gyakorlásához szükséges képesítésekről,
+
+Az EURÓPAI PARLAMENT ÉS A TANÁCS 2006. december 12-i 2006/123/EK IRÁNYELVE a belső piaci szolgáltatásokról.

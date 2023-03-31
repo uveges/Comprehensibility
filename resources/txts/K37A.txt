@@ -1,0 +1,27 @@
+Milyen a jó beszerzési igény?
+
+
+
+Tisztázzuk talán legelőször azt, hogy mit értünk beszerzési igény alatt a NAV szervezetén belül. Az igény voltaképpen egy tárgyiasult formában jelentkező szükséglet, mely az adott szervezet, szervezeti egység működése, a hivatali feladatok ellátása érdekében jelentkezik. A beszerzési igény irányulhat árubeszerzésre, azaz egy eszköz, készlet beszerzésére vagy egy szolgáltatás megrendelésére, illetve építési beruházásra. Megkülönböztethetünk egymástól napi általános működéshez szükséges igényeket, illetve attól eltérően felmerülő igényeket, valamint meghibásodás kapcsán keletkező igényeket. 
+
+
+
+A következőkben röviden ismertetjük, hogy egy beszerzési igénynek milyen kritériumoknak kell megfelelnie, azaz mikor mondhatjuk azt, hogy egy igény „jó”. Ha röviden szeretnénk meghatározni, akkor azt mondhatjuk, hogy a „jó igény” megalapozott/indokolt, egyértelmű, jól megfogalmazott és szakmailag helytálló.
+
+
+
+Nézzük meg az egyes kritériumokat kicsit részletesebben is. Minden beszerzési igény esetében röviden ki kell fejteni az igénylés célját, szakmai indokát, mely igazolja a beszerzés megalapozottságát. Röviden meg kell fogalmazni a megvalósítás elmaradásának konkrét, nem általánosan megfogalmazott valós kockázatát. 
+
+Az igényelt eszközt, készletet vagy szolgáltatást az igényhez csatolt műszaki leírásban a lehető legpontosabban, kellő részletességgel és egyértelműen meg kell határozni, kitérve az adott termék vagy szolgáltatás műszaki sajátosságaira. A beszerzési igény meghatározása során az igénylőnek szem előtt kell tartania, hogy például egy árubeszerzés esetén ne egy konkrét terméktípust, márkát, gyártmányt jelöljön meg, hanem csak a termék főbb paramétereit („-tól -ig”, „min.- max.” tartományban), jellemző tulajdonságait, a termékkel szemben támasztott minimum követelményeket szerepeltesse. Kivételes esetben, amennyiben nem lehetséges a beszerzés tárgyának pontos és érthető leírása vagy arra jogszabály lehetőséget ad, lehet konkrét terméket megjelölni, azonban ebben az esetben „az azzal egyenértékű” kifejezést mindig fel kell mellette tüntetni, továbbá meg kell határozni az egyenértékűség kritériumait is, azt, hogy pontosan mit fogadunk el egyenértékűnek. 
+
+Ki kell térni továbbá az igényelt termék/szolgáltatás pontos mennyiségére, időtartamára a teljesítési helyre, a teljesítésigazoló – illetve akadályoztatása esetén a kijelölt helyettesének – és a kapcsolattartó személyére, elérhetőségére.
+
+Az igénylőnek meg kell jelölnie legalább három olyan gazdasági szereplőt feltüntetve azok elérhetőségeit, akiktől az adott termék vagy szolgáltatás beszerezhető, és akiket a beszerzési eljárás során ajánlattételre felkérni javasol. Amennyiben az igénylőnek tudomása van arról, hogy a beszerzési igény kapcsolatban áll másik, folyamatban lévő eljárással, hatályos vagy lejárt szerződéssel/megrendeléssel, erre az igényléskor szintén utalni kell. 
+
+
+
+A beszerzési igény megfogalmazásáért és annak műszaki megfelelőségéért az igénylő felel. Az igénylőnek az igényt az erre kialakított, SharePoint (SP) felületen keresztül kell rögzíteni és benyújtani. Az SP felületen keresztül beszerzési igényt, a szervezeti egység vezetője által kijelölt, jogosultsággal rendelkező foglalkoztatott rögzíthet, azonban annak benyújtására kizárólag vezetői munkakört betöltő személy jogosult. 
+
+
+
+Fontos végül kiemelni, hogy bizonyos beszerzési igények benyújtására speciális szabályok vonatkoznak, melyre az igénylés során figyelemmel kell lenni. Ezek közül a leggyakoribb példa, hogy informatikai működtetési és fejlesztési feladatokhoz kapcsolódó, valamint a Digitális Kormányzati Ügynökség Zrt. hatáskörébe tartozó beszerzésre vonatkozó informatikai igényeket a NAV KI Informatikai Főosztálya, míg a lőfegyverekre, fegyverzeti anyagokra vonatkozó és a Védelmi Beszerzési Ügynökség Zrt. hatáskörébe tartozó beszerzési igényeket kizárólag a NAV KI Rendészeti Főosztálya nyújthat be.  Az igénylőnek ilyen speciális beszerzési igény esetén egyeztetnie kell a benyújtásra jogosult szakterülettel.

@@ -1,0 +1,88 @@
+v1.0 (2021-10-21)
+
+		TERVEZET
+
+Iktatószám: ………..
+
+Tisztelt Szoftverfejlesztő (Példa Kft.)!
+
+Az Ön által fejlesztett számlázóprogram(ok)ból 
+
+2021 szeptemberében
+
+számos sikertelen adatszolgáltatási kísérletet regisztrált az Online Számla rendszer.
+A szoftverfejlesztők a softwareDevTaxNumber alapján azonosíthatók. 
+
+A NAV az Ön ügyfelei közül azoknak, akiknél sokszor fordultak elő sikertelen manageInvoice műveletek, a következő napokban elektronikus levelet küld arra kérve őket, hogy a hibák elhárításához vegyék fel Önnel a kapcsolatot. Arra is felhívjuk az ügyfelek figyelmét, hogy ezek a hibák nem feltétlenül erednek programhibából.
+
+Kérjük, ügyfeleivel együttműködve segítse a hibák okának feltárását és javításukat. 
+
+Levelünk mellékletében megtalálja az Ön által fejlesztett számlázóprogram(ok)ból küldött sikertelen számlaadat-szolgáltatások statisztikáját, ami szoftverazonosítónként (softwareID) és hibakódonként tartalmazza az adott hiba előfordulásának és az érintett adózóknak a számát. Az adózók kilétéről nem adhat felvilágosítást a NAV, mert az arra vonatkozó információk adótitoknak minősülnek. 
+
+Javasoljuk, hogy az esetleges szoftverhibák vagy -hiányosságok feltárásáról és javításáról mielőbb intézkedjen. 
+
+Kérjük, vegye figyelembe a szoftverek kialakításához összeállított NAV-ajánlást a programok működésének áttekintésénél. Ha a hibákat már észlelte, és a szükséges intézkedéseket is megtette, jelzésünket tekintse tárgytalannak.
+
+A NAV legközelebb 2022 januárjában a decemberi adatok alapján vizsgálja az említett adózók adatszolgáltatásainak sikerességét. 
+
+
+
+Ez egy tájékoztató levél, kérjük, ne válaszoljon rá! 
+
+
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+
+Melléklet
+
+
+
+Az értesített adózók 2021 szeptemberi adatszolgáltatásaiban előforduló sikertelen manageInvoice műveletek által érintett szoftverazonosítók (softwareID), a hibakód, az előfordulások összesített darabszáma, valamint az érintett adózók száma ott, ahol a softwareDevTaxNumber értéke az Ön adószámának első nyolc számjegye.
+
+
+
+
+
+Érintett sortwareId
+
+Hibakód
+
+Előfordulás
+(alkalom)
+
+Érintett adózók száma 
+
+HU51042446000009
+
+INVALID_EXCHANGE_TOKEN
+
+1
+
+1
+
+HU51042446000009
+
+INVALID_INVOICE_REFERENCE
+
+  435 941 
+
+3
+
+HU51042446000009
+
+SUPPLIER_TAX_NUMBER_MISMATCH
+
+208 801
+
+1 
+
+HU51042446000011
+
+INVALID_EXCHANGE_TOKEN
+
+5 200
+
+2

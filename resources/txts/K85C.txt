@@ -1,0 +1,77 @@
+Az új uniós importellenőrzési rendszer (ICS2) bevezetése
+
+
+
+
+
+Az Uniós Vámkódex által előírt importellenőrzési rendszer (Import Control System, ICS) korszerűsítésnek célja az 
+
+
+
+
+
+
+
+Európai Unióba belépő áruk érkezés előtti – biztonsági és védelmi szempontú – vizsgálatának megerősítése a belépési gyűjtő-árunyilatkozatok benyújtására és kezelésére vonatkozó új követelmények érvényre juttatásával. 
+
+
+
+
+
+Az importellenőrzési rendszer megújítása, vagyis az ICS2-projekt eredményeképpen a jelenlegi transzeurópai ICS-rendszer szerkezete teljesen átalakul, helyébe fokozatosan az új rendszer lép. 
+
+
+
+Az ICS2 bevezetése három fázisban valósul meg.
+
+ 
+
+1. fázis: 
+
+
+
+2021. március 15-től a postai szolgáltatóknak és a gyorspostai küldeményeket kézbesítő szereplőknek – légi fuvarozásnál – az áru felrakodása előtt be kell nyújtaniuk a belépési gyűjtő-árunyilatkozat minimális adatkészletét. 
+
+
+
+A beküldendő adatok körét a Bizottság (EU) 2021/234 felhatalmazáson alapuló rendelete tartalmazza:
+
+a postai szolgáltatóra vonatkozóan az F43-as és F44-es oszlopban.,
+
+a gyorspostai szolgáltatókra vonatkozóan az F32-es oszlopban.
+
+
+
+
+
+2. fázis: 
+
+
+
+A belépési gyűjtő-árunyilatkozatra vonatkozó új kötelezettségek, valamint a kapcsolódó üzleti és kockázatkezelési folyamatok a légi úton fuvarozott összes árura vonatkozni fognak. 
+
+
+
+Részletes tájékoztatás a második fázisról a későbbiekben lesz elérhető.
+
+
+
+3. fázis: 
+
+
+
+A belépési gyűjtő-árunyilatkozatra vonatkozó új kötelezettségek, valamint a kapcsolódó üzleti és kockázatkezelési folyamatok a tengeri és a belvízi, valamint a közúti és vasúti fuvarozással szállított összes árura vonatkozni fognak. Ide tartozik a postai küldeményként feladott áru szállítása is az említett szállítóeszközökkel.
+
+
+
+Részletes tájékoztatás a harmadik fázisról a későbbiekben lesz elérhető.
+
+
+
+
+
+
+
+Az Európai Bizottság ICS2-vel kapcsolatos angol nyelvű tájékoztatója a következő linken érhető el. 
+
+https://ec.europa.eu/ICS2

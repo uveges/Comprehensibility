@@ -1,0 +1,33 @@
+
+      Tárgy: Értesítés OSS regisztrációs kérelemhez kapcsolódóan
+
+
+                                  ÉRTESÍTÉS
+
+
+<ügyfél  neve>  <éééé.hh.nn.>   napon   előterjesztett,   <KÉRELEM   BÁRKÓD>
+iktatószámú, <{regelendő  adózó  adószáma}  és  {neve}  adózónak>  Közösségi
+Egyablakos   Rendszer   (OSS)   import   sémájába,   mint   a   <xxxxxxxxxx>
+azonosítószámú   közvetítő   ügyfeleként   kezdeményezett    regisztrációját
+<xxxxxxxxxx>  azonosítószámon  nyilvántartásba  vettem,  mivel  megfelel   a
+nyilvántartásba vétel feltételeinek.
+
+A séma alkalmazásának kezdő időpontja: <éééé.hh.nn.>./
+
+
+
+
+[A döntéshozatal helye és dátuma]
+                               [igazgató neve]
+                                  igazgató
+                           (a hatáskör gyakorlója)
+
+                      [a döntés kiadmányozójának neve]
+               [a döntés kiadmányozójának hivatali beosztása]
+
+
+A döntésről értesítést kapnak:
+   1. címzett
+
+   2. irattár
+

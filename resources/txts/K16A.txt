@@ -1,0 +1,41 @@
+OSZM Android v1.5 – 1022
+
+	Újdonságok, hibajavítások
+
+	Új alkalmazásfunkció
+
+	Kétlépcsős azonosítás
+
+	A Kétlépcsős azonosítás funkciógombra koppintva biztonságosabbá teheti a bejelentkezést a felületre.
+
+	A használatához az Online Számla felületen be kell állítania a kétlépcsős azonosítást, ahol ki lehet választania az azonosítás módját. Ha később ezen módosítani szeretne, akkor a Felhasználói profil oldalon, a Módosítás gomb megnyomásakor ki kell választania a Kétlépcsős azonosítás módosítása opciót.
+
+	A felhasználónak lehetősége van kóddal azonosítania magát, ehhez a Kódgenerálást választom funkciógombra kell kattintania a felületen, majd az Online Számlázó mobilalkalmazásban a Kód beolvasása funkciógombra. A QR-kód beolvasása után az applikáció generál egy hatjegyű kódot, amelyet az Online Számla felületen meg kell adnia.
+
+	A felhasználó azonosíthatja magát értesítésalapon is, ehhez a felületen az Értesítésalapút választom lehetőségre kell kattintania, majd a Korábban párosított készüléket használok funkciógombra
+
+	Miután kiválasztotta egy már párosított eszközét, amellyel az azonosítást szeretné elvégezni, a Tovább az ellenőrzésre funkciógombra kell kattintania. Ekkor a kiválasztott eszközön egy értesítés jelenik meg, amelyen keresztül engedélyezheti a belépési kísérletet.
+
+	Hibajavítások
+
+	
+
+	OSZM iOS v1.5 – 838
+
+	Újdonságok, hibajavítások
+
+	Új alkalmazásfunkció
+
+	Kétlépcsős azonosítás
+
+	A Kétlépcsős azonosítás funkciógombra koppintva biztonságosabbá teheti a bejelentkezést a felületre.
+
+	A használatához az Online Számla felületen be kell állítania a kétlépcsős azonosítást, ahol ki lehet választania az azonosítás módját. Ha később ezen módosítani szeretne, akkor a Felhasználói profil oldalon, a Módosítás gomb megnyomásakor ki kell választania a Kétlépcsős azonosítás módosítása opciót.
+
+	A felhasználónak lehetősége van kóddal azonosítania magát, ehhez a Kódgenerálást választom funkciógombra kell kattintania a felületen, majd az Online Számlázó mobilalkalmazásban a Kód beolvasása funkciógombra. A QR-kód beolvasása után az applikáció generál egy hatjegyű kódot, amelyet az Online Számla felületen meg kell adnia.
+
+	A felhasználó azonosíthatja magát értesítésalapon is, ehhez a felületen az Értesítésalapút választom lehetőségre kell kattintania, majd a Korábban párosított készüléket használok funkciógombra
+
+	Miután kiválasztotta egy már párosított eszközét, amellyel az azonosítást szeretné elvégezni, a Tovább az ellenőrzésre funkciógombra kell kattintania. Ekkor a kiválasztott eszközön egy értesítés jelenik meg, amelyen keresztül engedélyezheti a belépési kísérletet.
+
+	Hibajavítások

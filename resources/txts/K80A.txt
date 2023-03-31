@@ -1,0 +1,29 @@
+A pénzügyi biztosíték szabályai, adattartalma 2017. július 1-től
+
+A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 4. § (2) bekezdése kimondja, hogy az adóbevételek biztosítása érdekében a jövedéki termékek adó megfizetése nélküli előállításából, tárolásából, szállításából és a halasztott adófizetésből adódó adókockázatra jövedéki biztosítékot kell nyújtani.
+
+A jövedéki biztosíték készpénz, pénzügyi biztosíték és a készfizető kezesség (jogszabályban behatároltak szerinti) lehet.
+
+A Jöt. 3. § (1) bekezdés 42. pontja értelmében pénzügyi biztosíték az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.
+
+Nem fogadható el a pénzügyi biztosíték, ha az azt nyújtóval szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti kivételes intézkedés alkalmazására került sor vagy ha az azt nyújtónál a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási szükséghelyzet alakult ki.
+
+Az adófelfüggesztési eljárás keretében végzett szállítással együtt járó adókockázatra jutó pénzügyi biztosítéknak a jövedéki termék kiszállítását követően még 4 hónapig, az adófizetési kötelezettség teljesítésével járó adókockázatra jutó pénzügyi biztosítéknak a jövedéki termék szabadforgalomba bocsátását követően még 60 napig kell érvényesíthetőnek lennie, az adókockázatra jutó készpénzben nyújtott jövedéki biztosíték pedig ugyanezen határidők leteltéig nem fizethető vissza a biztosítékot nyújtónak.
+
+Jövedéki termék tagállamok közötti vagy másik tagállamon keresztül harmadik országba történő szállításának adókockázatát fedező pénzügyi biztosítékul az Európai Unió valamennyi tagállamában érvényesíthető pénzügyi biztosítékot kell nyújtani.
+
+A jövedéki biztosítékot pénzügyi biztosíték formájában nyújtó felhasználói engedélyesnek a pénzügyi biztosíték hatályvesztését legalább 30 nappal megelőzően a lejárat napját követő naptól hatályos újabb pénzügyi biztosítékot kell az állami adó- és vámhatósághoz benyújtani.
+
+A pénzügyi biztosítéknak tartalmaznia kell:
+
+a pénzügyi biztosítékot nyújtó megnevezését, bankszámlaszámát,
+
+a megbízó nevét, címét, fizetési számlaszámát, adószámát,
+
+a pénzügyi biztosíték egyedi azonosítóját, valamint összegét számmal és betűvel,
+
+a pénzügyi biztosíték érvényességének kezdő és végső időpontját és
+
+a garanciát vállaló hitelintézet kötelezettségvállalását arra nézve, hogy a biztosító az állami adó- és vámhatóság igénybejelentése alapján, feltétel nélkül - bankgarancia esetén a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 munkanapon belül - az igénybejelentésben megjelölt államháztartási számlára megfizeti a megbízója lejárt tartozását.
+
+Kizárólag eredeti okiratként elektronikusan vagy papír alapon (nem másolatban) nyújtható  be a pénzügyi biztosíték. Amennyiben magyar, angol, német vagy francia nyelvtől eltérő nyelven kerülne kiállításra a pénzügyi biztosíték, abban az esetben csak hiteles magyar fordítással ellátva fogadható el.

@@ -1,0 +1,19 @@
+Az Online Számla rendszer tesztkörnyezete ismét elérhető
+
+ 
+
+Az Online Számla rendszer tesztkörnyezete az alábbi változásokkal 2021. június 18-tól ismét elérhető.
+
+Az elsődleges felhasználók mostantól KAÜ-azonosítást követően tudnak belépni az Online Számla tesztfelületre.
+
+A kötelező regisztráció megszűnik, helyette a „Bejelentkezés”-re kattintva lehet belépni és elérni az adózóhoz/felhasználóhoz kapcsolódó adatokat, számlaadat-szolgáltatásokat, valamint az Online Számlázó programot. 
+
+A másodlagos felhasználók belépése a felületre jelenleg nem lehetséges, mert a fejlesztés alatt álló kétlépcsős azonosítás tesztelése még folyamatban van.
+
+
+
+A változásokról részletesen Az Online Számla rendszer használata és a Technikai információk/Informatikai változások menüpontokban tájékozódhat.
+
+ 
+
+Köszönjük felhasználóink türelmét!

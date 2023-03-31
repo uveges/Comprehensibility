@@ -1,0 +1,19 @@
+Jövedéki ügyek intézése
+
+
+
+Az Online Nyomtatványkitöltő Alkalmazásban intézhető jövedéki ügyek köre folyamatosan bővül. Jelenleg a következő nyomtatványok kitöltésére és benyújtására van lehetőség online:
+
+BEV_J01 és BEV_J02 – jövedéki adóbevallások és adó-visszaigénylések, 
+
+NAV_J09 – jövedéki engedélyes kereskedő készletváltozásáról szóló adatszolgáltatás, 
+
+NAV_J33 – jövedéki kiskereskedő és bérfőzető bejelentése, 
+
+NAV_J41 – az üzemanyagtöltő állomás adatszolgáltatása, illetve 
+
+NAV_J49 – a magánfőzött párlat előállításának bejelentése.
+
+
+
+Azok a jövedéki adóalanyok, akiknek a NAV a tárgyhónapot követő 10-éig elküldi a jövedékiadó-bevallás alapját képező adatokat, az az ONYA-ban hozzáférnek a NAV által készített adóbevallási tervezethez. Az ebben szereplő adatok ellenőrzése és esetleges javítása után a bevallás egy gombnyomással beküldhető.

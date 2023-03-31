@@ -1,0 +1,393 @@
+Miért a NAV-tól kaptam a gépjárműadó kivetéséről határozatot?
+
+	
+
+	A gépjárműadóval kapcsolatos adóztatási feladatokat 2021. január 1. óta az önkormányzati adóhatóságok helyett a Nemzeti Adó- és Vámhivatal (NAV) látja el. 
+
+	
+
+	
+
+Miért határozatot kaptam a NAV-tól és nem levelet?
+
+
+
+A NAV az adókötelezettségről, az adózó jogát, kötelezettségét érintő kérdésekről határozatot hoz.  
+
+
+
+2021-ben a NAV a gépjárműadó kivetéséről határozatot küldött az adózóknak. Ameddig ez a gépjárműadó-kötelezettség az első határozathoz képest nem változik, a NAV az éves gépjárműadóról csak értesítést küld, új határozatot nem.  
+
+
+
+
+
+2022-ben is ezer forintra kerekítve kell a gépjárműadót megfizetnem?
+
+
+
+Nem, 2022-ben forintra pontos összegben kell megfizetni a gépjárműadót. 
+
+
+
+Ennek oka, hogy 2022. január 1-jén módosul az adózás rendjéről szóló törvény, és a gépjárműadó bekerül azon adónemek közé, amiket kerekítés nélkül kell megfizetni.
+
+
+
+
+
+2021-ben miért ezer forintra kerekítve kellett megfizetnem a gépjárműadót, ha a határozat rendelkező részében forintra pontosan szerepel az adó összege? 
+
+
+
+A gépjárműadó számításának módját a gépjárműadóról szóló törvény határozza meg. Az adót az adóalap és az adómérték alkalmazásával forintra pontos összegben kell megállapítani.
+
+
+
+Az adózás rendjéről szóló törvény szerint azonban a NAV-nál nyilvántartott adók többségét – köztük 2022. január 1-jéig a gépjárműadót is – ezer forintra kerekítve kell megfizetni. 
+
+
+
+A kerekítés az általános matematikai szabályok alapján történik, így 499 forintig lefelé, 500 forinttól felfelé kell kerekíteni. Tehát nem csak felfelé, hanem lefelé kerekített összegek is előfordulnak. Erről a kiküldött határozatok indokolásában található részletes tájékoztatás. 
+
+Miért a könyvelőm kapta az adókivetésről szóló határozatot? 5./b Könyvelőként miért én kapom meg a határozatokat?
+
+
+
+Ha az adózónak van képviselője, akkor az adóhatósági iratot, így a gépjárműadóról szóló határozatot is, a képviselőjének kell kézbesíteni. 
+
+
+
+Sok érintett magánszemély adóügyeivel úgy bízott meg számviteli szakembert, például könyvelőt, hogy állandó jelleggel, valamennyi adóügyére kiterjedő meghatalmazást adott, és nem szűkítette azokat az ügyeket, amelyekben képviselője eljárhat. A határozatot ezekben az esetekben a teljeskörű állandó meghatalmazottnak küldte a NAV.
+
+
+
+Ha Ön nem szeretné, hogy például a gépjárműadója ügyében a könyvelője járjon el Ön helyett, akkor javasoljuk, hogy adjon be új EGYKE-adatlapot, és abban ne a minden adóügyre vonatkozó felhatalmazást válassza, hanem válassza ki azokat az ügyeket, amelyekben a könyvelő ténylegesen eljárhat. Ebben az esetben a NAV a módosítást az adatlap beküldését követő ügyeiben fogja figyelembe venni. 
+
+
+
+Ha Ön meghatalmazott könyvelő, és ügyfele képviseletét nem vagy nem minden adóügyben látja el, így például a gépjárműadó ügyében sem, javasoljuk, hogy egyeztessen ügyfelével és tegyenek új bejelentést, amelyben csak azokat az ügyeket jelölik meg, melyekben ténylegesen el fog járni. A képviselet megszüntetése szintén az EGYKE-adatlapon jelenthető be.
+
+
+
+
+
+ Hova kell megfizetni a gépjárműadót?
+
+
+
+A gépjárműadót a 410-es adónemhez tartozó, 10032000-01079160 számú, NAV Belföldi gépjárműadó-bevételi számlára kell megfizetni. Banki átutalásnál az átutalási bizonylat közlemény rovatába az adószámot vagy az adóazonosító jelet kell beírni. Ha ez elmarad, akkor a NAV nem, vagy csak késedelmesen tudja a befizetett összeget a befizetőhöz kapcsolni. 
+
+
+
+
+
+Hogyan tudom megfizetni a gépjárműadót?
+
+
+
+Aki pénzforgalmi számla nyitására nem kötelezett, az fizethet 
+
+átutalással, 
+
+csekken, 
+
+az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren (EFER) keresztül vagy 
+
+akár az ügyfélszolgálatokon bankkártyával.
+
+
+
+A pénzforgalmi számla nyitására kötelezettek, például áfás egyéni vállalkozó vagy gazdasági társaság, 
+
+kizárólag belföldi pénzforgalmi számlájukról átutalással – beleértve az EFER-es utalást is – rendezhetik a befizetést.
+
+
+
+
+
+Nem kaptam vagy nem találom az év elején kiküldött csekket a gépjárműadó megfizetéséhez. Hogyan kérhetek csekket a befizetéshez?
+
+
+
+Ha valaki nem kapott vagy esetleg elveszíti a csekket, akkor újat a következő módokon igényelhet: 
+
+a NAV honlapjáról letölthető CSEKK elnevezésű nyomtatványon, ami az Általános Nyomtatványkitöltő Keretprogrammal (ÁNYK) elektronikusan, a KÜNY-tárhelyen keresztül is beküldhető a NAV-hoz, vagy kinyomtatva, papíralapon is el lehet juttatni az illetékes NAV-igazgatósághoz, 
+
+a NAV honlapjának „Adatlapok, igazolások, meghatalmazásminták” menüpontjából letölthető „Kérelem készpénzátutalási megbízás (csekk) igényléséhez” elnevezésű nyomtatványon, amit papíralapon kell az illetékes NAV-igazgatóságra eljuttatni, 
+
+a NAV ügyfélszolgálatain, személyesen,
+
+a NAV Infóvonalán, a 4-es menüpont választásával (belföldről: 1819, külföldről: +36 (1) 250-9500 hívószám),
+
+a NAV Ügyfél-tájékoztató és Ügyintéző Rendszerében (ÜCC)* a folyószámla-ügyintézés menüpont választásával (belföldről: +36 (80) 20-21-22, külföldről: +36 (1) 441-9600 hívószám).
+
+
+
+*Az ÜCC használatához előzetesen regisztrálni kell a TEL jelű adatlap kitöltésével és elektronikus beküldésével, vagy személyes leadásával. Ügyet intézni az ezt követően kapott ügyfél-azonosító számmal (PIN kóddal) lehet, 
+
+
+
+A kiküldött csekken a fizetendő összeg nincs feltüntetve. A gépjárműadó összegével kapcsolatban a 9-10. pontban foglaltak szerint tájékozódhat.
+
+
+
+
+
+Ha nem találom az év elején kiküldött gépjárműadó-határozatot, hogyan pótolhatom? Hogyan tudom ismételten letölteni vagy megnézni?
+
+
+
+A határozat ismételt kiküldése kérhető 
+
+a NAV Ügyfél-tájékoztató és Ügyintéző Rendszerében (ÜCC)* (belföldről: +36 (80) 20-21-22, külföldről: +36 (1) 441-9600 hívószám),
+
+papíralapon írásban, 
+
+e-Papíron a https://epapir.gov.hu/ (témacsoport: Iratbetekintési/másolatkészítési jog gyakorlása, ügytípus: Iratbetekintési/másolatkészítési kérelem (kivéve szabálysértés és bűnügy), illetve
+
+ismételt kiadása, kiküldése kérhető személyesen a NAV Ügyfélszolgálatokon, ahol a határozat személyesen is megtekinthető. 
+
+
+
+*Az ÜCC használatához előzetesen regisztrálni kell a TEL jelű adatlap kitöltésével és elektronikus beküldésével, vagy személyes leadásával. Ügyet intézni az ezt követően kapott ügyfél-azonosító számmal (PIN kóddal) lehet, 
+
+
+
+
+
+Ha nem emlékszem arra, hogy korábban mennyi gépjárműadót fizettem, akkor hogyan tudom adószámla-egyenlegemet ellenőrizni az eBEV-portálon?
+
+
+
+Az adószámlát az eBEV-portálon a Szolgáltatások > Adószámla és pótlékadatok > Adószámla menüpontban lehet lekérdezni. A gépjárműadó összegét a 410-es adónemnél lehet ellenőrizni. A részletes egyeztetéséhez a Tételes, vagy a Lista típusú adószámla-lekérdezést javasoljuk. 
+
+
+
+A lekérdezéshez a NAV honlapján az Adó > Adószámla > Elektronikus lekérdezés útvonalon elérhető adószámla-lekérdezési útmutatóban, az adószámla értelmezéséhez az Adó > Adószámla > Kivonat és késedelmipótlék-értesítő útvonalon elérhető ismertetőben talál segítséget.
+
+
+
+
+
+2021-ben meddig kell befizetni a gépjárműadót? 
+
+
+
+A gépjárműadót főszabály szerint két egyenlő részletben kell megfizetni. A két részlet megfizetésének határideje 2021-ben április 15., illetve szeptember 15 volt.
+
+
+
+Ha a gépjárműadóról szóló határozatot ezen időpontok után kapta meg, akkor a határozat véglegessé válása, vagyis a fellebbezési határidő lejárta után 15 napon belül kell megfizetnie az adót. (A határozatra az átvételtől számított 15 napig lehet fellebbezést benyújtani.)
+
+
+
+
+
+Év közben vásárolt új vagy használt, de év közben újra forgalomba helyezett gépjármű után nem kaptam még határozatot, mikor fogom megkapni? Meddig kell befizetnem az adót? 
+
+
+
+Az év közben vásárolt újként vagy újra forgalomba helyezett gépjárművek után a NAV folyamatosan küldi ki a határozatokat a gépjárműadóról.
+
+
+
+A gépjárműadót a határozat véglegessé válása, vagyis a fellebbezési határidő lejárta után 15 napon belül kell megfizetni. (A határozatra az átvételtől számított 15 napig lehet fellebbezést benyújtani.)
+
+
+
+
+
+Év közben használt autót vettem másik magánszemélytől. Mikor kell megfizetnem a gépjárműadót?
+
+
+
+Ha év közben használt gépjárművet vásárolt, Önnek csak a következő évtől kell fizetnie a gépjárműadót. A gépjárműadót ugyanis főszabály szerint az fizeti, aki a járműnyilvántartásban az év első napján üzembentartóként, ennek hiányában tulajdonosként szerepel. 
+
+
+
+Ha azonban a megvásárolt használt gépjármű ki volt vonva a forgalomból és az Ön nevére helyezik újra forgalomba, akkor a gépjárműadót az azt megállapító határozat véglegessé válásától számított 15 napon belül kell megfizetni.
+
+
+
+
+
+Az év közben vásárolt gépjárművek tulajdonosváltását be kell-e jelenteni a NAV-hoz?
+
+
+
+Nem. A tulajdonosváltozást a közlekedési igazgatási hatóságnál, vagyis a kormányablakban, okmányirodában kell bejelenteni.
+
+
+
+
+
+Eladtam az autómat év közben, nekem kell az év hátralévő részében a gépjárműadót fizetnem?
+
+
+
+Igen, ugyanis az éves adót az fizeti, aki a járműnyilvántartásban az év első napján üzembentartóként, ennek hiányában tulajdonosként szerepel. 
+
+
+
+Azonban ha a gépjárművet kivonják a forgalomból, az adót csak időarányosan kell megfizetni. 
+
+
+
+
+
+Használtan vett autómat a vásárlás évében eladtam, az új tulajdonos pedig rögtön kivonta a gépjárművet a forgalomból. Hogyan alakul ebben az esetben a gépjárműadó?
+
+
+
+A gépjárműadót az fizeti, aki a járműnyilvántartásban az év első napján üzembentartóként, ennek hiányában tulajdonosként szerepel. Ha a gépjárművet a forgalomból bármely okból kivonták, akkor az adókötelezettség a forgalomból kivonás hónapjának az utolsó napján megszűnik. Ez független attól, hogy a forgalomból kivonást már az új tulajdonos kérte. Az előző tulajdonos új határozatot fog kapni, mivel a korábban előírt éves adója csökken.
+
+
+
+Ha újra forgalomba helyezik a gépjárművet, akkor a gépjárműadót annak kell fizetnie, aki a forgalomba helyezés hónapjának utolsó napján a járműnyilvántartásban üzembentartóként, ennek hiányában tulajdonosként szerepel.
+
+
+
+
+
+A gépjármű tulajdonosa év elején elhunyt, a hagyatéki tárgyalás már a tavasszal lezajlott. Mikor és ki fizeti a gépjárműadót? Hogyan értesül róla?
+
+
+
+A NAV kérelemre, vagy ha értesül az elhalálozásról, akkor hivatalból soron kívüli adómegállapítási eljárást indít az elhunyt adózó után.
+
+
+
+A NAV határozatban közli az örökösökkel az adóévre fizetendő adó összegét és a befizetés határidejét.
+
+
+
+
+
+A forgalomba helyezés után mikor kell megfizetni a gépjárműadót? 
+
+
+
+A gépjárműadó-kötelezettség a forgalomba helyezést követő hónap 1-jén kezdődik. 
+
+
+
+A NAV a gépjárműadó kiszabásáról határozatot küld. A befizetési határidő a határozat véglegessé válása, vagyis a fellebbezési határidő lejárta után 15 nap. (A határozatra az átvételtől számított 15 napig lehet fellebbezést benyújtani.)
+
+
+
+
+
+Külföldi rendszámú, Magyarországon használt személygépjármű után kell gépjárműadót fizetni?
+
+
+
+Nem. Gépjárműadót a magyar hatósági rendszámtáblával ellátott gépjármű, pótkocsi, valamint a Magyarország területén közlekedő, külföldön nyilvántartott tehergépjármű után kell fizetni.
+
+
+
+
+
+Ha eladtam az autómat és a vevő nem íratta át, ezért azt kivonták a forgalomból, bejelenthetem a mentességemet a NAV-hoz a forgalomból kivont, már más tulajdonában lévő autó után? 
+
+
+
+A mentességet nem kell bejelenteni, a NAV a forgalomból kivonás tényéről a járműnyilvántartásból havonta értesül.
+
+
+
+A NAV a forgalomból kivonást követő hónap első napjától időarányosan törli a gépjárműadót.
+
+
+
+
+
+Egy magánszemély rokkantsága miatt mentesül a gépjárműadó alól, az önkormányzattól azt a tájékoztatást kapta, hogy a mentességről tájékoztatták az adóhatóságot. Tényleg így történt?
+
+
+
+Az önkormányzatok a 2020. december 31-én nyilvántartott mentességekről adatot szolgáltattak a NAV-nak. A NAV az adatszolgáltatás alapján a mentességeket az adókivetéskor figyelembe veszi. 
+
+
+
+
+
+A korábbi években járó kedvezményeket automatikusan figyelembe veszi a NAV, vagy be kell újra jelenteni azokat a GJADO-adatlapon?
+
+
+
+A korábban is élő mentességeket újból nem kell bejelenteni. 
+
+
+
+A NAV az önkormányzatoktól a 2020. december 31-én nyilvántartott és hatályos mentességekre vonatkozó adatokat megkapta, azokat az adókivetésnél hivatalból figyelembe veszi, vette. 
+
+
+
+Ha új mentességet szeretne igénybe venni vagy szünetelést, adókedvezményt kér, akkor azt a GJADO „adat- és változásbejelentő lap a gépjárműadó mentesség / kedvezmény / szüneteltetés igénybevételéhez” elnevezésű adatlap benyújtásával teheti meg. 
+
+
+
+Az adatlap benyújtható 
+
+az Online Nyomtatványkitöltő Alkalmazásban (ONYA) és
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) elektronikusan,  illetve 
+
+a központi ügyfélszolgálatokon papíralapon is.
+
+
+
+
+
+Elektromos gépjármű után kell-e gépjárműadót fizetni?
+
+
+
+A környezetkímélő gépjármű adómentes. Ilyen az elektromos és a nulla emissziós gépkocsi. Ezek a következők:
+
+tisztán elektromos gépkocsi (a forgalmi engedélyben 5E környezetvédelmi osztály szerepel),
+
+külső töltésű (plug-in) hibrid (a forgalmi engedélyben 5P környezetvédelmi osztály szerepel),
+
+növelt hatótávolságú hibrid (a forgalmi engedélyben 5N környezetvédelmi osztály szerepel),
+
+nulla emissziós gépkocsi (a forgalmi engedélyben 5Z környezetvédelmi osztály szerepel).
+
+
+
+
+
+„P” betűjelű ideiglenes rendszámtáblával ellátott gépjármű után kell-e gépjárműadót fizetni?
+
+
+
+Igen, 23.000 forint gépjárműadót kell fizetni a „P” betűjelű ideiglenes rendszámtáblával rendelkező jármű után. Az adókötelezettség a rendszámtábla kiadásakor keletkezik. 
+
+
+
+
+
+Ha ellenőrizni szeretném, hogy a kiszabott gépjárműadó összege helyes, hogy tudom kiszámolni annak mértékét?
+
+
+
+A kiküldött határozat indokolása részletesen tartalmazza a gépjárműadó számítására vonatkozó információkat, amely alapján ellenőrizhető az adó összegének helyessége. Az adó alapját és mértékét a gépjárműadóról szóló törvény határozza meg.
+
+
+
+A számítás ellenőrzéséhez a NAV honlapján az Információs füzetek menüpontban elérhető, 95. számú A belföldi gépjárművek adója című információs füzet 9. pontja is segíthet. 
+
+
+
+
+
+Mi a teendőm, ha az önkormányzatnál a gépjárműadóban túlfizetésem van? Figyelembe veszi ezt a NAV? 
+
+
+
+Nem. Ha Önnek az önkormányzathoz 2021 előtt befizetett adóból visszajár, akkor azt nem a NAV, hanem az önkormányzati adóhatóság téríti vissza. 
+
+
+
+A visszatérítéshez kérelmet kell benyújtani az önkormányzati adóhatósághoz.

@@ -1,0 +1,23 @@
+A Nemzeti Adó- és Vámhivatalnál (NAV) elektronikusan is elintézhetik ügyeiket azok, akiknek jövedéki adót érintő bevallást kell benyújtaniuk és a mezőgazdaságban felhasznált gázolaj után adót igényelhetnek vissza.
+Az érintettek köre A jövedéki adóról szóló 2016. évi LXVIII. törvény (Jöt.) szerinti kötelezettségeiket teljesítők, a jövedékiadó-fizetésre ugyan nem kötelezettek, de a Jöt. rendelkezései alapján jövedéki adót visszaigénylők.
+Mit kell tennie?
+A jövedéki ügyeket – ha a törvény eltérően nem rendelkezik – elektronikusan kell intézni.
+Benyújtandó dokumentumok: BEV_J01 jelű bevallás a dohánygyártmányok után fizetendő, illetve visszaigényelhető jövedéki adó és általános forgalmi adó összegéről, valamint ezek önellenőrzéséről, BEV_J02 jelű bevallás az ellenőrzött energiatermék, az alkoholtermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék után fizetendő, illetve visszaigényelhető jövedéki adó összegéről, valamint ezek önellenőrzéséről, J03 bevallás a villamos energia, a földgáz és a szén után fizetendő, illetve visszaigényelhető energia- és jövedéki adóról, valamint ezek önellenőrzéséről (évesített nyomtatvány, ami azt jelenti, hogy minden évben új nyomtatvány jelenik meg, például: 18J03, 19J03, 20J03, 21J03), BEV_J04 jelű bevallás a mezőgazdaságban felhasznált gázolaj után visszaigényelhető jövedéki adó összegéről és önellenőrzéséről.
+A bevallások elektronikus benyújtásáról és az elektronikus kapcsolattartás szabályairól bővebb információt a NAV honlapján () az „Elektronikus űrlapok benyújtásának módja, képviselet bejelentése” című tájékoztatóban, valamint „Az elektronikus ügyintézés és kapcsolattartás általános szabályai adóügyekben” című információs füzetben talál.
+A bevallások ÁNYK-ban futó kitöltőprogramja és a hozzá tartozó útmutató a  → Nyomtatványkitöltő programok → Nyomtatványkitöltő programok → Programok részletes keresése útvonalon található meg.
+ONYA A BEV_J01 jelű és a BEV_J02 jelű bevallások webes kitöltőprogramja (WebNYK) és a hozzá tartozó útmutató a  → Online Nyomtatványkitöltő Alkalmazás  útvonalon, az ONYA-ba belépve választható ki.
+Jogkövetkezmények Ha az adózó a bevallási, adatszolgáltatási kötelezettségét hibásan, hiányos adattartalommal, késve teljesíti vagy elmulasztja, a NAV a törvényben meghatározott szankcióval élhet.
+(Az adózás rendjéről szóló 2017. évi CL. törvény (Art.) 150-162. §, 220-221. § és 237-238. §).
+Költségvetési támogatás esedékesség előtti igénybevételekor az esedékesség napjáig késedelmi pótlékot kell fizetni.
+(Art. 206. § (1) bekezdés).
+Aki a Jöt.-ben, valamint az adóigazgatási rendtartásról szóló 2017. évi CLI. törvényben és az Art.-ban előírt, a jövedéki adóhoz kapcsolódó kötelezettségét megszegi, jövedéki bírsággal sújtandó (Jöt. 100. § (1) bekezdés).
+Ha kötelezettségszegése a központi költségvetésnek vagyoni hátrányt okoz, akkor a jövedéki bírság mértéke a központi költségvetésnek okozott vagyoni hátrány mértékének kétszeresétől ötszöröséig terjedő összeg, de legalább 30 000 forint (Jöt. 100. § (2) bekezdés).
+Fizetési kötelezettség Az eljárás illetékmentes.
+Eljáró szerv A Nemzeti Adó- és Vámhivatal.
+Irányítás, Felügyelet Pénzügyminisztérium Székhelye: 1051 Budapest, József nádor tér 2-4.
+Vonatkozó jogszabályok 2016. évi LXVIII. törvény a jövedéki adóról, 2017. évi CL. törvény az adózás rendjéről.
+Fogalmak Jövedéki termék: az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány.
+Ügyfélkapu: az állam által nyújtott azonosítási szolgáltatás, mely a személyazonosság igazolásával biztosítja, hogy biztonságosan kapcsolatba léphessen az elektronikus közigazgatási ügyintézést és szolgáltatást nyújtó szervekkel.
+EGYKE-adatlap: Egységes Képviseleti Adatlap – ezen az adatlapon lehet bejelenteni, ha valaki adó- és vámügyeit képviselő megbízásával intézi.
+ÁNYK: Általános Nyomtatványkitöltő Keretprogram – keretprogram a Java-alapú nyomtatványok kitöltéséhez, az AbevJava továbbfejlesztett változata.
+ONYA: Online Nyomtatványkitöltő Alkalmazás – webes, keretprogram letöltése nélkül, akár okoseszközről is használható alkalmazás a bevallások kitöltéséhez.

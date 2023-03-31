@@ -1,0 +1,95 @@
+v1.0 (2021.10.21)
+
+TERVEZET
+
+Iktatószám: ………..
+
+	Tisztelt XY Kft.!
+
+A NAV rendszeresen vizsgálja az online számlaadat-szolgáltatási kötelezettség teljesítését. 
+
+2021 szeptemberében
+
+több olyan adatszolgáltatási kísérletet regisztrált az Online Számla rendszer a(z) 12345678 adószám törzsszámról, ami műszaki, illetve technikai okból sikertelen volt.
+
+Kérjük, vegye fel a kapcsolatot az online számlaadat-szolgáltatásra használt számlázóprogramjának fejlesztőjével a hibák okának feltárásához és elhárításához. 
+
+Ezek a problémák nem feltétlenül a számlázószoftver hibájából adódnak, azokat előidézheti helytelen adatbevitel vagy rossz felhasználói gyakorlat is, esetlegesen a hibás adózói gyakorlat. 
+
+Mivel a hibák javítása hosszabb időt is igénybe vehet, a NAV legközelebb 2022 januárjában a decemberi adatok alapján vizsgálja az Ön adatszolgáltatásainak sikerességét.
+
+Az 1. számú mellékletben megtalálja az említett sikertelen számlaadat-szolgáltatásokra adott hibajelzések listáját és darabszámát. A hibajelzések magyarázatát a 2. számú melléklet tartalmazza. 
+
+A műszaki, illetve technikai hibák elhárításában az Ön számlázóprogramjának működését ismerő szoftverfejlesztő segíthet, abban a NAV nem tud közreműködni.
+
+Online számlaadat-szolgáltatással kapcsolatos általános jellegű segítség:
+
+Az adatszolgáltatás technikai érvénytelenítésével és javításával kapcsolatban a https://onlineszamla.nav.gov.hu/dokumentaciok weboldalon található Online Számla Felhasználói kézikönyv szolgál információval.
+
+Az Online Számla rendszerben elsődleges felhasználóként regisztrált képviselője a Szolgáltatások  Használati statisztika felületen tájékozódhat az online számlaadat-szolgáltatás sikerességéről. A Használati statisztika alkalmazásáról egy kisfilm is készült, ami a https://onlineszamla.nav.gov.hu weboldal A rendszerről elnevezésű főmenüjében érhető el: https://onlineszamla.nav.gov.hu/a_rendszerrol. 
+
+Ez a levél az Ön tájékoztatását szolgálja, kérjük, ne válaszoljon rá! 
+
+Ha a hibákat már észlelte, és a szükséges intézkedéseket is megtette, jelzésünket tekintse tárgytalannak. 
+
+Kérjük, tájékoztató levelünkre válaszoljon! 
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+
+
+
+
+
+1. melléklet
+
+
+
+A 2021. szeptemberi adatszolgáltatásokban előforduló manageInvoice művelet hibakódok és az előfordulások száma. (Nem tartalmazza az INVOICE_NUMBER_NOT_UNIQE hibakódot, ami jellemzően nem a számlázóprogram hibája vagy hiányossága miatt keletkezik).
+
+
+
+HIBAKÓD
+
+DARABSZÁM
+
+INVALID_EXCHANGE_TOKEN
+
+1
+
+INVALID_INVOICE_REFERENCE
+
+        322 323 
+
+
+
+
+
+
+2. melléklet
+
+
+
+Az 1. mellékletben szereplő hibák oka és a teendők. 
+
+
+
+HIBAKÓD
+
+HIBA OKA
+
+TEENDŐ
+
+INVALID_EXCHANGE_TOKEN
+
+a kérésben szereplő adatszolgáltatási token érvénytelen
+
+Programhiba. Több esetben jelentkezhet a hibaüzenet. Lehetséges okok: a megadott token nem található a rendszerben, a token már lejárt, a token nem a megadott adózóra lett kiállítva, vagy a kliensoldali AES dekódolás hiányzik, esetleg hibás. Meg kell győződni az adatok és a dekódolás helyességéről. A token csak 5 percig érvényes, így érdemes a kikéréstől számított 5 percen belül elvégezni az adatszolgáltatást.
+
+INVALID_INVOICE_REFERENCE
+
+módosítás vagy érvénytelenítés esetén hibás a számlahivatkozás
+
+Felhasználói hiba vagy programhiba. A módosítás vagy az érvénytelenítéskor hivatkozott számla nem található az adózó alapszámlái (ahol invoiceOperation = CREATE) között a rendszerben, és a kérésben nem jelölték, hogy a módosításhoz nem tartozik korábbi adatszolgáltatás (invoiceReference-ben a modifyWithoutMaster tag értéke false). Javítani kell a hivatkozott számlasorszámot, vagy a modifyWithoutMaster taget true értékkel kell beküldeni. A számlázóprogram oldalán csak a megengedett értékkészlet kiválasztását érdemes engedélyezni. Javasolt felülvizsgálni az érvénytelen adómentességi kód értékkészleteit a programban.

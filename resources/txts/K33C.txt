@@ -1,0 +1,70 @@
+Online Számla 3.7-es verzió
+
+A regisztráció megszüntetése
+
+A bejelentkezési folyamat módosítása
+
+Az „Online Számlázó” gomb áthelyezése
+
+A mobilalkalmazás ismételt párosítása, mobiljelszó bevezetése
+
+INCORRECT_HEAD_DATA_CUSTOMER_TAXPAYERID javítása
+
+1. A regisztráció megszüntetése
+
+A verzióváltás után az új felhasználóknak a továbbiakban nem kell regisztrálnia, ezért a felület fejlécéről lekerült a „Regisztráció” gomb.
+
+Az új adózó felvételét továbbra is a törvényes képviselő vagy az adózó állandó meghatalmazottja végezheti el. Ezt a „Bejelentkezés” felületen a „törvényes képviselő vagyok” (elsődleges felhasználó) opció választásával, a bejelentkezési folyamat végigvitelével tehetik meg.
+
+2. A bejelentkezési folyamat módosítása
+
+A „Bejelentkezés” gombra kattintva a felhasználók egy bejelentkezés-választó képernyőre érkeznek, ahol ki kell választaniuk, hogy elsődleges vagy másodlagos felhasználóval szeretnének-e belépni.
+
+
+
+Az elsődleges felhasználók a Központi Azonosítási Ügynökön (KAÜ) keresztül az ügyfélkapus belépési adataikkal hitelesíthetik magukat. 
+
+
+
+Az elsődleges felhasználónak első bejelentkezésekor meg kell adni a felhasználó kapcsolattartási adatait. 
+
+A már korábban belépett, regisztrált elsődleges felhasználónak ezt a lépést csak akkor kell elvégezni, ha az adott személy több, különböző elsődleges felhasználóval regisztrált az Online Számla rendszerbe. 
+
+A megadott, felhasználói kapcsolattartási adatok bejelentkezés után a „Felhasználói profil” oldalon tekinthetők meg és szerkeszthetők.
+
+
+
+Ha egy adózóhoz először lép be a képviseletre jogosult elsődleges felhasználó, akkor meg kell adni az adózóhoz tartozó cím és kapcsolattartási adatokat. 
+
+A korábban már regisztrált adózóknak ezen adatokat nem kell újból megadni. 
+
+A megadott adatok bejelentkezés után az „Ügyfél” oldalon tekinthetők meg és szerkeszthetők.
+
+
+
+A már létező másodlagos felhasználók továbbra is felhasználónevükkel és jelszavukkal tudnak bejelentkezni. 
+
+Új másodlagos felhasználókat továbbra is az elsődleges felhasználó hozhat létre a „Felhasználók” menüpont alatt. 
+
+
+3. Az „Online Számlázó” gomb áthelyezése
+
+A fejlécen lévő „Online Számlázó” gomb ezentúl a fejléc bal oldalán található „Alkalmazás” választó ikont lenyitva érhető el. A továbbiakban az átjelentkezés az Online Számlázóba innen lehetséges.
+
+
+
+4. A mobilalkalmazás ismételt párosítása, mobiljelszó bevezetése
+
+
+
+Azon elsődleges felhasználóknak, akik az Online Számlázó mobilapplikációját alkalmazzák, a verzió telepítése után ismét párosítaniuk kell mobilkészülékeiket az Online Számlázó webes felületével.
+
+A készülékpárosítási folyamatban egy mobiljelszót kell megadni. A mobiljelszónak minimum 4, maximum 15 karakter hosszúnak kell lennie, számokat és ékezet nélküli nagybetűket tartalmazhat. A jelszó a felhasználóhoz kapcsolódik, nem kell készülékenként megadni.
+
+
+
+5. INCORRECT_HEAD_DATA_CUSTOMER_TAXPAYERID javítása
+
+
+
+Megszűnt az a hiba, amikor bizonyos vevői adószámoknál a címben említett warn jelentkezett.

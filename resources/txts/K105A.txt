@@ -1,0 +1,649 @@
+Az ingatlanértékesítésből és a vagyoni értékű jog átruházásából származó jövedelmek 
+
+
+
+Ha Ön 2020. évben ingatlant, vagyoni értékű jogot kíván átruházni, vagy ilyen jogügyletből már bevételhez jutott, akkor kérjük, hogy olvassa el figyelmesen ezt a tájékoztató füzetet!
+
+
+
+A magánszemély ingatlanértékesítésből és vagyoni értékű jog átruházásából származó jövedelmét a bevételből kiindulva, a költségek és a tulajdonban tartás időszakát figyelembe véve kell meghatározni. A jövedelem és az adója megállapításáról a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 59-64. §-ai rendelkeznek.
+
+
+
+Tartalomjegyzék
+
+
+
+	1. Fogalmak	1
+
+	2. Adómentes átruházás	2
+
+	3. A jövedelemszerzés időpontja	4
+
+	4. Az értékesített ingatlan szerzésének időpontja	5
+
+	5. Bevétel	6
+
+	6. Költség	7
+
+	7.  A jövedelem megállapítása	9
+
+	8. Az adó mértéke és az adókötelezettség teljesítése	10
+
+	9. Ingatlan, vagyoni értékű jog átruházásából származó jövedelem felhasználása	11
+
+	10. Méltányossági kérelem	12
+
+	11. Kárpótlási eljárás során szerzett termőföld elidegenítése esetén érvényesíthető kedvezmény	12
+
+	12. Az ingatlanlízing meghiúsulásából származó jövedelem	12
+
+	13. Az általános forgalmi adókötelezettséggel kapcsolatos szabályok	12
+
+
+
+
+
+1. Fogalmak 
+
+
+
+	A jövedelem megállapításához meg kell ismerkedni néhány fontosabb fogalommal.
+
+	
+
+	Ingatlan: 
+
+	Ingatlannak minősül a föld és a földdel alkotórészi kapcsolatban álló minden dolog, kivéve a földingatlan tulajdonosváltozása nélkül értékesített lábon álló (betakarítatlan) termést, terményt (pl. lábon álló fa). Ingatlan jellemzően a termőföld, a telek, az építmény, az épület.
+
+	A földdel alkotórészi kapcsolatban álló dolognak az tekinthető, ami nem mozdítható el a földtől anélkül, hogy az állaga sérülést ne szenvedne, így ingatlannak minősül pl. nemcsak a családi ház, hanem egy beton alapra épült tartósan összeszerelt faház is. Nem tekinthető ingatlannak például a szétszerelhető faház, vagy az öltöző kabin.
+
+
+
+Termőföld: 
+
+Termőföldnek minősül a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
+
+Tehát termőföldnek számít a föld fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve;
+
+
+
+Lakótelek:
+
+Lakóteleknek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben építési telekként meghatározott földrészletet akkor lehet tekinteni, ha arra a jog szerint lakás építhető. Lakótelekként kell figyelembe venni az ingatlan-nyilvántartásba a lakással együtt bejegyzett földrészletet és azokat a földrészleteket is, amelyeket a lakáshoz, a lakóházhoz tartozó földhasználati jog terhel.
+
+
+
+Lakás: 
+
+Az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró építmény, valamint az építési engedély szerint lakóház céljára létesülő építmény, ha készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lévő lakóház.
+
+
+
+Vagyoni értékű jog:
+
+Vagyoni értékű jognak minősül a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga.
+
+Miután a felsorolás taxatív, ezért nem lehet kiterjeszteni a köznapi értelemben általánosságban értelmezett vagyoni értékű jogokra, mint például az orvosi praxisjogra, az üdülőhasználati jogra, a nem ingatlanhoz kapcsolódó használati jogra (például gépkocsi használati jogra), a szerzői jogra.
+
+
+
+2. Adómentes átruházás 
+
+
+
+Bizonyos estekben az ingatlan, vagyoni értékű jog átruházásából származó bevételből származó jövedelem részben, vagy egészben adómentes.
+
+
+
+A házassági vagyonközösség megszüntetésekor az ingatlannak, a vagyoni értékű jognak a házastárs, bejegyzett élettárs által történő megváltásából származó jövedelem adómentes. 
+
+Ez a szabály a gyakorlatban azt jelenti, hogy ha az egyik fél lemond a közös lakás őt megillető tulajdonrészéről és ezért cserébe a másik fél lemond az egyéb közös vagyon (például: gépjármű) őt megillető részéből a megváltott tulajdonrésznek megfelelő értékről, akkor ez az ingatlanátruházás adómentesnek minősül. Az adómentesség abban az esetben is fennáll, ha a tulajdonrész megváltása nem a közös vagyonból, hanem külső forrásból történik (például az egyik fél hitelt vesz fel és így váltja meg a másik fél tulajdonrészét).
+
+
+
+Ha a magánszemély más magánszeméllyel kötött tartási, életjáradéki vagy öröklési szerződés alapján ingatlant, vagyoni értékű jogot ruház át tartás vagy járadékfolyósítás ellenében, akkor az ebből származó jövedelem adómentes. 
+
+Szintén adómentes a nyugdíjban részesülő magánszemély által a központi költségvetési szervvel vagy a helyi önkormányzattal kötött előzőekben említett szerződések alapján megszerzett jövedelem.
+
+
+
+A helyi önkormányzat, vagy az állam tulajdonában lévő lakás bérleti jogáról való lemondásért kapott térítés (ideértve a bérlakásból távozó bérlőtárs részére bírói határozat alapján a lakáshasználati jog ellenértékeként fizetett összeget is), továbbá a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény szerinti kényszerbérlet megszüntetése esetén a más lakás biztosítása helyett a helyi önkormányzat által a bérlőnek fizetett térítés is adómentes jövedelem.
+
+
+
+Adómentes a termőföld értékesítésből származó jövedelemnek a 200 ezer forintot meg nem haladó része, ha a magánszemély a termőföldet
+
+olyan regisztrált mezőgazdasági termelőnek adja el, aki azt legalább öt évig egyéni vállalkozóként, mezőgazdasági őstermelőként mezőgazdasági célra hasznosítja, vagy
+
+olyan magánszemélynek értékesíti, aki regisztrált mezőgazdasági társas vállalkozás alkalmazottja, és e földet az őt alkalmazó társas vállalkozásnak legalább tíz évre bérbe adja.
+
+
+
+Ha a magánszemély úgy adja el a termőföldet az előzőekben említett személyeknek, hogy az adásvétel a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény szerinti részarány-tulajdon megszüntetését eredményezi, akkor a termőföld értékesítésből származó teljes jövedelme adómentes.
+
+
+
+Adómentes, a termőföld értékesítésből származó jövedelem, ha a magánszemély a termőföldet 
+
+	regisztrációs számmal rendelkező állattenyésztést folytató olyan magánszemélynek adja el, aki a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként legalább 5 évig az állattartó telep takarmánytermelése céljából használja, vagy 
+
+	olyan magánszemélynek értékesíti, aki az őt alkalmazó mezőgazdasági társas vállalkozásnak az állattenyésztés takarmánybiztosítása érdekében legalább 10 évre bérbe adja.
+
+
+
+A törvény az adómentesség egyik feltételeként határozza meg az 5 és 10 éves hasznosítási időszakot. Az 5, vagy 10 éves időszak kezdő napja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja. Ha a termőföld harmadik féllel kötött szerződés alapján haszonbérletben van, akkor kezdő napnak a haszonbérleti szerződés lejártát követő december 31-ét kell tekinteni.
+
+
+
+2019. július 24-től hatályos szabály értelmében adómentes a termőföld értékesítéséből származó bevétel, ha az osztatlan közös tulajdonban levő földterület értékesítése valamely tulajdonostárs részére történik. Átmeneti rendelkezés értelmében ez a szabály 2019. január 1-jétől megszerzett bevételekre alkalmazható. 
+
+
+
+Adómentes a termőföld átruházása akkor is, ha az átruházás magánszemély részére birtok-összevonási céllal, települési önkormányzat részére szociális földprogram céljából, vagy a Nemzeti Földalap javára történik.
+
+
+
+A birtok-összevonási cél akkor valósul meg, ha az átruházás eredményeként már az ügyletet megelőzően is a vevő tulajdonában álló termőföld és az ügyletben megvásárolt termőföld – a település közigazgatási határától függetlenül – egymással szomszédossá válik. Az egy naptári éven belül megkötött és ezen időtartamon belül az ingatlanügyi hatósághoz benyújtott ingatlan adásvételi szerződések hatását együttesen kell vizsgálni. Szomszédos termőföldeknek minősülnek azok a földrészletek is, amelyeket önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna választ el.
+
+
+
+Ha az átruházás adómentessége a vevő számára előírt feltételek teljesítésétől függ, az adómentesség csak akkor érvényesíthető, ha az eladó legkésőbb a bevallás benyújtásakor rendelkezik a vevő közjegyző által készített vagy ügyvéd által ellenjegyzett okiratba foglalt nyilatkozatával, amely tartalmazza a vevő természetes azonosító adatait, adóazonosító jelét, valamint a vevő kötelezettségvállalását arra vonatkozóan, hogy az adómentesség feltételeinek megfelel. A vevő nyilatkozatát az eladó az adó megállapításához való jog elévüléséig köteles megőrizni. A valótlan tartalmú nyilatkozat miatt keletkező adóhiányt és jogkövetkezményeit az adóhatóság a vevő terhére állapítja meg.
+
+
+
+A magáncsőd jogintézményére tekintettel kedvező szabályt tartalmaz az Szja tv. az ingatlanértékesítésből származó jövedelem meghatározásával kapcsolatban.
+
+A magánszemélynek nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházásából megszerzett bevétel után, ha 
+
+azt a bevételt a magánszemély a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.
+
+
+
+3. A jövedelemszerzés időpontja 
+
+
+
+Az ingatlan, továbbá az ingatlan-nyilvántartásba bejegyzésre kötelezett vagyoni értékű jogból származó jövedelem megszerzése időpontjának azt a napot kell tekinteni, amikor az erről szóló érvényes szerződést (okiratot, bírósági, hatósági határozatot) az ingatlanügyi hatósághoz (régi elnevezéssel a földhivatalhoz) benyújtották. Az ingatlan-nyilvántartásba bejegyzésre nem kötelezett vagyoni értékű jog átruházása során az erre vonatkozó szerződés megkötésének a napja a jövedelemszerzés időpontja.
+
+
+
+
+
+4. Az értékesített ingatlan szerzésének időpontja 
+
+
+
+A törvény fő szabálya szerint a szerzési időpont az a nap, amikor a magánszemély az erről szóló érvényes szerződést (okiratot, bírósági határozatot) az ingatlanügyi hatósághoz benyújtotta.
+
+Opciós szerződéssel megszerzett ingatlan esetén az ingatlan megszerzésének azt a napot kell tekinteni, amikor a vevő egyoldalú vételi jogot gyakorló nyilatkozata az ingatlanügyi hatósághoz benyújtásra kerül.
+
+Öröklés esetén a szerzés időpontja az a nap, amelyen az örökség megnyílik (az örökhagyó halálának a napja).
+
+Földrendezés vagy kisajátítás során kapott csereingatlan szerzési időpontja az eredeti ingatlanszerzés időpontjával azonos. 
+
+Az 1989. január 1-je előtt jogi személytől vásárolt ingatlan szerzési időpontjának a szerződéskötés napját kell tekinteni.
+
+Az ingatlan-nyilvántartásba bejegyzésre nem kötelezett vagyoni értékű jog esetében a szerzés időpontja az erről szóló szerződés megkötésének a napja.
+
+
+
+Ha az ingatlanlízing futamidejének végén a vételi jog alapján a tulajdonjog magánszemélyre száll át, akkor a szerzés időpontja az ügyleti szerződés megkötésének időpontja.
+
+
+
+Az előzőektől eltérő szabályt állapít meg a törvény a földingatlanon felépített épület, épületrész megszerzésének az időpontját illetően.
+
+A földingatlan tulajdonjogának megszerzését követően 2007. december 31-éig felépített (ide tartozik a meglévő épület helyett újjáépített, megosztott, leválasztott) épület, továbbá a bővítéssel létesített épületrész esetében a szerzés időpontja a földterület tulajdonjogának a megszerzésével azonos időpont.
+
+Ha az értékesített ingatlanon 2007. december 31-e után történt építés (a meglévő helyett újjáépítés, megosztás, leválasztás), bővítés, akkor a magánszemély a szerzési időpont meghatározása során a következő két módszer közül választhat. 
+
+
+
+A szerzés időpontja annak 
+
+a használatbavételi (fennmaradási) engedélyről szóló határozatnak a jogerőre emelkedésének, valamint
+
+2016. január 1-jétől a használatbavétel tudomásulvételének, 
+
+az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának napja (a továbbiakban együttesen: hivatalos használatbavétel), 
+
+amit követően az ingatlanon további építés, bővítés nem történt. Ez azt jelenti, hogy ilyen esetben az adókötelezettség megállapításánál figyelembe vehető szerzési időpont független attól, hogy a földterület, amire a ráépítés történt, vagy az ingatlan, amin további bővítés történt, mikor került a magánszemély tulajdonába. 
+
+
+
+A másik módszer szerint a szerzési időpont a bevételnek a ráépítés, létesítés, alapterület-növelés megszerzésére fordított összegével arányos megosztásával választható, hogy
+
+ a földterület (telek), valamint az ingatlan tulajdonjogának megszerzésekor,
+
+ 2008. január 1-je előtt meglévő épített-ingatlan bevétel-része tekintetében az általános szabály szerinti szerzési időponttal és – esetenként külön-külön – a ráépítés, létesítés, alapterület-növelés bevétel-része tekintetében a hivatalos használatbavétel időpontjával kell azonosnak tekinteni.
+
+
+
+Ez az utóbbi esetet egy példán keresztül szemléltetve
+
+Egy magánszemély 2020. évben 60 millió forintért értékesíti az ingatlanát. Az eredeti ingatlan egy építési telek volt, amit 2013-ban 7 millió forintért vásárolt. Az ingatlanra épített 2016. évben 16 millió forintért egy kis házat, amit 2018. évben ráépítéssel bővített, amelyről 17 millió forint összegű számlával rendelkezik. 
+
+Az ingatlannak három szerzési időpontja van: 2013., 2016. és 2018. Mindegyik szerzési időponthoz a bevétel arányos része tartozik.
+
+
+
+Az szerzési értékek összesen: 7 000 000+16 000 000+17 000 000=40 000 000 
+
+A példában szereplő 60 milliós bevételt 7:16:17  arányban kell megosztani.
+
+
+
+Szerzés éve
+
+Arányszám
+
+A bevételrész meghatározása
+
+A megállapított bevételrész
+
+2013
+
+7
+
+60 000 000/40*7
+
+10 500 000
+
+2016
+
+16
+
+60 000 000/40*16
+
+24 000 000
+
+2018
+
+17
+
+60 000 000/40*17
+
+25 500 000
+
+
+
+Ha a tulajdonban tartás időszakában épített, bővített ingatlan hivatalos használatbavétellel nem rendelkezik, akkor a szerzés éve a hitelt érdemlően bizonyított tényleges használatbavétel éve, vagy, ha az nem állapítható meg, vagy az nem történt meg, akkor az átruházás évét kell a megszerzés évének tekinteni. 
+
+
+
+5. Bevétel 
+
+A jövedelem megállapításának első lépése az ingatlan, vagyoni értékű jog átruházásából származó bevétel meghatározása. Bevételnek tekintendő mindazon a bevétel, melyet a magánszemély az átruházásra tekintettel megszerez. Ilyennek minősül különösen az eladási ár, a cserébe kapott dolognak a jövedelemszerzés időpontjára megállapított szokásos piaci értéke, valamint az ingatlan, a vagyoni értékű jog gazdasági társaság vagy más cég részére nem pénzbeli hozzájárulásként (nem pénzbeli betétként) történő szolgáltatása során a vagyontárgynak a társasági szerződésben, más hasonló okiratban meghatározott értéke.
+
+
+
+Ingatlan, vagyoni értékű jog átruházásából származó bevételnek minősül a külföldi illetőségű magánszemélynek a társasági adóról és az osztalékadóról szóló törvény szerinti ingatlannal rendelkező társaságban lévő részesedése ellenérték fejében történő átruházása, kölcsönbe adása vagy ilyen társaságból történő kivonása révén megszerzett bevétele azzal, hogy a jövedelem megállapítására nem az Szja tv. 62. §-át, hanem az értékpapír-kölcsönzésből, az árfolyamnyereségből származó jövedelemre, a vállalkozásból kivont jövedelemre vonatkozó szabályokat kell alkalmazni.
+
+
+
+Ha a vevő a vételárat részletekben fizeti meg, akkor is a teljes vételárat kell a jövedelem szerzés évében bevételnek tekinteni, mivel az Szja tv. rendelkezése értelmében a jövedelemszerzés napja az értékesítésről szóló szerződés ingatlanügyi hatósághoz történő benyújtásának a napja. 
+
+
+
+Ugyanakkor a bevételnek nem része a kapott ellenértékből az ingatlannak, a vagyoni értékű jognak a szerződéskötés időpontjában ismert szokásos piaci értékét meghaladó összege, amely a magánszemély egyéb jövedelemének minősül.
+
+
+
+Nem minősül ingatlanértékesítésnek a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott birtokösszevonási célú földcsere. Ha a cseréhez kapcsolódóan értékkiegyenlítés is történik, az e címen kapott pénzösszeg vagy más vagyoni érték az azt szerző magánszemély egyéb jövedelmének számít.
+
+
+
+6. Költség 
+
+
+
+Az ingatlan, a vagyoni értékű jog átruházásából származó bevételből levonható költségek a következők:
+
+megszerzésre fordított összeg, és az ezzel összefüggő más kiadások;
+
+értéknövelő beruházások;
+
+a szerzési időponthoz tartozó bevételrész arányában az átruházással kapcsolatos kiadásokat, ideértve az adott ingatlannal kapcsolatban az állammal szemben vállalt kötelezettség alapján igazoltan megfizetett összeget is.
+
+
+
+Nem lehet a bevételből levonni azokat a kiadásokat, amelyeket a magánszemély az önálló tevékenységből származó bevételével szemben számol(t) el költségként. 
+
+Például, ha a magánszemély olyan ingatlant értékesít, amelyet korábban bérbe adott és a tevékenységgel kapcsolatban az épületre értékcsökkenési leírást számolt el, akkor nem számolható el költségként a megszerzés összegből az értékcsökkenési leírás alapján elszámolt érték.
+
+
+
+A kiadásokat számlával, okirattal kell igazolni! 
+
+
+
+6. 1. Megszerzésre fordított összeg 
+
+
+
+A megszerzésre fordított összeg
+
+az átruházásról szóló szerződés (okirat, bírósági, hatósági határozat) szerinti érték;
+
+a cserébe kapott ingatlan, vagyoni értékű jog esetében a csereszerződésben rögzített érték;
+
+a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld esetében a vételi jog gyakorlása során vételárként szereplő összeg;
+
+helyi önkormányzattól vásárolt lakás estében a szerződésben szereplő tényleges vételár;
+
+az építés, ráépítés, létesítés, alapterület-növelés megszerzésére fordított összeg a hivatalos használatbavétel napjáig, a hivatalos használatbavételben megjelölt feltételek teljesítésének határidejéig, ha nincs hivatalos használatbavétel, akkor a tényleges használatbavételig, ennek hiányában az átruházásig kibocsátott, az építő (építtető) magánszemély vagy házastársa, bejegyzett élettársa nevére kiállított számla szerinti érték, de legalább a beépített anyag-érték;
+
+az illeték-kiszabáshoz figyelembe vett érték, ha
+
+	a szerzési érték az a)-d) pont szerinti esetben nem állapítható meg,
+
+	az ingatlan, ingatlan-nyilvántartásba bejegyzésre kötelezett vagyoni értékű jog szerzése örökléssel, ajándékozással történt
+
+azzal, hogyha az illeték kiszabása az átruházásból származó jövedelem adókötelezettségének teljesítésére nyitva álló határidőig nem történik meg, öröklés esetén a hagyatéki leltárban feltüntetett, vagy a hagyatéki eljárás során az ingatlan értékeként feltüntetett egyéb értéket, egyébként az átruházásból származó bevétel 50 százalékát kell figyelembe venni, és az így megállapított adókötelezettséget az illeték-kiszabás alapján önellenőrzéssel később módosítani lehet;
+
+	ha az fb) pontban említett esetben az illetékügyi hatóság nem szab ki illetéket,
+
+	örökléssel szerzett ingatlan, vagyoni értékű jog esetében a hagyatéki leltárban feltüntetett, vagy a hagyatéki eljárás során az ingatlan értékeként feltüntetett egyéb érték;
+
+	ajándékozással szerzett ingatlan, vagyoni értékű jog esetében az átruházásból származó bevétel 75 százaléka, azzal, hogy más kiadás költségként nem vonható le a bevételből. 
+
+	Ha az ajándékozást követően ráépítés, létesítés, alapterület-növelés történt, akkor
+
+	az előbbi szerzési érték levonása után fennmaradó összeg egésze az utolsó szerzési időponthoz tartozó számított összegnek minősül,
+
+vagy
+
+	választható az átruházásból származó bevételből az e) pont szerinti érték, továbbá a ráépítéssel, létesítéssel, alapterület-növeléssel összefüggő egyéb kiadások és az átruházással kapcsolatos kiadások levonása, ha azok együttes összege meghaladja az átruházásból származó bevétel 75 százalékát azzal, hogy az így kapott teljes számított összegből (a bevétel fennmaradó részéből) a ráépítésre, a létesítésre, az alapterület-növelésre vonatkozó szerzési időpont(ok)hoz, valamint az ajándékozási-szerzési időponthoz tartozó számított összegeket az említett szerzési időpont(ok) szerinti szerzési érték(ek) arányában kell meghatározni úgy, hogy az ajándékozási-szerzési időponthoz tartozó szerzési értéknek az illetékekről szóló törvényben meghatározott forgalmi érték minősül;
+
+	2019. január 1-jétől az adófizetés alapjául szolgáló érték, ha az ingatlan megszerzésekor adóköteles jövedelemre tekintettel adófizetés történt.
+
+	 Ingatlanlízing-ügylet útján szerzett ingatlan esetén megszerzésre fordított összegnek minősül a magánszemély által megfizetett lízingdíjak tőkerésze, a lízingbevevői pozíció átvételéért fizetett összeg, a futamidő végén a vételi jog gyakorlása fejében a lízingbevevőnek fizetett összeg. Megszerzésre fordított összeggel kapcsolatos más kiadásnak minősül többek között a fizetett előtörlesztési díj. 
+
+
+
+Ha az ingatlan, a vagyoni értékű jog megszerzésére fordított érték az előzőek szerint nem állapítható meg, akkor a bevételt annak 75 százalékával kell csökkenteni. E szabály alkalmazása során más kiadás költségként nem vonható le a bevételből. Fontos tudni, hogy a „75 százalékos” szabály ténylegesen csak akkor alkalmazható, ha az előzőekben leírtak szerint nem lehet a szerzési összeget megállapítani. Például, ha a magánszemély a szerzésről szóló adásvételi szerződést elvesztette, vagy az megsemmisült, akkor ez nem ok a speciális szabály alkalmazására, ugyanis a szerzési összeget  az a) pont szerint meg lehet határozni, mert a szerződés az ingatlanügyi-hatóságtól beszerezhető.
+
+
+
+6. 2. Értéknövelő beruházás 
+
+
+
+Értéknövelő beruházás az ingatlan szokásos piaci értékét növelő ráfordítás. Ide tartozik az az igazolt kiadás is, ami az ingatlan átruházását megelőző 24 hónapon belül és az átruházásról szóló szerződés szerinti bevételnek az 5 százalékát meghaladó mértékben az ingatlan állagmegóvása céljából történt.
+
+A házilagos kivitelezésű munkavégzés értéke költségként nem számolható el. 
+
+
+
+7.  A jövedelem megállapítása 
+
+
+
+7.1. A számított összeg meghatározása
+
+A számított összeget úgy kell meghatározni, hogy a bevételt csökkenteni kell a költséggel. Költséget csak a bevétel mértékéig lehet elszámolni, ezért a számított összeg legkevesebb nulla lehet.
+
+
+
+7. 2. Gazdasági tevékenység
+
+Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység keretében történik, akkor a számított összeget kell jövedelemnek tekinteni, ami önálló tevékenységből származó jövedelemnek minősül.
+
+Gazdasági tevékenység az a tevékenység, amely üzletszerű, tartós vagy rendszeres jelleggel történik, ha az ellenérték elérésére irányul, vagy azt eredményezi, és annak végzése független formában történik.
+
+
+
+7. 3. A tulajdonban tartás figyelembevétele 
+
+A számított összeg a törvényben meghatározott feltételekkel és mértékben csökkenthető.  A csökkentés mértéke minden ingatlan (például: lakás, üdülő, termőföld, építési telek, stb.) esetén megegyezik. Ingatlan és vagyoni értékű jog (haszonélvezeti jog) 2020. évi átruházása esetén a számított összegből a szerzés időpontjától függően a következők szerint meghatározott összeg minősül jövedelemnek:
+
+
+
+A szerzés éve
+
+Jövedelem a számított összeg
+
+2020. 0. év 
+
+100%-a
+
+2019. 1. év 
+
+100%-a
+
+2018. 2. év 
+
+90%-a
+
+2017. 3. év 
+
+60%-a
+
+2016. 4. év 
+
+30%-a
+
+2015. 5. év 
+
+0%-a
+
+
+
+A 2015. évben vagy azt megelőzően megszerzett ingatlan 2020. évi értékesítése esetén már nem keletkezik adóköteles jövedelem.
+
+
+
+Példa az ingatlan értékesítéséből származó jövedelem kiszámításához:
+
+
+
+Egy magánszemély 2020. évben 24 millió forintért értékesíti a 2016. évben 16 millió forintért vásárolt házát. Az adásvételi szerződés alapján a vevő a vételár összegéből 14 millió forintot a szerződés megkötésekor az eladónak átad, a maradék 10 millió forintot pedig a következő négy évben részletekben fizet meg, amelyre tekintettel még 1 millió forint kamatot is fizet. A kamatfizetésről az adásvételi szerződés rendelkezik.
+
+Az eladó kicseréltette a külső nyílászárókat és megcsináltatta a ház szigetelését. A munkálatok számlával igazolt költségei 3,5 millió forintot tettek ki.
+
+2019. évben a lakás ki lett festve, amely munkálatokról 500 ezer forintos számlával rendelkezik. (Ez a munkálat állagmegóvásnak minősül, de nem lehet elszámolni, mert nem éri el a bevétel 5 százalékát, azaz 1 250 000 forintot.)
+
+Az átruházással összefüggésben felmerült számlával igazolt költségek összesen 500 ezer forintot tettek ki.
+
+
+
+Az ingatlan eladási ára (Ft)
+
+24 000 000
+
+A vevő által fizetett késedelmi kamat (Ft)
+
+1 000 000
+
+Bevételek összesen (Ft)
+
+25 000 000
+
+Az ingatlan szerzési összege (Ft):
+
+16 000 000
+
+Az értéknövelő beruházások (Ft)
+
+3 500 000
+
+Az átruházás költségeinek összege (Ft)
+
+500 000
+
+Költségek összesen (Ft)
+
+20 000 000
+
+A számított összeg (Bevételek-Költségek) (Ft)
+
+5 000 000
+
+Adóköteles jövedelemnek minősül a számított összeg 30%-a (Ft)
+
+1 500 000
+
+
+
+
+
+7.3. Termőföldből átminősített ingatlan értékesítése
+
+Speciális szabály vonatkozik a termőföldből átminősített ingatlan átruházására. Ebben az esetben vizsgálni kell, hogy a költségekkel csökkentett bevétel (hozam) nagyobb-e, mint a tulajdonban tartás időszakára kiszámított szokásos hozam.
+
+Szokásos hozam az elszámolható költség 0,3 százaléka, szorozva a tulajdonban tartás napjaival (költségek*0,003*napok száma). 
+
+A tulajdonban tartás napjainak száma a megszerzésről és az átruházásról szóló szerződés közötti időszak azzal, hogy a megszerzésről és az átruházásról szóló okirat keltének napjait is be kell számítani.
+
+Ha a hozam kevesebb a szokásos hozamnál, akkor a jövedelmet az általános szabályok szerint kell megállapítani. Ellenkező esetben a jövedelmet (adóalapot) a következő egyenlet alapján kell meghatározni:
+
+szokásos hozam+(hozam-szokásos hozam)*3=adóalap
+
+Tehát ebben az esetben nincs mód a tulajdonban tartás éveire tekintettel további csökkentésre.
+
+Nem kell ezt a rendelkezést alkalmazni, 
+
+	ha a magánszemély a termőföldből átminősített ingatlant örökléssel szerezte meg,
+
+ha az értékesítés a termőföld átminősítését követő 5. év után történik,
+
+ha az átminősítés előtt legalább 5 évig a magánszemély tulajdonában volt az ingatlan.
+
+
+
+8. Az adó mértéke és az adókötelezettség teljesítése 
+
+
+
+A 2020. évi ingatlan, vagyoni értékű jog átruházásából (vagyoni értékű jog visszterhes alapításából, végleges átengedéséből, megszüntetéséből, ilyen jogról való végleges lemondásból) keletkező jövedelem után 15 százalék személyi jövedelemadót kell fizetni.
+
+Az ingatlan, a vagyoni értékű jog értékesítéséből származó jövedelmet és annak adóját az éves személyijövedelemadó-bevallásban kell megállapítani és az adott évről szóló bevallás benyújtására előírt határidőre kell az adót megfizetni. A 2020. évi értékesítésből származó jövedelmet a 20SZJA nyomtatványon, vagy az adóbevallási tervezet kiegészítésével és beküldésével kell bevallani. A bevallást teljesíteni és az adót megfizetni 2021. május 20-ig kell.
+
+
+
+Nem kell bevallani sem az ingatlan, sem pedig a vagyoni értékű jog átruházásából származó bevételt akkor, ha az adómentes, vagy abból jövedelem nem keletkezik.
+
+
+
+Fontos tudni, hogy az adó megállapításhoz való jog elévülésének határidejéig – a 2020. évi ingatlan, vagyoni értékű jog átruházásakor 2026. december 31-ig – minden szerződést, igazolást, okiratot meg kell őrizni és egy esetleges adóhatósági ellenőrzés során be kell mutatni.
+
+
+
+9. Ingatlan, vagyoni értékű jog átruházásából származó jövedelem felhasználása 
+
+
+
+Ha a magánszemély az ingatlan, a vagyoni értékű jog átruházásából származó jövedelmét (vagy annak egy részét) a jövedelem bevallására nyitva álló határidőt megelőzően saját maga, közeli hozzátartozója vagy élettársa részére
+
+idősek otthonában, 
+
+fogyatékos személyek lakóotthonában vagy 
+
+más hasonló, például ápolási intézményben 
+
+(bármely EGT-államban) biztosított férőhely – visszavásárlási és továbbértékesítési jog nélküli – megszerzésére használja fel és ezt a tényt az adóbevallásában feltünteti, akkor az ingatlan, a vagyoni értékű jog átruházásából származó jövedelme után megállapított adót, vagy annak a felhasznált jövedelemmel arányos részét nem kell megfizetnie. A jövedelem említett célra történő felhasználása során a férőhely biztosítása egyösszegű térítési díj előre történő megfizetésével is megvalósulhat. Nem alkalmazható azonban a jövedelem felhasználásához kapcsolódó kedvezmény, ha a férőhelyet visszavásárlási, továbbértékesítési joggal szerzi meg a magánszemély.
+
+Ha a 2020-ban megszerzett jövedelem felhasználása a bevallás benyújtását követően, az átruházást követő első vagy második adóévben történik, akkor a jövedelem felhasználásának igazolásával igényelheti vissza a magánszemély a megfizetett adót.
+
+Ha az ingatlan, vagyoni értékű jog átruházásából származó jövedelem az előzőekben meghatározott cél szerinti felhasználása a bevallás benyújtását követően történt, a magánszemély a megfizetett adóból a felhasznált jövedelem adójával megegyező összeget – a felhasználás igazolásával egyidejűleg – az ingatlan, vagyoni értékű jog átruházását követő második adóév végéig visszaigényelheti.
+
+A jövedelem említett célokra történő felhasználásának az igazolására a férőhely megszerzése alapjául szolgáló okirat, 
+
+az összeg felhasználását igazoló okirat, 
+
+a rokonsági fokot bizonyító közokirat, valamint 
+
+az élettársi kapcsolatra vonatkozó teljes bizonyító erejű magánokirat szolgál. 
+
+Az iratokat az adómegállapításhoz való jog elévüléséig kell megőrizni.
+
+
+
+10. Méltányossági kérelem
+
+
+
+A NAV 
+
+az adó fizetésére kötelezett magánszemély kérelmére 
+
+jövedelmi, vagyoni és szociális körülményeire, valamint a 
+
+jövedelem felhasználási körülményeire tekintettel 
+
+mérsékelheti, vagy elengedheti az adót. A jövedelem felhasználását illetően különösen méltányolható az a körülmény, ha a magánszemély az ingatlan, a vagyoni értékű jog értékesítéséből származó jövedelmét saját maga, közeli hozzátartozója, vagy a vele egy háztartásban élő élettársa, volt házastársa, volt bejegyzett élettársa lakhatását biztosító célra fordítja.
+
+
+
+11. Kárpótlási eljárás során szerzett termőföld elidegenítése esetén érvényesíthető kedvezmény
+
+
+
+Ha a kárpótlásról szóló törvények alapján eredeti jogosult magánszemély a kárpótlási eljárás során (a vételi jogának gyakorlásával, utalvánnyal) megszerzett termőföldjét, erdő-művelési ágú földjét értékesíti és az ebből származó jövedelmének az egészét az átruházás napjától számított egy éven belül belföldön, vagy az Európai Unió bármely tagállamában mezőgazdasági művelésű külterületi termőföld tulajdonának a megszerzésére fordítja, akkor a jövedelme után nem kell adót fizetnie. Ha a tulajdonjog megszerzése az adóbevallás benyújtásáig megtörtént, akkor az előzetes igazolás alapján az adóbevallásban érvényesíthető a kedvezmény. Ha a földvásárlásra az adóbevallás benyújtása után kerül sor, akkor a megfizetett adó a tulajdonjog megszerzésének az igazolása mellett a NAV-hoz történő bejelentéssel igényelhető vissza. A tulajdonjog megszerzését az ingatlanügyi-hatósághoz benyújtott, iktatott szerződéssel kell igazolni.
+
+Az előzőekben ismertetett kedvező szabály vonatkozik a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló törvény szerint részarány-földtulajdonosnak minősülő magánszemély azon termőföldjének, erdő-művelési ágú földjének az átruházására is, amelyet részére önálló ingatlanként kiadtak.
+
+
+
+12. Az ingatlanlízing meghiúsulásából származó jövedelem
+
+
+
+Nem egyéni vállalkozó magánszemély ingatlanlízing-ügyletének meghiúsulásából származó jövedelmére is alkalmazni kell az ingatlan-átruházásból származó jövedelmek adózására vonatkozó szabályokat a következők szerint.
+
+A jövedelmet az ügyleti szerződésben foglaltak alapján a magánszemélyt a meghiúsulás miatt megillető (kifizetett, jóváírt) bevételből, az ötéves éves időmúlási szabály alkalmazásával kell értelemszerűen megállapítani.
+
+Az időmúlás szempontjából számított összegnek a bevétel, az ingatlan megszerzése évének pedig az ügyleti szerződés megkötésének az éve minősül. Így, ha például egy lakáslízing a szerződés megkötésének az évét követő ötödik évben meghiúsul, akkor a magánszemélyt megillető összeg már nem adóköteles.
+
+Ha az ingatlanlízing meghiúsulása miatt adóköteles jövedelme lesz a magánszemélynek, akkor ilyen esetben is jogosult a 9. pontban ismertetett kedvezményre.
+
+
+
+13. Az általános forgalmi adókötelezettséggel kapcsolatos szabályok 
+
+
+
+Az általános forgalmi adóról szóló törvény alkalmazásában főszabály szerint adóalanynak minősül az a jogképes személy vagy szervezet, aki (amely) saját neve alatt gazdasági tevékenységet folytat, tekintet nélkül annak helyére, céljára és eredményére. Az Áfa tv. adóalanyiságra vonatkozó általános szabályai az ingatlan értékesítések esetén is irányadóak, – azaz főszabályként azon nem adóalany természetes személy esetében, aki eladja ingatlanát, semmilyen áfa-kötelezettség nem merül fel, mivel az ingatlanértékesítés nem keletkeztet adóalanyiságot, továbbá annak az adóalany természetes személynek sem kell áfa-kötelezettséggel számolnia, aki adóalany ugyan, de az ingatlan, amelyet elad, semmilyen módon nem kapcsolódik a gazdasági tevékenységéhez, mivel az értékesítés során nem adóalanyi minőségében jár el – figyelemmel kell lenni azonban arra is, hogy az egyes ingatlanok értékesítésével összefüggésben az alább ismertetett rendelkezéseket is tartalmazza a jogszabály. 
+
+
+
+13.1. Beépítés alatt álló vagy beépített új ingatlan és építési telek sorozat jelleggel történő értékesítése miatti speciális adóalanyiság és adófizetés szabályai 
+
+Az Áfa tv. alkalmazásában gazdasági tevékenység és áfa adóalanyiságot eredményez az is, ha az egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel értékesít ingatlant. Sorozat jellegű ingatlan értékesítést a következőknek megfelelő ingatlanok értékesítése eredményezhet:
+
+beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet, feltéve, hogy annak első rendeltetésszerű használatba vétele még nem történt meg, vagy első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év. (Ezen ingatlan-kör a továbbiakban együtt az Áfa tv. meghatározásának megfelelően: beépítés alatt álló vagy beépített új ingatlan.), 
+
+építési telek (telekrész).
+
+Sorozat jelleg az Áfa tv. értelmező rendelkezése alapján akkor valósul meg, ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, 
+
+amely tulajdon kisajátításának tárgyát képezi, vagy
+
+amelynek szerzése az értékesítőnél – az illetékekről szóló 1990. évi XCIII. törvény alapján – öröklési illeték tárgyát képezte, 
+
+az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem minősül sorozat jellegűnek, továbbá azon - lakóterület besorolású - építési telkek (telekrészek), amelyeket telekmegosztással egyazon építési telekből (telekrészből) alakítottak ki - darabszámtól függetlenül - az előzőekben említett darabszámba egy építési telekként (telekrészként) számítanak be.
+
+Így például nem keletkeztet ingatlan sorozat jelleggel történő értékesítésére tekintettel adóalanyiságot, ha 2 naptári éven belül négy olyan ingatlan értékesítése valósul meg, amelyek öröklési illeték vagy kisajátítási eljárás tárgyát képezték. 2012. január 1-jétől olyan esetben sem állapítható meg sorozat jellegű ingatlan értékesítés, és így adóalanyiságot sem eredményez, amikor például 2 naptári éven belül két örökölt ingatlan mellett kettő vagy több olyan lakóterület besorolású építési telek értékesítésére kerül sor, amelyeket telekmegosztással egyazon építési telekből (telekrészből) alakítottak ki. Abban az esetben azonban, ha például három örökölt ingatlan és egy vásárolt (vagy kapott) ingatlan értékesítésére kerül sor 2 naptári éven belül, akkor a sorozat jelleg megvalósul, a negyedik ingatlan eladása adókötelezettséggel jár. (Természetesen csak az előzőekben meghatározottak szerinti új ingatlanok és építési telkek veendők figyelembe ebből a szempontból. A három fajta ingatlant – az építési telket, a beépítés alatt álló és beépített új ingatlant – vegyesen kell számításba venni, azaz nem csak akkor beszélünk sorozat jellegű ingatlan értékesítésről, ha négy építési telket értékesítenek, hanem akkor is, ha például két építési telek és két beépített új ingatlan az értékesítés tárgya.) A sorozat jelleg szempontjából figyelembe veendő legkorábbi naptári év: 2008.
+
+Fontos hangsúlyozni, hogy az általános forgalmi adóalanyiság kérdésének megítélésénél elsődlegesen a bevezetőben is említett főszabályt kell alapul venni. Vagyis abban az esetben, ha az építési telek, beépítés alatt álló vagy beépített új ingatlan értékesítése eleve üzletszerű – például egy hatalmas földterületet megvásárolva, azt építési telekké átminősítve, esetleg közművesítve, parcellázva vagy akár egyben értékesítenek – akkor az áfa adóalanyiság az üzletszerűség miatt már fennáll, a sorozat jelleget nem is kell vizsgálni. Az egyéb ok miatt már áfa adóalany személynek (pl. egyéni vállalkozónak) a nem adóalanyi minőségében teljesített sorozat jellegű ingatlan értékesítése (pl. az egyéni vállalkozó vállalkozásán kívüli ingatlanainak a magánszemélyként megvalósított sorozat jellegű értékesítése) az Áfa tv. speciális szabálya alapján nem eredményez „új adóalanyiságot” (új bejelentési kötelezettséget, adószámot). A sorozat jellegű ingatlan értékesítés után az adókötelezettséget az egyéb ok miatt már áfa adóalany személy „a már fennálló adóalanyisága körében” (önadózással) teljesíti. 
+
+A sorozat jellegre alapítható speciális adókötelezettség esetében a megjelölt ingatlanok tekintetében az adómentesség és az adókötelezettség között választási lehetőség nincs, mert a sorozat jellegű értékesítés miatt adóalannyá váló személy, szervezet ezen értékesítése a kötelezően adóköteles körbe tartozik, vagyis az értékesítő köteles utána az áfát megfizetni. A fordított adózásra vonatkozó szabályok alkalmazása sorozat jellegű ingatlan értékesítés esetén nem merül fel. 
+
+Az ingatlan sorozat jellegű értékesítésére tekintettel áfa adóalannyá váló (illetve vált) adózónak az adóalanyiságot eredményező negyedik (vagy a rá következő 3 éven belül további) ingatlan értékesítésről az állami adóhatóság által e célra rendszeresített nyomtatványán bejelentést kell tennie. Ebben az adó megállapításához szükséges bejelentésben nem csak az értékesítést terhelő fizetendő adó megállapításához szükséges adatokat – teljesítés időpontja, szerződés szerinti teljes vételár (áfával együtt számított összeg), stb. – kell bejelenteni, hanem az adott ingatlanhoz kapcsolódó beszerzéseket terhelő előzetesen felszámított, levonható adót is. A bejelentést a 2018. naptári évben teljesített termékértékesítés esetén 2019. január 31-ig kellett megtenni, a 2018. december 31-ét követően teljesített termékértékesítés esetében a bejelentést a teljesítés időpontját követő 30 napon belül kell megtenni. 
+
+Ingatlan sorozat jelleggel történő értékesítése esetén az adóalanynak az adófizetési kötelezettsége mellett adólevonási joga is keletkezik.  A levonható adó legfeljebb az ingatlan értékesítését terhelő (fizetendő) adóval megegyező összeg lehet, vagyis a levonható adó nem lehet nagyobb a fizetendő adónál. Az adólevonási jog az adófizetési kötelezettséggel azonos időpontban keletkezik. Az adólevonási jog tárgyi feltételéül olyan – adólevonásra egyébként jogosító – okirat (elsődlegesen számla) is szolgálhat, amely az adóalannyá válást megelőzően keletkezett ugyan, de az adókötelesen értékesített ingatlan eladójának (igazolt tulajdonosának) a nevére, vagy annak igazolt jogelődje nevére szól.
+
+Figyelemmel arra, hogy a sorozat jellegű ingatlan értékesítés gazdasági tevékenység és adóalanyiságot eredményez, az értékesítőt számlakibocsátási kötelezettség terheli, amely alól az Áfa tv. nem mentesíti az adóalanyt. 
+
+Az adókötelezettséget az állami adó- és vámhatóság határozattal állapítja meg (kivetéses adózás). (Nem kivetéssel történik az adó megállapítása az egyéb ok miatt már adóalany személyeknél, így például az egyéni vállalkozó a vállalkozásán kívüli ingatlanjainak a magánszemélyként való értékesítését az adóbevallásában szerepelteti.)
+
+A sorozat jellegű ingatlan értékesítéssel összefüggésben az adóalanyként való bejelentkezéshez – az egyébként is használatos – 20T101 számú bejelentő és változás-bejelentő lapot kell alkalmazni. Az adókötelezettség kivetéssel történő megállapításához a 2020. évben a TSI_B jelű, Bejelentőlap ingatlan sorozat-jellegű értékesítéséhez kapcsolódó áfa-kötelezettség megállapításához megnevezésű nyomtatványt szükséges benyújtani.
+
+Ha a magánszemély a saját nevében üzletszerűen ingatlan értékesítést végez, az Áfa tv. 5. § (1) bekezdése és 6. § (1) bekezdése alapján válik áfa adóalannyá, így az adókötelezettség nem a 6. § (4) bekezdése szerinti sorozat jellegű értékesítésre vonatkozó előírások alapján terheli.
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+2

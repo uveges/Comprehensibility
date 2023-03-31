@@ -1,0 +1,472 @@
+számú melléklet
+
+
+
+Az Online Számla felület Technikai kérdések és válaszok rovatában közzétett
+
+egyes szövegrészekre vonatkozó javaslatok
+
+
+
+1. Általános javaslat
+
+Valamennyi kérdés vonatkozásában javasolt közzétenni az aktualizálásuk/felülvizsgálatuk dátumát. Jelenleg az oldalon az „Utoljára frissítve: 2019-05-08” jelzés szerepel, annak ellenére, hogy időközben egyes szövegrészek a 2020. júliusi jogszabályváltozáshoz kapcsolódóan módosultak. A frissítés dátumánál ily módon informatívabb lenne az adózók felé annak jelzése, hogy egyes kérdések – különösen, mivel a felmerülésük időpontja, így aktualitásuk nem ismert – mikor kerültek aktualizálásra/felülvizsgálatra.
+
+2. Szövegszerű javaslat
+
+Utolsó frissítés: 2021-..-..
+
+ 
+
+I. Regisztráció
+
+I. 1. kérdés: Minden egyes számlázó program-felhasználónak külön-külön kell majd regisztrálnia magát az Online Számla rendszerbe?
+
+Nem, a regisztráció adózónként történik. A regisztrált adózóhoz azonban három különböző szerepkör hozható létre: a felhasználói felületet használó user (elsődleges, illetve másodlagos felhasználó) és a gépi interfészt használó technikai user (technikai felhasználó). A regisztrációhoz kapcsolódó részletes leírás a https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol oldalon található.
+
+I. 2. kérdés: Hány perc alatt kell regisztrálni?
+
+30 perc áll rendelkezésre a regisztráció elvégzéséhez, biztonsági okokból azonban – az ügyfélkapus viszontazonosítás miatt – az adóazonosító jel megadására 5 perc van.
+
+I. 3. kérdés: Regisztráltam, de elfelejtettem a jelszavam, és most nem tudok belépni. Mi a teendő?
+
+A „BEJELENTKEZÉS” felületen az „Új jelszót kérek” funkció alkalmazásával igényelhető másik jelszó.
+
+I. 4. kérdés: Nem sikerül a regisztráció. Mi az oka?
+
+Regisztrálni a tájékoztatóban (https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol) meghatározott személyeknek lehet. A regisztrációt végzőnek mindenképp ügyfélkapus regisztrációval kell rendelkeznie. Az adóazonosító jelet pontosan kell megadni és a regisztráció típusát pontosan kell kiválasztani, különben az azonosítás sikertelen lesz.
+
+I. 5. kérdés: Ha a számlázórendszer előre készül – azaz a felhasználó még nem ismert –, akkor van-e mód a tesztkörnyezet használatára, például valamilyen fiktív cégként?
+
+A tesztrendszerbe csak élő gazdasági társaság, illetve egyéni vállalkozó törvényes képviselője vagy állandó meghatalmazottja regisztrálhat. További feltétel, hogy a regisztrációt végzőnek ügyfélkapus regisztrációval kell rendelkeznie. Ezekből adódik, hogy fiktív cég regisztrációjára nincs lehetőség. Ugyanakkor a tesztrendszerbe küldött adatok – a tesztrendszer jellege miatt – nem számítanak adatszolgáltatásnak, az ilyen adatokról senki sem feltételezi, hogy valósak.
+
+I. 6. kérdés: Ha több cég könyvelését is végezzük, a számlázó programból kiállított számla beküldéskor minden cégnek külön logint kell igényelni?
+
+Igen. A saját technikai felhasználó adataival nem küldhet be adatszolgáltatást másik adóalany nevében. Az ilyen adatszolgáltatásokat a rendszer elutasítja.
+
+Az online számlaadat-szolgáltatási kötelezettség a számlaadásra kötelezett adóalanyt terheli, vagyis annak kell a számlákról adatot szolgáltatnia, aki a termékértékesítést, szolgáltatásnyújtást teljesíti. A számlázó programmal – az Áfa tv. 161–162. §-ai szerinti – meghatalmazottként kiállított számlákról teljesítendő adatszolgáltatáshoz a megbízó cég loginját kell alkalmaznia.
+
+I. 7. kérdés: Cégünk több technikai felhasználó létrehozását tervezi, amely – értelmezésem szerint – egy főfelhasználóhoz kapcsolódik. Egy felhasználó alatt több technikai felhasználót lehet létrehozni, az XML-cserekulcsot és az XML-aláírókulcsot pedig a főfelhasználó generáltatja a technikai felhasználókhoz. Van ezeknek a kulcsoknak elévülési ideje? 
+
+A kérdésben említett kulcsoknak nincs elévülési ideje, ugyanakkor az arra jogosult felhasználó – a saját biztonsága érdekében – bármennyiszer megváltoztathatja az adott technikai felhasználó jelszavát vagy kulcsait.
+
+I. 8. kérdés: A regisztrációnál nem válik aktívvá a regisztráció nyomógomb. Miért?
+
+Az adószám alapján automatikusan betöltött címadatokat néha javítani kell. A közterület neve és jellege mező kitöltése kötelező, ezért, ha bármelyik üresen szerepel, a valóságnak megfelelően ki kell tölteni. Ha az adózó székhelyének vagy telephelyének címe „helyrajzi szám”, akkor a kötelezően kitöltendő adatoknál a közterület nevéhez magát a helyrajzi szám azonosító számát kell megadni, míg a közterület jellegéhez egy lenyíló listából a „HRSZ” választandó ki. A település neve mezőben nem lehet vesszőt vagy kötőjelet használni.
+
+I. 9. kérdés: A regisztráció végén a „Sikertelen regisztráció, nem található az elem” hibaüzenetet kapom. Miért?
+
+Ha a regisztrációt egy már létező felhasználóhoz szeretné elvégezni, a felhasználónévhez tartozó, korábban megadott jelszót kell rögzítenie.
+
+I. 10. kérdés: Külföldi gazdálkodó, fejlesztő hogyan tud tesztelni az Online Számla tesztrendszerben?
+
+Ha a külföldi gazdálkodónak, fejlesztőnek nincs magyar adószáma, érdemes felvennie a kapcsolatot egy magyar partnercéggel, amely a szükséges regisztrációt a saját nevében végrehajtja és átadja a fejlesztőnek a teszteléshez szükséges adatokat (a technikai felhasználó neve, jelszava, XML-aláírókulcs, XML-cserekulcs). A NAV nem ad ki tesztelési célból hozzáférési jogosultságokat.
+
+I. 11. kérdés: Ha regisztrálunk a tesztrendszerbe, az lehetővé teszi az éles rendszer használatát is?
+
+Külön kell regisztrálni a tesztrendszerbe és az éles rendszerbe is. A két rendszer között nincs átjárás, a tesztrendszerben lévő adatok nem kerülnek át az éles rendszerbe.
+
+I. 12. kérdés: Mi a különbség az elsődleges, másodlagos és technikai felhasználó között?
+
+Az elsődleges felhasználónak élő ügyfélkapus – KÜNY-tárhelyes – hozzáféréssel és a szükséges képviseleti joggal kell rendelkeznie az adott gazdálkodóhoz, egyéni vállalkozóhoz.
+
+Az elsődleges felhasználó az Online Számla rendszerben teljes körű jogosultsággal rendelkezik, a másodlagos felhasználó és a technikai felhasználó jogosultságait pedig az elsődleges felhasználó határozza meg.  A technikai felhasználó jogosultsága kizárólag az interfész használatára, azaz a gép-gép kommunikációra terjed ki. A technikai felhasználó nem egy személy, hanem a gépi hozzáféréshez szükséges adatok összessége.
+
+Ha az adózó számlázó programot használ, akkor a technikai felhasználó regisztrálása után állnak rendelkezésre azok az adatok, melyek az adózó számlázó programja és a NAV szervere közötti kommunikációhoz szükségesek (XML-kulcs-generálás).
+
+Az elsődleges felhasználó egy egyedi felhasználónévvel több általa képviselt adózót is regisztrálhat. A másodlagos felhasználó nevének rendszerszinten egyedinek kell lennie.
+
+I. 13. kérdés: Mit jelent a regisztrációkor kapott „A megadott adózóra nem található érvényes képviseleti jog!” üzenet?
+
+Az Online Számla rendszerében olyan személy végezheti el a regisztrációt, aki meghatározott adóügyek intézésére is jogosult az adózó nevében. Arról, hogy melyek ezek az adóügyek, jogosultságok, a https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol linken található tájékoztató II. Az adózói regisztráció fejezetében olvashat. Az üzenet arra utal, hogy a regisztrációt végző személy ezen jogosultságok valamelyikével nem rendelkezik, vagy az adózóra vonatkozóan a regisztrálni kívánó természetes személy képviseleti jogviszonyát nem jelentették be hivatalunkhoz.
+
+I. 14. kérdés: Hogyan kell rögzíteni, ha a vállalkozás helyrajzi számon található?
+
+Az adószám alapján automatikusan betöltött címadatokat néha javítani kell. A közterület neve és jellege mező kitöltése kötelező, ezért, ha bármelyik üresen szerepel, a valóságnak megfelelően ki kell tölteni. Ha az adózó székhelyének vagy telephelyének címe „helyrajzi szám”, akkor – a kötelezően kitöltendő adatoknál – a közterület nevéhez magát a helyrajzi szám azonosító számát kell megadni, a közterület jellegéhez pedig a lenyíló listából a „HRSZ” választandó ki.
+
+I. 15. kérdés: Technikai felhasználót hol kell létrehozni és mi a szerepe?
+
+Számlázó programból adatszolgáltatás kizárólag gép-gép kapcsolattal, azaz interfésszel történhet. Az adatszolgáltatás teljesítéséhez az adózó számlázó programja és a NAV szervere közötti kommunikáció megteremtéséhez létre kell hozni egy úgynevezett technikai felhasználót, majd XML-cserekulcsot és XML-aláírókulcsot kell generálni.
+
+A technikai felhasználó létrehozásáról bővebben a https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol linken található tájékoztató III. A felhasználói regisztráció fejezetének B) Technikai felhasználó pontjában olvashat.
+
+I. 16. kérdés: Hol és hogyan lehetséges XML-kulcs-generálás?
+
+Ha számlázó programból történik az adatszolgáltatás, az adózó számlázó programja és a NAV szervere közötti kommunikáció megteremtéséhez létre kell hozni egy úgynevezett technikai felhasználót, majd XML-cserekulcsot és XML-aláírókulcsot kell generálni.
+
+A technikai felhasználó létrehozásáról és az XML-kulcs-generálásról bővebben a https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol linken található tájékoztató III. A felhasználói regisztráció fejezetének B) Technikai felhasználó pontjában olvashat.
+
+I. 17. kérdés: Honnan tudom, hogy sikeres volt-e a regisztrációm?
+
+A regisztrációs folyamat végén automatikusan felugrik a „BEJELENTKEZÉS” képernyő, amely a sikeres regisztrációt jelenti. A regisztrációnál megadott felhasználónévvel és jelszóval  lehet belépni az Online Számla felületre.
+
+I. 18. kérdés: Regisztráltam, de elfelejtettem a felhasználónevemet, és most nem tudok belépni. Mi a teendő? 
+
+A NAV honlapján a Kapcsolat/E-mail küldése/Levélküldés menüpontban a https://www.nav.gov.hu/nav/e-ugyfsz/levelkuldes webformon elektronikus levelet kell küldeni. A webformon a legördülő menüből a „Számlaadat-szolgáltatás, informatikai problémák” tárgyat kell megjelölni. 
+
+A webformon kitöltött bejelentésnek tartalmaznia kell az alábbi adatokat:
+
+azon elsődleges felhasználó adóazonosító jelét, aki a felhasználónevét elfelejtette,
+
+a regisztrált gazdálkodó szervezet vagy egyéni vállalkozó (magánszemély) adószámát, amelyhez az elsődleges felhasználó adóazonosító jele tartozik,
+
+az Online Számla rendszerben regisztrált elsődleges felhasználó e-mail-címét.
+
+A NAV a felhasználónevet kizárólag a fent megjelölt együttes feltételek megléte esetén adja ki. 
+
+																Lehetőség van arra is, hogy a felhasználó újra regisztrálja magát az „ÚJ FELHASZNÁLÓI REGISZTRÁCIÓ” funkciógomb segítségével. Ekkor arra a kérdésre, hogy a regisztrációt már meglévő felhasználóval kívánja-e folytatni, válassza a „Nem” lehetőséget és adjon meg egy új felhasználónevet.
+
+I. 19. kérdés: „Helytelen authentikációs adatok” hibaüzenetet kaptam. Ez mit jelent?
+
+A hibaüzenet azért jelenik meg belépéskor, mert a felhasználónév és/vagy a jelszó nem megfelelő.
+
+Ha a regisztrációt egy már létező felhasználóhoz szeretné elvégezni, akkor a felhasználónévhez tartozó, korábban megadott jelszót kell rögzíteni, különben a regisztráció nem lesz sikeres.
+
+I. 20. kérdés: Az Online Számla rendszerben az ügyfélkapun használt felhasználónevemet próbáltam megadni, de hibát jelez. Mi lehet az oka?
+
+Az Online Számla rendszerben a felhasználónév minimum 6, maximum 15 karakter hosszú, csak ékezet nélküli kis- és nagybetű, valamint szám lehet. Ha az ügyfélkapun használt felhasználóneve ennek nem felel meg, mert például ékezet van benne, akkor az az Online Számla rendszerében nem használható. Az Online Számla rendszerben az ügyfélkapus felhasználónevétől eltérő, a fentieknek megfelelő felhasználónevet kell választania.
+
+ I. 21. kérdés: Hogyan lehet felhasználót törölni?
+
+Az Online Számla rendszerben felhasználót kizárólag az elsődleges felhasználó törölhet.
+
+Az elsődleges felhasználó törölheti:
+
+saját magát mint elsődleges felhasználót, ez az öntörlés,
+
+a másodlagos felhasználó(ka)t,
+
+a technikai felhasználó(ka)t.
+
+A fentiek alapján törlést nem végezhet sem a másodlagos, sem a technikai felhasználó.
+
+Fontos, hogy a törlés kizárólag az adott adózóra vonatkozóan következik be, azaz, ha az elsődleges felhasználót másik adózónál is elsődleges felhasználóként regisztrálták, annak az ügyében változatlanul eljárhat.
+
+A felhasználók törléséről bővebben a https://onlineszamla.nav.gov.hu/tajekoztatas_a_regisztraciorol linken található tájékoztató IV. Felhasználók törlése fejezetében olvashat.
+
+I. 22. kérdés: Miért magyartalanok, nehezen érthetők az Online Számla rendszer felületén megjelenő magyar szövegrészek?
+
+Ez a probléma akkor jelentkezik a Google Chrome böngésző használatakor, ha az automatikus fordítás be van kapcsolva. Az automatikus fordítás kikapcsolásával a probléma megszűnik. Javasoljuk a sütik, azaz cookie-k és az előzmények rendszeres törlését is.
+
+I. 23. kérdés: Csoportos áfaalanyiságnál a csoportazonosító számra is regisztrálni kell?
+
+Igen, a kijelölt képviselőnek a csoportazonosító számra is el kell végezni az Online Számla rendszerben a regisztrációt. 
+
+I. 24. kérdés: Korábban be tudtam lépni az Online Számla rendszerbe, most viszont nem sikerül. Mi lehet a hiba?
+
+Karbantartás ideje alatt az Online Számla rendszer nem érhető el. A NAV a https://onlineszamla.nav.gov.hu/home címen található Kezdőlapon a Hírek rovatban, továbbá honlapján a https://nav.gov.hu/nav/uzemszunet címen tájékoztatja a felhasználókat az Online Számla rendszer esetleges karbantartásáról.
+
+ 
+
+II. Interfész
+
+II. 1. kérdés: Hol érem el a gépi interfész tesztelési lehetőségét?
+
+A gépiinterfész-tesztelést a https://api-test.onlineszamla.nav.gov.hu url-en lehet elérni.
+
+II. 2. kérdés: Milyen protokollon történik a kommunikáció?
+
+A kommunikáció HTTP(S)-protokollon történik, POST típusú (method) üzenet küldésével. A kérés a POST-üzenet body részében küldendő XML-adat. A válasz ehhez hasonlóan a válasz body részében lévő XML. A meghívandó interfész REST típusú webszolgáltatás.
+
+II. 3. kérdés: Felhőalapú szolgáltatásból lehet-e adatot szolgáltatni?
+
+Természetesen igen, és kell is, hiszen a jogszabályi kötelezettség sem tesz kivételt felhőszolgáltatás és más számlázó program adatszolgáltatási kötelezettsége között.
+
+II. 4. kérdés: Több számlaadatot is be lehet küldeni egyszerre?
+
+Igen, az interfészleírás megengedi. Az adatszolgáltatások önállóan BASE64 kódolással, egyesével és kötegelve is beküldhetők egy úgynevezett boríték-XML-be ágyazva. A specifikáció szerint a jelenlegi beállításban maximum 100 darab számla szerepelhet egy adatszolgáltatásban.
+
+II. 5. kérdés: Kell-e digitális aláírás az XML-állományra?
+
+Nem kell, sőt, tilos!
+
+II. 6. kérdés: Hol találok példa-XML-állományokat?
+
+A gépi interfészen keresztüli kommunikációhoz és az adatszolgáltatáshoz példa-XML-állományokat a https://onlineszamla.nav.gov.hu/dokumentaciok oldalon találhat.
+
+II. 7. kérdés: Milyen nyelven érhető el az interfészleírás?
+
+Magyar és angol nyelven. Az angol nyelvű leírás eléréséhez az oldal nyelvét át kell állítani.
+
+II. 8. kérdés: Milyen támogatást biztosít a NAV a fejlesztők számára? 
+
+2018-ban a NAV fejlesztői fórumokat tartott a fejlesztés, tesztelés időszakában, illetve a teszt- gépiinterfész működésével kapcsolatos fejlesztői kérdéseket az init.onlineszamla_teszt_support@nav.gov.hu e-mail-címen lehetett jelezni. Az együttműködés azóta is aktív: a NAV a számlázó programok fejlesztőinek a GitHubon biztosít konzultációs lehetőséget (https://github.com/nav-gov-hu/Online-Invoice). A fejlesztők érdemi észrevételeit, javaslatait pedig a különböző XSD-verziók kialakításánál figyelembe vették.
+
+Ezenkívül a https://onlineszamla.nav.gov.hu/dokumentaciok linken található interfész-dokumentáció önellenőrzés című menüpontja, valamint a minta-XML-fájlok tudnak még támpontokat adni.
+
+Szintén hasznos segítség az Online Számla interfészének teszteléséhez készült Grafikus Segédprogram, amely az alábbi linken érhető el: 
+
+https://onlineszamla.nav.gov.hu/api/files/container/download/OnlineInvoiceTool_installer_2020_12_28.zip
+
+II. 9. kérdés: Milyen informatikai fejlesztőeszközökkel lehet tesztelni a beküldést?
+
+Javasoljuk a Jmeter-, SoapUI-eszközöket, amelyek ingyenesek. Szintén ingyenes a https://onlineszamla.nav.gov.hu/dokumentaciok oldalról letölthető Grafikus segédprogram. A beküldés tesztelése előtt az előállított XML-fájlok a szintén ingyenes Notepad++ programmal validálhatók, és ellenőrizhető az is, hogy a sémaleírásokban definiáltaknak megfelelnek-e.
+
+II. 10. kérdés: Hogyan kell a két sémaleíró szerinti XML-üzenetet egymásba ágyazni?
+
+Az invoiceData sémaleíró szerinti XML teljes egészét BASE64 kódolva kell az invoiceApi sémaleíró <invoice></invoice> tagjába ágyazni.
+
+II. 11. kérdés: Hogyan kell a CRC32 hash értéket kiszámolni a /manageInvoice operációban?
+
+Az adott <invoice> és </invoice> tagok között található BASE64 kódolt tartalomra – tehát nem a literál értékre – kell a decimális CRC32 értéket kiszámolni. Az így kapott értékeket kell egymás után fűzni az index szerint növekvő sorrendben a helyes requestSignature kiszámításához.
+
+II. 12. kérdés: Használhatok-e más önellenőrző online szolgáltatást, mint ami a dokumentációban szerepel?
+
+Természetesen igen, de tudni kell, hogy az online toolok és konverterek nagy része szegényesen dokumentált és nem jelölik meg pontosan, hogy a számítást mi alapján végezték. A CRC32 és AES-konverterekre ez hatványozottan igaz. A dokumentációban szereplő online ellenőrzők a rendszerrel azonos módon számolnak, így az eredmény helyességét ezek használatával lehet megnyugtató módon ellenőrizni.
+
+II. 13. kérdés: A beküldött kérésemre a következő hibaüzenetet kapom vissza: „An HTTP protocol violation was detected and your request was denied.” Mi a teendő?
+
+Ezt az üzenetet a szerver előtt lévő hálózatvédelmi eszköz akkor adja vissza, ha a HTTP-kérés nem engedélyezett endpointra érkezett, például a POST után hibás vagy hiányzik az URL. Ellenőrizni kell a kimenő HTTP-üzenetet!
+
+II. 14. kérdés: Tűzfalnyitási folyamataink miatt arra az információra is szükségünk lenne, hogy NAV-oldalról fix IP-cím elérési lehetőséggel terveznek-e a számlaadat-szolgáltatás kialakításakor.
+
+Igen, a NAV-szerverek fix IP-címmel látszanak az internet felől. 
+
+II. 15. kérdés: Mennyi idő múlva lehet a beküldött számlaadatok validációs eredményére visszakérdezni?
+
+A feldolgozás aszinkron működik, a beküldött adatszolgáltatás eredményére a jelenlegi számítások szerint 3–5 perc múlva érdemes visszakérdezni.
+
+II. 16. kérdés: Mi történik akkor a kikért tokennel, ha a gépek ideje el van csúszva?
+
+A tokenExchange operáció meghívásakor az időablak minden esetben 5 perc, függetlenül attól, hogy a kliensoldali szerver és az Online Számla rendszer szervere eltérést mutat. Ha a kapott token felhasználása tehát 5 percen belül megtörténik, annak érvényesnek kell lennie.
+
+II. 17. kérdés: Az XML kitöltésénél használható-e ![CDATA[, hogy a rendszert ne akassza meg, ha a felhasználó speciális karaktert használ?
+
+Az XML-adat-összeállítás szempontjából nem okoz problémát a CDATA használata, a biztonságos hibamentes feldolgozás miatt azonban javasoljuk a replace használatát az alábbi speciális karaktereknél:
+
+
+
+"&" => "&amp;"
+
+"<" => "&lt;"
+
+">" => "&gt;"
+
+"'" =>  "&apos;"
+
+"\"" => "&quot;"
+
+II. 18. kérdés: Ha batchben adunk fel kérést, akkor is számlánként kell visszakérni a választ?
+
+A tranzakció feldolgozásának eredményét a köteg sikeres beküldésekor visszakapott tranzakcióID-re hivatkozott kérésre adja vissza a rendszer. A számlák validációját szintén egy köteg fogja tartalmazni, melyen belül index alapján lehet azonosítani egy adott számla feldolgozásának eredményét.
+
+II. 19. kérdés: Lehetőség van párhuzamosan több érvényben lévő token kérésére azonos, illetve különböző operációk futtatásához?
+
+Igen, erre van lehetőség. Ugyanakkor a token használata csak a manageInvoice és a manageAnnulment kérésnél szükséges.
+
+II. 20. kérdés: Egy számlát érvénytelenítő vagy módosító okirat számlázó programban való elkészítése utáni jelentésekor a programnak jelentenie kell a LineModificationReference elemben a LineNumberReference elemet. Mi a legjobb módja annak, hogy a jelentés előtt megtudjuk, az adott eredeti számlára lineOperation: CREATE módszerrel mi a következő helyes LineNumberReference érték? A /queryInvoiceData operáció segít ebben?
+
+Kifejezetten erre a célra készült a /queryChain lekérdező művelet, ahol a számlalánc kivonatos adatait adja vissza a rendszer, többek között az utolsó számlasor sorszámát.
+
+Szükség lehet az adott eredeti számlára kiadott korábbi módosító okiratok adatainak lekérdezésére is, ha azok újabb tételsort is képeztek az eredeti számlán szereplőkhöz képest. Ha ezt a forrásrendszer nem tárolja el, akkor a /queryInvoiceData operációval a számlalánc elemeinek teljes adattartalma lekérdezhető, így a beküldött módosításokból visszaolvashatók az új sorok.
+
+II. 21. kérdés: Az adatszolgáltatás technikai érvénytelenítésekor a felhasználó a webes felületen engedélyezi az érvénytelenítést. Erről válaszüzenet érkezik (gép-gép)? Mi lesz ennek a tartalma?
+
+Hibás az online számlaadat-szolgáltatás, ha a számlázó programmal előállított számla adatai és az azokról teljesített, a NAV által feldolgozott adatszolgáltatás számlaadatai között eltérés van, például a helyi érték eltérése miatt. Az ilyen adatszolgáltatás javítása az érintett számlákra adott hibás adatszolgáltatás technikai érvénytelenítésével és az ezen számlákra vonatkozó ismételt adatszolgáltatással valósul meg. Az ehhez kapcsolódó szabályokat a Számlarendelet 13/A. §-ának (5)–(7) bekezdései tartalmazzák. A technikai érvénytelenítés mindig speciális eljárás az adózó oldalán. Ennek adózóoldali kidolgozásakor figyelembe kell venni azt a tényt, hogy ugyanazon számlasorszámmal csak akkor történhet újabb adatszolgáltatás, ha az első, téves adatszolgáltatást már érvénytelenítették, és ebbe beleértendő a technikai érvénytelenítés jóváhagyása is. Mivel a jóváhagyás teljes egészében felhasználói folyamat, ezért nincs gép-gép közötti kommunikáció.
+
+Az interfészen küldött technikai érvénytelenítés állapota a felhasználó által kezdeményezett queryTransacionStatus kéréssel ellenőrizhető, ahol a válaszban az érvénytelenítés felülbírálatának státuszát is visszajelzik.
+
+II. 22. kérdés: Kötelező-e az adószám-ellenőrző (queryTaxpayer) operáció hívás beépítése a számlázórendszerbe?
+
+Nem kötelező, ugyanakkor a számlakiállító adóalany tevékenységét segítheti egy ilyen ellenőrzés.
+
+II. 23. kérdés: Az online adatszolgáltatás lineDiscountData elemében a discountValue és a discountRate értékeket milyen előjellel kell szerepeltetni?
+
+A kedvezményelemben a kedvezmény összege pozitív számként szerepeltetendő. Tehát, ha (forint pénznemű számlánál) 100 forint a kedvezmény, akkor <discountValue>100 </discountValue> a helyes érték.
+
+II. 24. kérdés: Az invoicedata.xsd szerinti XML-üzenetben a százalékérték megadására szolgáló típusnál a „VatPercentage” tag maximális értéke 1 lehet a hibajelzés alapján. Ebben a tagban nem az áfa százalékos értékét várja a séma?
+
+Az XSD-típusdefiníciójában foglaltak szerint a VatPercentage elem 0 és 1 közötti szám. A 27 százalékot „0.27” formában kell közölni.
+
+II. 25. kérdés: Az Online Számla rendszerben lehetséges olyan jóváírószámlát lejelenteni, ami több eredeti számlához köthető? Ilyenkor nem egy eredeti számlaszámra hivatkozunk, hanem többre. Ezeket jelenleg a megjegyzés rovatban tüntetjük fel a jóváírószámlán. Ezt tudnánk továbbítani XML-formátumban is a megjegyzés rovatban? El tudja fogadni így a NAV Online rendszere a korrekciós számlákat?
+
+A több számlát érintő, de egy bizonylaton szereplő módosításról szóló adatszolgáltatás részleteit az interfész-specifikáció „2.5.6 Adatszolgáltatás több számlát módosító okiratról” fejezete tartalmazza. Javasoljuk, hogy tanulmányozza át a példaszámlákat és a példa-XML-eket.
+
+A módosító okiratokban az eredeti számlára mutató hivatkozás feltüntetése formailag erősen kötött, az adatszolgáltatásban ez nem szerepelhet a „Megjegyzés” rovatban. Az interfész-specifikáció ennek részleteiről is teljes körű tájékoztatást tartalmaz. 
+
+II. 26. kérdés: Az adatszolgáltatással kapcsolatos technikai kérdésünk az XML-fájl elnevezésére vonatkozik. Szeretnénk megtudni, hogy az elnevezésre milyen szabályok vonatkoznak, hol találhatók ezek az információk?
+
+Az adatszolgáltatás módjából következően a fájlnévvel szemben elvárás, követelmény nincs. Ha a kérdés az adatexportnál képzett XML-állományok elnevezési konvenciójára vonatkozik, akkor nincs ilyen elvárás. Célszerű fájlnévként a számla vagy módosító okirat sorszámát szerepeltetni.
+
+II. 27. kérdés: Mikor kell vagy lehet a módosító okiratról teljesített adatszolgáltatásban „true” értékkel szerepeltetni a „modifyWithoutMaster” elemet? Jelölhetem-e, illetve kell-e jelölnöm a „true” értéket, ha úgy szolgáltatok adatot egy módosítószámláról, hogy az eredeti még nincs beküldve, például azért, mert az kézi számla és még nem vitték fel a weben? 
+
+A „modifyWithoutMaster” elem azt jelzi, hogy az adott módosító okirathoz tartozó eredeti számláról nem történt és nem is fog történni számlaadat-szolgáltatás. Nem kell és nem is szabad modifyWithoutMaster=true értéket szerepeltetni a számlaadat-szolgáltatási kötelezettség alá eső eredeti számlát módosító okiratokról teljesített adatszolgáltatásban, függetlenül attól, hogy a számlával egy tekintet alá eső okiratra vonatkozó adatszolgáltatás előtt az eredeti számláról teljesítendő adatszolgáltatás elkezdődött-e, illetve azt a NAV rendszere sikeresen feldolgozta-e. 
+
+II. 28. kérdés: Egy eredeti számlát megpróbál beküldeni a számlázó program, de ERROR üzenetet kap válaszul. Kiderül, hogy a számlán szereplő adatok okozták a hibát, például tévesen szerepel az eladó adószáma vagy az újratelepített számlázó program elölről kezdte a számlák sorszámozását, így egy sorszámot újra kiadott. Mi a teendő ilyenkor, hiszen ha lesztornózom ezt a számlát, akkor lehet, hogy az érvénytelenítésről sem lehet adatot szolgáltatni?
+
+A számlázó programok megfelelő kialakításával teljeskörűen kiküszöbölhető, hogy akár formai (XSD-validáció), akár tartalmi (üzleti validáció) okokból elutasítsa a rendszer az adatszolgáltatást ERROR üzenettel. Emiatt különösen figyelnie kell az adatszolgáltatásra kötelezettnek, illetve a fejlesztőnek arra, hogy ez ne fordulhasson elő. A kérdésben szereplő két esetben is elvárható, hogy a saját adószám helyesen szerepeljen a számlán és az adatszolgáltatásban, továbbá a számla sorszámának egyedisége (Áfa tv. 169. § b) pont) maradéktalanul biztosított legyen.
+
+Mivel a kérdés szerinti adatszolgáltatás nem teljesítését, azaz a NAV rendszerében való sikeres feldolgozásának hiányát a számlán szereplő hibás adat okozza, módosítani kell a számla hibás adatát. Ennek végrehajtására javasoljuk a hibás adatot tartalmazó számla érvénytelenítését, sztornírozását a számlával egy tekintet alá eső okirattal, és új, helyes adatot tartalmazó számla kibocsátását.
+
+Amikor az ERROR üzenetet eredményező, hibás adatot tartalmazó számla érvénytelenítése után előállított, helyes adatot tartalmazó új számláról adatot szolgáltatunk, annak már nem kell tartalmaznia az eredeti, hibás számla és az azt érvénytelenítő számlával egy tekintet alá eső okirat sorszámára való hivatkozást.
+
+Az adatszolgáltatási kötelezettség alá eső számlát érvénytelenítő, számlával egy tekintet alá eső okirat is adatszolgáltatási kötelezettség alá esik. Az adóalany nem mentesül ezen kötelezettség alól azon indok alapján, hogy a számlával egy tekintet alá eső okiratról teljesített adatszolgáltatásra is ERROR üzenetet kap.
+
+Mivel az eredeti számláról és az azt érvénytelenítő számlával egy tekintet alá eső okiratról az eredeti számla hibája és az ebből fakadó ERROR üzenet miatt nem teljesült az adatszolgáltatás, mulasztási bírság szabható ki. Az esetlegesen felmerülő, konkrét szankcióra vonatkozó határozat meghozatalakor minden releváns körülményt mérlegelnek. Azt is, hogy az adott esetben a számláról, illetve a módosító okiratról, azaz az érvénytelenítésről technikai okokból nem lehetett beküldeni az adatszolgáltatást, illetve azt is, hogy az adatszolgáltatásra kötelezett úgy járt-e el a szoftver használatakor, illetve a probléma javításakor, ahogy az tőle elvárható.
+
+II. 29. kérdés: Mit jelent a specifikációban szereplő softwareId? Hogyan lehet ehhez az azonosítóhoz hozzájutni?
+
+A softwareId az adott számlázó program azonosítására szolgáló 18 elemű karaktersorozat. 
+
+A softwareId képzésére vonatkozó ajánlás alapján az azonosító első két karaktere a szoftvert fejlesztő cég országkódja ISO 3166 alpha-2 szabvány szerint. Az azonosító további karakterei a fejlesztőcég adószámának törzsszáma megfelelő számú számjeggyel, egyes országokban ugyanis az adószám hosszúsága lényegesen eltérhet a Magyarországon megszokott 8 számjegytől.
+
+Az azonosító további karaktereit a Gyártó saját maga alkotja meg úgy, hogy az azonosító egyedisége biztosított legyen. A Gyártó dönthet arról, hogy egy adott szoftvertermék különböző verzióihoz, vagy a különböző ügyfeleinél működő példányokhoz külön-külön azonosítót hoz-e létre. Ugyanazon szoftververzió ugyanazon példányának az adatszolgáltatáskor ugyanazt a softwareId-t kell közölnie magáról.
+
+II. 30. kérdés: Hogyan és hol tudok XML-kulcsot generálni?
+
+A gépi interfészen keresztüli adatszolgáltatáshoz a technikai felhasználónak rendelkeznie kell XML-aláírókulccsal és XML-cserekulccsal. Ehhez a következő lépéseket kell követni:
+
+Az elsődleges felhasználónak be kell jelentkeznie az Online Számla rendszerbe.
+
+A Felhasználók menüpontban a technikai felhasználó mellett található Részletek nyílra kell kattintania.
+
+A Részletekben a lap alján található Kulcsgenerálás funkciógombra kell kattintani, így az eddig üres XML-aláírókulcs és XML-cserekulcs sor kitöltődik.
+
+Új XML-kulcsok generálásakor ugyanezt kell tenni.
+
+II. 31. kérdés: Számla érvénytelenítésekor mindenképp szükséges STORNO érték szerepeltetése az invoiceOperations/invoiceOperation/operation elemben, vagy van arra lehetőség, hogy a STORNO helyett MODIFY értéket vegyen fel az elem, és a számlát úgy érvénytelenítsük, hogy az egyes számlatételeket – a CREATE vagy MODIFY lineOperation operáció használatával – 0-ra módosítva érjük el, hogy a számla végösszege 0 legyen? A jelenleg hatályos áfatörvény nem tesz különbséget a számla módosítása és érvénytelenítése között, tulajdonképpen mindkét esetben számlával egy tekintet alá eső okirat kiállításáról beszélünk, ennek megfelelően úgy gondoljuk, hogy a törvényi előírásoknak mindkét eljárás megfelelne.
+
+Az invoiceOperations/invoiceOperation/operation elemben szerepeltetett STORNO érték azt jelzi, hogy az adott okirat célja az eredeti számla érvénytelenítése. Az érvénytelenítés tekinthető ugyan a módosítás egy speciális esetének, különösen akkor, ha egy új, már a módosított adattartalmat tükröző számlát is kiállítunk, de a MODIFY érték mellett a STORNO értéket is be kellett vezetni azért, hogy az egyértelműen a számla érvénytelenítésére irányuló szándék is azonosítható legyen. Az interfész-specifikációban foglaltaknak tehát az felel meg, ha ilyenkor a szándéknak megfelelően invoiceOperations/invoiceOperation/operation = STORNO szerepel. 
+
+II. 32. kérdés: A lineModificationReference/lineNumberReference értéke módosító okiratnál alapvetően folytatólagos (lineOperation=CREATE esetén) vagy megegyezik az adott, módosított tételsorszám értékével (lineOperation=MODIFY esetén). Milyen értéket adjunk a lineModificationReference/lineNumberReference elemnek akkor, ha az eredeti számlát nem jelentették valamilyen okból – például mert az eredeti számla kiállítása 2018. július 1-je előtt történt –, de a módosító okirat jelentési kötelezettség alá esik? Lehet-e ilyenkor egyszerűsíteni a lineModificationReference/lineNumberReference értékét?
+
+Az interfészleírás 2.2.3.1.1 pontja alapján a módosító okiratról teljesített adatszolgáltatáskor, ha annak eredeti számlájáról nem történt és nem is fog történni adatszolgáltatás (modifyWithoutMaster=”true”), akkor a lineNumberReference elemekben lehet egy adott értéktől, akár 1-től kezdődő sorszámozást szerepeltetni annak ellenére is, hogy ezek az adatszolgáltatással nem érintett eredeti számla nem megfelelő tételsoraira hivatkoznak. 
+
+II. 33. kérdés: Az interfész-specifikáció szerint a csoportos számlahelyesbítésnél az adatszolgáltatásban szét kell bontani alapszámlánként a számlát. Ha például 30 darab számlára vonatkozik a csoportos helyesbítés, akkor nem egy XML-ben kell felsorolni például az alapszámlasorszámokat, hanem 30 XML lesz 30  számlasorszám-hivatkozással és a vonatkozó korrekciós tételekkel. Kell-e valamilyen egyedi jelölést alkalmazni, mivel magának a helyesbítőszámlának mindig ugyanaz lesz a sorszáma?
+
+A több számlát érintő módosításról szóló adatszolgáltatás részleteit az interfész-specifikáció „2.5.6 Adatszolgáltatás több számlát módosító okiratról” fejezete tartalmazza. Javasoljuk, hogy tanulmányozza át a példaszámlákat és a példa-XML-eket.
+
+A helyesbítőszámlát leíró rész-XML-eket – a kérdésben 30 szerepel – egy batchInvoice csomópontba kell gyűjteni az interfész-specifikációban megadott módon. 
+
+II. 34. kérdés: Az XSD-séma szerint a számlatételek sorszámozásának folyamatosnak kell lennie, azaz ha az eredeti számlán 3 tételsor szerepel, akkor a helyesbítés ’LineNumberReference’ értéke a 4. sortól fog kezdődni, a lineOperation pedig mindig CREATE. Ez a szabály hogyan értelmezendő a csoportos helyesbítésre? XML-enként külön szekvencia szükséges a hivatkozott alapszámla – esetlegesen alapszámlalánc – tételsorszámozását folytatva?
+
+Csoportos módosításnál az adatszolgáltatást minden módosítandó számlára külön-külön XML-ben kell elvégezni. Így tehát egy-egy XML a módosító okiratnak az adott eredeti számlára vonatkozó módosításait tartalmazza. Ha az adózó tehát minden esetben lineOperation=CREATE módon képzi a módosító okiratot, akkor az adott eredeti számla esetleges korábbi módosításaival együtt tekintett sorszámozását kell folytatni.
+
+II. 35. kérdés: Ha valamilyen okból az eredeti számlát és a hozzá tartozó sztornó- vagy módosítószámlát egyszerre küldik fel – például mert létrejött az eredeti számla és szinte azonnal helyesbítették is –, akkor a sztornó- vagy módosítószámlában a ModifyWithoutMaster tagba mi kerüljön?
+
+A Technikai kérdések és válaszok II. 27. kérdésére adott válasz alapján nem kell és nem is szabad modifyWithoutMaster=true értéket szerepeltetni az olyan módosító okiratokról nyújtott adatszolgáltatásban, ahol az eredeti számla is jelentésköteles, függetlenül attól, hogy a számlával egy tekintet alá eső okiratra vonatkozó adatszolgáltatás előtt az eredeti számláról teljesítendő adatszolgáltatás elkezdődött-e, illetve azt a NAV rendszere sikeresen feldolgozta-e. Célszerű a számlázó programot úgy kialakítani, hogy a módosító okiratot csak akkor küldje el, ha az eredeti okiratot már befogadták, ha arról van adatszolgáltatás.
+
+II. 36. kérdés: Készpénzes, belföldi számlánál, ha a fizetendő összeget 5 Ft-os kerekítési szabály szerint kerekítjük, akkor azt hogyan kell feltüntetni a számla-XML-ben?
+
+Ha a kerekítéssel a számla végösszege nem változik, csak a készpénzes fizetés miatt a kifizetett összeg 1 vagy 2 forinttal eltér a végösszegtől, akkor ezt a tényt az adatszolgáltatásban nem kell szerepeltetni, maga a számla is a kerekítés nélküli végösszeget tartalmazza. Más a helyzet, ha az adóalany a matematikai szabályok figyelembevételével akár a tételsoron belüli összegeket kerekíti, akár a teljesítésének végösszegét, mivel ekkor a számla végösszege is a kerekített összeg lesz, tehát az adatszolgáltatásnak is e kerekített összegről kell szólnia. 
+
+II. 37. kérdés: Érthetetlen módon „INVALID_INVOICE_REFERENCE” hibaüzenet érkezik. Mi lehet ennek az oka?
+
+A kérdés az 1.0, illetve 1.1 XSD-verzió kapcsán merült fel. A 2.0 verziótól kezdve azonban két, korábban többértelmű hibaüzenetet szétválasztottak több külön esetre azért, hogy a hibás XML-ek elkülöníthetők legyenek kliensoldalon az állapotfüggő esetektől. 
+
+INVALID_INVOICE_REFERENCE 
+
+Az operáció nem CREATE és nincs a belső tartalomban invoiceReference csomópont: INVOICE_REFERENCE_EXPECTED. 
+
+Az operáció CREATE és a belső tartalomban szerepel invoiceReference csomópont: INVOICE_REFERENCE_NOT_EXPECTED. 
+
+A modifyWithoutMaster értéke nem a valóságnak megfelelő, az értéke true és a hivatkozott számla érvényesként szerepel az adózó számlái között: MODIFY_WITHOUT_MASTER_MISMATCH.
+
+A szétválasztás után az INVALID_INVOICE_REFERENCE hibakód csak egy logikai esetben jelenik meg: ha a hivatkozott számla az adózó számlái között nem szerepel érvényesként.
+
+
+
+III. Technikai vonatkozású eljárási kérdések
+
+III. 1. kérdés: Igaz-e az, hogy a korábban adatexportra készült XML is használható a számla adatainak beküldésére?
+
+Nem, az adatexportra definiált XML nem alkalmas erre a célra. Ugyanakkor a Számlarendelet alapján az új XML-séma szerinti állományokkal teljesíthető az adatexport is. 
+
+III. 2. kérdés: Mi történik akkor, ha a számlázó programmal a számlakiállítás megtörtént, de az valamiért nem tudja elküldeni az adatokat, például éppen áramszünet lesz és tönkremegy a gép vagy napokig szünetel az internetszolgáltatás?
+
+Az adatszolgáltatással kapcsolatos határidőket a Számlarendelet szabályozza. 
+
+A Számlarendelet 13/B. § (4) és (5) bekezdése kiterjed a műszaki problémáknál követendő eljárásra is. A 13/B. § (5) bekezdése szerinti esetben a https://onlineszamla.nav.gov.hu oldalra belépve a Nyilatkozatok menüpont alatti Üzemzavari nyilatkozat funkció választásával lehet az elakadást jelezni a NAV-nak.
+
+III. 3. kérdés: Régi típusú a számlázó programom, amely nem ismeri az XML-szabványt és nem lehet hozzá ilyen jellegű modult fejleszteni. Használhatok más, harmadik fél által fejlesztett megoldást az adatszolgáltatáshoz? 
+
+Igen, a számlázó programok használhatnak olyan modult, amely ezeket a feladatokat végzi, azt azonban a jogszabály szerint a számlázórendszer részeként kell kezelni és tekinteni. Az adatszolgáltató modulnak ilyenkor közvetlen kapcsolatban kell lennie a számlázó programmal, és az adatszolgáltatásra kötelezett számla kiállítása után azt azonnal, emberi beavatkozás nélkül kell az adatszolgáltató modulon keresztül a NAV-nak megküldeni.
+
+III. 4. kérdés: Milyen támogatást ad a rendszer a kiállított számlák és a teljesített adatszolgáltatások összevetéséhez?
+
+Az ügyfél maga felel az adatszolgáltatás teljeskörűségéért, az adatszolgáltatásban szereplő adatok megbízhatóságáért. A számlázórendszerrel magának kell összevetnie az adatokat. A felhasználói felület, valamint a gépi interfészen több lekérdező szolgáltatás biztosít lehetőséget a beküldött adatszolgáltatások ellenőrzéséhez.
+
+III. 5. kérdés: Önszámlát készítünk a partnereink nevében. Jogosultak leszünk-e arra, hogy több ezer partnerünk nevében beküldjük a számlát?
+
+Az adatszolgáltatást a számlát kiállító rendszernek kell biztosítania. Önszámlázásnál a vevő számlázórendszerének alkalmasnak kell lennie arra, hogy az értékesítő számláiról az adatszolgáltatást teljesítse. Az adatszolgáltatásra kötelezett azonban ilyenkor is a számla kiállítására kötelezett értékesítő marad, technikailag történik meg a vevő számlázórendszeréből az adatszolgáltatás. Az adatszolgáltatás megvalósításához az érintett partnereknek az általuk képzett technikai felhasználó azonosítóját meg kell küldeni a számlát kiállító vevőnek, mely technikai azonosító(ka)t a számlázó programba be kell építeni és ezután az adatszolgáltatás teljesíthető.
+
+III. 6. kérdés: Az Online Számla rendszer karbantartása alatt lehet kézzel számlaadatokat rögzíteni? 
+
+Az Online Számla rendszer karbantartási időszaka alatt nem lehet a számlaadatokat kézzel rögzíteni. A karbantartás után végezhető el az Online Számla rendszer kézi adatrögzítő felületén a számlaadatok megadása. A karbantartás megkezdéséről és befejezéséről a https://onlineszamla.nav.gov.hu/home címen található Kezdőlapon a Hírek rovatban, valamint a https://nav.gov.hu/nav/uzemszunet címen olvasható tájékoztatás.
+
+III. 7. kérdés: A számla adatbázisba rögzítése és továbbítása a NAV-nak tranzakcionális egységet kell, hogy alkosson?
+
+Nem, az adatszolgáltatás és a számlakibocsátási folyamat elkülönül egymástól. Az adatszolgáltatásnak a számla kiállításakor kell elindulnia. Ha például üzemszünet miatt az adatszolgáltatás nem történne meg, attól a számla kibocsátható.
+
+III. 8. kérdés: Tervezik-e, hogy megtartják a tesztelési lehetőséget 2018. július 1-je után is, biztosítva ezzel a későbbi fejlesztések támogatását? 
+
+Igen, a tesztrendszer az éles indulás után is rendelkezésre áll. A NAV lehetőséget biztosít arra, hogy adatszolgáltatásra kötelezett ügyfelei a tesztfelületen kipróbálhassák az adatrögzítés menetét, illetve arra, hogy a számlázó programok fejlesztői tesztelhessék az általuk rendszer-rendszer kapcsolattal, elektronikus szabványüzenetben küldött számlaadatok fogadására szolgáló informatikai rendszert. 
+
+A tesztfelületen azonban nem teljesíthető az adatszolgáltatási kötelezettség, a tesztfelületen rögzített adatok a NAV nyilvántartásában nem jelennek meg!
+
+III. 9. kérdés: Figyeli-e, szankcionálja-e a NAV azt, hogy a /manageInvoice és a /queryInvoiceStatus operáció között mennyi idő telik el?
+
+Az Art. 229. §-a alapján az adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén a kiszabható mulasztási bírság felső határa az érintett számlák, illetve a számlával egy tekintet alá eső okiratok számának és az általános bírságszabály szerinti bírság adózóra egyébként vonatkozó legmagasabb mértékének szorzata. A Számlarendelet alapján az adatszolgáltatás akkor teljesül, amikor a sikeres feldolgozást a rendszer visszaigazolta. Mivel a visszaigazolás a /queryInvoiceStatus operációval történik meg, ameddig nem valósul meg a státusz lekérdezése, addig a jogszabály szerint nem történik meg az adatszolgáltatás. A számlák feldolgozási státuszát visszaadó, az 1.0-ás és 1.1-es séma szerint /queryInvoiceStatus operáció a 2.0-ás sémától kezdve /queryTransactionStatus néven szerepel.
+
+Mivel a számlák feldolgozása aszinkron működik, a beküldött adatszolgáltatás eredményére a jelenlegi számítások szerint 3–5 perc múlva érdemes visszakérdezni.
+
+III. 10. kérdés: Rendszerünkben a számlák akkor zárulnak le, amikor azokat a központi vevői analitikamodulba elküldjük. Technikai okok miatt ugyanakkor előfordulhat, hogy a számla éjszaka elakad, s a hiba csak a következő munkanapon hárul el. Technikai hibánál így a számla kiállítási dátuma és a NAV rendszerébe való beküldés tényleges dátuma között több nap eltérés is lehet. Elfogadható-e, ha egy-egy számla technikai okok miatt nem azonnal, hanem később, a technikai hiba elhárítása után érkezik be? Fel kell-e bármilyen módon tüntetni ezt a tényt az XML-fájlban, és ha igen, hol? Például az „additional invoice data” mezőbe beírható-e a számla vevői analitikamodulba küldésének dátuma, amely az ügyviteli rendszerének sajátosságából adódóan a számla valódi lezárását, illetve véglegesítését jelenti?
+
+A Számlarendelet 13/A. § (1) bekezdése alapján a kiállított számlák adatait kell automatikusan gép-gép interfészen keresztül továbbítani. A számla, számlával egy tekintet alá eső okirat abban az időpontban számít kiállítottnak, amikor a számlázó program az előállított számla, a számlával egy tekintet alá eső okirat adatait lezárja.
+
+A kérdésben leírt esetben – a Számlarendelet 8. §-ának (6) bekezdése alapján – a számlákat akkor zárják le ténylegesen, illetve akkor véglegesítik, amikor azok a központi vevői analitikamodulba kerülnek. Ezért az adatküldésnek is csak a központi modulba kerülés után kell automatikusan megtörténnie.
+
+Mindettől függetlenül a Számlarendelet 13/B. § (4) és (5) bekezdései alapján kliensoldali technikai hibánál a következő eljárás alkalmazandó:
+
+
+
+„(4) Ha a számlázó program a számla, számlával egy tekintet alá eső okirat kiállításának időpontjában a számla, számlával egy tekintet alá eső okirat adatainak szolgáltatására kötelezett adóalany rendszerének üzemzavara vagy az internetszolgáltatás elégtelensége miatt nem továbbítja a NAV-nak, a számlázó programnak az előállított számla, számlával egy tekintet alá eső okirat legalább az Áfa tv. 10. számú melléklet 4–5/A. pontjában meghatározottak szerinti adattartalmát az üzemzavar elhárulását követő 24 órán belül kell a NAV-nak elektronikusan továbbítania.
+
+(5) A (4) bekezdéstől eltérően az adatszolgáltatásra kötelezett adóalany rendszerének 48 órát meghaladó üzemzavara vagy az internetszolgáltatás elégtelensége esetén ezt a tényt az adatszolgáltatásra kötelezett adóalanynak a NAV rendszerében legkésőbb a 48 órás időtartam leteltekor jeleznie kell és az adatszolgáltatást ezen időtartam leteltétől számított 24 órán belül a NAV rendszerében a kiállított számla, számlával egy tekintet alá eső okirat legalább az Áfa tv. 10. számú melléklet 4–5/A. pontjában meghatározottak szerinti adattartalmának manuális rögzítésével köteles teljesíteni. Amennyiben ezen 24 órás időkeret alatt az üzemzavar vagy az internetszolgáltatás elégtelensége nem hárul el, az időkeret a NAV rendszerében tett ismételt bejelentéssel újabb 24 órával meghosszabbítandó mindaddig míg az üzemzavar, internetszolgáltatás elégtelensége fennáll.”
+
+Hangsúlyozzuk ugyanakkor, hogy ez az eljárás csak a számlák lezárása után felmerült üzemzavarnál alkalmazandó. A számlát leíró XML-állományban nem kell feltüntetni azt a tényt, hogy a számlát a számlázórendszer mikor zárta le. Ha a számlán szerepel a lezárás, azaz az analitikai modulba küldés dátuma, akkor az additionalInvoiceData elemben ez az adat elhelyezhető, egyébként nem.
+
+III. 11. kérdés: Az Online Számla rendszer portálon, a webes felületen lesz-e lehetőség XML feltöltésre?
+
+A webes felületen kizárólag manuális rögzítésre van lehetőség, például számlatömbös számlázás – tehát kézi számlázás – esetén, illetve abban az esetben, ha ezt a jogszabály kifejezetten előírja, például üzemzavarnál, hibás beküldésnél. XML feltöltésére nem lesz lehetőség a webes felületen, azt kizárólag a gépi interfészen keresztül lehet beküldeni.
+
+III. 12. kérdés: Miért nem tudom megváltoztatni a jelszót?
+
+A jelszó módosítására biztonsági okokból 6 óránként van lehetőség. 6 órán belül kétszer nem lehetséges új jelszót kérni.
+
+III. 13. kérdés: Milyen IP-címeket alkalmaznak a tesztkörnyezetben aktuálisan?
+
+Jelenleg:
+
+onlineszamla-test.nav.gov.hu                  84.206.52.70
+
+api-test.onlineszamla.nav.gov.hu             84.206.52.71
+
+Felhívjuk a figyelmet, hogy az IP-címek változhatnak!
+
+ III. 14. kérdés: Az új XML-séma szerinti állományokkal is teljesíthető az adatexport funkció a módosított 23/2014. (VI. 30.) NGM-rendelet szerint. Ha ezt a megoldást választjuk, akkor milyen XML-állományt kell képezni?
+
+A számlákat/módosító okiratokat az invoiceData.xsd szerint valid XML-állományokba kell exportálni. Számlánként, illetve módosító okiratonként egy XML-állományt kell képezni. Az állomány elnevezésére nincs kifejezett előírás, javasolt a fájlnévben a cég nevét vagy adószámát, a számla sorszámát és a keltének dátumát szerepeltetni, például PeldaKft_12345678_012345_20191231.xml. Az adatexport jellegéből fakadóan ezeket az állományokat az ellenőrzéskor az ellenőrzést végző revizorok kérésének megfelelően kell átadni.
+
+III. 15. kérdés: Egy már elkészült, kinyomtatott és a NAV-nak beküldött számláról a későbbiekben másolatot nyomtat a felhasználó. Erről a másolatról kell-e, illetve szabad-e XML-t készíteni és újra beküldeni a NAV-hoz?
+
+Mivel ebben az esetben nem történik számlakiállítás, csak egy másolat kiadása, nem kell és nem is szabad adatot szolgáltatni, mert ezzel ugyanarról a gazdasági eseményről, számláról kétszer történne adatszolgáltatás. Technikailag sem lenne sikeres a művelet, mert a rendszer az ugyanolyan számlasorszámmal végrehajtott második adatszolgáltatási kísérletet visszautasítaná.
+
+
+
+2018 © Nemzeti Adó- és Vámhivatal
+
+
+
+Elérhetőségek
+
+NAV Infovonala: 1819
+Külföldről: +36-1-250-9500 Levélküldés a NAV-nak 
+
+Az alkalmazás elérhető! 
+
+Gyakran ismételt kérdések | Online számla
+
+
+
+18

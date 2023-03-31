@@ -1,0 +1,349 @@
+A Nemzeti Adó- és Vámhivatal
+
+
+
+Központi Irányítás Vám Főosztálya főosztályvezetője által kiadott
+
+
+
+70.../2021. felhívás
+
+
+
+az egyes oltóanyagok kiviteliengedély-kötelezettségének meghosszabbításáról 
+
+
+
+
+
+
+
+Az Európai Bizottság meghosszabbította a koronavírussal szembeni védekezéshez felhasználható oltóanyagok és azok hatóanyagainak kiviteliengedély-kötelezettségét.Az engedélykötelezettség 2021. március 13-tól 2021. június 30-ig hatályos, az új részletszabályokat az egyes termékek kivitelének exportengedély bemutatásához kötéséről szóló 2021/442 (EU) bizottsági végrehajtási rendelet (a továbbiakban: 2021/442/EU-rendelet) tartalmazza. 
+
+
+
+A 2021/442/EU-rendelet a meghatározott vállalatok által gyártott, a 3002 20 10 vámtarifaszám alá tartozó SARS-koronavírusok (SARS-CoV fajok) elleni oltóanyagok kivitelét engedélyhez köti. Az engedélykötelezettség az ex 2933 99 80, az ex 2934 99 90, az ex 3002 90 90 és az ex 3504 00 90 vámtarifaszám alá tartozó hatóanyagokra – beleértve az oltóanyagok gyártásához használt törzssejtállományt és a szaporító sejtbankokat – is kiterjed. 
+
+
+
+Az érvényes kiviteli engedélynek rendelkezésre kell állnia a kivitel bejelentésekor, de legkésőbb az áruk átengedésének pillanatában. Érvényes engedély benyújtása nélkül a kiviteli eljárások nem végezhetők el. Az engedély mintáját a 2021/442/EU-rendelet I. melléklete tartalmazza.
+
+
+
+A kiviteliengedély-kötelezettség az uniós áruk Európai Unión (a továbbiakban: EU) kívülre történő kivitelére, illetve a nem uniós áruk újrakivitelére terjed ki. Nem kell kiviteli engedély a 2021/442/EU-rendelet 1. cikk (9) bekezdés a)–c) és f) pontjaiban felsorolt országokba, kontinentális talapzaton lévő létesítménybe vagy kizárólagos gazdasági övezetként bejelentett övezetbe szállításoknál. Szintén nem engedélyköteles a 2021/442/EU-rendelet 1. cikk d)–e) pontjában írtak szerint az előzetes beszerzési megállapodással vásárolt termékek újraértékesítési vagy adományozási célú, illetve a humanitárius célra szánt termékek kivitele.
+
+
+
+2021. március 26-tól hatályos az egyes termékek kivitele esetében exportengedély bemutatását előíró mechanizmusra vonatkozó egyedi rendelkezések meghatározásáról szóló 2021/521/EU bizottsági végrehajtási rendelet (a továbbiakban: 2021/521/EU-rendelet). 
+
+
+
+A 2021/521/EU-rendelet 1. cikke felfüggesztette a koronavírussal szembeni védekezéshez felhasználható oltóanyagok és azok hatóanyagainak kiviteliengedély-kötelezettsége kapcsán irányadó 2021/442/EU-rendelet 1. cikk (9) bekezdés a) pontjában – az egyes harmadik országokba irányuló kiviteleket érintő engedélymentességről – írtak alkalmazását.
+
+
+
+A felfüggesztés a következő országokra és területekre nem alkalmazandó, vagyis a következő területekre továbbra sem kell engedély a kivitelekhez, újrakivitelekhez:
+
+Andorra,
+
+Feröer szigetek,
+
+San Marino,
+
+Vatikánváros,
+
+az EU működéséről szóló szerződés II. mellékletében felsorolt tengerentúli országok és területek,
+
+Büsingen,
+
+Helgoland,
+
+Livigno,
+
+Ceuta és Melilla.
+
+
+
+A kiviteli engedélyeket azon tagállam illetékes hatósága adja ki írásban vagy elektronikusan, ahol az oltóanyagokat gyártják. Ha az árukat az EU területén kívül gyártják, az engedélyt az exportőr letelepedési helye szerinti tagállam illetékes hatóságai adják ki, ez az újrakivitel esete. A kiviteli engedély egynél több szállítmányra is kiadható, feltéve, hogy az összes szállítmány azonos országba irányul és azonos kiviteli vámhivatal adja ki az árut.
+
+
+
+Magyarországon a kijelölt engedélyező hatóság továbbra is Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) Kereskedelmi, Haditechnikai, Exportellenőrzési és Nemesfémhitelesítési Főosztály Kereskedelmi Osztálya. Az engedélyezési feladatokat ellátó tagállami hatóságok listája a következő linken érhető el:
+
+https://trade.ec.europa.eu/doclib/docs/2021/january/tradoc_159400.pdf
+
+
+
+A kiviteli korlátozások bekerültek a TARIC-adatbázisba. Az alkalmazható okmánykódok, igazoláskódok a következők:
+
+Engedélyköteles kivitelnél: C089 kód. Kiviteli engedély – SARS-koronavírusok (SARS-CoV fajok) elleni vakcinák és hatóanyagok, beleértve az ilyen vakcinák gyártásához használt törzssejtállományokat és szaporító sejtbankokat.
+
+Nem engedélyköteles kivitelnél: Y981 kód. Az (EU) 2021/442 rendelet 1. cikkének (9) bekezdése szerinti mentesség: (c) a COVAX-on, az UNICEF-en és a PAHO-n keresztül vásárolt és/vagy szállított áruk bármely más, a COVAX-ban részt vevő országba irányuló kivitele, (d) adomány vagy viszonteladás, (e) humanitárius szükséghelyzeti reagálás.
+
+A 2021/442/EU-rendelet 1. cikk (9) bekezdés f) pontja szerinti kontinentális talapzatra vagy kizárólagos gazdasági övezetbe szállításnál: az Y200-tól Y221-ig alkalmazandó kódok valamelyike az egyes nyílt tengeri kijárattal rendelkező országokra (például Belgium kontinentális talapzatára: Y200).
+
+
+
+A 2021/442/EU-rendeletben a korábbi szabályozáshoz képest részletesebben szerepelnek az egyes gyártókhoz kapcsolódó TARIC-kiegészítőkódok. A vakcinákra és a hatóanyagokra is külön TARIC-kiegészítőkódokat alakítottak ki. Ezenkívül külön TARIC-kiegészítőkódot kaptak (4599) az oltóanyag előállítására fel nem használható, de a hatóanyagokkal azonos KN-kódok alá sorolt egyéb anyagok. A TARIC-kiegészítőkódokat a 2021/442/EU-rendelet II. melléklete tartalmazza.
+
+
+
+Ha a 2021/442/EU-rendeletben említett készítmények kiviteli vagy újrakiviteli eljárását Magyarországon kezdeményezik, az eljárás feldolgozása csak akkor végezhető el, ha a fenti okmánykódok (C089, Y981) egyike szerepel a vámáru-nyilatkozat 44. rovatában, illetve a 2021/442/EU-rendelet II. mellékletében felsorolt TARIC-kiegészítőkódok valamelyike szerepel a vámáru-nyilatkozat 33. rovat 3–4. alrovatában. Az Y981 kódot a 2021/442/EU-rendelet 1. cikk (9) bekezdés c)–e) pontjaiban felsorolt mentességeknél lehet alkalmazni. A kiviteli vagy újrakiviteli vámáru-nyilatkozatokon szerepeltetni kell az adagok, azaz a dózis darabszámát, többadagos tartályoknál a felnőtteknek ajánlott adagok számát. A 2021/442/EU-rendelet hatálya alá tartozó oltóanyagoknál és hatóanyagoknál a vámáru-nyilatkozat 41. rovatában kell szerepeltetni az adagok mennyiségét, darabszámát.
+
+
+
+A 3002 20 10, a 2933 99 80, a 2934 99 90, a 3002 90 90 és a 3504 00 90 vámtarifaszámon bármely TARIC-kiegészítőkóddal kezdeményezett normál és egyszerűsített kiviteli vagy újrakiviteli eljárásnál a feldolgozás a váminformatikai rendszerben a vámáru-nyilatkozat elfogadása után megáll, és a vámhatósági döntés után folytatódik. Ezért az ilyen kiviteleket és újrakiviteleket a korlátozások időtartama alatt hivatali munkaidőn kívül a 0–24 órás szolgálatot működtető vámszerveknél kell kezdeményezni. 
+
+
+
+A Magyarországon üzemeltetett vámudvarok elérhetőségét és nyitvatartási adatait a Nemzeti Adó- és Vámhivatal Központi Irányítása Vám Főosztály főosztályvezetője által kiadott 7005/2021. felhívás tartalmazza, amely az alábbi linken érhető el:
+
+https://nav.gov.hu/nav/vam/vaminformaciok/vamudvarok/_A_Nemzeti_Ado__es_Va20210302.html
+
+
+
+Az oltóanyag előállítására fel nem használható, de a 2933 99 80, a 2934 99 90, a 3002 90 90 és a 3504 00 90 vámtarifaszámú hatóanyagokkal azonos KN-kódok alá sorolt egyéb anyagok kivitelénél vagy újrakivitelénél kizárólag a 4599 TARIC-kiegészítőkódot kell szerepeltetni a vámáru-nyilatkozat 33. rovatának 3–4. alrovatában, ilyen esetben a C089, Y981, Y200–Y221 igazoláskódok nem alkalmazhatók. 
+
+
+
+További információk
+
+
+
+Az Európai Bizottság Kereskedelmi Főigazgatósága (a továbbiakban: DG Trade) 2021. március 25-én angol nyelvű tájékoztatót adott ki a 2021/442/EU-rendeletben foglaltak betartatását segítendő. A tájékoztató az oltóanyagok kiviteliengedély-kötelezettségét érintő gyakorlati kérdéseket válaszolja meg és a 2021/521/EU-rendelet megjelenése miatt aktualizálja a hasonló témakörben 2021. március 12-én szintén a DG Trade által megjelentetett tájékoztatót. 
+
+
+
+A tájékoztató a következő linken érhető el:
+
+https://trade.ec.europa.eu/doclib/docs/2021/february/tradoc_159414.pdf
+
+
+
+A dokumentum nyolc témakörben tartalmaz gyakorlati kérdéseket és válaszokat:
+
+1. cím: Kiviteli engedélykérelem elfogadása és elutasítása
+
+2. cím: Az engedélyköteles termék
+
+3. cím: Az engedélykötelezettség alóli mentesség
+
+4. cím: Engedélyezési eljárás
+
+5. cím: A tagállamok adatszolgáltatási kötelezettsége
+
+6. cím: A tagállami intézkedésekkel való kapcsolat 
+
+7. cím: Az engedélykötelezettség időtartama
+
+8. cím: Vámeljárások
+
+
+
+A tájékoztató 2–4. címei, valamint 7–8.  címei érintik a vámhatóságok 2021/442/EU-rendelettel kapcsolatos ellenőrzési tevékenységét, melyek a következők szerint foglalhatók össze.
+
+
+
+A tájékoztató 2. címében szereplő, a vámhatósági tevékenységgel összefüggő témakörök
+
+
+
+A 2021/442/ EU-rendelet a 3002 20 10 vámtarifaszámú, a koronavírus (SARS-CoV fajok) elleni vakcinákra vonatkozik, csomagolásuktól függetlenül (Általános megjegyzések). 
+
+
+
+A szabályozás kiterjed a vakcinák gyártásához használt ex 2933 99 80, ex 2934 99 90, ex 3002  90 90 és ex 3504 00 90 KN-kódok alá tartozó hatóanyagokra, beleértve a mesterséges és működő sejtbankokat. Ezért a 2021/442/EU-rendelet a kész oltóanyagra vagy bármely, a gyártásához elengedhetetlen termékre vonatkozik az alábbiak szerint:
+
+a hatóanyag (általában gyógyszerként vagy ömlesztve, köztes termékként, a törzssejtállományt és a szaporító sejtbankokat is beleértve), 
+
+a vakcina ömlesztett csomagolásban, 
+
+a vakcina elsődleges és/vagy másodlagos csomagolásában.
+
+
+
+A szabályozás kiterjed a kis mennyiségű exportokra is. (2. cím a) pont).  A 2021/442/EU- rendelet nem határoz meg minimális küszöbértékeket, mennyiségeket, amelyek lehetővé tennék kis mennyiségek exportját engedély nélkül. Az illetékes hatóságok ugyanakkor figyelembe vehetik azt a tényt, hogy a kérelem korlátozott mennyiségű exportra – például klinikai vizsgálatok elvégzésére szánt mintákéra – vonatkozik. Minden kivitelt egyedileg kell elbírálni és vizsgálni kell a felhasználási célt. A klinikai vizsgálatokra szánt minták kivitele nem veszélyezteti a vakcinamegállapodásokat, kivéve, ha a szállítás nem utal a 2021/442/EU-rendelet megkerülésére (2. cím a) pont).
+
+
+
+A 2021/442/EU-rendelet csak azokra a hatóanyagokra terjed ki, amelyeket a koronavírus elleni vakcinák gyártására használnak. A vakcinák és más termékek gyártására egyaránt felhasználható hatóanyagok kivitele akkor engedélyköteles, ha azokat ténylegesen felhasználják a vakcinák gyártásakor. Ha a koronavírus elleni vakcinák gyártásához is felhasználható hatóanyagot más célra exportálják, a kivitel nem engedélyköteles. Ebben az esetben a vámáru-nyilatkozaton a 4599 TARIC-kiegészítőkódot kell szerepeltetni, a 2021/442/EU-rendelet II. mellékletében írtak szerint (2. cím b) pont).
+
+
+
+A tájékoztató 3. címében szereplő, a vámhatósági tevékenységgel összefüggő témakörök
+
+
+
+A 2021/442/EU-rendeletben előírt engedélykötelezettség az EU-n kívüli országokba irányuló kivitelekre vonatkozik. A tájékoztató felsorolja azokat az országokat, területeket, amelyek irányába a kivitelekhez nem kell engedély (3. cím a) pont).
+
+
+
+A következő országokba, területekre kivitelnél, újrakivitelnél nincs szükség engedélyre:
+
+
+
+Az Európai Unió működéséről szóló szerződés (EUMSZ) II. mellékletében felsorolt tengerentúli országok és területek (az EUMSZ II. mellékletében felsorolt, az Egyesült Királysággal különleges kapcsolatban álló, következő területekre kiviteli engedély szükséges: Anguilla, Kajmán-szigetek, Falkland-szigetek, Dél-Georgia és Déli-Sandwitch-szigetek, Montserrat, Pitcairn-szigetek, Szent Ilona, Ascension és Tristan da Cunha, Brit antarktiszi terület, Brit Indiai-óceáni Terület, Turks- és Caicos-szigetek, Brit Virgin-szigetek, Bermuda).
+
+Az unió vámterületéről kifejezetten kizárt tagállamok területei: Büsingen, Helgoland, Livigno, Ceuta és Melilla.
+
+Andorra, Feröer szigetek, Monaco, San Marino és a Vatikán.
+
+Alacsony és közepes jövedelmű, valamint további támogatható országok, amelyek a COVID–19 védőoltások közös beszerzésére és elosztására irányuló nemzetközi összefogással létrejött COVAX AMC (a továbbiakban: COVAX) listán szerepelnek (a tájékoztató részletesen felsorolja ezeket az országokat). A COVAX-országok a következő weboldalon találhatók: https://www.gavi.org/news/media-room/92-low-middle-incomeeconomies-eligible-access-covid-19-vaccines-gavi-covax-amc
+
+
+
+A szolidaritás elve alapján szintén nem engedélykötelesek az alábbi kivitelek (3. cím b) pont):
+
+A COVAX-on, az ENSZ Gyermekalapján (a továbbiakban: UNICEF) és a Pánamerikai Egészségügyi Szervezeten (a továbbiakban: PAHO) keresztül vásárolt vagy szállított áruk exportja bármely más COVAX-ban részt vevő országba,
+
+az EU-államok által uniós előzetes vakcinabeszerzési megállapodással (APA) vásárolt termékek kivitele vagy adományozása harmadik országba,
+
+humanitárius vészhelyzet elhárításáért megvalósuló kivitel.
+
+
+
+A COVAX-ot támogató országokba irányuló, de a fenti kivételek körébe nem tartozó esetek nem számítanak a kivételi körbe.
+
+
+
+A tájékoztató tartalmazza a humanitárius segítségnyújtással megvalósuló szállítások alapelveit. A humanitárius segítségnyújtás megkülönböztetéstől mentes segítségnyújtási, segélyezési és védelmi műveleteket foglal magában a harmadik országbeli emberek megsegítésére, ideértve a segítségnyújtást vagy annak megkönnyítését, az orvosi ellátást és az élelmiszerellátást, humanitárius szakemberek biztosítását és az ehhez kapcsolódó segítséget vagy az evakuálást a humanitárius elvek szerint (3. cím c) pont).
+
+
+
+A Bizottság humanitárius segítségnyújtási partnerszervezeteinek listája a következő címen érhető el: https://ec.europa.eu/echo/sites/echo-site/files/weblistpartners.pdf
+
+
+
+A kivitelek a listán szereplő szervezeteknek automatikusan humanitárius vészhelyzeti segítségnyújtásnak, engedélymentes kivitelnek számítanak. A lista nem teljes, és a tagállamok mentességet biztosíthatnak más humanitárius szervezeteknek is.
+
+
+
+A tagállamok kontinentális talapzatai és a kizárólagos gazdasági övezetei nem részei az EU vámterületének. Az említett területeken található létesítményekbe irányuló kivitelekhez nem kell engedély. Kontinentális talapzatra, kizárólagos gazdasági övezetbe szállításnál külön okmánykódokat (Y200–Y221) kell használni (3. cím d) pont).
+
+
+
+A tájékoztató 4. címében szereplő, a vámhatósági tevékenységgel összefüggő témakörök
+
+
+
+A kiviteli engedélyeket azon tagállam illetékes hatósága adja ki, ahol az uniós rendelet hatálya alá tartozó termékeket (működő sejtek, hatóanyagok, elsődleges vagy másodlagos csomagolás, késztermék) gyártják (4. cím a), c) és g) pont). 
+
+
+
+Az illetékes engedélyező hatóságok listája a következő címen érhető el:
+
+https://trade.ec.europa.eu/doclib/docs/2021/january/tradoc_159400.pdf
+
+ 
+
+A globális mennyiségre vonatkozó exportengedély vagy kis mennyiségekre szóló általános engedély nem adható ki. Ez azt jelenti, hogy az engedélyek részkezelésére nincs lehetőség (4. cím j) pont).
+
+
+
+Több címzettnek szóló több szállítmány kivitelekor egyetlen engedély is felhasználható, ha az összes szállítmány egyetlen szállítmány részeként, azonos rendeltetési országba irányul és azonos kiviteli vámhivatal végzi el a vámeljárást (4. cím k) pont).
+
+
+
+A kiviteli vámhivatalnak az engedélyt hitelesítenie kell, amely biztosítja, hogy az engedélyeket csak egyszer használják fel (4. cím l) pont).
+
+
+
+A kiviteli engedélyt úgy adják ki, hogy annak 5. rovatában szerepelnek a kiviteli vámhivatal adatai. Előfordulhat, hogy az engedély kiadása után másik kiviteli vámhivatal végzi el a kiviteli vagy az újrakiviteli eljárást. Ilyen esetben a kiviteli vagy újrakiviteli eljárást végző vámhivatalnak értesítenie kell az engedélyen szereplő kiviteli vámhivatalt az eljárás elvégzéséről, továbbá a felhasznált engedélyt nem kell bevonnia, érvénytelenítenie (4. cím m) pont).
+
+
+
+Ha a kivitel vagy újrakivitel az uniós rendelet 1. cikk (9) bekezdésében szereplő rendeltetési helyekre vagy célokra irányul, azaz engedélymentes szállítás, az exportőr felelőssége az ehhez szükséges információk igazolása és benyújtása. Az illetékes hatóságnak, ezen belül a vámhatóságnak is ellenőriznie kell az információk tartalmát (4. cím n) pont).
+
+
+
+A tájékoztató 7. címében szereplő, a vámhatósági tevékenységgel összefüggő témakörök
+
+
+
+A 2021/442/EU-rendeletben meghatározott intézkedések 2021. június 30-ig alkalmazandók.
+
+
+
+A tájékoztató 8. címében szereplő, a vámhatósági tevékenységgel összefüggő témakörök
+
+
+
+A 2021/442/EU-rendeletben szereplő kiviteli korlátozásokat és az érintett árukört – oltóanyagok és hatóanyagok – a TARIC-ba átvezették a 709-es uniós TARIC-intézkedéstípus alapján (C089 okmánykód). Az egyes oltóanyagok gyártóihoz kapcsolódó TARIC-kiegészítőkódok kialakítása szintén megtörtént (Általános megjegyzések).
+
+
+
+A 2021/442/EU-rendeletet az uniós áruk végleges kivitelekor (a 10/00 és a 11/00 eljáráskódoknál) és a nem uniós áruk újrakivitelekor ( a 31/00 eljáráskódnál) kell alkalmazni (8. cím a) pont).
+
+
+
+Az engedélykötelezettség nem terjed ki az alábbi eljárásokra:
+
+passzív feldolgozási eljárás alá vont áruk,
+
+az EU vámterületéről a végfelhasználási eljárás alá vonása után kivitt áruk,
+
+héa- vagy jövedékiadó-mentesen, repülési és hajózási készletekként szállított áruk, 
+
+a belső árutovábbítási eljárás alá vont áruk,
+
+az unió vámterületéről az ideiglenesen kiszállított áruk (Uniós Vámkódex 155. cikk).
+
+
+
+Ha a 2021/442/EU-rendelet hatálya alá tartozó árukat újrakiviteli céllal importálták, a 2021/442/EU-rendeletben írtakat kell alkalmazni és engedélyt kell megkövetelni. A 2021/442/EU-rendelet által előírt engedélykötelezettség vonatkozik a nem uniós áruk újrakivitelére is (8. cím b) pont) .
+
+
+
+Az átmeneti megőrzésben lévő árukra az Uniós Vámkódex 144. és 149. cikkei irányadók. Az Uniós Vámkódex 270. cikk (3) bekezdés c) pontja alapján az átmeneti megőrzésben lévő áruk közvetlenül átmeneti megőrzési létesítményből történő újrakiviteléhez nincs szükség újrakiviteli nyilatkozatra, ezzel összefüggésben kiviteli engedélyre sem. Az átmeneti megőrzésben lévő áruk újrakivitelekor akkor van szükség kiviteli engedélyre, ha ezeken az árukon az EU területén gyártási műveleteket végeztek, beleértve a töltést és a csomagolást is (8. cím c) pont).
+
+ 
+
+Engedélyköteles a vállalaton belüli értékesítés is, ha az exportőr leányvállalata vagy kapcsolt vállalata a 2021/442/EU-rendelet földrajzi hatálya alá tartozó országok egyikében található (8. cím d) pont).
+
+
+
+Az Uniós Vámkódex 46. cikkének (1) bekezdése értelmében a vámhatóságnak joga van az olyan árukat visszatartani és ellenőrizni, amelyeknél felmerül, hogy a 2021/442/EU-rendelet hatálya alá tartoznak (8. cím e) pont)..
+
+
+
+A vámáru-nyilatkozat 2. rovatában szereplő exportőr, illetve a kiviteli engedély jogosultjának (az engedély 1. rovatában például a vakcinagyártó) személye eltérhet, a vámhatóságnak elsődlegesen az engedélyek meglétét kell ellenőrizniük, többek között az oltóanyagok vámtarifaszáma és / vagy a TARIC-kiegészítőkódok alapján (8. cím f) pont). . 
+
+
+
+A vámáru-nyilatkozat 44. rovatában kell megadni az engedélyköteles okmánykódot (C089) és a kiviteli engedély azonosítószámát. Ezen kívül a vámáru-nyilatkozatnak tartalmaznia kell a vakcinák és hatóanyagok vámtarifaszámát, valamint a 2021/442/EU-rendelet II. mellékletében szereplő, a gyártókhoz kapcsolódó TARIC-kiegészítőkódok valamelyikét. A vámtarifaszámokat a vámáru-nyilatkozat 33. rovatának 1. alrovatában, a TARIC-kiegészítőkódokat a vámáru-nyilatkozat 33. rovatának 3–4. alrovatában kell szerepeltetni (8. cím g) pont).
+
+
+
+Az exportőrnek a vámáru-nyilatkozaton mindenképpen szerepeltetnie kell a 2021/442/EU-rendelet II. mellékletében felsorolt, a gyártókhoz rendelt TARIC-kiegészítőkódok valamelyikét. Ha a gyártó nem szerepel a 2021/442/EU-rendelet II. mellékletében, akkor a más gyártóra vonatkozó kiegészítő kódot (4999) kell alkalmazni. Ha a vámáru-nyilatkozatot olyan hatóanyagokra nyújtják be, amelyeket nem használnak a koronavírus elleni vakcinák gyártásához, a 4599 TARIC-kiegészítőkódot kell szerepeltetni a vámáru-nyilatkozaton (8. cím h) pont). 
+
+
+
+A kiviteli korlátozásokról a BFKH is tájékoztatást adott saját honlapján ismertetve a 2021/442/EU-rendeletben és a 2021/521/EU-rendeletben foglaltakat, az irányadó eljárási szabályokat, az engedélykötelezettség alól kivont rendeltetési országokat, valamint az engedély kérelmezésére vonatkozó alapvető tudnivalókat.
+
+
+
+A BFKH tájékoztatója az alábbi linken érhető el:
+
+https://mkeh.gov.hu/kereskedelmi/kereskedelmi_osztaly/vakcina-export
+
+
+
+Ha a 2021/442/EU-rendelet hatálya alá tartozó termékek kivitelének vagy újrakivitelének ellenőrzésekor kérdés merül fel az engedélykötelezettségről, a BFKH Kereskedelmi, Haditechnikai, Exportellenőrzési és Nemesfémhitelesítési Főosztály Kereskedelmi Osztálya a következő elérhetőségeken ad felvilágosítást:
+
+cím: 1124, Budapest, Németvölgyi út 37–39.
+
+e-mail-cím: keo@bfkh.gov.hu
+
+
+
+		Ez a felhívás a kiadmányozás napjától érvényes, ettől az időponttól pedig érvénytelen a NAV Központi Irányítása Vám Főosztály főosztályvezetője által kiadott, az egyes oltóanyagok kiviteli engedélykötelezettségének elrendeléséről szóló 7003/2021. felhívás és az egyes oltóanyagok kiviteli engedélykötelezettségéről szóló újabb tájékoztatásról szóló 7006/2021. felhívás.
+
+		
+
+		Budapest, 2021. április
+
+Torda Csaba
+
+pénzügyőr dandártábornok
+
+főosztályvezető

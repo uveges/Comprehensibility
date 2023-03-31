@@ -1,0 +1,107 @@
+4
+
+
+
+
+
+
+
+
+
+nemzeti adó- és vámhivatal
+
+… Adó- és Vámigazgatósága
+
+
+
+
+
+
+
+NÉV
+
+részére
+
+
+
+Település
+
+Utca, hsz.
+
+Irányítószám
+
+
+
+NÉV
+
+részére
+
+
+
+Település
+
+Utca, hsz.
+
+Irányítószám
+
+Iktatószám: {iktatószám}
+
+Ügyszám: {ügyszám}
+
+Adóazonosító:{adóazonosító}
+
+Ügyintéző:{ügyintéző}
+
+Telefon: {telefonszám}
+
+Tárgy: Banktitok tájékoztatás
+
+
+
+
+
+
+
+Tisztelt Cím!
+
+Tájékoztatjuk, hogy Igazgatóságunk megkereséssel élt az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (Avt.) 33. §-ában, továbbá a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 161. § (2) bekezdésének h) pontjában foglaltak alapján a fenti szám alatt indított végrehajtási eljárás eredményes lefolytatása érdekében banktitok körébe tartozó adatok bekérése miatt az {Pénzintézet neve} pénzügyi intézmény felé.
+
+
+
+	Tájékoztatásunkat a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 163. § (2) bekezdésében foglaltak alapján adjuk.
+
+	
+
+	..............., {év,hónap, nap}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+{kiadmányozó neve}
+
+(fő)osztályvezető (kiadmányozó)
+
+
+
+Erről értesülnek:
+
+1. Címzett
+
+2. Irattár
+
+
+
+Végrehajtási/Követeléskezelési Osztály …
+
+Lev.cím: ………………………… Tel: ………… Fax:………….. E-mail: …………………………
+
+Kérjük, válaszlevelében az ügyszámra szíveskedjen hivatkozni!

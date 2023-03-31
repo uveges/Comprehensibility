@@ -1,0 +1,29 @@
+OSZM Android v1.4 - 886
+
+	Újdonságok, hibajavítások
+
+	Felhasználók kezelése
+
+	A ’Felhasználói profil’ felületen a ’Belépés másik adózóval’ funkciógombra koppintva a felhasználónak lehetősége van több adózói profilt hozzáadni és kezelni.
+
+	A ’Belépés’ felületen láthatóak lesznek az eddig hozzáadott adózók, melyekre rákoppintva beléphetünk az adott profilba.
+
+	Az ’Adózók kezelése’ funkciógombra koppintva a felhasználónak lehetősége van törölni a hozzáadott adózókat.
+
+	Hibajavítások
+
+	
+
+	OSZM iOS v1.4 – 751
+
+	Újdonságok, hibajavítások
+
+	Felhasználók kezelése
+
+	A ’Felhasználói profil’ felületen a ’Belépés másik adózóval’ funkciógombra koppintva a felhasználónak lehetősége van több adózói profilt hozzáadni és kezelni.
+
+	A ’Belépés’ felületen láthatóak lesznek az eddig hozzáadott adózók, melyekre rákoppintva beléphetünk az adott profilba.
+
+	Az ’Adózók kezelése’ funkciógombra koppintva a felhasználónak lehetősége van törölni a hozzáadott adózókat.
+
+	Hibajavítások

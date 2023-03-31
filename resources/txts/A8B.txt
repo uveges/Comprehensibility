@@ -1,0 +1,44 @@
+NAV-azonosító: a Nemzeti Adó- és Vámhivatal (NAV) azonosító alkalmazása
+
+
+
+A NAV-azonosító alkalmazás a NAV által létrehozott, ingyenes, Android operációs rendszerű mobileszközökre is letölthető program, ami a kétlépcsős azonosításhoz használható.
+
+
+
+Az alkalmazás szerepe
+
+A még biztonságosabb elektronikus ügyintézésért a NAV kétlépcsős azonosítást vezetett be az Online Számla rendszer webes felületén a másodlagos felhasználóknak. A felhasználónév és jelszó mellett szükség lesz a NAV-azonosító alkalmazás által a mobileszközön létrehozott kódra, vagy egy belépési értesítés jóváhagyására. 
+
+
+
+Az alkalmazás használatához szükséges feltételek 
+
+A használathoz másodlagos felhasználói fiók szükséges az Online Számla rendszerben és rendelkezni kell ezekkel a technikai feltételekkel:
+
+Android 7.0 vagy magasabb verziószámú operációs rendszer,
+
+aktív internetkapcsolat,
+
+fényképezőgép, mivel a felhasználót QR-kód beolvasásával lehet hozzáadni.
+
+
+Az alkalmazásban elvégezhető műveletek például:
+
+ellenőrző kódok létrehozása adatkapcsolat nélkül,
+
+több felhasználó hozzáadása és törlése, 
+
+értesítésalapú azonosítás beállítása adatkapcsolattal, 
+
+kézi bevitel, ha a QR-kód leolvasása nem működik.
+
+  
+
+Miután letöltötte az alkalmazást, bejelentkezésekor a felhasználónév és jelszó megadása után az alkalmazást össze kell kapcsolnia az Online Számla rendszerrel a webes felületen. Az összekapcsoláshoz az Online Számla rendszer által generált QR-kódot kell a mobiltelefon kamerájával beolvasni az alkalmazásba, vagy ha a beolvasás nem működik, a 16 jegyű kódot kézzel beírni. A párosítást csak az első használatkor kell elvégezni. 
+
+A kétlépcsős azonosítás bekapcsolásakor a mobileszközre telepített alkalmazásban megjelenő ellenőrző kódot kell megadnia az Online Számla rendszer webes felületén. A Sikeres ellenőrzés felületen jelennek meg azok a biztonsági kulcsok, amelyek lehetővé teszik a bejelentkezést akkor is, amikor a kétlépcsős azonosítás sikertelen. 
+
+Ezután az alkalmazás által generált kód megadásával, vagy a belépési értesítés jóváhagyásával már be tud jelentkezni az Online Számla rendszer webes felületére
+
+A Beállítások menüpontban az alkalmazás nyelve átállítható angol és német nyelvre.

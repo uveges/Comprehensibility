@@ -1,0 +1,13 @@
+NAV ajánlás készült a számlázó programok fejlesztőinek
+
+
+
+Az ajánlás célja olyan szempontrendszert adni a számlázó programok fejlesztői számára, ami támogatja a programok jogszerű és eredményes működésének kialakítását, valamint az online számlaadat-szolgáltatási kötelezettség teljesítését. Ennek érdekében az ajánlás ismerteti a számlázó programok működésével kapcsolatos legfontosabb követelményeket – mindezt közérthető megfogalmazásban –, valamint javaslatokat fogalmaz meg az elvárt működés megvalósításához.
+
+
+
+Az ajánlás elkészítése során a NAV figyelembe vette az adózói és fejlesztői kérdéseket, visszajelzéseket, valamint az online számlaadat-szolgáltatás elemzéseinek tapasztalatait és az ellenőrzések során feltárt hiányosságokat is. 
+
+
+
+Az ajánlás 1.01-es (2021.02.24.) verziója mellékelve elérhető.

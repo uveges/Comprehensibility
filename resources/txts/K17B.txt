@@ -1,0 +1,83 @@
+Új, kétlépcsős azonosítás az Online Számla rendszerben
+
+
+
+
+
+A még biztonságosabb elektronikus ügyintézés céljából a NAV kétlépcsős azonosítást vezetett be a belépéshez az Online Számla rendszer webes felületén (https://onlineszamla.nav.gov.hu) a másodlagos felhasználóknak. 
+
+
+
+Ez azt jelenti, hogy a másodlagos felhasználók felhasználónevük és jelszavuk mellett 
+
+egy külön alkalmazás által küldött belépési értesítés jóváhagyásával, vagy 
+
+egy, a mobileszközükre (mobiltelefon, tablet) telepített külön alkalmazással generált kóddal 
+
+jelentkezhetnek be.
+
+
+
+Az Online Számla rendszer webes felületén a másodlagos felhasználó első bejelentkezésekor a felhasználónév és jelszó megadása után megjelenik a „Kétlépcsős azonosítás bekapcsolása” felület. A felület a másodlagos felhasználót négy lépésen keresztül vezeti végig a kétlépcsős azonosítás bekapcsolásához.
+
+
+
+lépés: Azonosítási mód kiválasztása
+
+
+
+Meg kell jelölni, hogy a kétlépcsős azonosításnak mely módját kívánja alkalmazni. Választhat
+
+az értesítésalapú azonosítás és
+
+a kódgenerálás 
+
+között.
+
+
+
+Értesítésalapú azonosítási mód választásakor az Online Számla rendszer értesítést küld a mobiltelefonjára, amelyre kattintva jóváhagyhatja a belépést. Ehhez a mobiltelefonjának internetelérésre van szüksége.
+
+
+
+Kódgenerálás választásakor a mobiltelefonjára letöltött alkalmazás által generált, korlátozott ideig használható kódot kell megadnia az Online Számla rendszer webes felületén, melyhez a mobiltelefonon nem szükséges internetkapcsolat.
+
+
+
+lépés: Alkalmazás letöltése, megnyitása 
+
+
+
+Értesítésalapú azonosítás választásakor le kell tölteni a mobiltelefonjára a Google Play Áruházból vagy az App Store-ból a NAV Azonosító alkalmazást. Az alkalmazás letöltése ingyenes, futtatható iOS-es és Android-os készülékeken is.
+
+
+
+Kódgenerálás választásakor szintén le kell tölteni egy alkalmazást. Szabadon választhat a NAV Azonosító alkalmazás, vagy bármely más TOTP azonosító alkalmazás (például Google Hitelesítő) közül.
+
+
+
+Ha már használja az Online Számlázó mobilalkalmazást, akkor nem kell letöltenie külön alkalmazást, mivel az Online Számlázó mobilalkalmazás „Kétfaktoros azonosítás” menüpontja is alkalmas az azonosításra.
+
+
+
+lépés: Összekapcsolás
+
+
+
+A mobiltelefonjára telepített alkalmazást össze kell kapcsolnia az Online Számla rendszerrel a webes felületen. Az összekapcsoláshoz az Online Számla rendszer által generált QR-kódot kell a mobiltelefon kamerájával beolvasni az alkalmazásba, vagy, ha a beolvasás nem működik, a 16 jegyű kódot kézzel beírni. A párosítást csak az első használatkor kell elvégezni. 
+
+
+
+lépés: Ellenőrzés
+
+
+
+A kétlépcsős azonosítás bekapcsolásának utolsó lépéseként a mobiltelefonjára telepített alkalmazásban megjelenő ellenőrző kódot kell megadnia az Online Számla rendszer webes felületén. A „Sikeres ellenőrzés” felületen jelennek meg azok a biztonsági kulcsok, amelyek lehetővé teszik a bejelentkezést olyan esetekben is, amikor a kétlépcsős azonosítás sikertelen. Ezt követően az alkalmazás által generált kód megadásával, vagy a belépési értesítés jóváhagyásával (attól függően, hogy az 1. lépésben milyen azonosítási módot választott) már be tud jelentkezni az Online Számla rendszer webes felületére.
+
+
+
+A felhasználónév és jelszó megadása minden bejelentkezéskor kötelező az Online Számla rendszer felületén a másodlagos felhasználóknak, a kétlépcsős azonosítás módja szabadon módosítható a Felhasználói profilban.
+
+
+
+Bővebb információ a NAV Azonosító alkalmazás Felhasználói Kézikönyvben, és az Online Számla rendszer Felhasználói Kézikönyvben található (https://onlineszamla.nav.gov.hu/dokumentaciok).

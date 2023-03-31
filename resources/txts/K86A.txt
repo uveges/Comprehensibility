@@ -1,0 +1,241 @@
+A Nemzeti Adó- és Vámhivatal 
+
+vezetője által kiadott
+
+70../2021. felhívás
+
+az EMCS üzemszüneti eljárásról
+
+
+
+
+
+A jövedéki termékek jövedékiadó-felfüggesztéssel történő szállítása a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló 2008. december 16-i 2008/118/EK tanácsi irányelv 21. cikk (1) bekezdésében említett elektronikus adminisztratív okmány kíséretében történik, amely szállításhoz a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló 2020/263/EU európai parlamenti és tanácsi határozatban előírt számítógépes rendszer használandó.
+
+A 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló 684/2009/EK bizottsági rendelet, valamint a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) rendelkezéseire tekintettel, továbbá annak érdekében, hogy az informatikai rendszer üzemen kívül kerülése esetén a rendszert használó ügyfelek eljárása egyértelműen meghatározásra kerüljön, elősegítve ezzel jogaik gyakorlását és kötelezettségeik teljesítését, az Excise Movement and Control System, azaz Jövedéki Árumozgás és Ellenőrző Rendszer (a továbbiakban: EMCS) üzemszünete esetére a következő felhívást adom ki:
+
+
+
+Értelmező rendelkezések
+
+	A felhívás alkalmazásában: 
+
+CELO iroda: a NAV KI Ellenőrzési Főosztály Központi Kapcsolattartó Iroda által működtetett Központi Jövedéki Kapcsolattartó Hivatal.
+
+	E01-es üzenet: a NAV-val létesített közvetlen kapcsolat választása esetén E01 számú üzenet, a NAV által biztosított információs rendszer esetén a „NAV_VP_E01 számú üzenet regisztráló bejelentés az előzmény nélküli üzenet fogadásához” elnevezésű ÁNYK-nyomtatvány. 
+
+	EK rendelet: a Bizottság 684/2009/EK Rendelete (2009. július 24.) a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról.
+
+	EMCS: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2020. január 15-i 2020/263/EU Európai Parlamenti és Tanácsi határozatban előírt, a Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer.
+
+INIT: NAV Informatikai Intézete.
+
+ITSM: az uniós EMCS/SEED Központi Üzemeltetési Csoport.
+
+KKK2: a NAV Külső Kommunikációs Központja, amely a dokumentált elektronikus üzenetküldés lehetőségét biztosítja a NAV és ügyfelei között.
+
+Kormányzati Portál: a www.magyarorszag.hu felületen keresztül elérhető Ügyfélkapu és Cégkapu szolgáltatások.
+
+NAV: Nemzeti Adó- és Vámhivatal.
+
+NAV KI: NAV Központi Irányítás.
+
+SEED (System for Exchange of Excise Data – Jövedéki Adatcsere Rendszer): központi, uniós elektronikus adatbázis, amelyhez minden tagállam illetékes hatósága rendelkezik hozzáféréssel, és amely tartalmazza az Európai Unión belül a közösségi adófelfüggesztési eljárásban résztvevő gazdálkodók adatait.
+
+Üzemszünet: a Jöt. 3. § (1) bekezdés 50. pontja szerinti esemény.
+
+Üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását.
+
+Üzemszüneti TKO: a Jöt. 3. § (1) bekezdés 17. pontja szerinti elektronikus okmány (a továbbiakban: e-TKO) tervezetében szereplőkkel azonos adatokat tartalmazó, az EK rendelet vonatkozó rendelkezései szerint kiállított – papír alapú okmány.
+
+Üzemszüneti átvételi elismervény: a Jöt. 3. § (1) bekezdés 14. pontja szerinti elektronikus átvételi elismervény valamennyi adatát tartalmazó, papír alapú okmány.
+
+Üzemszüneti kiviteli elismervény: a Jöt. 3. § (1) bekezdés 15. pontja szerinti az elektronikus kiviteli elismervény valamennyi adatát tartalmazó, papír alapú okmány.
+
+A segítségnyújtás szintjei 
+
+	1. szintű 24 órás Service Desk: az EMCS tekintetében 24 órán keresztül tartott, állandó ügyelet, melyet az INIT IT HelpDesk lát el. Elérhetőségük: IT.Helpdesk@nav.gov.hu.
+
+2. szintű EMCS ServiceDesk (a továbbiakban: EMCS támogató szolgálat): az EMCS-sel kapcsolatos teendőket munkaidőben üzemszünet vagy előre bejelentett karbantartás, javítás esetén az INIT EMCS támogató szolgálat látja el. 
+
+Kapcsolattartás módja a NAV és az ügyfelek között
+
+	Az ügyfél a saját számítógépes rendszerében bekövetkezett üzemszünet kezdetét és végét az „Egyéb jövedéki szakterületi bejelentések, kérelmek, nyilatkozatok” megnevezésű NAV_J42 számú elektronikus nyomtatvány – az üzemszünet jellegétől függően elektronikusan vagy papír alapon történő – beküldésével jelenti be.
+
+	
+
+	Üzemszünet ideje alatt a NAV és az ügyfelek közötti kapcsolattartás módja lehet:
+
+e-mail,
+
+telefax (kizárólag az ügyfelek által a NAV felé küldendő üzenetek tekintetében),
+
+papír alapú okmány személyes kézbesítése (kizárólag az ügyfelek által a NAV felé küldendő üzenetek tekintetében).
+
+Kapcsolattartás a tagállami hatóságok között üzemszünet esetén
+
+	A tagállami hatóságok üzemszüneti eljárás során az üzemszüneti kiviteli elismervény, illetve az üzemszüneti átvételi elismervény okmányokat a CELO irodák útján küldik meg egymásnak. 
+
+	Az üzenet tárgyában fel kell tüntetni az üzenet típusát (üzemszüneti kiviteli elismervény vagy üzemszüneti átvételi elismervény), továbbá az Adminisztratív Hivatkozási Kódot (a továbbiakban: AHK) vagy – a feladó által az EK rendelet szerint generált egyedi – Helyi Hivatkozási Számot (a továbbiakban: LRN szám). 
+
+	Amennyiben a NAV rendszerében tapasztalt üzemszünet fennáll és az előre láthatólag 3 napnál tovább tart, a NAV illetékes adó- és vámigazgatósága az általa kiállított üzemszüneti kiviteli elismervényt és a címzettől fogadott üzemszüneti átvételi elismervényt – ha azok adattartalma megfelel az EK rendeletben meghatározottaknak – megküldi a CELO iroda részére. 
+
+	A CELO iroda az adó- és vámigazgatóságtól beérkező üzemszüneti kiviteli és átvételi elismervényeket továbbítja az érintett tagállam részére. 
+
+	Amennyiben a CELO iroda a 9. pont szerinti üzenetet fogad másik tagállamból, úgy azt továbbítja az illetékes adó- és vámigazgatóságnak. 
+
+Az üzemszünet időtartamának kezdete és vége
+
+	Az üzemszünet időtartamának kezdete:
+
+az EMCS esetében: az az időpont, amikor az elrendelő az INIT IT HelpDesk útján a közlést megteszi,
+
+a Kormányzati Portál üzemszünete esetében: az üzemzavarról a www.magyarorszag.hu honlapon közzétett időpont,
+
+ügyféloldali üzemszünet esetében: az üzemzavarról a NAV-hoz tett bejelentés és az azzal egyidejűleg történő nyilvántartásba vétel időpontja, illetve – a NAV hivatali idején kívül történt bejelentés esetén – a bejelentésben az üzemzavar kezdeteként megjelölt időpont, ami nem lehet a bejelentés megtételét megelőző utolsó hivatali idő végénél korábbi időpont.
+
+	Az üzemszünet időtartamának vége:  
+
+az EMCS esetében: az elrendelő által az INIT IT HelpDesk útján valamennyi felhasználóval közölt időpont, 
+
+a Kormányzati Portál üzemszünete esetében: a www.magyarorszag.hu honlapon közzétett időpont,
+
+ügyféloldali üzemszünet esetében: a felhasználó által a NAV részére bejelentett időpont.
+
+	Az üzemszünet kezdetének és végének közlésére vonatkozó szabályokat a Jöt. 58. § (1) bekezdés a)-c) pontjai határozzák meg. Az üzemszünet kezdetének (elrendelésének) és végének (megszüntetésének) közlése megegyező módon történik.
+
+Az üzemszüneti feldolgozási rend bevezetésének NAV általi elrendelése
+
+	Abban az esetben, ha az EMCS központi üzemzavara következtében a rendszer használata munkaidőben 2 órát meghaladóan, munkaidőn kívül 4 órát meghaladóan nem lehetséges, szükségessé válik a teljes vagy részleges üzemszüneti feldolgozási rend elrendelése. 
+
+	Teljes üzemszüneti feldolgozási rend kerül bevezetésre, ha központi üzemzavar következett be az alábbi rendszerek valamelyikében:
+
+EMCS,
+
+SEED, 
+
+KKK2. 
+
+	Részleges üzemszüneti feldolgozási rend kerül bevezetésre, ha az EMCS valamely alrendszere vagy egyes alrendszerei vonatkozásában központi üzemzavar következett be. Ide tartozik a CCN adapter rendszerében bekövetkezett üzemszünet vagy a Kormányzati Portál meghibásodása is. Részleges üzemszünet esetén az üzemszünet elrendeléséről szóló értesítés tartalmazza azon eljárások felsorolását, melyek tekintetében az üzemszüneti eljárásra kell áttérni. 
+
+	A teljes vagy részleges üzemszüneti feldolgozási rend bevezetésének elrendeléséről a NAV informatikai rendszereiben regisztrált felhasználókat az INIT IT HelpDesk e-mail üzenet formájában értesíti.
+
+	Az üzemszüneti feldolgozási rend bevezetése a NAV honlapján (https://nav.gov.hu/nav/uzemszunet) is kihirdetésre kerül. 
+
+	Az e-mail levelezőrendszerben bekövetkezett olyan meghibásodás esetén, ami az üzemszünetről szóló értesítés megküldését megakadályozza, az üzemszüneti feldolgozási rend bevezetéséről az INIT IT HelpDesk jelzése alapján az adó- és vámigazgatóságok haladéktalanul értesítik a felügyeletük alá tartozó ügyfeleket távbeszélőn, postai úton vagy személyesen. 
+
+EU és tagállami oldalról felmerülő üzemszünetek publikálása 
+
+	Ha az ITSM azt észleli, hogy Magyarország és a többi EMCS-t alkalmazó ország között olyan időszakban, amikor a tapasztalatok szerint általában van üzenetforgalom, 2 órát meghaladóan nincs elektronikus üzenetküldés vagy fogadás, emailben és/vagy telefonon tájékoztatást kér az INIT IT HelpDesktől. Az INIT IT HelpDesk válaszának függvényében kerül bejelentésre üzemszünet.
+
+	Az ITSM által elrendelt üzemszünetről az INIT IT HelpDesk a 17. pont szerinti tájékoztatást megteszi.
+
+Ügyféloldali üzemszünet bevezetése
+
+	Amennyiben az ügyfél számítógépes rendszerében olyan hiba lép fel, ami az EMCS használatát megakadályozza, a rendszerhasználó dönthet az üzemszüneti eljárás bevezetéséről. 
+
+Az ügyfél az általa kezdeményezett üzemszüneti eljárás bevezetéséről – a Jöt. 58. § (1) bekezdés c) pontjának figyelembevételével – a 4. pont szerint tájékoztatja a telephely felügyeletét ellátó adó- és vámigazgatóságot. A beadvány szövegének tartalmaznia kell az ügyfél saját rendszerének, a működésképtelenség okának megnevezését, valamint a működésképtelenség kezdő időpontját.
+
+	Az üzemszünet kezdetével kapcsolatosan munkaidőben tett bejelentést a NAV a bejelentéssel egyidejűleg nyilvántartásba veszi, a bejelentés időpontja az üzemszünet kezdő időpontjának minősül. A hétvégén vagy a NAV munkaidején kívül tett bejelentés esetén az üzemszünet nyilvántartásba vétele a következő munkanap munkaidejének kezdetén történik meg, azonban ettől függetlenül az üzemszünet kezdő időpontjának a bejelentésben az üzemzavar kezdeteként megjelölt időpont minősül. A NAV a bejelentett üzemszünet nyilvántartásba vételéről az ügyfelet külön nem értesíti. 
+
+	Abban az esetben, ha az ügyfél a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: Vhr.) 34. § (3) bekezdése alapján tett bejelentésében, a Jöt. 84. § (1) bekezdése szerinti mindkét kapcsolattartási mód alkalmazásáról nyilatkozott, és a saját rendszerében fellépő meghibásodás miatt a Vhr. 34. § (3) bekezdésének megfelelően kijelölt elsődleges kapcsolattartási módon nem tud a NAV-val kommunikálni, a 26-27. pontban szereplő lehetőségek közül választhat.
+
+	Az ügyfél a 4. pontban meghatározott módon a felügyeletet ellátó adó- és vámigazgatósághoz bejelenti
+
+a teljes üzemszüneti eljárás bevezetését, vagy
+
+a részleges üzemszüneti eljárás bevezetését, és az e-TKO tervezeteket a másodlagos kommunikációs csatornán küldi a részleges üzemszünet végéig (ebben az esetben kizárólag a másodlagos kapcsolattartási módon beküldött eTKO tervezetekre adott válaszüzeneteket fogja megkapni, mivel az összes többi üzenet továbbra is az elsődleges kapcsolattartási módon kerül részére továbbításra).
+
+	Az ügyfél a Vhr. 34. § (1) bekezdése szerinti bejelentésével azonos módon – egy E01es („regisztráló bejelentés az előzmény nélküli üzenet fogadásához”) üzenettel – a NAV-hoz bejelenti, hogy az elsődleges kapcsolattartási módját megváltoztatja. Ebben az esetben – tekintettel arra, hogy az újonnan kijelölt elsődleges kapcsolattartási módon mind az ügyfél, mind a NAV által küldött üzenetek zavartalanul megküldhetők – nincs szükség az ügyfél részéről sem részleges, sem teljes üzemszünet elrendelésére. A meghibásodás elhárítását követően egy ismételten beküldött E01-es üzenettel a korábbi kommunikációs csatornát ismét kijelölheti elsődlegesként.
+
+Üzemszüneti rend a kapcsolódó rendszerek elérhetetlensége esetén
+
+	Az EMCS kapcsolódó rendszereinek elérhetetlensége esetén bizonyos funkciók nem érhetők el. Nem értendő ide a kommunikációs hálózat – KKK2, Kormányzati Portál – elérhetetlensége.
+
+	A CCN adapter elérhetetlensége esetén a tagállami szállításokkal kapcsolatos eljárások csak papír alapon, üzemszüneti okmányok kiállításával kezdeményezhetők.
+
+Az üzemszüneti eljárás alapszabályai
+
+	Üzemszünet esetén az EMCS eljárásai papír alapon folytatandók le. 
+
+	A tagállami rendszer üzemszünete nem akadályozhatja a feladót szállítmánya feladásában, de megfelelő tájékoztatással tudatni kell az ügyféllel a szállítás megkezdése előtt, ha a tagállami hatóság rendszere elérhetetlen. 
+
+	Az üzemszüneti okmányok tartalmának meg kell egyeznie az elektronikus okmányok adattartalmával. Az összes adatot vagy adatcsoportot be kell tudni azonosítani az elektronikus okmányok adatcsoportjainak vagy alcsoportjainak megfelelően, azaz a rovatokat azokkal a számokkal és betűkkel kell jelölni, mint amelyek az elektronikus okmányokon szerepelnek.
+
+	Már beküldött, de nem feldolgozott állapotú tételek rendezése attól függően történik, hogy az AHK szám kiadását megelőzően került-e sor az üzemszünetre vagy utána.
+
+	Amennyiben az AHK szám a feladó részére már kiadásra került, akkor – tekintettel arra, hogy a gazdálkodó a szállítmányt normál eljárásban elindíthatja – utólagosan nem kell még egyszer beküldeni az adatokat. A feladó ellátja a szállítmányát olyan okmánnyal, amely alkalmas a szállítmány beazonosítására (eTKO, fuvarokmány, számla), és rávezeti az AHK számot. Amennyiben a tagállami címzett az üzemszünetből kifolyólag az e-TKO-t elektronikusan nem kapja meg, az átvételt az üzemszüneti átvételi elismervényre vonatkozó közösségi szabályok szerint igazolja.
+
+	Amennyiben az AHK szám kiadása előtt következett be az üzemszünet, akkor üzemszüneti TKO okmány kíséretében kell elindítani a szállítmányt, és a rendszer ismételt elérhetősége esetén beküldeni az adatokat, megjelölve, hogy üzemszüneti tervezet benyújtásáról van szó. Fontos, hogy az AHK szám kiadása előtt az LRN szám igazolja és azonosítja a szállítmányt minden esetben, ezért az elévülés határidején belül az üzemszüneti TKO elérhetőségéről a feladónak és az érintett tagállami hatóságnak gondoskodnia kell.
+
+Szállítmány indítása 
+
+	A feladó kitölti az üzemszüneti TKO-t, amelyen szerepel az LRN szám, amellyel azonosítani lehet a szállítmányt mindaddig, amíg az elektronikus rendszerek nem válnak elérhetővé.
+
+	Az üzemszüneti TKO kiállítását megelőzően a feladó köteles a SEED on Europa honlapon (http://ec.europa.eu/taxation_customs/dds2/seed/seed_consultation.jsp?Lang=hu) ellenőrizni, hogy a címzett rendelkezik-e a jövedéki termék fogadásához szükséges engedéllyel. 
+
+	A feladó az üzemszüneti TKO-nak az 5. pontban megjelölt módok egyikén történő megküldésével értesíti a telephely felügyeletét ellátó adó- és vámigazgatóságot arról, hogy üzemszüneti TKO-val szállítmányt indít. 
+
+	A felügyeletet ellátó adó- és vámigazgatóság a 36. pont szerint benyújtott értesítést nyilvántartásba veszi és megteszi a szükséges intézkedéseket.
+
+A törlés folyamata 
+
+	A feladó kitölti az üzemszüneti törlő üzenet formanyomtatványát.
+
+	A feladó az üzemszüneti törlő formanyomtatványt az 5. pontban megjelölt módok egyikén megküldi a telephely felügyeletét ellátó adó- és vámigazgatósághoz.
+
+	A feladónak addig kell eljuttatnia az üzemszüneti törlő üzenetet a NAV-hoz, amíg a szállítmány nem hagyta el a telephelyét.
+
+	A feladó eldöntheti, hogy elküldi-e az üzemszüneti törlő üzenetet egyéb alternatív módon a címzett részére.
+
+	A felügyeletet ellátó adó- és vámigazgatóság a benyújtott üzemszüneti törlő üzenet formanyomtatványt nyilvántartásba veszi és megteszi a szükséges intézkedéseket.
+
+Üzemszüneti átvételi elismervény benyújtása 
+
+	A címzett a Jöt. 59. § (1) bekezdése szerinti esetben kiállítja az üzemszüneti átvételi elismervény nyomtatványt és az 5. pontban megjelölt módok egyikén megküldi a címzett telephely felügyeletét ellátó adó- és vámigazgatósághoz.
+
+	A címzett telephely felügyeletét ellátó adó- és vámigazgatóság a benyújtott üzemszüneti átvételi elismervényt nyilvántartásba veszi és megteszi a szükséges intézkedéseket. 
+
+Rendeltetési hely változtatása 
+
+	A feladó kitölti az üzemszüneti rendeltetési hely változtatása adatlapot, majd az 5. pontban megjelölt módok egyikén megküldi a telephely felügyeletét ellátó adó- és vámigazgatósághoz. 
+
+	A feladó tagállami hatóság eljuttatja azt az új címzett tagállami hatóság részére a CELO irodákon keresztül.
+
+	A feladó eldöntheti, hogy küld-e példányt a régi címzett részére, illetve küld-e másolatot a rendeltetési hely változtatásáról az új címzett részére.
+
+	A feladó értesíti a szállítót az új címzettről, aki feljegyzi az új címzettre vonatkozó adatokat, illetve a módosítás részleteit (sorszámváltozás, időpont, stb.) a nála található eTKO kinyomtatott példányára vagy – amennyiben már üzemszüneti eljárás keretében indult a szállítmány – az üzemszüneti TKO-ra.
+
+	A felügyeletet ellátó adó- és vámigazgatóság a benyújtott üzemszüneti rendeltetési hely változtatása adatlapot nyilvántartásba veszi és megteszi a szükséges intézkedéseket.
+
+Visszatérés az elektronikus eljárásra 
+
+	Az üzemszüneti eljárás végéről az ügyfél a 4. pont szerint tájékoztatja a NAV-ot. A beadvány szövegének tartalmaznia kell a működésképtelenség záró időpontját és az üzemszüneti eljárás során felhasznált LRN számokat.
+
+	A NAV rendszerében tapasztalt üzemszünet végének közlését a Jöt. 58. § (1) bekezdés a) pontja szabályozza. 
+
+	A rendszerek helyreállását követően haladéktalanul be kell nyújtani az üzemszüneti eljárások keretében indított szállítmányokra vonatkozó okmányokat elektronikus formában is (e-TKO tervezet, törlő üzenet, átvételi elismervény, rendeltetési hely változtatása, stb.).
+
+Záró rendelkezés
+
+	A felhívás a kiadmányozás napjától érvényes.
+
+	A felhívás érvényessége kezdetének napjától érvénytelen a Nemzeti Adó- és Vámhivatal vezetője által kiadott, az EMCS üzemszüneti eljárásról szóló 7001/2019. felhívás. 
+
+
+
+Budapest, 
+
+
+
+
+
+dr. Sors László
+
+a Nemzeti Adó- és Vámhivatal
+
+vezetője
+
+
+
+6

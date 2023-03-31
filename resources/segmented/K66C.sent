@@ -1,0 +1,322 @@
+OSS-portál felhasználói leírás V1.0 OSS-portál felhasználói leírás V1.0 OSS (One Stop Shop) rendszer OSS-portál Felhasználói leírás Verzió:		v1.1 Dátum:		2021.02.18.
+Tartalom 		1.	AZ OSS-rendszer áttekintése	4 		1.1.	Betűszók és rövidítések	4 		1.2.	EU-s, Import és nem EU-s működés	4 		2.	AZ OSS-portál használata - EU-s sémA	8 		2.1.	Képviselet létrehozása	8 		2.2.	Nyelv választása a portálon	8 		2.3.	Bejelentkezés	8 		2.4.	Regisztráció kezelése	9 	Alapregisztráció	9 	Regisztráció módosítása	11 	Kiléptetés	11 	Megtekintés/Szerkesztés	12 	Törlés	12 		2.5.	Bevallások	12 	Bevallások listája	12 	Nullás bevallás benyújtása	13 	Bevallás benyújtása	14 		2.6.	Üzenetek megtekintése	15 	Saját üzenetek	15 	Adózók üzenetei	15 		2.7.	Kijelentkezés	16 		3.	AZ OSS-portál használata - Importséma	17 		3.1.	Bejelentkezés	17 		3.2.	Regisztráció kezelése	17 	Alapregisztráció	18 	Regisztráció módosítása	21 	Kiléptetés	21 	Megtekintés/Szerkesztés	22 	Törlés	22 		3.3.	Bevallások	22 	Bevallások listája	22 	Nullás bevallás benyújtása	23 	Bevallás benyújtása	24 		3.4.	Üzenetek megtekintése	25 	Saját üzenetek	25 	Adózók üzenetei	25 		3.5.	Kijelentkezés	25 		4.	AZ OSS-portál használata - nem EU-s séma	26 		4.1.	Képviseleti fiók létrehozása	26 		4.2.	Jelszó-emlékeztető	26 		4.3.	Bejelentkezés	27 		4.4.	Regisztráció kezelése	27 	Alapregisztráció	27 	Regisztráció módosítása	28 	Kiléptetés	28 	Megtekintés/Szerkesztés	28 	Törlés	28 		4.5.	Bevallások	28 	Bevallások listája	29 	Nullás bevallás benyújtása	29 	Bevallás benyújtása	30 		4.6.	Üzenetek megtekintése	30 	Saját üzenetek	30 	Adózók üzenetei	30 		4.7.	Beállítások	31 	Jelszóváltoztatás	31 		4.8.	Kijelentkezés	31 		5.	HelpDesk	32 		 Az OSS-rendszer áttekintése Az OSS-rendszer, vagyis a One Stop Shop – Egyablakos Rendszer egy olyan új, tagállami egyablakos rendszer, amelyben az Európai Unióban nem letelepedett, illetve az Unióban letelepedett, de a fogyasztás szerinti tagállamban nem letelepedett adóalanyok a nem adóalanyoknak nyújtott távközlési, rádió- és televízióműsor-, valamint elektronikus szolgáltatások utáni hozzáadottérték-adójukat (Magyarországon: áfa) vallhatják be és fizethetik meg.
+Az alapul szolgáló ügylettípusok: nem adóalanyoknak nyújtott szolgáltatások, Közösségen belüli távértékesítések, harmadik államból importált termék távértékesítése.
+Betűszók és rövidítések 			Rövidítés 			Jelentés EU Európai Unió (Közösség) héa hozzáadottérték-adó IBAN nemzetközi bankszámla-azonosító (International Bank Account Number) OSS Egyablakos Rendszer (One Stop Shop) MS tagállam (Member State) MSA tagállami adóhatóság (MS Administration) MSCON fogyasztás (vagyis a szolgáltatás igénybevételének helyszíne) szerinti tagállam (MS of Consumption) MSEST telephely szerinti tagállam (MS of Establishment) MSID azonosítót kiadó tagállam (MS of Identification) NETP nem letelepedett adóalany (Non-Established Taxable Person) OBAN egyéb bankszámla-azonosító (Other Bank Account Number) PPV pay-per-view szolgáltatás TP adózó (Taxable Person) VAT áfa/héa (Value Added Tax) VATIN héa-azonosítószám VIES VAT Information Exchange System VoeS elektronikus szolgáltatások áfája (VAT on e Services) XML bővíthető jelölőnyelv (Extensible Mark-up Language) KR Központi Rendszer (Ügyfélkapu – ) OSSP OSS-rendszer – Portálalkalmazás OSSÜ OSS-rendszer – Üzemi (feldolgozó) alkalmazás EU-s, Import és nem EU-s működés A MOSS-elődrendszer az EU-ban letelepedett, nem adóalany személyeknek távközlési, rádió- és televízióműsor-, valamint elektronikus szolgáltatásokat nyújtó adóalanyoknak biztosított a működésüket egyszerűsítő lehetőséget: az uniós és a nem uniós séma adózóinak.
+Az OSS-rendszer megtartja e két sémát, jelentősen kibővítve azok alkalmazhatósági körét, valamint harmadikként bevezeti az importsémát is.
+Ha egy adózó több séma feltételeinek is megfelel, több sémába is regisztrálhat.
+Az adózó nevében csak olyan személy járhat el képviselőként, akinek van ügyfélkapus hozzáférése, és képviseleti jogosultsága az OSS-ügyekre.
+A bevallások benyújtási és a befizetések teljesítési ideje az uniós és a nem uniós sémában a negyedéves bevallási időszakot, az importsémában a havi bevallási időszakot követő hónap utolsó napja.
+Az uniós és az importsémában egyaránt sajátos adózói csoportként jelennek meg az elektronikus platformok (piacterek).
+Ezek a platformok – OSS-adózóként – olyan közösségben letelepedett vagy harmadik országos adóalanyok, amelyek távértékesítéseket segítenek elő a közösségi nem adóalany vevőknek.
+Az általuk elősegített ügyletek után – egy közösségi jogszabályon alapuló jogi fikció alapján – a platform maga is értékesítőnek számít.
+Az eredeti tranzakció így két részre válik: az értékesítő adóalany (tényleges vagy valódi értékesítő) és a platform között egy B2B (adóalanyok közti) ügylet, míg a platform és a fogyasztó között egy B2C (adóalany és vevő közti) ügylet jön létre.
+Ez utóbbi ügylet után a platformnak kell adót fizetnie, amit – az ügylet paramétereinek függvényében – az OSS uniós vagy importsémájában teljesíthet.
+A platform ebben az esetben a tényleges értékesítő helyébe lép, azaz mintegy átveszi e mögöttes értékesítő jogait és kötelezettségeit.
+Az OSS-rendszerbe – bizonyos kivételekkel – továbbra is azok a Közösségben nem letelepedett, valamint a Közösségben letelepedett, de a fogyasztás szerinti tagállamban nem letelepedett adóalanyok regisztrálhatnak, amelyek közösségi vevőknek nyújtott gazdasági tevékenységet végeznek.
+Az immár háromféle séma a következők szerint vehető igénybe.
+Uniós séma Az uniós séma alapjául szolgáló gazdasági tevékenységek köre kibővült.
+A MOSS-ban megszokott távközlési, rádió- és televízióműsor-, valamint elektronikus szolgáltatásokon (TBE-szolgáltatások) kívül az OSS kiterjed bármely egyéb, határon átnyúló szolgáltatásra.
+A szolgáltatások mellett megjelennek a közösségi távértékesítések is.
+Az uniós sémába Magyarországon főszabály szerint továbbra is olyan adózók regisztrálhatnak, amelyek székhelye – vagy a Közösségen kívüli székhelynél állandó telephelye – Magyarországon van.
+Ők a letelepedésüktől eltérő tagállamokba nyújtott szolgáltatások, valamint távértékesített termékek esetén egyaránt regisztrálhatnak.
+Regisztrálhatnak továbbá olyan harmadik országos adózók, amelyek más tagállamba értékesítenek terméket.
+Ezek a gazdálkodók magyar pénzügyi képviselőjük közreműködésével regisztrálhatnak Magyarországon az uniós sémába.
+A séma adózóinak új alkategóriáját képviselik az elektronikus platformok (piacterek), amelyek lehetnek közösségben letelepedett vagy nem letelepedett adóalanyok, és közösségen belüli olyan távértékesítéseket segítenek elő, amelyekben a termékek a Közösségben találhatók (szabad forgalomba helyezték) és ott értékesítik őket, valamint a platformon keresztül eljáró tényleges értékesítő nem telepedett le a Közösségben.
+A platform tehát nem válik vélelmezett értékesítővé, ha a Közösségben található és ott értékesített terméket egy a Közösségben letelepedett tényleges értékesítő értékesíti.
+Az ügylet „elősegítése” lényegében annak lehetővé tétele, hogy egy értékesítő kapcsolatba kerülhessen a vevővel, és megtörténhessen a termékértékesítés a felek között.
+A termék tényleges kiszállítása már nem feltétlenül a platform közreműködésével történik.
+Nem számít az ügylet elősegítésének, ha a felület sem közvetlenül, sem közvetve nem határozza meg a szerződési feltételeket, nem vesz részt a fizetés felszámításában, nem vesz részt a megrendelésben vagy a kiszállításban.
+E kizáró feltételeknek együttesen kell teljesülnie, azaz ha legalább egy megáll e három feltétel közül, a platform továbbra is termékértékesítést elősegítőnek, azaz vélelmezett értékesítőnek tekintendő.
+E Közösségen belüli termékértékesítés B2B szakaszában nem kell számlát kiállítani, a közösségi termékértékesítésnél a mögöttes értékesítő állít ki számlát.
+A vélelmezett értékesítő platform által elősegített termékértékesítés nem csak tagállamközi, hanem belföldi is lehet, azaz rendhagyó módon olyan ügylet is bevallható a rendszerben, ahol a termék és a fogyasztó ugyanabban a tagállamban található.
+A teljesítési helyre sajátos szabályok vonatkoznak a csak Magyarországon letelepedett, csak távközlési, rádió- és televízióműsor-, valamint elektronikus szolgáltatásokat (TBE-szolgáltatásokat) és termékek Közösségen belüli távértékesítést végző, 10 000 euró bruttó éves árbevételt meg nem haladó adózókra.
+Esetükben ugyanis a teljesítés helye főszabály szerint ezen adózó letelepedési helye (illetve a termék feladási helye), azaz Magyarország.
+Azonban az ilyen adózó is dönthet úgy, hogy a főszabálytól eltérően a fogyasztó tagállamának, illetve a feladás, fuvarozás befejezése tagállamának helye szerinti teljesítési hely alapján adózik: ebben az esetben az OSS alkalmazásával is teljesítheti adókötelezettségeit.
+Választása az adózót legalább két naptári évre köti.
+Az összeghatár túllépését az adózónak be kell jelentenie az adóhatósághoz.
+A túllépést követően a teljesítési hely már nem az adózó letelepedési helye illetve a termék feladási helye, hanem a főszabály szerinti, azaz az OSS-nek megfelelően az igénybe vevő letelepedése, illetve a termék rendeltetési helye szerinti másik tagállam.
+Nem EU-s séma A nem uniós séma a TBE-szolgáltatásokon túl kiterjed bármely olyan szolgáltatásra, amelyet a Közösségben nem letelepedett adóalany nyújt közösségi nem adóalanyok számára, például távoktatás, beléptetés közösségi eseményekre, ingatlannal kapcsolatos szolgáltatások.
+Az ilyen adózó tehát sem székhellyel, sem állandó telephellyel nem rendelkezhet a Közösség területén, azonban nem akadálya az OSS nem uniós sémája alkalmazásának, ha jelen van valamely tagállam héanyilvántartásában.
+Importséma Az importsémában olyan, Magyarországon letelepedett vagy harmadik országos adózók teljesíthetik héakötelezettségeiket, amelyek harmadik országokból, harmadik területekről közösségi fogyasztóknak feladott vagy fuvarozott, 150 eurót meg nem haladó belső értékű termékeket (kivéve a jövedékiadó-köteles termékek) értékesítenek.
+A belső érték az áru saját, egyéb (szállítás, biztosítás stb.) árnövelő tételt nem tartalmazó ára.
+Az ilyen termékértékesítéskor a vevő a héát tartalmazó vételárat fizeti meg.
+Ezt a héatartalmat az adózó az importsémában vallhatja be és fizetheti meg, így a termék behozatala a Közösség területére héamentesen történik.
+Ha tehát a küldemény vám elé állításakor a vám-árunyilatkozaton egy érvényes IOSS-azonosítószám szerepel (amit a vámhatóság ellenőriz), akkor vámhatóságnak nem kell kivetnie az importáfát, mivel azt az adózó az IOSS-en keresztül fogja megfizetni.
+A Közösségen belüli szabad forgalomba bocsátás tagállama és a termék végső rendeltetési helye szerinti tagállam meg is egyezhet, de el is térhet egymástól.
+Az IOSS alkalmazásakor azonban a teljesítés helye mindkét esetben az a tagállam lesz, amelyben a feladás, fuvarozás befejeződik.
+A már szabad forgalomba bocsátott termékeknél, például az áru eleve egy a Közösség területén található vámáruraktárban van, az importséma nem alkalmazható, mert a terméknek az ügylet során fizikailag az EU-n kívül kell lennie.
+Az importsémát a Magyarországon letelepedett értékesítő adózók akár közvetlenül, akár úgynevezett IOSS-közvetítő igénybevételével alkalmazhatják.
+Az IOSS-közvetítők egy sajátos képviseleti kategóriát jelentenek: olyan, a pénzügyi képviselőre vonatkozó jogszabályi feltételeknek megfelelő adóalanyok, amelyek külön, önálló IOSS-bejelentkezés alapján láthatják el egy vagy több importadózó képviseletét.
+Az adókötelezettségeket ilyenkor maga a közvetítő teljesíti az adózó helyett és nevében eljárva.
+Az importsémát alkalmazhatják továbbá a Közösségben nem letelepedett adózók is, ők azonban csak IOSS-közvetítő igénybevételével járhatnak el (a norvég értékesítőkre külön szabályok vonatkoznak).
+A séma adózóinak külön kategóriáját képviselik az elektronikus platformok (piacterek), amelyek lehetnek közösségben letelepedett vagy nem letelepedett adóalanyok – ügyeiket az előző bekezdés szerinti képviseleti szabályok szerint intézhetik – amelyek 150 euró belső értéket meg nem haladó értékű termékek távértékesítését segítik elő harmadik országból a Közösség tagállamába, függetlenül attól, hogy a platformon keresztül értékesítő tényleges értékesítő letelepedett-e a Közösségben, vagy sem.
+A platform tehát nem válik vélelmezett értékesítővé, ha 150 eurót meghaladó valós értékű terméket importál.
+A belső érték az áru saját, egyéb (szállítás, biztosítás stb.) árnövelő tételt nem tartalmazó ára.
+Az ügylet „elősegítése” lényegében annak lehetővé tétele, hogy egy értékesítő kapcsolatba kerülhessen a vevővel, és megtörténhessen a termékértékesítés a felek között.
+A termék tényleges kiszállítása már nem feltétlenül a platform közreműködésével történik.
+Nem számít az ügylet elősegítésnek, ha a platform sem közvetlenül, sem közvetve nem határozza meg a szerződési feltételeket, nem vesz részt a fizetés felszámításában, nem vesz részt a megrendelésben vagy a kiszállításban.
+E kizáró feltételeknek együttesen kell teljesülnie, azaz ha legalább egy megáll e három feltétel közül, a platform továbbra is termékértékesítést elősegítőnek, azaz vélelmezett értékesítőnek tekintendő.
+E Közösségen belüli termékértékesítés B2B szakaszában nem kell számlát kiállítani, a közösségi termékértékesítésnél a tényleges értékesítő állít ki számlát.
+Az OSS-portál használata – EU-s sémában Az OSS-portál a következő linken érhető el: .
+A kezdőképernyőn felül látható három menü az „EU-s séma”,” Importséma” és „Nem EU-s séma” szerinti működéshez, illetve jobboldalt a nyelvválasztó lenyíló lista alapján.
+Alatta található egy rövid tájékoztató az OSS-rendszer jogi hátteréről: Képviselet létrehozása Ahhoz, hogy egy céget regisztrálni lehessen az OSS-rendszerben az EU-s sémába, több feltételnek kell teljesülnie: a cégnek székhellyel vagy állandó letelepedéssel, illetve adószámmal kell rendelkeznie Magyarországon, kell, hogy legyen legalább egy természetes személy, akinek van ügyfélkapus hozzáférése, és aki az adott cég képviselője OSS-ügyben.
+Nyelv választása a portálon A felső menüsor jobb oldali szélén található a nyelvválasztó lenyíló lista, a portál jelenleg magyar és angol nyelven érhető el.
+Bejelentkezés Az EU-s sémába bejelentkezni a magyarorszag.hu portálon, az Ügyfélkapun keresztül lehet.
+A főmenüben a következő menüpontot kell választani: „EU-s séma” -> „Bejelentkezés KAÜ-n keresztül” Ekkor megjelenik az ügyfélkapus bejelentkezési ablak.
+Az OSS-portált a megadott felhasználóként sikeres bejelentkezés után lehet használni.
+Regisztráció kezelése A felső menüben a „Regisztráció kezelése” menüpontot kell kiválasztani.
+Ekkor megjelenik a már elindított regisztrációs folyamatok listája.
+A listában egyszerre 10 sor látható, ha ennél több tétel van, akkor az több lapon jelenik meg, a lapok között pedig a táblázat alatti navigációs gombokkal lehet váltani.
+Alapregisztráció Egy új regisztráció indításához a táblázat alatti „Alapregisztráció” gombra kell kattintani.
+A lenyíló listából ki kell választani a regisztrálandó adózót.
+A képernyő egyes mezői inaktívak, ezeket automatikusan tölti ki a program.
+A többi mezőt értelemszerűen ki kell tölteni.
+A kötelezően kitöltendő mezők hiányos kitöltésekor a felület „Kötelező mező” üzenettel figyelmeztet.
+A formanyomtatvány alján három dinamikusan kitölthető lista található, m indegyik lista alján szerepel az „Új”, a „Módosít” és a „Töröl” gomb.
+Az első: „Az a héa-azonosítószám, amellyel korábban már igénybe vette, vagy jelenleg is igénybe veszi az OSS valamelyik szabályozását bármelyik tagállamban”.
+Ide kell rögzíteni, ha az adózó korábban már használta az OSS-rendszert.
+A második: „Más tagállam által kiadott héa-azonosítószám, ha Ön ott nem rendelkezik letelepedéssel”.
+A harmadik: „Más tagállamban található telephely, vagy az OSS-tevékenységhez használt kereskedelmi raktár”.
+A nyomtatvány alján 3 gomb található: „Mentés” Ezzel a gombbal lehet elmenteni az adatokat az adatbázisba, így a munka akár kilépés után is folytatható.
+A regisztrációk listájában a mentett tételek „szerkesztés alatt” státusszal fognak szerepelni. „Kérelem benyújtása” A gomb megnyomása után a rendszer először ellenőrzi kitöltött adatokat, majd továbbítja a nyomtatványt az ügyintézői rendszerbe. „Mégsem” A módosítások mentése nélkül ezzel a gombbal lehet elhagyni az oldalt.
+Regisztráció módosítása A „regisztráció módosítása” gombbal lehet a már elfogadott regisztrációkat módosítani.
+A gomb megnyomása után megjelenik a regisztrációs oldal, és a legfelső lenyíló listában pedig azok az az adózók láthatók, amelyeknek elfogadott regisztrációjuk van.
+Ezek közül ki lehet választani a módosítandó regisztrációt.
+A nyomtatvány alján ugyanazok a gombok szerepelnek, mint amelyek az „Alapbevallás” oldalon.
+Kiléptetés A „Kiléptetés kezdeményezése” gombbal lehet a már elfogadott regisztrációval rendelkező adózókat kiléptetni az OSS-rendszerből.
+A nyomtatvány tetején egy lenyíló listából ki kell választani a kiléptetendő adózót (csak az elfogadott OSS-regisztrációval rendelkező, a felhasználó által képviselt adózók jelennek meg a listában), majd megadni a kilépés okát.
+Az egyes kilépési okokhoz tartozhatnak bizonyos további, kötelezően megadandó adatok (kilépés időpontja, másik tagállam stb.).
+Megtekintés/Szerkesztés A „Megtekintés/Szerkesztés” gombbal lehet a „szerkesztés alatt” státuszú regisztrációk adatlapjának kitöltését, illetve a benyújtott/kiléptetett/stb. státuszú regisztrációs adatokat megtekinteni.
+Törlés A „Töröl” gomb csak akkor lesz aktív, ha a kurzor egy „szerkesztés alatt” státuszú soron áll.
+A gomb megnyomására egy ellenőrző kérdés jelenik meg, a rendszer csak ennek jóváhagyása után törli a tételt.
+Bevallások A bevallásokat negyedévenként – a negyedévet követő hónap utolsó napjáig (január, április, július, október) – kell benyújtani a „Bevallások/befizetések” menüpontban.
+Bevallások listája A már benyújtott bevallások a „Bevallások” modulban tekinthetők meg.
+A lista mindegyik oszlopa eszerint rendezhető., az „Azonosító”, „Cégnév” és „Referenciaszám” alapján pedig keresni is lehet.
+Egy lapon 10 tétel látható, ha ennél több benyújtott bevallás van, akkor a további tételek másik lapra kerülnek, a lapok között az alsó navigációs gombokkal lehet váltani.
+Új bevallás benyújtásához az alul található „Új bevallás” gombra kell kattintani.
+A megjelenő ablakban ki kell választani az adózót, majd az időszakot.
+Elmentett, de még nem benyújtott bevallásokat a „Megtekintés/Szerkesztés” gombbal szerkeszteni, illetve a „Töröl” gombbal törölni lehet a listából.
+Nullás bevallás benyújtása Ha az adott negyedévben az adózó nem nyújtott szolgáltatást, nem teljesített Közösségen belüli távértékesítést, és a korábbi időszakra vonatkozóan sem kíván módosítással élni, akkor úgynevezett nullás bevallást kell benyújtania.
+Tehát az adózónak bevallási kötelezettsége van akkor is, ha nem teljesített az EU-s séma alá tartozó ügyletet.
+A nullás bevalláshoz be kell pipálni a „Nem értékesítettem terméket/nem nyújtottam szolgáltatást ebben a negyedévben, korábbi bevallási időszakok tekintetében módosítási igényem nem merült fel, nullás bevallást nyújtok be” négyzetet.
+Ekkor az alsó táblázatok inaktívvá válnak.
+A bevallást a „Mentés” gombbal el lehet menteni, és később folytatni lehet a szerkesztését, illetve a „Bevallás benyújtása” gombbal be lehet nyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben, és az a böngésző nyomtató funkciójával kinyomtatható.
+Bevallás benyújtása A bevallási adatlapon három táblázat látható.
+Az első táblázatban lehet megadni a Magyarországról más tagállamba nyújtott szolgáltatások összegét.
+Ha az adózónak más tagállamban van állandó telephelye, és onnan is nyújtott szolgáltatást, ezeket az összegeket a második táblázatban kell rögzíteni.
+A harmadik táblázatban lehet módosítani a korábbi időszakban már beadott bevallásokat 3 évre visszamenőleg.
+A bevallást a „Mentés” gombbal el lehet menteni, és később folytatni lehet a szerkesztését, illetve a „Bevallás benyújtása” gombbal be lehet nyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben, és az a böngésző nyomtató funkciójával kinyomtatható.
+A táblázatokba új tételeket a táblázatok alján található „Új” gombbal lehet felvinni.
+A táblázatba rögzített tételek módosításához ki kell jelölni az adott sort, és a „Módosítás” gombra kell kattintani.
+A felvitt tételek törölhetők is.
+Ehhez ki kell jelölni a tételt, és a „Törlés” gombra kell kattintani.
+Magyarországról és az Unión kívüli állandó telephely(ek)ről nyújtott szolgáltatások, valamint Magyarországról feladott vagy szállított termékértékesítések A táblázat alján található „Új” gombra kattintva egy kisebb ablak jelenik meg.
+Ebbe lehet rögzíteni a tételeket.
+Az ablakban a következő négy adatot kell megadni: Ki kell választani a tevékenység típusát („Szolgáltatásnyújtás/Termékértékesítés”).
+Ki kell választani azt a tagállamot, ahol a szolgáltatást igénybe vették („Fogyasztás tagállama”).
+Ki kell választani a szolgáltatásra vonatkozó adókulcsot („Tagállam adókulcsa”).
+Akkor jelenik meg több adókulcs ebben a listában, ha az adott tagállamban, az adott negyedévben több hatályos héakulcs létezett.
+Meg kell adni a nyújtott szolgáltatás nettó árát forintban kifejezve („Adóalap”).
+Egy tagállamra és egy adókulcsra csak egy szumma összeget lehet megadni.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Más tagállami állandó telephelyről nyújtott szolgáltatások, valamint más tagállamból feladott vagy szállított termékek értékesítése A második táblázat alján található „Új” gombra kattintva lehet rögzíteni a többi telephelyről nyújtott szolgáltatásokat.
+A megjelenő ablakban a következő öt adatot kell megadni: Ki kell választani a telephelyet (A telephelyeket a regisztrációkor kellett megadni).
+Ki kell választani a tevékenység típusát („Szolgáltatásnyújtás/Termékértékesítés„).
+Ki kell választani azt a tagállamot, ahol a szolgáltatást igénybe vették („Fogyasztás tagállama”).
+Ki kell választani az ügyletre vonatkozó adókulcsot („Tagállam adókulcsa”).
+Akkor jelenik meg több adókulcs ebben a listában, ha az adott tagállamban, az adott negyedévben több hatályos héakulcs létezett.
+Meg kell adni a nyújtott szolgáltatás nettó árát forintban kifejezve („Adóalap”).
+Egy tagállamra és egy adókulcsra csak egy szumma összeget lehet megadni.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Korábbi bevallási időszak módosítása (legfeljebb 3 év): A harmadik táblázat alján található „Új” gombra kattintva lehet rögzíteni a korábbi időszak módosítását.
+A megjelenő ablakban a következő három adatot kell megadni: Ki kell választani a negyedévet.
+Ki kell választani azt a tagállamot, ahol a szolgáltatást igénybe vették („Fogyasztás tagállama”).
+Meg kell adni a nyújtott szolgáltatás nettó árát forintban kifejezve („Adóalap”).
+Egy tagállamra és egy adókulcsra csak egy szumma összeget lehet megadni.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Üzenetek megtekintése Az üzenetek az „Üzenetek” menüpontra kattintva érhetők el.
+Az üzeneteket kétféle nézetben lehet megtekinteni.
+Mindkét nézetben van lehetőség az üzenetek rendezésére, és szűrésére.
+EU-s sémában az üzeneteket PDF-formátumban lehet letölteni.
+A rendszer jelzi azt is, hogy egy-egy üzenetet már elolvastak-e már vagy sem.
+Az olvasatlan üzenetek számát a fenti menüpont után zárójelben meg is jeleníti a rendszer.
+Például három új üzenet esetén: „Üzenetek (1)” – azt jelenti, hogy egy olvasatlan üzenet van.
+Saját üzenetek Ebben a nézetben az összes üzenet látható, amit a felhasználó által képviselt adózók kaptak azóta, hogy képviseletüket ellátja.
+A cég korábbi üzenetei tehát nem láthatók.
+Adózók üzenetei Ezen a felületen egy-egy adózó összes OSS-szel kapcsolatos üzenete megtekinthető, onnantól fogva, hogy az adózó regisztrált az OSS-rendszerbe.
+A céget egy lenyíló listából kell kiválasztani.
+Kijelentkezés A kijelentkezés gombbal első belépési oldalra lehet visszajutni.
+Onnan újra be lehet lépni EU-s, import- vagy nem EU-s sémában.
+Az OSS-portál használata – importséma Bejelentkezés Az importsémába bejelentkezni a magyarorszag.hu portálon az Ügyfélkapun keresztül lehet.
+A főmenüben a következő menüpontot kell választani: „EU-s séma” -> „Bejelentkezés KAÜ-n keresztül” Ekkor megjelenik az ügyfélkapus bejelentkezési ablak.
+Az OSS-portált a megadott felhasználóként sikeres bejelentkezés után lehet használni. 	Regisztráció kezelése A felső menüben a „Regisztráció kezelése” menüpontot kell kiválasztani.
+Ekkor megjelenik a már elindított regisztrációs folyamatok listája.
+A listában egyszerre 10 sor látható, ha ennél több tétel van, akkor az több lapon jelenik meg, a lapok között pedig a táblázat alatti navigációs gombokkal lehet váltani.
+Alapregisztráció Egy új regisztráció indításához a táblázat alatti „Alapregisztráció” gombra kell kattintani.
+Itt két választási lehetőség van: „Nem közvetítőként járok el (alapeset)”, „Közvetítőként járok el”.
+Nem közvetítőként járok el (alapeset): A lenyíló listából ki kell választani a regisztrálandó adózót.
+A képernyő egyes mezői inaktívak, ezeket automatikusan tölti ki a program.
+A többi mezőt értelemszerűen ki kell tölteni.
+A kötelezően kitöltendő mezők hiányos kitöltésekor a felület „Kötelező mező” üzenettel figyelmeztet.
+Közvetítőként járok el: Ebben az esetben először a „Közvetítő regisztrációja” menüt kell választani, és a közvetítő regisztrálható.
+Itt az „Alapregisztrációt” kell választani, majd meg kell adni a közvetítő cég adatait.
+Lehetőség van, dokumentumok csatolására is.
+Ha a rendszer a közvetítői regisztrációt elfogadta, akkor van lehetőség a közvetítő általi adózói regisztrációra.
+Ehhez ki kell választani a „Regisztráció kezelése” menüpontot, majd az „Alapregisztrációt”, és jelölni kell, hogy „Közvetítőként járok el”.
+Ekkor megjelenik egy lenyíló lista, ahol ki lehet választani a korábban már regisztrált közvetítőt.
+A képernyő egyes mezői inaktívak, ezeket automatikusan tölti ki a program.
+A többi mezőt értelemszerűen ki kell tölteni.
+A kötelezően kitöltendő mezők hiányos kitöltésekor a felület „Kötelező mező” üzenettel figyelmeztet.
+Mindkét esetben megegyezik: A formanyomtatvány alján a következő két, dinamikusan kitölthető lista található, mindegyik lista alján szerepel az „Új”, a „Módosít” illetve a „Töröl” gomb.
+Az első: „Az a héa-azonosítószám, amellyel korábban már igénybe vette, vagy jelenleg is igénybe veszi az OSS valamelyik szabályozását bármelyik tagállamban”.
+Ide kell rögzíteni, ha az adózó korábban már használta az OSS-rendszert.
+A második: „Más tagállamban található telephely”.
+A nyomtatvány alján 3 gomb található: „Mentés” Ezzel a gombbal lehet elmenteni az adatokat az adatbázisba, így a munka akár kilépés után is folytatható.. A regisztrációk listájában a mentett tételek „szerkesztés alatt” státusszal fognak szerepelni. „Kérelem benyújtása” A gomb megnyomása után a rendszer először ellenőrzi a kitöltött adatokat, majd továbbítja nyomtatványt az ügyintézői rendszerbe. „Mégsem” A módosítások mentése nélkül ezzel a gombbal lehet elhagyni az oldalt.
+Regisztráció módosítása A „regisztráció módosítása” gombbal lehet a már elfogadott regisztrációkat módosítani.
+A gomb megnyomása után megjelenik a regisztrációs oldal, és a legfelső lenyíló listában pedig azok az adózók láthatók, amelyeknek elfogadott regisztrációjuk van.
+Ezek közül ki lehet választani a módosítandó regisztrációt.
+A nyomtatvány alján ugyanazok a gombok szerepelnek, mint amelyek az „Alapbevallás” oldalon.
+Kiléptetés A „Kiléptetés kezdeményezése” gombbal lehet a már elfogadott regisztrációval rendelkező adózókat kiléptetni az OSS-rendszerből.
+A nyomtatvány tetején egy lenyíló listából ki kell választani a kiléptetendő adózót (csak az elfogadott OSS-regisztrációval rendelkező, a felhasználó által képviselt adózók jelennek meg a listában), majd megadni a kilépés okát.
+Az egyes kilépési okokhoz tartozhatnak bizonyos további, kötelezően megadandó adatok (kilépés időpontja, másik tagállam stb.).
+Megtekintés/Szerkesztés A „Megtekintés/Szerkesztés” gombbal lehet a „szerkesztés alatt” státuszú regisztrációk adatlapjának kitöltését, illetve a benyújtott/kiléptetett/stb. státuszú regisztrációs adatokat megtekinteni.
+Törlés A „Töröl” gomb csak akkor lesz aktív, ha a kurzor egy „szerkesztés alatt” státuszú soron áll.
+A gomb megnyomására egy ellenőrző kérdés jelenik meg, a rendszer csak ennek jóváhagyása után törli a tételt.
+Bevallások A bevallásokat havonta – a hónap 1-je és 20-a között – kell benyújtani a „Bevallások/befizetések” menüpontban.
+Bevallások listája A már benyújtott bevallások a „Bevallások” modulban tekinthetők meg.
+A lista mindegyik oszlopa eszerint rendezhető, az „Azonosító”, „”Cégnév” és „Referenciaszám” alapján pedig keresni is lehet.
+Egy lapon 10 tétel látható, ha ennél több benyújtott bevallás van, akkor a további tételek másik lapra kerülnek, a lapok között az alsó navigációs gombokkal lehet váltani.
+Új bevallás benyújtásához az alul található „Új bevallás” gombra kell kattintani.
+A megjelenő ablakban ki kell választani az adózót, majd az időszakot.
+Elmentett, de még nem benyújtott bevallásokat a „Megtekintés/Szerkesztés” gombbal szerkeszteni, illetve a „Töröl” gombbal törölni lehet a listából.
+Nullás bevallás benyújtása Ha az adott hónapban az adózó nem nyújtott szolgáltatást és a korábbi időszakra vonatkozóan sem kíván módosítással élni, akkor úgynevezett nullás bevallást kell benyújtania.
+Tehát az adózónak bevallási kötelezettsége van akkor is, ha nem végzett gazdasági tevékenységet.
+A nullás bevalláshoz be kell pipálni a„Nem értékesítettem terméket az aktuális bevallási időszakban, korábbi bevallási időszakok tekintetében módosítási igényem nem merült fel, nullás bevallást nyújtok be” négyzetet.
+Ekkor az alsó táblázatok inaktívvá válnak.
+A bevallást a „Mentés” gombbal el lehet menteni, és később folytatni lehet a szerkesztését, illetve a „Bevallás benyújtása” gombbal lehet benyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben és az a nyomtató funkcióval kinyomtatható.
+Bevallás benyújtása A bevallási adatlapon két táblázat látható.
+Az első táblázatban lehet megadni az EU-n kívülről feladott/fuvarozott termékek adóalapját, valamint a fizetendő adó összegét.
+A második táblázatban lehet módosítani a korábbi időszakban már beadott bevallásokat 3 évre visszamenőleg.
+A bevallást a „Mentés” gombbal el lehet menteni, és később folytatni lehet a szerkesztését, illetve „Bevallás benyújtása” gombbal be lehet nyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben, és az a böngésző nyomtató funkciójával kinyomtatható.
+A táblázatokba új tételeket a táblázatok alján található „Új” gombbal lehet felvinni.
+A táblázatba rögzített tételek módosításához, ki kell jelölni az adott sort, és a „Módosítás” gombra kell kattintani.
+A felvitt tételek törölhetők is.
+Ehhez ki kell jelölni a tételt, és a „Töröl” gombra kell kattintani.
+EU-n kívülről feladott/fuvarozott termékek A táblázat alján található „Új” gombra kattintva egy kisebb ablak jelenik meg.
+Ebbe lehet rögzíteni a tételeket.
+Az ablakban a következő három adatot kell megadni: Ki kell választani azt a tagállamot, ahol a termék végső rendeltetési helye található („Fogyasztás tagállama”).
+Ki kell választani az értékesítésre vonatkozó adókulcsot („Tagállam adókulcsa”).
+Akkor jelenik meg több adókulcs ebben a listában, ha az adott tagállamban, az adott negyedévben több hatályos héakulcs létezett.
+Meg kell adni a teljesített értékesítés nettó árát forintban kifejezve („Adóalap”).
+Egy tagállamra és egy adókulcsra csak egy szumma összeget lehet megadni.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Korábbi bevallási időszak módosítása (legfeljebb 3 év) A második táblázat alján található „Új” gombra kattintva lehet rögzíteni a korábbi időszak módosítását.
+A megjelenő ablakban a következő három adatot kell megadni: Ki kell választani a hónapot.
+Ki kell választani azt a tagállamot, ahol a termék végső rendeltetési helye található („Fogyasztás tagállama”).
+Meg kell adni a helyesbítésből származó héa teljes összegét.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Üzenetek megtekintése Az üzenetek az „Üzenetek” menüpontra kattintva érhetők el.
+Az üzeneteket kétféle nézetben lehet megtekinteni.
+Mindkét nézetben van lehetőség az üzenetek rendezésére, és szűrésére.
+Az importsémában az üzeneteket PDF-formátumban lehet letölteni.
+A rendszer jelzi azt is, hogy egy-egy üzenetet elolvastak-e már vagy sem.
+Az olvasatlan üzenetek számát a fenti menüpont után zárójelben meg is jeleníti a rendszer.
+Például három új üzenet esetén: Üzenetek (1) - azt jelenti, hogy egy olvasatlan üzenet van.
+Saját üzenetek Ebben a nézetben az összes üzenet látható, amit a felhasználó által képviselt adózók kaptak, azóta, hogy képviseletüket ellátja.
+A cég korábbi üzenetei tehát nem láthatók.
+Adózók üzenetei Ezen a felületen egy-egy adózó összes OSS-szel kapcsolatos üzenete megtekinthető, onnantól fogva, hogy az adózó regisztrált az OSS-rendszerbe.
+A céget egy lenyíló listából kell kiválasztani.
+Kijelentkezés A „Kijelentkezés” gombbal az első belépési oldalra lehet visszajutni.
+Onnan újra be lehet lépni az EU-s, import- vagy nem EU-s sémába.
+Az OSS-portál használata – nem EU-s séma A nem EU-s sémában az ügyfélnek nincs sem adószáma sem ügyfélkapus-hozzáférése.
+Ebben az esetben a képviselőnek is egy webes felületen kell regisztrálnia e-mail-mcímel segítségével, és a vállalkozása adatait is egy webes felületen kell rögzítenie.
+Képviseleti fiók létrehozása A „Nem EU-s séma” menüpont alatt a „Képviseleti fiók létrehozása” gombot kell választani.
+Ekkor megjelenik egy ablak, ahol megadható az e-mail-cím, és a jelszó.
+A „Fiók létrehozása” gombra kattintva létrejön a fiók, egyelőre inaktív státusszal, majd a portál ezzel egy időben kiküld egy e-mailt a megadott e-mail-címre a fiók aktiválására szolgáló linkkel.
+A felhasználónak egy napja van a fiókját aktiválni.
+Az inaktív fiókokat egy nap után a rendszer automatikusan törli.
+Az aktiváló linkre kattintva a fiók aktív állapotba kerül, ami után be lehet lépni a megadott jelszóval.
+Jelszó-emlékeztető Elfelejtett jelszó esetén lehetőség van új jelszó igénylésére.
+Ez a „Nem EU-s séma” -> „Bejelentkezés e-mail-címmel és jelszóval” menüből elérhető ablak alján található linken érhető el.
+A jelszó-emlékeztető kiküldéséhez meg kell adni az e-mail címet, és az „Elküld” gombra kell kattintani.
+Ekkor a rendszer elküld egy e-mailt a megadott címre egy, a jelszó megadására szolgáló linkkel, ahol az új jelszót lehet megadni.
+A link egy napig érvényes.
+Fontos, hogy az új jelszó igénylése után még érvényes marad a régi jelszó egészen a jelszó megváltoztatásáig.
+Ez azért lényeges, mert így olyan harmadik fél, aki a felhasználó e-mail-címét ismeri, nem tudja rosszhiszeműen megzavarni a működést új jelszó folyamatos kérésével.
+A jelszót csak az e-mail-fiók tulajdonosa tudja megváltoztatni.
+Bejelentkezés A „Nem EU-s séma” -> „Bejelentkezés e-mail-címmel és jelszóval” menüponttal jelenik meg a bejelentkezési képernyő.
+Itt az e-mail-cím és a hozzá tartozó jelszó beírásával lehet bejelentkezni a felületre.
+A regisztráció kezelése A regisztráció kezelése hasonló az EU-s sémában írtakhoz, bizonyos eltérésekkel.
+A „Regisztráció kezelése” gombbal lehet behozni a modult, és az EU-s sémához hasonlóan itt láthatók a korábbi, illetve folyamatban lévő regisztrációs kérések.
+Alapregisztráció Az „Alapregisztráció” gombbal lehet új regisztrációs kérelmet benyújtani.
+A nem EU-s sémában nem egy lenyíló listából kell kiválasztani egy céget, hanem manuálisan kell megadni a cég minden fontos adatát.
+Az oldal alján a nem EU-s sémában egyetlen dinamikusan kitölthető lista található: „Az a héa-azonosítószám, amellyel korábban már igénybe vette, vagy jelenleg is igénybe veszi az OSS valamelyik szabályozását bármelyik tagállamban.”
+Ide kell rögzíteni, ha az adózó korábban már használta az OSS-rendszert.
+Ezt az előtérben nyíló kis ablakokban lehet elvégezni.
+A nyomtatvány alján 3 gomb található: „Mentés” Ezzel a gombbal lehet elmenteni az adatokat az adatbázisba, így a munka akár kilépés után is folytatható.
+A regisztrációk listájában a mentett tételek „szerkesztés alatt” státusszal fognak szerepelni. „Kérelem benyújtása” A gomb megnyomása után a rendszer először ellenőrzi kitöltött adatokat, majd továbbítja a nyomtatványt az ügyintézői rendszerbe. „Mégsem” A módosítások mentése nélkül ezzel a gombbal lehet elhagyni az oldalt.
+Regisztráció módosítása A „Regisztráció módosítása” gombbal lehet a már elfogadott regisztrációkat módosítani.
+Ha nincs ilyen, akkor a portál figyelmeztető üzenetet jelenít meg.
+A gomb megnyomása után megjelenik a regisztrációs oldal, és a legfelső lenyíló listában pedig azok az adózók láthatók, amelyeknek elfogadott regisztrációjuk van.
+Ezek közül ki lehet választani a módosítandó regisztrációt.
+A nyomtatvány alján ugyanazok a gombok szerepelnek, mint az „Alapbevallás” oldalon.
+Kiléptetés A „Kiléptetés kezdeményezése” gombbal lehet a már elfogadott regisztrációval rendelkező adózókat kiléptetni az OSS-rendszerből.
+A nyomtatvány tetején egy lenyíló listából ki kell választani a kiléptetendő adózót (csak az elfogadott OSS-regisztrációval rendelkező, a felhasználó által képviselt adózók jelennek meg a listában), majd megadni a kilépés okát.
+Az egyes kilépési okokhoz tartozhatnak bizonyos további, kötelezően megadandó adatok (kilépés időpontja, másik tagállam stb.).
+Megtekintés/Szerkesztés Erre a gombra kattintva itt is két dolog történhet.
+Ha a táblázatban egy szerkesztés alatt lévő regisztráció van kijelölve, akkor a portál ezt a regisztrációt szerkesztésre fogja megnyitni.
+Ha már benyújtott, elfogadott, törölt státuszban van, akkor csak olvasásra nyitja meg a regisztrációt.
+Törlés A „Töröl” gomb csak akkor lesz aktív, ha a kurzor egy „szerkesztés alatt” státuszú soron áll.
+A gomb megnyomására egy ellenőrző kérdés jelenik meg, a rendszer csak ennek jóváhagyása után törli a tételt.
+Bevallások A bevallásokat negyedévenként – a negyedévet követő hónap utolsó napjáig (január, április, július, október) – kell benyújtani a „Bevallások/befizetések” menüpontban.
+Bevallások listája A már benyújtott bevallások a „Bevallások” modulban tekinthetők meg.
+A lista mindegyik oszlopa eszerint rendezhető, az „Azonosító”, „Cégnév” és „Referenciaszám” alapján pedig keresni is lehet.
+Egy lapon 10 tételt látunk, ha ennél több benyújtott bevallás van, akkor a további tételek másik lapra kerülnek, a lapok között az alsó navigációs gombokkal lehet váltani.
+Új bevallás benyújtásához az alul található „Új bevallás” gombra kell kattintani.
+A megjelenő ablakban ki kell választani az adózót, majd az időszakot.
+Elmentett, de még nem benyújtott bevallásokat a „Megtekintés/Szerkesztés” gombbal szerkeszteni, illetve a „Töröl” gombbal törölni lehet a listából.
+Nullás bevallás benyújtása Ha az adott negyedévben az adózó nem nyújtott szolgáltatást, és korábbi időszakra vonatkozóan sem kíván módosítással élni, akkor úgynevezett nullás bevallást kell benyújtania.
+Tehát az adózónak bevallási kötelezettsége van akkor is, ha végzett gazdasági tevékenységet.
+A nullás bevalláshoz be kell pipálni a „Nem nyújtottam szolgáltatást ebben a negyedévben, korábbi bevallási időszakok tekintetében módosítási igényem nem merült fel, nullás bevallást nyújtok be” négyzetet.
+Ekkor az alsó táblázatok inaktívvá válnak.
+A bevallást a „Mentés” gombbal el lehet menteni, és később folytatni lehet a szerkesztését, illetve a „Bevallás benyújtása” gombbal be lehet nyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben, és az a böngésző nyomtató funkciójával kinyomtatható.
+Bevallás benyújtása A bevallási adatlapon egy táblázat látható.
+Ebben lehet megadni az EU valamely tagállamába nyújtott szolgáltatásokat.
+A bevallást a „Mentés” gombbal el lehet menteni és később folytatni lehet a szerkesztését, illetve a „Bevallás benyújtása” gombbal be lehet nyújtani.
+A „Nyomtatás” gombbal nyomtatóbarát formában jelenik meg az ablak a böngészőben, és az a böngésző nyomtató funkciójával kinyomtatható.
+A táblázatba új tételeket a táblázat alján található „Új” gombbal lehet felvinni.
+A táblázatba rögzített tételek módosításához ki kell jelölni az adott sort, és a „Módosítás” gombra kell kattintani.
+A felvitt tételek törölhetők is.
+Ehhez ki kell jelölni a tételt, és a „Törlés” gombra kell kattintani.
+Nyújtott szolgáltatások: A táblázat alján található „Új” gombra kattintva egy kisebb ablak jelenik meg.
+Ebbe lehet rögzíteni a tételeket.
+Az ablakban a következő három adatot kell megadni: Ki kell választani azt a tagállamot, ahol a szolgáltatást igénybe vették („Fogyasztás tagállama”).
+Ki kell választani a szolgáltatásra vonatkozó adókulcsot („Tagállam adókulcsa”).
+Akkor jelenik meg több adókulcs ebben a listában, ha az adott tagállamban, az adott negyedévben több hatályos héakulcs létezett.
+Meg kell adni a nyújtott szolgáltatás nettó árát forintban kifejezve („Adóalap”).
+Egy tagállamra és egy adókulcsra csak egy szumma összeget lehet megadni.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Korábbi bevallási időszak módosítása (legfeljebb 3 év): A táblázat alján található „Új” gombra kattintva lehet rögzíteni a korábbi időszak módosítását.
+A megjelenő ablakban a következő három adatot kell megadni Ki kell választani a negyedévet.
+Ki kell választani azt a tagállamot, ahol a szolgáltatást igénybe vették („Fogyasztás tagállama”).
+Meg kell adni a helyesbítésből származó héa teljes összegét.
+A felvitt értékeket a „Mentés” gombbal lehet rögzíteni a táblázatba.
+Üzenetek megtekintése Az üzenetek az „Üzenetek” menüpontra kattintva érhetők el.
+Az üzeneteket kétféle nézetben lehet megtekinteni.
+Mindkét nézetben van lehetőség az üzenetek rendezésére, és szűrésére.
+A nem EU-s sémában az üzeneteket PDF-formátumban lehet letölteni.
+A rendszer jelzi azt is, hogy egy-egy üzenetet elolvastak-e már vagy sem.
+Az olvasatlan üzenetek számát a fenti menüpont után zárójelben meg is jeleníti a rendszer.
+Például három új üzenet esetén: Üzenetek (1) - azt jelenti, hogy egy olvasatlan üzenet van.
+Saját üzenetek A saját üzeneteknél a képviselőnek küldött üzenetek láthatók egy listában.
+Adózók üzenetei Az adózók üzenetei nézetben, egyetlen kiválasztott adózóhoz tartozó üzenetek látszódnak.
+Beállítások Jelszóváltoztatás Ebben a menüben lehet megváltoztatni a képviseleti fiók jelszavát.
+A jelszónak minimum 8 karakterből kell állnia, illetve tartalmaznia kell kis- és nagybetűket, valamint számokat.
+Kijelentkezés A „Kijelentkezés” gombbal az első belépési oldalra lehet visszajutni.
+Onnan újra be lehet lépni az EU-s, import- vagy nem EU-s sémába.
+HelpDesk A portállal kapcsolatban a következő e-mail-címen lehet további segítséget kérni, kérdéseket feltenni: ki.moss_help@nav.gov.hu [20/31]

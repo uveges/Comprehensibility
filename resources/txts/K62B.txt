@@ -1,0 +1,195 @@
+Vállalati szintű adatokat tartalmazó nemzetközi üzleti adatbázisok a transzferárazásban
+
+
+
+
+
+A vállalatközi ügyletek szokásos piaci árának meghatározásakor a hazai adójogszabályi kereteknek, valamint az OECD „Transzferár irányelvek a multinacionális vállalkozások és az adóhatóságok számára” (a továbbiakban: OECD TPG) című szakmai iránymutatásának megfelelően, bizonyos transzferárképzési módszereknél az összehasonlító független ügyletek meghatározásához nemzetközi üzleti adatbázisok alkalmazhatók. 
+
+
+
+A következőkben azokat a hazai és a nemzetközi gyakorlatban alkalmazott standard adatbázis-kutatási lépéseket mutatjuk be, amelyeket a Nemzeti Adó- és Vámhivatal (NAV) is követendőnek tart, ha a választott transzferár-képzési módszer miatt vállalati szintű beszámolóadatokat tartalmazó adatbázisokat kell használni. Természetesen ezek a standard lépések az egyes ügyekben kiegészíthetők. 
+
+
+
+
+
+1. Jogszabályi háttér
+
+
+
+A magyarországi jogszabályi környezetben az adatbázisok használatára a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló 32/2017. (X.18.) NGM-rendelet (a továbbiakban: NGM-rendelet) 4. § (7)-(8) bekezdései, valamint a 6. § d)-e) pontjai irányadóak és szigorúan betartandóak. Emellett minden esetben figyelemmel kell lenni az OECD TPG A. 4.3 fejezetében, a 3.29 – 3.34 pontokban foglaltakra is. 
+
+
+
+Az adómegállapításhoz való jog elévülési idején belül végzett ellenőrzéseknél, illetőleg a nemzetközi vitarendezési eljárásoknál fontos a korábban hatályban lévő 22/2009 (X.16.) PM-rendelet 7. § d)-e) pontjainak betartása is.
+
+
+
+
+
+2. A vállalati szintű adatokat tartalmazó üzleti adatbázisok és a transzferárazás kapcsolata
+
+
+
+Az NGM-rendelet 4. § (4) bekezdés e) pontja alapján a helyi dokumentumnak, amely a transzferár-nyilvántartás egyik eleme, az ellenőrzött ügylet kapcsolt vállalkozásainak részletes, összehasonlító és funkcionális elemzését kell tartalmaznia. Az összehasonlító elemzés része lehet – a szokásos piaci ármegállapítási módszer alapján – az adatbázis-kutatás.
+
+
+
+Általánosságban elmondható, hogy a kapcsolt tranzakciók összehasonlítása független ügyletekkel sokszor külső forrásból elérhető adatokat használ. Bizonyos transzferárképzési módszerek, így az ügyleti nettó nyereségen alapuló módszer, a TNMM meg is követeli a használatukat. Más módszereknél, például a költség-jövedelem módszernél, vagyis a CPM-nél, illetve a viszonteladási árak módszere, az RPM esetén is alkalmazható ilyen adat a szokásos piaci felár (mark-up), vagy a haszonkulcs meghatározásához. 
+
+
+
+A TNMM azt a megfelelő alapra, például a költségekre, árbevételre, eszközökre vetített nettó nyereséget vizsgálja, amelyet egy adóalany egy kapcsolt ügyleten realizál. Ezért a vállalati szintű adatokat tartalmazó adatbázisok használata indokolt.
+
+
+
+
+
+3. Standard kvantitatív adatbázis-kutatási lépések
+
+
+
+Az adatbázis-kutatás a kapcsolt vállalkozások közötti ügyletek árazásának vizsgálatakor kiemelt fontosságú terület, amely különös körültekintést igényel a vállalkozások és az adóhatóság részéről. Az összehasonlítás ez esetben a vizsgált kapcsolt ügylet és az azzal potenciálisan összehasonlíthatónak tekintett független ügyletek vizsgálatát jelenti. A keresési folyamat célja a lehető legjobban összehasonlítható entitások kiválasztása a szokásos piaci ár elvének is megfelelve. 
+
+
+
+A vállalati szintű adatokat tartalmazó üzleti adatbázisokban több standard lépés alkalmazása elvárt és indokolt. 
+
+
+
+a) földrajzi régió
+
+
+
+E lépésnél fontos, hogy a tesztelt fél piaci környezetével egyező, vagy ahhoz nagyon hasonló, vagyis hasonló makrogazdasági feltételű és adójogi rendszerű földrajzi területen működő, összehasonlítható független társaságokat válasszanak ki. A földrajzi régió meghatározásakor a tesztelt fél székhelye irányadó. Célszerű első körben az adott államban működő vállalatot kiválasztani, mivel ebben az esetben a piaci és adójogi körülmények megegyeznek.
+
+
+
+Ha nem található kellő számú hazai társaság, vagy egyáltalán nem azonosítható hazai cég, akkor a földrajzi feltételt bővíteni kell. Első körben a V4/V6 országokra, ezt követően a kelet-európai régió EU-s tagállamaira, majd a közép- és kelet-európai régióra. Ha ez sem elegendő, akkor az EU28 (vagy a brexit után az EU27 + Egyesült Királyság) tagállamaira. Ez indokolt esetben kiegészíthető az EFTA-államokkal (Izland, Liechtenstein, Norvégia és Svájc), legvégső esetben világszintre terjeszthető ki a kutatás.
+
+
+
+b) tevékenység
+
+
+
+A tevékenységi kör kiválasztásakor mindig olyan osztályozási rendszert kell alapul venni, amely nemzetközileg széles körben elfogadott és a gyakorlatban is alkalmazzák. Magyarországon a TEÁOR ’08 ágazati nómenklatúra az elfogadott, amelyet a NACE Rev. 2 besorolásból vezetnek le. A széles körben alkalmazott üzleti adatbázisok alapján a NACE Rev. 2 tevékenységi kódos kiválasztás végrehajtható.
+
+
+
+A tevékenységi kódok kiválasztásakor mindig figyelembe kell venni a tesztelt fél karakterizációját és a tranzakció jellemzőit. Az adott vállalatközi tevékenységet legjobban jellemző kód kiválasztására kell törekedni. Ha egy tevékenységet több ágazati kód is lefed, akkor célszerű mindegyik beemelése. Ez azért is fontos, mert így növelhető annak az esélye, hogy a találati halmazban nagyobb számban fordulnak elő potenciálisan összehasonlítható, független társaságok. 
+
+
+
+Arra is törekedni kell, hogy ha a transzferár elemzésekor az összevonhatóság, vagyis a különféle, de szorosan összefüggő résztevékenységek együttes értékelése indokolt, akkor a tevékenységi kör meghatározásakor mindegyik összevonható tevékenységet figyelembe kell venni. Úgy kell megválasztani az ágazati kódokat, hogy azok lefedjék az összevonható tevékenységek körét. Erre azért is szükség van, hogy az eltérő tevékenységek eltérő jövedelmezőségi szintjeinek a hatása érvényesüljön a végső benchmarkból számított szokásos piaci jövedelmezőségi tartományban.
+
+
+
+c) függetlenség
+
+
+
+A függetlenségi kritérium lényege, hogy ha nincs belső összehasonlító adat, akkor biztosan független piaci szereplők adatait kell használni a kutatáshoz. A NAV gyakorlata alapján egy társaságban egy tulajdonos legfeljebb 50 százalékos részesedéssel rendelkezhet, a társaság tulajdonosi hányada leányvállalatában pedig nem lehet több 50 százaléknál. A keresésben azok a vállalatok is szerepelnek, amelyeknek nincsenek leányvállalatai. Ha ez a feltétel alacsony találati számot eredményez, akkor a keresés kiterjeszthető az ismeretlen függetlenségű vállalatokra is. A kvalitatív elemzés során azonban kellő körültekintéssel kell eljárni és meg kell győződni arról, hogy ezek a cégek megfelelnek-e a függetlenségi feltételeknek.
+
+
+
+d) pénzügyi kritériumok
+
+
+
+Ebben a lépésben ki kell választani azokat a pénzügyi adatokat, amelyek a tevékenységet legjobban jellemző jövedelmezőségi mutató, vagyis a PLI, a Profit Level Indicator számításához szükségesek. A benchmarkelemzés végén ezekből az adatokból meghatározzák a szokásos piaci árat vagy jövedelmezőségi szintet. A pénzügyi adatok kiválasztása többlépcsős folyamat, az adatbázis kutatásokban több egymást követő keresési lépést is el kell végezni.
+
+
+
+A találati halmaz pontosításához először úgy kell beállítani a keresési feltételeket, hogy a választott PLI számításához szükséges adatok rendelkezésre álljanak az elemzést érintő üzleti évekre. A hazai és a nemzetközi gyakorlat is általában minimum három egymást követő, a vizsgált időszakhoz a lehető legközelebb álló üzleti év pénzügyi adatait veszi figyelembe. Egyes esetekben a vizsgált időszak lehet hosszabb is, ezt azonban indokolni kell. Az időzítésnél minden esetben figyelembe kell venni az OECD TPG 3.75 – 3.79. pontjaiban foglaltakat is. Törekedni kell a tartósan veszteséges vállalatok kizárására – ez a hazai gyakorlatban három évből két egymást követő évben negatív eredményt jelent – és az adatok elérhetőségére. Fontos, hogy az adatbázis-kutatáskor mindig az adatbázis legfrissebb elérhető verzióját kell használni.
+
+
+
+e) aktív (működő) vállalatok
+
+
+
+A legtöbb alkalmazott üzleti adatbázis a keresési feltételek megadásakor automatikusan alkalmazza a társaságok aktivitására vonatkozó kritériumot. Ha ez a lépés nem kerül be automatikusan a keresésbe, akkor mindig kötelező megadni. Szoros összefüggésben az előző ponttal, csak és kizárólag az aktív, azaz működő vállalatok kerülhetnek be az összehasonlítható független társaságok körébe. 
+
+
+
+Ha ez a feltétel alacsony találati számot eredményez, akkor a keresést ki lehet terjeszteni az ismeretlen státusú entitásokra is. Ilyenkor azonban a kvalitatív (manuális) elemzéskor kellő körültekintéssel kell meggyőződni arról, hogy a társaság valóban működik-e. A működésre vonatkozó tényt minden esetben dokumentálni kell, különösen az ismeretlen státusú cégeknél. Ennek legegyszerűbb módja az interneten elérhető információk lementése.
+
+
+
+
+
+4. Addicionális lépések gazdasági válság esetén
+
+
+
+Annak eldöntésére, hogy szükség van-e gazdasági válság esetén eltérő megoldásokra a transzferár helyes meghatározásához, mindig szükséges az iparág megismerése, az összehasonlító elemzés, azon belül a részletes funkcionális elemzés. Mivel a különböző iparágakat és azon belül is az egyes vállalatokat eltérően érintheti egy esetleges gazdasági válság, ezért a vállalkozásoknak és szakembereknek vizsgálniuk és indokolniuk kell, hogyan hat ez a vállalkozásokra, hat-e egyáltalán.
+
+
+
+Ha kifejezetten a COVID-19 pandémia hatásainak vizsgálata szükséges, hasznos az OECD által közzétett a „COVID-19 pandémia transzferár-következményeiről szóló iránymutatás” (a továbbiakban: Iránymutatás) című dokumentum és a NAV honlapján közzétett gyakran ismételt kérdések és válaszok bejegyzés áttekintése. 
+
+
+
+Az Iránymutatással kapcsolatban néhány megjegyzés szükséges. A dokumentum I. fejezetének 6. pontja alapján a pandémia okozta gazdasági válság nem összehasonlítható a 2008-as válság adataival. Az Iránymutatás egész koncepciójában megfigyelhető, hogy a földrajzi kritérium körültekintő megválasztása kiemelt fontosságú. Ennek megfelelően, ha az összehasonlító kutatásban egy Magyarországon tevékenykedő vállalatot választanak tesztelt félnek, akkor indokolt földrajzi kritériumként Magyarország kiválasztása. Ez összhangban áll a NAV eddigi gyakorlatával is, ebben a pandémia nem okoz jelentős változást.
+
+
+
+
+
+5. A kvalitatív kutatás lépései
+
+
+
+A 2. pontban részletezett standard kvantitatív adatbázis-kutatási lépések találati halmaza önmagában nem alkalmazható a szokásos piaci jövedelmezőségi szint meghatározásához. A pontosítások és a lehető legmegbízhatóbb, összehasonlítható adathalmaz előállításához szükséges a kvalitatív, vagy más néven minőségi kutatás. Az alábbi kritériumokkal kell elvégezni az elemzést.
+
+
+
+Függetlenség
+
+
+
+Az adatbázisokból meghatározható a társaságok függetlenségi jellemzője, de figyelembe kell venni, hogy ezek az információk csak bizonyos időközönként frissülnek. Ezért előfordulhatnak olyan esetek, hogy összehasonlíthatónak ítélt társaságok időközben csoporttaggá váltak, és a további elemzésből ki kell zárni őket. Az ilyen kutatásban szintén segítséget nyújtanak a társaságok weboldalai és más internetes források.
+
+
+
+Tevékenységelemzés
+
+
+
+A tevékenység elemzésekor át kell tekinteni az adott társaságok weblapját, és más internetes forrásokat is azért, hogy eldönthető legyen, a kapcsolt tranzakcióval valóban összehasonlítható tevékenységet végeznek-e. Fontos annak az elemzése is, hogy a szóban forgó társaságok valóban olyan termékeket gyártanak, vagy szolgáltatásokat nyújtanak, mint az ellenőrzött vállalkozások, ugyanis a termékek és szolgáltatások jellemzői alapvetően befolyásolják az árat és a jövedelmezőségi szintet.
+
+
+
+Pénzügyi adatok, profitabilitás
+
+
+
+Mindenképpen ellenőrizni kell, hogy a társaságok az összehasonlításba bevont üzleti években rendelkeznek-e a mutatószám, a PLI kalkulálásához szükséges adatokkal. Továbbá vizsgálni kell, hogy nem áll-e fenn a tartós veszteség. Ha e két feltétel bármelyikének nem felelnek meg a cégek, akkor ezeket az összehasonlításból ki kell zárni.
+
+
+
+
+
+6. A kvalitatív kutatás eredménye
+
+
+
+A kvalitatív elemzéskor a fenti feltételekkel kell létrehozni az úgynevezett elutasítási mátrixot, amely tartalmazza az összehasonlító elemzésből kizárt entitásokat, és a végleges benchmarkot is.
+
+
+
+Előfordulhat, hogy a karakterizációnak nem teljesen megfelelő, független társaságokat lehet azonosítani. Ilyen például, ha a kapcsolt társaság bérgyártó, de az adott szektorban csak teljes kockázatú, független feleket lehet találni. Ilyenkor szükséges a független vállalatok jövedelmezőségi adatain módosítani, ez az esetek többségében a működőtőke, költség vagy árbevétel korrekciója lehet. Az ilyen helyzetekben nagy körültekintéssel kell eljárni, ugyanis a helytelen korrekciók alkalmazása torz eredményre vezethet. 
+
+
+
+7. Az adatbázisszűrés módosítása
+
+
+
+Az NGM-rendelet 4. § (12) bekezdése alapján az adatbázisszűrés, az annak megfelelő transzferár-nyilvántartás és a megállapított vagy a meg nem állapított, elmulasztott adó esetében az adózó önellenőrzéssel élhet az adóellenőrzés megkezdéséig.
+
+
+
+2

@@ -1,0 +1,7 @@
+A nav.gov.hu honlapján szeretnénk a „Fontos” információk között megjelentetni a következő szöveget:
+
+2021. október 1-től az Általános Nyomtatványkitöltő Keretprogram (ÁNYK) v3.7.0-ás vagy régebbi verziójában a nyomtatványbeküldés funkciók nem lesznek elérhetők a Biztonságos Kézbesítési Szolgáltatáshoz kapcsolódó cím változása miatt.
+
+
+
+A zavartalan nyomtatványbeküldéshez kérjük, töltse le az ÁNYK legfrissebb, v3.8.0-ás verzióját!

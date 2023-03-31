@@ -1,0 +1,77 @@
+Tudjon róla! Segíthet!
+
+
+
+Adólevonás adószámos magánszemélyek bevételei után 
+
+
+
+
+
+Vállalkozási szerződések, illetve megbízási ügyletek adóhatósági ellenőrzése mutatott rá, hogy az adószámmal rendelkező magánszemélyek sokszor elmulasztják teljesíteni adókötelezettségüket a kifizetett összegek után.
+
+
+
+A magánszemély önálló tevékenységből származó bevételei, jövedelmei után különféle minőségben is teljesítheti adókötelezettségét. 
+
+Megbízási vagy felhasználói szerződés alapján megszerzett jövedeleméből
+
+egyéni vállalkozóként vagy 
+
+adószámos magánszemélyként is adózhat. 
+
+
+
+A jövedelmet ez utóbbi esetben a személyi jövedelemadóról szóló törvény alapján az összevont adóalapba kell beszámítani, ennek adóterhe pedig 15  százalék.
+
+
+
+A legkedvezőbb vállalkozási forma megtalálásához fontos a kapcsolódó szabályok ismerete. Számos előírással kell tisztában lenni, többek között azzal, hogy 
+
+az összevont adóalapba tartozó jövedelem után év közben adóelőleget kell fizetni, de tudni kell azt is, hogy 
+
+annak megállapítására, levonására, megfizetésére ki a kötelezett.
+
+
+
+Az adóelőleget megállapítani és megfizetni az önálló tevékenységet folytató magánszemélynek akkor kell, ha a bevétel nem kifizetőtől, hanem például magánszemélytől vagy a magyarországi szabályok szerint nem kifizető jogalanytól származik. Az adóelőleget ilyenkor negyedévente, a negyedévet követő hónap 12-éig kell megfizetnie. Nem kell azonban adóelőleget fizetni akkor, ha az adóköteles jövedelem olyan külföldi államból származik, amellyel Magyarországnak nincs a kettős adóztatás elkerülésére egyezménye.
+
+
+
+Ha a magánszemély összevont adóalapba tartozó bevétele kifizetőtől származik, az adóelőleget, fő szabály szerint, a kifizetőnek kell megállapítani és levonni akkor is, ha a kifizetés számla alapján történik. 
+
+A kifizető az adóelőleg alapjául szolgáló jövedelmet a magánszemély költségnyilatkozata szerint állapítja meg. A kifizetőnek tehát – az szja-előleg levonásához és a szocho-kötelezettség teljesítéséhez – tisztában kell lennie azzal, hogy a kifizetést adószámos magánszemélynek vagy egyéni vállalkozónak teljesíti. 
+
+
+
+Ha a kifizetés nem a jogszabályi előírások alapján történt, az elmaradt kötelezettségek az önellenőrzés szabályai szerint rendezhetők a szankciók megfizetésével. A kifizetőnek a feltárt hibát nyilvántartásba kell vennie, értesítenie kell a magánszemélyt, továbbá az szja-törvény szerint 15 napon belül bejelentést kell tennie a NAV-nak az adóazonosító szám feltüntetésével a „Bejelentés az adó- és járulékkülönbözet elszámolásáról” elnevezésű AJK jelű nyomtatványon az adókülönbözet összegéről, a kifizetés jogcíméről, valamint a kifizetésről szóló igazolás kiállításának időpontjáról. 
+
+
+
+A szabályszerű adóelőleg-nyilatkozat és a valós adatok feltüntetése nemcsak a kifizető, hanem a magánszemély érdeke is. Ha ugyanis a nyilatkozaton feltüntetett költség több mint 5 százalékkal meghaladja az adóbevallásában elszámolt igazolt költséget, akkor a magánszemélynek a költségkülönbözet 39 százalékát különbözeti bírságként kell az adóbevallásában feltüntetni és személyi jövedelemadóként megfizetni. 
+
+
+
+Ha a költségkülönbözet miatt év végén 10 ezer forintot meghaladó befizetési különbözete lesz a magánszemélynek, akkor a különbözet után további 12 százalék különbözeti bírságot kell bevallania és az adóbevallás benyújtására előírt határidőig személyi jövedelemadóként megfizetnie.
+
+
+
+A témában a NAV honlapján a következő információk érhetők el: 
+
+Az Önálló tevékenységből származó jövedelem és adózása című 2. számú információs füzet,
+
+A szociális hozzájárulási adó című 49. számú információs füzet,
+
+az Önellenőrzés című 23. számú információs füzet,
+
+az adóelőleg-nyilatkozatokhoz javasolt nyomtatványminták (
+
+http://nav.gov.hu/nav/ado/szja/Adoeloleg_nyilatkozat20181227.html), valamint 
+
+a kedvezmények igénybevételéhez szükséges adóelőleg-nyilatkozatok elkészítését
+
+ segítő alkalmazás (http://www.nav.gov.hu/anya).
+
+ Az adóelőleg-nyilatkozatok a legegyszerűbben az Online Nyomtatványkitöltő Alkalmazás
+
+ (https://onya.nav.gov.hu/#!/login) erre szolgáló menüpontjának használatával nyújthatók be.

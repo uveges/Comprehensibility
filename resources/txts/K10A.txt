@@ -1,0 +1,205 @@
+
+Tárgy: Határozat kizárási kérelemhez kapcsolódóan - OSS
+
+Ügyfél: <ügyfél (közvetítő) neve>
+Regisztrációs kérelem benyújtásának napja: <éééé.hh.nn.>
+Regisztrációs kérelem iktatószáma: <KÉRELEM BÁRKÓD>
+
+
+
+                              H A T Á R O Z A T
+<ügyfél neve> a
+
+ha közvetítő jár el
+      - közvetítőként eljáró - <közvetítő neve neve> útján
+
+<kérelem  benyújtásának  napja>  napján  benyújtott  <kérelem   iktatószáma>
+iktatószámú, Közösségi Egyablakos Rendszer (OSS)
+
+
+OSS regisztrációs kérelem – uniós séma
+      uniós sémájából
+
+OSS regisztrációs kérelem – nem uniós séma
+      nem uniós sémájából
+
+
+OSS regisztrációs kérelem – IOSS közvetítői regisztráció
+      importsémájából közvetítőként
+
+
+OSS regisztrációs kérelem – IOSS adózói regisztráció
+      importsémájából adózóként
+
+történő kizárás iránti kérelmének
+
+                                 helyt adok.
+
+                              I N D O K O L Á S
+
+A kizárás indokaként az adózó az  alábbi  –  az  általános  forgalmi  adóról
+szóló  2007.  évi   CXXVII.   törvényben   (a   továbbiakban:   Áfa-tv.)   –
+meghatározott okot jelölte meg:
+
+OSS uniós séma esetén
+
+Az állami adó- és vámhatóság az Áfa-tv. 253/J. § (6)  bekezdése  alapján  az
+uniós    különös    szabályozást    alkalmazó     adóalanyokra     vonatkozó
+nyilvántartásból törli azt az adóalanyt:
+
+[SZABADON GÉPELHETŐ RÉSZ, A NEM KÍVÁNT OK(OK) TÖRLENDŐ(K)
+
+    - aki (amely)  ezen  különös  szabályozás  hatálya  alá  tartozó  termék
+      Közösségen belüli távértékesítését és szolgáltatás nyújtását befejezte
+      [(6) bekezdés a) pont]
+    - aki (amely) nem  kívánja  a  továbbiakban  ezen  különös  szabályozást
+      alkalmazni [(6) bekezdés e) pont.]]
+    - ha az adóalany azonosítószámot igényelt egy másik, azonosítót kiadó
+      tagállamban (csak közvetítő nélkül eljáró adózó esetén)].
+
+
+
+
+
+OSS nem uniós séma esetén
+
+Az állami adó- és vámhatóság az Áfa-tv. 253/E. §  (5)  bekezdése  alapján  a
+nem   uniós   különös   szabályozást   alkalmazó   adóalanyokra    vonatkozó
+nyilvántartásból törli azt az adóalanyt:
+
+[SZABADON GÉPELHETŐ RÉSZ, A NEM KÍVÁNT OK(OK) TÖRLENDŐ(K)
+
+    -  az  adóalany   ezen   különös   szabályozás   hatálya   alá   tartozó
+      szolgáltatásnyújtását befejezte [(5) bekezdés a) pont]
+    -  az  adóalany  nem  kívánja  a  továbbiakban  a  különös  szabályozást
+      alkalmazni [(5) bekezdés e) pont.]]
+    - ha az adóalany azonosítószámot igényelt egy másik, azonosítót kiadó
+      tagállamban (csak közvetítő nélkül eljáró adózó esetén).
+
+IOSS adózói regisztráció esetén
+
+Az állami adó- és vámhatóság az Áfa-tv.  253/T.  §  (10)  bekezdése  alapján
+törli  az  import  különös  szabályozás  hatálya  alatt  álló   adóalanyokra
+vonatkozó nyilvántartásából a közvetítő nélkül eljáró adóalanyt,
+
+[SZABADON GÉPELHETŐ RÉSZ, A NEM KÍVÁNT OK(OK) TÖRLENDŐ(K)
+
+    - aki (amely) ezen különös  szabályozás  hatálya  alá  tartozó  harmadik
+      államból importált termék távértékesítését befejezte [(10) bekezdés a)
+      pont]
+    -  aki  (amely)  nem  kívánja  a  továbbiakban  e  különös  szabályozást
+      alkalmazni [(10) bekezdés e) pont]]
+    - ha az adóalany azonosítószámot igényelt egy másik, azonosítót kiadó
+      tagállamban (csak közvetítő nélkül eljáró adózó esetén).
+    - ha a közvetítő jelezte, hogy már nem képviseli az adóalanyt.]
+
+IOSS közvetítői regisztráció esetén
+
+Az állami adó- és vámhatóság az Áfa-tv.  253/T.  §  (11)  bekezdése  alapján
+törli azon közvetítő részére megállapított közvetítői azonosító számot,
+
+[SZABADON GÉPELHETŐ RÉSZ, A NEM KÍVÁNT OK(OK) TÖRLENDŐ(K)
+
+    - aki (amely) nem felel meg a közvetítőként történő eljáráshoz szükséges
+      feltételeknek (a pénzügyi képviselet  feltételei)  [(11)  bekezdés  b)
+      pont]
+    - aki (amely) a  továbbiakban  nem  kíván  közvetítőként  eljárni  [(11)
+      bekezdés d) pont]
+    - ha a közvetítő azonosító számot igényelt egy másik, azonosítót kiadó
+      tagállamban.]
+
+Kérelmét megvizsgáltam, és megállapítottam, hogy  a  kizárásnak  jogszabályi
+akadálya nem merült fel, így a kérelmében foglaltaknak helyt adtam.
+
+A fentiekre tekintettel az adózót a Közösségi Egyablakos Rendszer
+
+OSS uniós séma regisztráció esetén
+      uniós sémájából
+
+OSS nem uniós séma regisztráció esetén
+      nem uniós sémájából
+
+IOSS adózói regisztráció esetén
+      importsémájából adózóként
+
+kizártam.
+
+A kizárás hatálya: <éééé.hh.nn.>
+
+IOSS közvetítői regisztráció esetén
+
+Kérelmét megvizsgáltam, és megállapítottam, hogy  a  kizárásnak  jogszabályi
+akadálya nem merült fel, így a kérelmében foglaltaknak helyt adtam.
+
+A  fentiekre  tekintettel  a  közvetítőt  a  Közösségi  Egyablakos  Rendszer
+importsémájából közvetítőként kizártam.
+
+A kizárás hatálya (a jelen  határozat  és  a  közvetítőhöz  kapcsolt  adózói
+kizárásokat  elrendelő  határozatok  közlésének  napját  követő  hónap  első
+napja, a közvetítő székhely/állandó telephely  változás  esetén  a  változás
+dátuma): <éééé.hh.nn.>
+
+Tájékoztatom továbbá, hogy kizárási kérelmének  elfogadásával  az  Ön  által
+közvetítőként képviselt ügyfelek kizárása érdekében intézkedem,  melyről  az
+érintett ügyfeleket értesítem.
+
+Kapcsolattartás:
+
+Tájékoztatom, hogy az  adóigazgatási  rendtartásról  szóló  2017.  évi  CLI.
+törvény (a továbbiakban: Air.) 79.  §  (3)  bekezdése  szerint  elektronikus
+kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4)  bekezdését  kell
+alkalmazni.  Az  elektronikus  ügyintézés  és   a   bizalmi   szolgáltatások
+általános szabályairól szóló 2015.  CCXXII.  törvény  (Eüsztv.)  14.  §  (4)
+bekezdése és 15. §  (1)-(6)  bekezdése  szerint  a  hivatalos  elérhetőségre
+kézbesített küldemény kézbesítettnek minősül,
+a) ha a hivatalos elérhetőséget biztosító  szolgáltató  a  küldemény  ügyfél
+által  történő  átvételét  igazolja  vissza,  az  igazolásban   feltüntetett
+időpontban,
+b) ha a hivatalos elérhetőséget biztosító szolgáltató azt  igazolja  vissza,
+hogy a küldemény átvételét a címzett megtagadta,  a  megtagadásra  vonatkozó
+igazolásban feltüntetett időpontban, vagy
+c) ha a hivatalos elérhetőséget biztosító szolgáltató azt  igazolja  vissza,
+hogy a küldeményt a címzett kétszeri értesítése ellenére  nem  vette  át,  a
+második  értesítés  igazolásban  feltüntetett   időpontját   követő   ötödik
+munkanapon.
+
+Ügyintézési határidő
+
+Az  adóigazgatási  rendtartásról   szóló   2017.   évi   CLI.   törvény   (a
+továbbiakban: Air.) 50. § - 52. § -ai figyelembevételével az Air. 73. §  (1)
+bekezdése szerinti ügyintézési határidő leteltének a napja: dátum.
+
+[SZABADON GÉPELHETŐ RÉSZ,  JOGSZABÁLYI  HIVATKOZÁSOK  AZ  AIR  72-73.  §-AIN
+TÚLMENŐEN
+
+Jogszb_hivatkozás
+
+Határozatom meghozatalakor a hivatkozott  jogszabályokon  túl,  Air.  72.  §
+-73. §-ai alapján jártam el.
+
+hkor_illetekesseg
+
+Az eljáró adó- és vámhatóság hatáskörét az Air. 25. § (1)  bekezdése  és  az
+adóigazgatási eljárás részletes szabályairól szóló  Korm.  rend.  1.  §  (1)
+bekezdése, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. tv.  4.  §
+(2)  bekezdése  és  12.  §-a,  a  Nemzeti  Adó-  és  Vámhivatal   szerveinek
+hatásköréről és illetékességéről szóló 485/2015. (XII. 29.)  Korm.  rendelet
+1. §, 12. §, 18. §, 57. §, 65. §, 68. § és 79. § - 80.§ alapján  gyakorolja,
+illetékességét a 2. §, 16. §, 22. § - 27. §, továbbá az 1. számú  melléklete
+B) részének 3. és 7. pontjai alapozzák meg.
+
+[A döntéshozatal helye és dátuma]
+                               [igazgató neve]
+                                  igazgató
+                           (a hatáskör gyakorlója)
+
+                      [a döntés kiadmányozójának neve]
+               [a döntés kiadmányozójának hivatali beosztása]
+
+
+A határozatról értesülnek:
+   1. a címzett,
+
+   2. az irattár
+
+

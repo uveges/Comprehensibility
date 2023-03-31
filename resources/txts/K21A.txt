@@ -1,0 +1,29 @@
+Tájékoztatás a háztartási alkalmazott bejelentésekor fizetendő regisztrációs díj megváltozott kezeléséről
+
+
+
+
+
+2021. július 1-jétől a háztartási munkaviszony bejelentésekor keletkező kötelezettséget, annak megfizetésének elmaradása esetén adótartozásként, míg a kötelezettségen felüli befizetést túlfizetésként kezeli a NAV. Ez kihatással van minden olyan eljárásra, ahol az adott döntést/igazolást az adótartozás összegének figyelembe vételével szükséges meghozni (pl. késedelmi pótlék felszámítás, adóigazolás kiadás, köztartozás visszatartás, végrehajtás alá vonás).
+
+2021. július 1-től a 2117-es számú Átvezetési és kiutalási kérelem nyomtatványon is szerepelni fog a 302-es adónem, így:
+
+- az adónemen mutatkozó túlfizetés kérelemre kiutalható vagy átvezethető másik adónem javára, illetve
+
+- másik adónemen megjelenő túlfizetés is átvezethető a 302-es adónemre.
+
+Sok családnak jelent segítséget, ha talál egy olyan személyt, aki besegít a háztartással kapcsolatos munkákba. Ebben a jogviszonyban két feltétel teljesítésével (a munkavégzés megkezdése előtti bejelentéssel és díjfizetéssel) például a takarítónőnek vagy a házi tanítónak fizetett munkabért nem terheli egyéb adó- és járulék, csupán a háztartási alkalmazottak és foglalkoztatóik kötelező regisztrációjáért fizetendő 1.000,- Ft regisztrációs díj.
+
+
+
+Az előírt és befizetett regisztrációs díjakat a Nemzeti Adó- és Vámhivatal (NAV) a 302-es adónemen a többi adónemtől elkülönítetten tartotta nyilván. 2021. július 1-től az adónem egyenlege – ügyfélkapus bejelentkezés után – elektronikusan lekérdezheti az eBEV-portálon (https://ebev.nav.gov.hu/). Ehhez a portál Szolgáltatások menüpontjában az Adószámla- és pótlékadatok szolgáltatás Adószámla funkcióját kell kiválasztania. A lekérdezésben segít a NAV honlapján elérhető lekérdezési útmutató.
+
+
+
+
+
+
+
+
+
+Az adónem tulajdonságainak módosítását a Bevallási és Folyószámla-felügyeleti Főosztály és az Informatikai Intézet elvégezte, 2021. július 1-től adók módjára kezelhető és az adózók számára közvetlenül elérhető.

@@ -1,0 +1,176 @@
+Készült: 2021.07.15.
+
+Regisztrált Exportőri Rendszer
+
+Általános bemutatás
+
+A regisztrált exportőri rendszer (továbbiakban REX-rendszer) az áruk származásának igazolására szolgáló jogintézmény, mely egyaránt alkalmazandó az Európai Unió Általános Preferenciarendszere (továbbiakban GSP) valamint az Európai Unió által kötött szabadkereskedelmi megállapodások keretében. A REX-rendszer alatt az alábbi két elem összességét értjük:
+
+származás igazolásának rendszere (eljárási- és keretszabályok);
+
+informatikai rendszer (regisztrált exportőri adatbázis).
+
+A REX-rendszer alapelve a gazdálkodói öntanúsítás, mely a gazdálkodó által kiállított származási igazolással (származásmegjelölő nyilatkozat vagy származási nyilatkozat) valósul meg. Az öntanúsításnak, azaz a származási igazolás kiállításának feltétele az illetékes hatóság által végzett nyilvántartásba vétel, mely nyilvántartásba vétellel a gazdálkodó regisztrált exportőrré válik.
+
+A REX-rendszer gondolata és szabályai 2011. január 1-jétől az időközben hatályát vesztett Közösségi Vámkódexnek is a részét képezték már, azonban a GSP kedvezményezett országok számára biztosított felkészülési időre is tekintettel tényleges alkalmazására 2017. január 1-je óta van lehetőség. 
+
+A REX-rendszer alkalmazását megelőző 6 év során történt egy jelentős változás a szabályokban. Az Uniós Vámkódex 2016. május 1-jei hatályba lépésével a REX-rendszer meghatározott szabályai értelemszerűen alkalmazandóak az Európai Unió által harmadik országgal kötött szabadkereskedelmi megállapodások keretében is, amennyiben erről az adott megállapodás a megfelelő rendelkezést tartalmazza. 
+
+Regisztrált exportőr
+
+A „regisztrált exportőr” fogalmát az uniós vámjog jelenleg az alábbiak szerint határozza meg:
+
+a) kedvezményezett országban letelepedett olyan exportőr, amelyet az adott kedvezményezett ország illetékes hatóságai nyilvántartásba vettek termékeknek a rendszer keretein belüli, akár az Unióba, akár más olyan kedvezményezett országba történő exportálása céljából, amellyel fennáll a regionális kumuláció lehetősége; vagy
+
+b) valamely tagállamban letelepedett olyan exportőr, amelyet az adott tagállam vámhatóságai nyilvántartásba vettek az Unióból származó termékek olyan országba vagy területre történő exportálása céljából, amellyel az Unió preferenciális kereskedelmi megállapodást kötött; vagy
+
+c) valamely tagállamban letelepedett olyan továbbküldő, amelyet az adott tagállam vámhatóságai helyettesítő származásmegjelölő nyilatkozatok kiállítása céljából nyilvántartásba vettek a származó termékeknek az Unió vámterületén belül máshová, vagy adott esetben Norvégiába vagy Svájcba történő továbbszállításával összefüggésben („regisztrált továbbküldő”);
+
+REX-rendszer a GSP keretében
+
+Fontos leszögezni azt, hogy a REX-rendszer a GSP keretében alkalmazott származási szabályokat nem változtatta meg, azokra nincs hatása, mindösszesen a származás igazolásának módjában jelent változást.
+
+Regisztráció a kedvezményezett országokban
+
+A REX-rendszer 2017. január 1-jei indulásával újabb átmeneti időszak vette kezdetét, mely 2020. június 30-ig tartott. Ezen átmeneti időszak során a REX-rendszert használó GSP kedvezményezett országoknak főszabály szerint 1 évük volt a gazdálkodóik regisztrálására, mely időtartam alatt a még nem regisztrált gazdálkodóik számára adhattak ki FORM A származási bizonyítványt.
+
+Azon kedvezményezett országok listáját, melyek ténylegesen alkalmazzák a REX-rendszert, az Európai Bizottság tartja naprakészen. A lista az Európai Bizottság angol, német, vagy francia nyelvű honlapján, az alábbi helyen érhető el:
+
+https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/rules-origin/general-aspects-preferential-origin/arrangements-list/generalised-system-preferences/the_register_exporter_system_en
+
+2021. január 1-je óta FORM A származási bizonyítványt kiadni nem lehet.
+
+A REX-rendszer bevezetését követő időszak tapasztalatai alapján figyelemmel kell lenni továbbá arra is, hogy egyes, a REX-rendszer alkalmazására kötelezett kedvezményezett harmadik országok továbbra sem regisztrálták a gazdálkodóikat, sőt, bizonyos esetekben a szükséges kötelezettségvállalások megtétele is elmaradt. Ezen országok gazdálkodói által kiállított származási igazolások így nem elfogadhatóak. Az érintett országok megismerhetőek az Európai Bizottság fenti honlapján szereplő táblázatból.
+
+Regisztráció az Európai Unióban
+
+Bizonyos termelési vagy logisztikai indokok mentén az alábbi esetekben a GSP keretében is szükségessé válhat egyes uniós gazdálkodók regisztrált exportőri nyilvántartásba vétele. 
+
+Amennyiben egy termelési lánc úgy épül fel, hogy annak egyik állomása egy GSP kedvezményezett országban van, ahová az unióból kiszállítanak anyagokat, majd feldolgozást, megmunkálást követően azt visszaszállítják az EU vámterületére, a GSP kedvezményezett országban kiállított származási igazolás alátámasztó okmányaként szükség van az unióból kiszállított áruk uniós származásának igazolására. Ezt a származási igazolást 2017. január 1-jétől az uniós regisztrált exportőr állíthatja ki, származásmegjelölő nyilatkozat formájában. 
+
+A kumulációs célú – fent említett – ügyleteket leszámítva a GSP kedvezményezett országokba irányuló kiviteleik során az uniós exportőröknek nem szükséges a REX-rendszert használniuk.
+
+Amennyiben GSP kedvezményezett országból származásmegjelölő nyilatkozattal érkezett szállítmány egy részét (vagy egészét) logisztikai, vagy más okokból az Unió vámterületén belül máshova (továbbá Norvégiába, vagy Svájcba) kívánják továbbszállítani akkor helyettesítő származásmegjelölő nyilatkozatot lehet kiállítani. Amennyiben a megbontandó szállítmányban lévő származó termékek értéke eléri a 6 000 euró értéket, akkor főszabály szerint az úgynevezett regisztrált továbbküldő állíthatja ki a helyettesítő származásmegjelölő nyilatkozatot a megbontott szállítmány(ok)ban levő árukra. 
+
+A Norvégiába, vagy Svájcba továbbküldésre kerülő áruk tekintetében kizárólag a regisztrált továbbküldő jogosult helyettesítő származásmegjelölő nyilatkozatot kiállítani.
+
+REX-rendszer a kétoldalú megállapodásokban 
+
+(pl.: EU-UK, EU-Kanada; EU-Japán; EU-Vietnám)
+
+Az Európai Unió számos harmadik országgal folytat tárgyalást szabadkereskedelmi megállapodás megkötése érdekében (pl.: Fülöp-szigetek, Indonézia, Mercosur államok, stb.) és a már létrejött megállapodások, egyezmények felülvizsgálata, korszerűsítése is napirenden van (pl.: Pán-euromediterrán Regionális Konvenció, Mexikó, stb.). 
+
+A REX-rendszer Uniós Vámkódex hatályba lépésével végbement változtatását követően az Európai Unió a származás igazolására szolgáló eszköznek a REX-rendszert tekinti, így az új megállapodások esetében már főszabály szerint azt kell alkalmazniuk az uniós exportőröknek. 
+
+2021. január 1-jei állapot szerint az alábbi országokkal létesített kétoldalú megállapodások keretében kell az uniós exportőröknek a REX-rendszert alkalmazniuk:
+
+Egyesült Királyság
+
+Japán
+
+Kanada
+
+Vietnám
+
+Kelet- és dél-afrikai országok (ESA)
+
+Elefántcsontpart
+
+Ghána
+
+Fentiekből következően a több mint 6 000 EUR származó terméket tartalmazó szállítmányok uniós exportőreinek kérniük kell a REX-rendszerbe történő nyilvántartásba vételüket.
+
+Regisztráció a harmadik országokban
+
+Az Európai Unió és egy harmadik ország/ország-csoport között kötött preferenciális megállapodás megfelelő rendelkezései alapján kétoldalú preferenciák esetében is megvan a lehetőség arra, hogy harmadik országok az Európai Unió által karbantartott REX-rendszerben regisztrálják exportőreiket. 
+
+A jelenleg ismert, a REX-rendszer használatát eredményező fent felsorolt megállapodások szövegei alapján ugyanakkor kizárólag az Európai Unió exportőrei számára írták elő a REX-rendszer használatát.
+
+Regisztráció az Európai Unióban
+
+Az uniós vámjog rendelkezése szerint, amennyiben az Unió olyan preferenciális megállapodást kötött, melynek értelmében az exportőrnek a vonatkozó uniós jogszabályokkal összhangban származásra vonatkozó okmányt kell kitöltenie, ilyen okmányt csak valamely tagállam vámhatóságai által e célból regisztrált exportőr tölthet ki. .
+
+A fenti rendelkezés gyakorlati értelemben azt jelenti, hogy a jövőben életbe lépő azon megállapodások keretében, melyek a „származásra vonatkozó okmány” exportőr által történő kitöltésére utalnak, regisztrált exportőrként történt nyilvántartásba vételt követően lehet majd a preferenciális uniós származást igazolni.
+
+A REX-rendszer tulajdonságaiból következik továbbá az is, hogy amennyiben egy gazdálkodót már nyilvántartásba vettek, tehát rendelkezik REX-azonosítóval, akkor azt korlátozások nélkül – ugyanakkor a releváns származási szabályok figyelembevételével –, valamennyi lehetséges viszonylatban felhasználhatja a preferenciális uniós származás igazolására.
+
+Szintén az uniós vámjog rendelkezéseiből következik, hogy valamely tagállamban kiadott REX-azonosító az Európai Unió teljes területén érvényes, és megfordítva: egy uniós exportőr csak egy REX-azonosítóval rendelkezhet (azaz egy EORI azonosítóhoz csak egyetlen REX-azonosító tartozhat). 
+
+Fontos, hogy az uniós exportőr a székhelyétől eltérő tagállamban lévő telephelye szerinti tagállamban is kérelmezheti a REX-azonosítót.
+
+
+
+
+
+
+A regisztrált exportőri adatbázis funkciói
+
+A REX informatikai keretrendszert az Európai Bizottság fejlesztette és tartja karban. Ugyanakkor az adatok feltöltése, a feltöltött adatok tartalmának karbantartása a tagállami és harmadik országos hatóságok feladata. 
+
+A keretrendszer funkciói:
+
+exportőrök regisztrációja;
+
+a nyilvántartásba vett adatok módosítása;
+
+exportőrök regisztrációjának visszavonása.
+
+A regisztrált exportőri adatbázisba rögzített adatok bizonyos köre nyilvános és elérhető az Európai Bizottság által üzemeltetett alábbi lekérdező felületen, a REX-azonosító, vagy EORI/TIN szám megadásával:
+
+http://ec.europa.eu/taxation_customs/dds2/eos/rex_validation.jsp?Lang=hu
+
+Exportőrök regisztrációja
+
+A nyilvántartásba vételre vonatkozó szabályokat az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2015/2447 bizottsági (EU) végrehajtási rendelet (továbbiakban: UVK VA) 80. és 86. cikkei tartalmazzák. 
+
+Az UVK VA 80. cikk (2) bekezdésének második és harmadik albekezdése, valamint (3) bekezdése értelmében:
+
+(2) …
+
+A tagállamok vámhatóságai a 22-06A. mellékletben szereplő teljes kérelemnyomtatvány kézhezvételekor haladéktalanul hozzárendelik a regisztráltexportőr-azonosító számot az exportőrhöz vagy adott esetben a továbbküldőhöz, és rögzítik a REX-rendszerben a regisztráltexportőr-azonosító számot, a nyilvántartási adatokat, és azt a dátumot, amelytől a regisztráció a 86. cikk (4) bekezdése értelmében érvényes.
+
+A kedvezményezett ország illetékes hatóságai vagy valamely tagállam vámhatóságai közlik az exportőrrel vagy adott esetben a továbbküldővel az adott exportőrhöz, illetve továbbküldőhöz rendelt regisztráltexportőr-azonosító számot, valamint azt a dátumot, amelytől a regisztráció érvényes.
+
+(3) Amennyiben az illetékes hatóságok úgy vélik, hogy a kérelemben benyújtott információk hiányosak, erről haladéktalanul értesítik az exportőrt.
+
+Az UVK VA 86. cikk (4) bekezdése értelmében:
+
+(4) A regisztráció attól a naptól érvényes, amelyen a kedvezményezett ország illetékes hatóságai vagy a tagállam vámhatóságai az (1) és (2) bekezdéssel összhangban megkapják a nyilvántartásba vétel iránti teljes kérelmet.
+
+Az UVK VA 86. cikk (1) bekezdése értelmében a kérelmet azon ország illetékes hatóságai részére lehet benyújtani, ahol az exportőr központi ügyintézésének helye, vagy állandó telephelye van. 
+
+A kérelem Magyarországon történő benyújtása esetén kor a 485/2015. (XII. 29.) Korm. rendelet 16. cikke szerinti általános illetékességi szabályoknak megfelelően kell eljárni. Ennek értelmében a kérelmet jogi személy esetében a szervezet székhelye, ennek hiányában telephelye szerinti NAV megyei igazgatósághoz szükséges benyújtani.
+
+Az UVK VA 22-06A. melléklet szerinti kérelem elektronikusan és jelenleg még papír alapon is benyújtható. A papír alapú benyújtáshoz az említett melléklet szerkeszthető változata jelen tájékoztató elérhetőségén megtalálható. Az elektronikus benyújtás lehetősége az általános nyomtatványkitöltő program és a NAV_V03 megnevezésű nyomtatvány segítségével, valamint a Gazdálkodói Portál használatával vehető igénybe. 
+
+Nyilvántartásba vett adatok módosítása
+
+Az UVK VA 80. cikk (4) bekezdése értelmében:
+
+(4) A kedvezményezett országok illetékes hatóságai és a tagállamok vámhatóságai naprakészen tartják az általuk nyilvántartott adatokat. A hatóságok e rendelet 89. cikkével összhangban a regisztrált exportőrtől kapott tájékoztatást követően haladéktalanul módosítják ezeket az adatokat. A kedvezményezett ország illetékes hatóságai vagy a tagállam vámhatóságai tájékoztatják a regisztrált exportőrt nyilvántartási adatainak módosításáról.
+
+Az UVK VA 89. cikk (1) bekezdése értelmében:
+
+(1) A regisztrált exportőrök haladéktalanul tájékoztatják a kedvezményezett ország illetékes hatóságait vagy a tagállam vámhatóságait a regisztrációjukhoz benyújtott adatokban történt változásokról.
+
+A fenti rendelkezéseknek megfelelően a regisztrált exportőrként történő nyilvántartásba vétel során – az UVK VA 22-06A. mellékletének megfelelő kérelem benyújtásakor – a kérelmező vállalja, hogy a nyilvántartásba vett adatainak változásáról a hatóságot haladéktalanul értesíti.
+
+A regisztrációhoz benyújtott adatokban történt változásról a regisztrációt végző igazgatóságot szükséges írásban értesíteni, mely a változások átvezetését az adatbázisban elvégzi.
+
+Regisztráció visszavonása
+
+A regisztráció visszavonása történhet a regisztrált exportőr jelzése alapján kérelemre, az UVK VA 89. cikk (2) bekezdésének megfelelően.
+
+Az UVK VA 89. cikk (3) bekezdésében foglaltak alapján a tagállami vámhatóság visszavonja a regisztrációt amennyiben a regisztrált exportőr
+
+a) már nem létezik;
+
+b) már nem felel meg a GSP-rendszer keretében történő árukivitel feltételeinek;
+
+c) arról tájékoztatta a kedvezményezett ország illetékes hatóságait vagy a tagállam vámhatóságait, hogy már nem szándékozik árukat kivinni a GSP-rendszer keretében;
+
+d) szándékosan vagy gondatlanul olyan származásmegjelölő nyilatkozatot állít vagy állíttat ki, amelyik helytelen adatokat tartalmaz, és a preferenciális tarifális elbánás jogtalan megszerzéséhez vezet.
+
+A kedvezményezett ország illetékes hatósága vagy a tagállami vámhatóság visszavonhatja a regisztrációt, amennyiben a regisztrált exportőr nem frissíti nyilvántartási adatait, azaz nem teszi meg a szükséges lépéseket a nyilvántartásba vett adatok módosítása érdekében.
+
+Oldal 2 / 7

@@ -1,0 +1,25 @@
+Változások az Online Számlázó programban
+
+
+
+Az Online Számlázó program 1.25-ös verziójának fejlesztései:
+
+
+
+80 mm-es számlakép bevezetése,
+
+VTSZ/SZJ/TESZOR-szám nem kezdődhet „pont” karakterrel,
+
+a bruttó ár megadásának bevezetése,
+
+a felületet érintő változások,
+
+FAD-áfakulcsú tétel rögzítése csak „Belföldi áfaalanynak” lehetséges,
+
+rövid cégnév megjelenítése az eladó adatai között,
+
+mobiljelszó megadása.
+
+
+
+A fentiekről részletesen az Online Számlázó program „Információk/Technikai változások” menüpontjában tájékozódhat. A menüpont eléréséhez be kell jelentkezni az Online Számla rendszerbe.

@@ -1,0 +1,43 @@
+A NAV új, eVÁM webalkalmazása segíti a kis értékű küldemények vámkezeltetését 
+
+
+
+2021. július 1-jén az Európai Unióban megszűnik az unión kívülről érkező, 22 euró értéket meg nem haladó áruk áfamentessége. Értéktől függetlenül áfát kell fizetni e termékekre, és vám-árunyilatkozatot kell benyújtani a Nemzeti Adó- és Vámhivatalhoz (NAV). A NAV ezért új, webes felületen teszi lehetővé a vám-árunyilatkozatok online benyújtását .
+
+
+
+Az új uniós szabályok szerint 2021. július 1-jétől az Európai Unión kívülről érkező, 22 euró értéket meg nem haladó árukra vám-árunyilatkozatot kell benyújtani, és utánuk áfát is kell fizetni. 150 eurós összeghatárig az áruk behozatala továbbra is vámmentes marad, az alkoholtartalmú termékek, a parfümök és a kölnivizek, továbbá a dohány és a dohánytermékek kivételével. 
+
+
+
+A megrendelt küldemények legnagyobb része előreláthatólag nagy e-kereskedelmi platformokról fog érkezni, akik bejelentkeztek az IOSS (Import One Stop Shop) -rendszerbe. Ezzel jelentősen egyszerűsítik a vámadminisztrációt, hiszen az IOSS-rendszerben működő kereskedők az áfát már a vásárlás pillanatában beszedik a vásárlótól, és automatikusan fizetik meg a NAV-nak.
+
+
+
+Ha a valaki olyan webshopból vásárol, amelyik nem tagja az IOSS-rendszernek, akkor a postai szállítmányozóknak egy különleges szabályozás (SA – Special Arrangement) keretében lehetőségük van arra, hogy automatikusan elvégezzék a vámkezelést, és utána szállítsák ki a csomagot. A postai szolgáltató a vámkezelésért külön díjat is felszámíthat.
+
+
+
+Ha a vásárló úgy dönt, hogy maga szeretné a vámkezelést intézni, erre is lehetősége lesz.
+
+
+
+A magánszemély címzettek várhatóan 2021. július 1-től a NAV új, eVÁM webes felületén keresztül is benyújthatnak vám-árunyilatkozatot. A vámkezelés ebben az esetben díjtalan. A vámkezelt termék áfáját az eVÁM portálon bankkártyával vagy átutalással is meg lehet fizetni.
+
+
+
+Az eVÁM webfelület olyan küldeménynél használható, amely behozatala nem tiltott, vagy engedélyköteles, értéke pedig nem lépheti túl a 150 eurót. A címzettnek érvényes ügyfélkapu-regisztrációval kell rendelkeznie, és a csomag megérkezése előtt értesítenie kell a szállítócéget is – például a Magyar Postát vagy a gyorspostai szolgáltatót – arról, hogy a webes felületen saját maga szeretné a vámkezelést intézni. Az eVÁM portál lehetőséget biztosít arra is, hogy az ügyfél a vám-árunyilatkozatait tervezetként elmentse, és a beküldést egy későbbi időpontban végezze el.
+
+Az általános forgalmi adót a termék vételára és az esetleges szállítási költség alapján kell fizetni. Az általános forgalmi adóról szóló törvény értelmében, főszabály szerint a fizetendő áfa 27 százalék, de egyes esetekben ennél alacsonyabb is lehet. 
+
+
+
+2021. július 1-től tehát a magánszemély ügyfelek az eVÁM felületen is kitölthetik a vám-árunyilatkozatot, és – miután ezt az igényüket a postai szolgáltatónak, a szolgáltató weboldalán keresztül jelezték – vámkezelési díj nélkül intézhetik az Európai Unión kívülről érkező, 150 eurót meg nem haladó értékű áruk vámkezelését. 
+
+
+
+További információk: 
+
+https://www.nav.gov.hu/nav/internetes_vasarlas
+
+Nemzeti Adó- és Vámhivatal

@@ -1,0 +1,880 @@
+Hasznos tudnivalók kezdő áfaalanyoknak
+
+2020.
+
+
+
+Miről olvashat ebben a tájékoztatóban
+
+Ez a tájékoztató a gazdasági tevékenységüket kezdő adóalanyok számára kíván segítséget nyújtani az általános forgalmi adó kötelezettségükkel kapcsolatos legfontosabb szabályok ismertetésével.
+
+
+
+Tartalom
+
+	I. Az adóalanyiság	1
+
+	II. Mi után kell áfát megállapítani és fizetni? Az Áfa tv. alkalmazási hatálya	4
+
+	III. Az adó mértéke, a besorolás jelentősége	5
+
+	IV. Az általános forgalmi adó kötelezettséggel kapcsolatos bejelentés legfontosabb szabályai 	6
+
+	V. Adómentességek	8
+
+	VI. Pénzforgalmi elszámolás	11
+
+	VII. Különleges adózási módok	13
+
+	VIII. Bizonylatolási kötelezettség- Számlázás, nyugtaadás	15
+
+	IX. Az adó megállapítása, elszámolása, bevallása	18
+
+	X. Online számlaadat-szolgáltatási kötelezettség (belföldi összesítő jelentés)	21
+
+	XI. További információ, segítség	22
+
+
+
+I. Az adóalanyiság 
+
+Ki minősül az általános forgalmi adó alanyának?
+
+Adóalanynak minősül az a jogképes személy, szervezet, aki (amely) saját neve alatt gazdasági tevékenységet folytat, tekintet nélkül annak helyére, céljára és eredményére. Úgy foglalható össze egyszerűbben, hogy a saját név alatt, rendszeresen vagy üzletszerűen végzett bevételszerző tevékenység eredményezi az adóalanyiságot az általános forgalmi adó rendszerében.
+
+
+
+Mi a gazdasági tevékenység? 
+
+Gazdasági tevékenységnek minősül valamely tevékenység üzletszerű, illetőleg tartós vagy rendszeres jelleggel történő folytatása, amennyiben az ellenérték elérésére irányul, vagy azt eredményezi, és végzése független formában történik. A gazdasági tevékenység meghatározó ismérvei, hogy
+
+•	üzletszerű, illetve tartós vagy rendszeres legyen,
+
+•	ellenérték elérésére irányuljon,
+
+•	a tevékenységet független formában végezzék.
+
+Az általános forgalmi adóalanyiságot eredményező gazdasági tevékenység egyik alapvető eleme az, hogy a tevékenység üzletszerű, illetőleg tartós vagy rendszeres legyen. Kiemelendő, hogy az említett feltételeknek nem együttesen kell fennállnia. Ez egyrészről azt jelenti, hogy az ellenérték fejében végzett tevékenység abban az esetben is lehet üzletszerű, ha az egyszeri, mindig vizsgálni kell az összes körülményt. Általánosságban azonban elmondható, hogy az egyszeri értékesítés nem eredményez adóalanyiságot, például egy padláson talált régiség, egy ajándékba kapott arany ékszer, vagy egy személygépkocsi, ingatlan, ami már szükségtelenné vált. Viszont, ha valaki például rendszeresen régiségek után kutat (házakban, padlásokon), azokat felvásárolja, rendszeresen értékesíti, úgy elmondható, hogy ez a tevékenység gazdasági tevékenységnek minősül. Abban az esetben, ha valaki például örököl egy 100 millió forint értékű ingatlant, és ezt eladja, ettől nem lesz az áfa rendszerében adóalany, ez az eladás nem tekinthető gazdasági tevékenységnek. 
+
+
+
+Ha az ellenérték fejében végzett, vagy azt eredményező tevékenység nem üzletszerű ugyan, de tartós vagy rendszeres, akkor a tevékenység az áfa szempontjából szintén gazdasági tevékenységnek minősül, és így adóalanyiságot eredményez (feltéve, hogy a gazdasági tevékenység egyéb ismérvei is fennállnak). Példa lehet a nem üzletszerűen, de tartósan vagy rendszeresen végzett tevékenységre, ha egy alapítvány rendszeresen, akár, csak jelképes áron értékesít például emléktárgyakat, jótékonysági bálokra belépőt, stb. 
+
+Nem feltétel tehát, hogy mindkét körülmény, a rendszeresség és az üzletszerűség egyidejűleg fönnálljon, elegendő az egyik fennállása is ezek közül az adóalanyiságot eredményező gazdasági tevékenység megvalósításához.
+
+
+
+Az Áfa tv. sem az üzletszerűség, sem a tartósság, sem a rendszeresség fogalmát nem határozza meg, így ennek értelmezése során ezen kifejezések köznapi értelméből, jelentéséből kell kiindulni. 
+
+
+
+Üzletszerűnek tekinthető (de nem feltétlen és minden esetben üzletszerű) a tevékenység például, ha az abból származó ellenérték a magánszemély megélhetésében, vagyoni, jövedelmi viszonyaihoz mérten nem elhanyagolható mértéket képvisel, a magánszemély bevételei között jelentős mértékű. Üzletszerűnek minősül a tevékenység akkor, ha azt egy kifejezetten gazdálkodásra létrehozott személy, szervezet végzi ellenérték fejében, például egy cég, vagy egyéni vállalkozó. Az üzletszerűség – mint az adóalanyiságot eredményező gazdasági tevékenység egyik fontos feltételének – vizsgálata során az értékesített tétel mennyiségét, az értékesítés körülményeit, esetleges előkészületeit, az életszerűséget stb. kell figyelembe venni. 
+
+
+
+Tartós vagy rendszeres tevékenység esetén nem feltétel, hogy az adott személy árrés elérése céljából értékesítsen, az értékesítések ismétlődése már adóalannyá teheti az értékesítő személyt. A tevékenység áfa alanyiságot eredményező gazdasági tevékenységkénti minősítését az sem befolyásolja, hogy azt az adott személy fő- vagy melléktevékenységként, vagy esetleg hobbiként folytatja-e.
+
+Például, ha valaki a háztartásában feleslegessé vált tárgyait alkalomszerűen értékesíti (egy évben akár többször is), úgy ez az eladás nem eredményez adóalanyiságot. Egyértelműen gazdasági tevékenységre utal azonban, ha egy személy másoktól vásárol fel (gyűjt össze) különböző (használt) termékeket (például ruhákat, konyhai eszközöket, bútorokat, hagyatékot), és ezeket rendszeresen értékesíti például piacokon vagy online felületeken.
+
+
+
+A gazdasági tevékenység további lényeges kritériuma az ellenérték elérése, vagy az arra irányultság. Figyelemmel arra, hogy az Áfa tv. szerint a gazdasági tevékenység a céljára és az eredményére tekintet nélkül áfa adóalanyiságot eredményez, az általános forgalmi adó rendszerében nincs jelentősége annak, hogy a gazdasági tevékenység ténylegesen eredményes, jövedelmező-e. Azaz a tevékenység áfa-szempontú megítélése során érdektelen, hogy a ráfordítások milyen mértékűek, hogy meghaladják-e a bevételeket vagy sem. Az elért vagy elérni szándékozott ellenértékre tekintettel az értékesítési tevékenység még veszteség esetén is megalapozhatja az adóalanyiságot, ezáltal áfa kötelezettség terhelheti a tevékenységet.
+
+
+
+Nem minősül független formában végzett gazdasági tevékenységnek (ezáltal gazdasági tevékenységnek, és nem eredményez adóalanyiságot) az a tevékenység, amelyet munkaviszony, munkaviszony-jellegű jogviszony, vagy olyan munkavégzésre irányuló egyéb jogviszony keretében végeznek, amelyben a jogosult irányítása és felelőssége mellett a kötelezett alárendelt helyzetben van a tevékenység végzése eredményének, díjazásának, valamint egyéb feltételeinek és körülményeinek meghatározásában.
+
+
+
+Milyen jellegű tevékenységek nem eredményeznek adóalanyiságot? 
+
+Nem minősül gazdasági tevékenységnek és nem eredményez adóalanyiságot a Magyarország Alaptörvénye által, illetőleg az annak felhatalmazása alapján megalkotott jogszabály alapján közhatalom gyakorlására jogosított személy, szervezet által ellátott közhatalmi tevékenység. (Ilyen tevékenység például az igazságszolgáltatási, az ügyészi, a rendvédelmi, közigazgatási jogalkalmazói, az európai uniós és egyéb nemzetközi támogatás elosztásáról való döntési tevékenység.)
+
+
+
+Mit jelent a tulajdonostársak közösségének adóalanyisága az áfa rendszerében? 
+
+Amennyiben a gazdasági tevékenység közvetlenül közös tulajdonban és közös használatban levő ingóra vagy ingatlanra, mint ellenérték fejében hasznosítandó dologra irányul, adóalanynak a tulajdonostársak közössége minősül. (Ilyen adóalany például a házaspár a házastársak közös tulajdonában és közös használatában lévő ingatlan bérbeadására tekintettel, vagy a társasház közösség, például a közös tulajdonát képező falfelület reklámcélú bérbeadása miatt.) Az adóalanyisághoz fűződő jogokat és kötelezettségeket a tulajdonostársak közössége az általa kijelölt képviselő útján gyakorolja. Kijelölés hiányában képviselő a legnagyobb tulajdoni hányaddal rendelkező tulajdonostárs, egyenlő tulajdoni hányad esetében pedig az adóhatóság által kijelölt tulajdonostárs.
+
+
+
+Melyek az egyes, alkalmi értékesítések miatti speciális adóalanyiság esetei? 
+
+Kivételes törvényi szabályként szintén gazdasági tevékenységnek minősül és adóalanyiságot eredményez az áfa adóalanynak egyébként nem minősülő személyek, szervezetek esetében is 
+
+az új közlekedési eszköz Közösség más tagállamába történő értékesítése 
+
+és az egyes ingatlanok (beépítés alatt álló vagy beépített új ingatlan és az építési telek) sorozatjelleggel történő értékesítése.
+
+A kizárólag sorozat jellegű ingatlan értékesítésre tekintettel adóalannyá váló személyeknek, szervezeteknek az ezzel kapcsolatos általános forgalmi adó kötelezettségét – bejelentésük alapján, melyet a TSI_B jelzésű nyomtatványon tehetnek meg – az állami adóhatóság kivetéssel állapítja meg. 
+
+
+
+Mi a csoportos áfa adóalanyiság, kik lehetnek a tagjai? 
+
+Azok az adóalanyok, akiknek (amelyeknek) gazdasági célú letelepedési helyük belföldön van (ennek hiányában pedig lakóhelyük vagy szokásos tartózkodási helyük van belföldön), és akik (amelyek) együttesen kapcsolt vállalkozások, csoportos adóalanyiságot hozhatnak létre. A csoportos adóalanyiság az állami adóhatóság engedélyével jön létre, valamennyi leendő tag erre irányuló közös, kifejezett és egybehangzó írásos kérelmére. A csoportos adóalanyiság létrejöttével a tagok belső, egymás közötti kapcsolataiban a tevékenység gazdasági tevékenységként megszűnik, valamint a tagok külső, harmadik féllel szembeni kapcsolataiban a gazdasági tevékenység folytatása olyan áfa-adóalanyiságot eredményez, amelyben az ehhez fűződő jogok és kötelezettségek a csoportos adóalanyiságban résztvevő valamennyi tagnak együttesen tudhatók be. (Vagyis egymás felé a tagok nem számítanak fel áfát, kifelé együttesen a csoport minősül adóalanynak, az adott teljesítésről kibocsátott számlán a csoportos adóalany adószáma is szerepel,
+
+ a teljesített ügyletet terhelő adókötelezettséget nem a tag, hanem a csoportos adóalany teljesíti és a csoportos adóalany érvényesít adólevonási jogot, mely utóbbit a csoporton kívülre végzett adóköteles, adólevonásra jogosító tevékenység alapozhat meg.) 
+
+A csoportos adóalanyiságra vonatkozó szabályok alkalmazása szempontjából nem lehet együttesen kapcsolt vállalkozásnak tekintetni a helyi önkormányzatot és azt a vállalkozást, amelyben a helyi önkormányzat a Polgári Törvénykönyvről szóló törvény (Ptk.) megfelelő alkalmazásával közvetlenül vagy közvetve többségi befolyással rendelkezik. (Az önkormányzat nem lehet csoportos adóalany tagja.) Azokat az adóalanyokat, amelyek kizárólag azért minősülnek kapcsolt vállalkozásnak, mert a Magyar Állam vagy helyi önkormányzat a Ptk. megfelelő alkalmazásával harmadik személyként közvetlenül vagy közvetve többségi befolyással rendelkezik bennük, a csoportos adóalanyiságra vonatkozó szabályok alkalmazásában nem kell együttesen kapcsolt vállalkozásnak tekinteni.
+
+
+
+II. Mi után kell áfát megállapítani és fizetni? Az Áfa tv. alkalmazási hatálya
+
+Általános forgalmi adókötelezettség alá esik 
+
+az adóalany által (adóalanyi minőségében) belföldön és ellenérték fejében teljesített – az Áfa tv. szabályai szerint belföldön teljesítettnek minősülő – termékértékesítés és szolgáltatásnyújtás, 
+
+a Közösségen belüli egyes, belföldön és ellenérték fejében teljesített termékbeszerzés, 
+
+valamint a termékimport. 
+
+Ez utóbbi két esetben az adókötelezettség bizonyos esetekben akkor is fennáll, ha a terméket importáló, Közösség más tagállamából beszerző személy nem adóalany (pl. magán import, új közlekedési eszköz közösségi beszerzése). 
+
+
+
+Az általános forgalmi adózás rendszerében az adóalanyok a termékhez vagy a szolgáltatáshoz saját maguk által hozzáadott érték után adóznak. Főszabály szerint az adóalany az értékesítéskor az eladási árban beszedett (áthárított) adó összegéből a beszerzéseit terhelő előzetesen felszámított adót levonhatja.
+
+
+
+III. Az adó mértéke, a besorolás jelentősége
+
+Az adóalany által értékesített termékek, nyújtott szolgáltatások általános adómértéke az adó alapjának 27 %-a. 
+
+Ettől eltérő, alacsonyabb – 5 illetve 18 %-os – adómérték alkalmazására az Áfa tv. mellékletei, a tevékenység közérdekű, vagy egyéb speciális jellegére tekintettel adómentes értékesítések körére az Áfa tv. 85-87. §-ai tartalmaznak felsorolást. 
+
+Az 5 %-os kulcs alá tartozó termékek köre – néhány kivétellel – vámtarifa számra illetve ISO-kódra hivatkozással van meghatározva az Áfa tv. mellékletében. (5 %-os adómérték alá tartozik például a könyv, kotta, újság, egyes egészségügyi termékek, gyógyászati segédeszközök, egyes sertéshús, szarvasmarha, juh, kecske, baromfi, tojás és tej termékek, emberi fogyasztásra alkalmas halak). 
+
+Néhány szolgáltatás is az 5 %-os adómérték alá tartozik, például: távhőszolgáltatás, az előadóművészi szolgáltatások egy bizonyos köre, az internet-hozzáférési szolgáltatás, az étkezőhelyi vendéglátásban az étel és a helyben készített, nem alkoholtartalmú italforgalom kiszolgálására irányuló vendéglátó szolgáltatás (ez utóbbit TESZOR számra hivatkozással és megnevezéssel határozza meg az Áfa tv.), valamint a kereskedelmi szálláshely-szolgáltatás.
+
+A 18%-os adómértékű termékeket (egyes élelmiszerek) az erre vonatkozó melléklet vámtarifa számra hivatkozással és megnevezéssel határozza meg, míg a szintén a 18 %-os adómérték alá tartozó, az alkalmi szabadtéri rendezvényre történő belépést biztosító szolgáltatás vonatkozásában statisztikai besorolásra nem utal az Áfa tv. 
+
+A közérdekű vagy egyéb speciális jellegére tekintettel adómentes termékértékesítések, szolgáltatásnyújtások körét már nem a statisztikai besorolásra alapozza az Áfa tv, hanem a Tanács 2006/112/EK, a közös hozzáadottértékadó-rendszerről szóló irányelve (továbbiakban: Irányelv) fogalomköréhez igazodva határozza meg. 
+
+
+
+Bár az egyes termékértékesítések, szolgáltatásnyújtások adókötelezettségének vagy mentességének elhatárolásában a statisztikai jellegű illetve tarifális besorolás vesztett jelentőségéből, az olyan esetekben, amelyeknél az Áfa tv. besorolási számra való hivatkozást tartalmaz, még alapozni kell rá. Így például az egyes levonási korlátozásokkal érintett szolgáltatások, termékek körének, a mezőgazdasági tevékenység különleges jogállására jogosító termékértékesítések körének, a fordított adózás alá eső egyes termékek (hulladékok, egyes mezőgazdasági termékek, egyes vas- és acélipari termékek) körének meghatározásában, valamint a kedvezményes adómérték alá tartozó vendéglátó szolgáltatás meghatározásában továbbra is figyelemmel kell lenni a statisztikai és a vámtarifán alapuló besorolásra.
+
+(A vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2017. október 12-i (EU) 2017/1925 bizottsági végrehajtási rendelet 2018. január 1-jei állapota szerinti áruazonosító számot (vámtarifaszám) és a TESZOR’15 2018. év január 1. napján érvényes besorolási rendjét kell irányadónak tekinteni, és az értékesítésnek az Áfa tv.-ben hivatkozással meghatározott tárgyát vagy a nyújtott szolgáltatást besorolni. A vámtarifaszám és besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.)
+
+
+
+Az előzőek mellett, ha egy termékértékesítés vagy szolgáltatásnyújtás meghatározásához valamely Áfa tv. által említett jogszabály szükséges, fontos annak a jogszabálynak vizsgálata is.
+
+
+
+Amennyiben egy adott szolgáltatás statisztikai besorolása az adózónak nehézséget okoz, úgy a KSH Információs Szolgálatához (<kapcsolat.ksh.hu> címen) lehet fordulni segítségért. 
+
+
+
+A termékek vámtarifa szerinti besorolásáról a Nemzeti Adó- és Vámhivatal Szakértői Intézetétől lehet véleményt vagy tarifa információt kérni.
+
+
+
+IV. Az általános forgalmi adó kötelezettséggel kapcsolatos bejelentés legfontosabb szabályai 
+
+Az adóköteles tevékenység megkezdéséhez kapcsolódó adóhatósági bejelentkezéskor dönteni kell az általános forgalmi adókötelezettséggel kapcsolatban. [A bejelentkezés adott esetben „egyablakos” rendszerben, pl. cégbejegyzésre kötelezett személy esetében a cégbíróságon, törzskönyvi jogi személy esetében a Kincstáron, egyéni vállalkozói nyilvántartásba vételre kötelezett egyéni vállalkozó esetében a Webes Ügysegéd alkalmazáson vagy az ország bármely járási (fővárosi kerületi) hivatalán (okmányiroda/kormányablak) keresztül történik. 2020. július 1-jétől az egyéni vállalkozók nyilvántartását a NAV vezeti.] 
+
+
+
+A bejelentkezéshez rendszeresített adatlapokon meg kell jelölni, hogy az érintett személy alanya-e az általános forgalmi adónak, vagy sem. Ha igen, alanya az általános forgalmi adónak, akkor arról is nyilatkozni kell, hogy (ha) 
+
+kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végez,
+
+ingatlanok értékesítésére, bérbeadására az adómentesség helyett az adókötelessé tételt, vagyis áfa fizetési kötelezettséget választja,
+
+alanyi adómentességet választ,
+
+adófizetési kötelezettségét az Áfa tv-ben meghatározott valamely különleges adózási mód alapján állapítja meg (mezőgazdasági tevékenységet folytató adóalanyra, utazásszervezési szolgáltatásra, használt ingóságokra, műalkotásokra, gyűjteménydarabokra és régiségekre, befektetési aranyra vonatkozó különös szabályok),
+
+a Közösség más tagállamában illetőséggel bíró adóalannyal kereskedelmi kapcsolatot kíván létesíteni [kereskedelmi kapcsolatnak minősül a termékbeszerzés és -értékesítés, valamint a szolgáltatásnyújtás és -igénybevétel], és közösségi adószám megállapítását kéri,
+
+pénzforgalmi elszámolást választ.
+
+
+
+Bejelentést igényel az is, ha 
+
+az adóalany kizárólag az Áfa tv. szerinti adómentes termékimportot megalapozó közösségi termékértékesítés miatt válik az általános forgalmi adó alanyává, és az adómentes termékimportot nem közvetett vámjogi képviselővel teljesíti, 
+
+az adóalany bizonyos, speciális esetekben az Áfa tv. szerinti közvetett vámjogi képviselőként,
+
+speciális jogállású adóraktár üzemeltetőként jár el.
+
+
+
+Bejelentés alapján indul a polgári jogi társaság együttműködő közösségként való áfa-adóalannyá válásának engedélyezésére irányuló eljárás, az egyéb – már adóalany – együttműködő közösségeket bejelentési kötelezettség terheli ezen együttműködési szándékkal kapcsolatban.
+
+
+
+Az általános forgalmi adóval összefüggő nyilatkozatra a NAV által a bejelentkezésre rendszeresített adat- és változásbejelentő lapok F jelű lapja szolgál. (Az egyablakos rendszeren keresztül bejelentkező adóalanyok, így például az egyéni vállalkozók vagy a cégbejegyzésre kötelezett személyek részére a nyilvántartásba vételükhöz rendszeresített, a cégbírósági bejelentkezés esetén például jogszabály mellékletében meghatározott, a NAV által rendszeresítetthez hasonló adattartalmú áfa nyilatkozat szolgál.) Ennek kitöltésére célszerű kiemelt figyelmet fordítani, mivel az egyes adózási módok választásának, a bejelentett adatokban bekövetkezett változásnak jelentősége van (lehet) az adóalany általános forgalmi adó-kötelezettségének megállapítása szempontjából.
+
+
+
+
+
+Választások és attól való eltérés korlátai, választás hiánya
+
+Például, ha az adóalany az egyébként adómentes körbe tartozó ingatlan értékesítésre és bérbeadásra, vagy csak ezek egyikére adófizetési kötelezettséget választ, attól a választás évét követő ötödik naptári év elteltéig nem térhet el. 
+
+Vagy például az egyes különös adómegállapítási módok valamelyikéről történő lemondás esetén visszatérési időkorlátozás érvényesül, így például a mezőgazdasági tevékenységnél vagy a használt ingósággal kapcsolatos árrésadózásnál is.
+
+
+
+A kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet folytató adóalanyoknál előfordulhat egy-egy olyan ügylet, amelyre a bejelentett adómentesség nem terjed ki. 
+
+Az alanyi adómentesség választásának hiányában ezek az adóalanyok, az ilyen adókötelesnek minősülő ügyletek után az általános szabályok szerint adóznak. 
+
+
+
+A csoportos adóalanyiság választására irányuló, valamint a polgári jogi társaság együttműködő közösségként adóalannyá válása engedélyezésére irányuló bejelentést a NAV bírálja el, és adja meg az engedélyt, amennyiben annak jogszabályi feltételei fennállnak.
+
+
+
+Egyes esetekben – például többprofilú tevékenységnél – az általános szabályok szerinti adózás és különleges adózási mód egyidejűleg is előfordulhat és alkalmazható. Ilyenkor a bejelentkezési lapon többféle adómegállapítási módot is lehet, illetve kell jelölni.
+
+
+
+Mely esetben nem kötelező a bejelentkezés?
+
+Az adószám „megszerzéséhez” előírt bejelentkezési kötelezettség alól mentesül az egyéni vállalkozónak nem minősülő természetes személy adóalany, aki kizárólag az Áfa tv. szerint adómentes ingatlan bérbeadási tevékenységet folytat, feltéve, hogy erre vonatkozóan nem élt az adókötelessé tétel jogával, és közösségi adószám kiváltására nem kötelezett. (Vagyis az adott ingatlan bérbeadás az adómentes körbe tartozó, és nem választott adófizetést azzal kapcsolatban.)
+
+
+
+Az általános forgalmi adóval kapcsolatos bejelentés hol történik?
+
+Az egyéni vállalkozói nyilvántartásba vételhez, cégbejegyzéshez, törzskönyvi (kincstári) nyilvántartásba vételhez kötött tevékenységek, adóalanyok esetében az általános forgalmi adóval kapcsolatos nyilatkozattételt nem az adóhatóságnál kell teljesíteni, hanem 
+
+az egyéni vállalkozói nyilvántartásba vétel iránti kérelem benyújtásakor a kormányhivatalok járási hivatalainál vagy fővárosi kerületi hivatalainál, vagy elektronikus úton a Webes Ügysegéd alkalmazáson keresztül (2020. július 1-jétől az egyéni vállalkozók nyilvántartását a NAV vezeti), 
+
+a cégbejegyzés iránti kérelem benyújtásakor a cégbíróság felé, 
+
+törzskönyvi jogi személyek esetében a Kincstár felé kell megtenni. 
+
+
+
+A cégbírósági, egyéni vállalkozói, kincstári, bírósági nyilvántartásba vételre nem kötelezett adóalanyok az általános forgalmi adó kötelezettséggel összefüggően közvetlenül a NAV felé nyilatkoznak. A már bejelentkezett, működő adóalanyok az általános forgalmi adóval kapcsolatos bejelentésben történő változásról szintén közvetlenül a NAV felé nyilatkoznak.
+
+
+
+V. Adómentességek
+
+Adómentesség a tevékenység közérdekű vagy egyéb speciális jellegére tekintettel (levonásra nem jogosító adómentes tevékenységek)
+
+Az Áfa tv. egyes, közösségi, egészségügyi, szociális, oktatási, sport stb. tevékenységeket mentesít az általános forgalmi adó alól.
+
+Így például az egyetemes postai szolgáltatás, a humán egészségügyi szolgáltatás, az oktatási tevékenységek széles köre stb. után – egyes esetekben csak akkor, ha azt közszolgáltató és/vagy az érintett szakma gyakorlásához előírt feltételeknek megfelelő engedéllyel rendelkező szolgáltató nyújtja –, nem kell általános forgalmi adót felszámítani és fizetni, de az ehhez kapcsolódó beszerzéseket terhelő adó sem vonható le. 
+
+E közérdekű jellegére tekintettel adómentes értékesítések körét az Áfa tv. 85. §-a határozza meg, és az adómentesség szempontjából az ügylet tartalmán túl jelentősége van annak is, hogy a szolgáltató az itt előírt feltételeknek megfeleljen. 
+
+
+
+Az egyéb speciális jellegére tekintettel adómentes értékesítések körét az Áfa tv. 86. §-a határozza meg. Ennél nincs jelentősége az adóalany közszolgáltatói vagy egyéb más státuszának. Ebbe a speciális jellegére tekintettel adómentes körbe tartoznak például egyes biztosítási, pénzügyi, szerencsejáték szolgáltatások. Ezen kívül ide tartozik egyes ingatlanok értékesítése, bérbeadása, amely ingatlan ügyletekre adómentesség helyett adókötelezettség választható (ez esetben adót kell felszámítani és fizetni, de az adólevonási jogot is lehet gyakorolni a jogszabályi feltételek fennállása esetén).
+
+
+
+Mentes az adó alól továbbá a termék értékesítése abban az esetben, ha az értékesítést megelőzően a terméket kizárólag az Áfa tv. előzőekben említett adómentes termékértékesítéshez és szolgáltatásnyújtáshoz használták, egyéb módon hasznosították, és a termékhez adólevonási jog nem kapcsolódott. Adómentes a termék értékesítése akkor is, ha az értékesítését megelőzően a termékhez kapcsolódó előzetesen felszámított adó az Áfa tv. konkrét, levonást tiltó rendelkezései alapján nem vonható le, személygépkocsi esetében akkor is, ha a beszerzést nem terhelte adó.
+
+
+
+Alanyi adómentesség
+
+Az adóalany jogosult alanyi mentességet választani. Ennek feltételei, ha
+
+gazdasági céllal belföldön telepedett le (vagyis tevékenységének székhelye, állandó telephelye van belföldön) vagy ennek hiányában lakóhelye vagy szokásos tartózkodási helye van belföldön, 
+
+a bejelentést megelőző adóévben az általa teljesített termékértékesítések és szolgáltatásnyújtások összesített ellenértéke, valamint a bejelentés adóévében a gazdasági tevékenysége után ésszerűen várható (illetőleg tényleges) bevétele nem haladja meg az alanyi adómentesség választására jogosító összeghatárt, ez 2020 évben 12 millió forint.
+
+A tevékenységét év közben megkezdő adóalany a belföldi nyilvántartásba vételével egyidejűleg történő bejelentkezésekor is választhatja az alanyi adómentességet. Ekkor elegendő azon feltétel teljesülésének valószínűsítése, hogy a bejelentés adóévében a gazdasági tevékenysége után ésszerűen várható bevétele időarányosan nem haladja meg az alanyi adómentesség választására jogosító összeghatárt.
+
+
+
+Azonban, ha a tevékenységét év közben kezdő adóalany bejelentkezéskor nem élt a választás jogával, akkor alanyi adómentességet legkorábban a bejelentkezést követő adóévre választhat. A következő adóévre vonatkozó választás bejelentését legkésőbb december 31-ig meg kell tenni.
+
+
+
+A bejelentkezéskor célszerű mérlegelni, hogy a tevékenységgel kapcsolatban lesznek-e nagyobb kiadások a tevékenységgel kapcsolatban – pl. üzlethelyiség kialakítása, nagy értékű eszközök beszerzése vagy egy nagyobb összegű bérleti díj, bérleti jogért fizetendő ellenérték –, mert a beszerzésekhez kapcsolódó előzetesen felszámított adó alanyi adómentesség választása esetén nem vonható le.
+
+Az alanyi adómentesség előnye az, hogy az azt választó adóalany főszabályként adófizetésre nem kötelezett, egyes értékesítései és beszerzései kivételével – amelyekre vonatkozóan nem járhat el alanyi adómentes minőségében – nem terheli adóbevallási, adófizetési kötelezettség. 
+
+
+
+Hátránya az, hogy a beszerzést terhelő adó levonására nem jogosult. 
+
+
+
+Az alanyi adómentességet választó adóalany – az általános szabályok szerint adózó adóalanyokhoz hasonlóan – számla-, illetve nyugtaadásra kötelezett. 2020. július 1-jétől online számlaadat-szolgáltatási kötelezettsége is van, a másik belföldi adóalany részére, belföldön teljesített értékesítésekről kibocsátott, kiállított számlákról. Ha számlát nem bocsát ki, mert arra nem volt kötelezett, vagy nem adóalany felé történt a számlázás, akkor adatszolgáltatási kötelezettsége nincs.
+
+
+
+Az alanyi adómentes adóalany által kibocsátott számlában áthárított adó vagy az adó kiszámításához szükséges százalékérték nem szerepelhet, és a számlában egyértelműen utalni kell a mentességre, például rávezetni az „alanyi adómentes” szövegrészt, vagy más módon utalni kell az alanyi adómentességre(feltéve, hogy a számla alapjául szolgáló ügyletben alanyi adómentes minőségében jár el az adóalany).
+
+
+
+Az alanyi adómentességet választó adóalanyt adókötelezettség (bevallási és egyes esetekben adófizetési kötelezettség) terheli azokban az esetekben, amikor nem járhat el alanyi adómentes minőségében. Ilyen például, ha
+
+a vállalkozásában tárgyi eszközként használt terméket értékesít,
+
+vállalkozásában immateriális jószágként használt, hasznosított vagyoni értékű jogot véglegesen átenged,
+
+új közlekedési eszközt értékesít Közösség másik tagállamába,
+
+beépítés alatt álló vagy beépített új ingatlant, építési telket értékesít (még akkor is, ha ezek nem a vállalkozásában használt tárgyi eszközei körébe tartoznak),
+
+az adóalanyiságát eredményező tevékenységétől eltérő cél érdekében, más részére ellenérték nélkül, az Áfa tv. szerint termékértékesítésnek minősülő tevékenységet végez, vagy szolgáltatást nyújt feltéve, hogy ennek végzéséhez kapcsolódó előzetesen felszámított adó egészben vagy részben levonható,
+
+külföldön teljesített szolgáltatásnyújtása esetén,
+
+egyes, az ún. „fordított adózás” alá tartozó határon átnyúló ügyletek esetén,
+
+a számlában mentessége ellenére adót hárít át;
+
+az ellenérték meg nem fizetése miatt az adó megfizetéséért kezesként felel
+
+10 000 eurót (2,5 millió forintot) meghaladó értékű közösségi beszerzés esetén (vagy választása esetében ezen értékhatár alatt is), továbbá értékhatártól függetlenül jövedéki termék és új közlekedési eszköz közösségi beszerzése esetén,
+
+termékimport esetén.
+
+
+
+Figyelem! Az alanyi adómentességet választó adóalanyt a Közösségen belülről történő termékbeszerzése tekintetében megilleti az adózás választásának joga, ha annak értéke a tárgyévben nem éri el a 10 000 eurót, adóelvonási joggal azonban ekkor sem élhet.
+
+
+
+Bizonyos ügyletekhez, mint például a külföldön teljesített szolgáltatásokhoz kapcsolódó, vagy az új közlekedési eszköz Közösségen belüli értékesítéséhez kapcsolódó beszerzést terhelő adó levonható olyankor, amikor az adóalany nem járhat el alanyi mentes minőségében. 
+
+
+
+Főszabály szerint az alanyi adómentes adóalanynak a termékimportot, valamint az új közlekedési eszközök közül a személygépkocsi és a regisztrációs adóköteles motorkerékpár Közösségen belüli beszerzését terhelő adóját – feltéve, hogy ez utóbbi esetben a regisztrációs adónak is alanya – a vámhatóság állapítja meg kivetéssel.
+
+
+
+Az alanyi adómentesség az adóév (tárgy naptári év) végéig választható. Az adóév elteltét követően ismét lehet élni a választás jogával, de az adóhatósághoz csak változtatás esetén kell ismét bejelentést tenni. 
+
+
+
+Az alanyi adómentesség a választására jogosító összeghatár túllépésével megszűnik, ezt az adókötelezettséget érintő változást az értékhatár elérését követő 15 napon belül az adóhatósághoz be kell jelenteni.
+
+
+
+Az alanyi adómentesség értékhatár túllépés miatti megszűnését követő második adóév végéig alanyi adómentesség nem választható. A hatályos rendelkezések értelmében az adózónak csak abban az esetben kell nyilatkoznia az adóhatóság felé az alanyi adómentességével összefüggésben, ha az általános szabályok szerinti adózásra (vagy esetleg más adózási módra) akar áttérni, illetve, ha alanyi adómentes státusa értékhatár túllépése miatt szűnik meg. Az alanyi adómentesség fenntartását – amennyiben ebben változás nem történt – nem kell évente ismételten bejelenteni az adóhatóság felé.
+
+
+
+VI. Pénzforgalmi elszámolás
+
+Ha az adóalany él a pénzforgalmi adózásra irányuló választási jogával, az általa belföldön, a pénzforgalmi elszámolás időszakában teljesített összes termékértékesítése, szolgáltatásnyújtása után (ide nem értve egyes ügyleteket, amelyre a pénzforgalmi elszámolás nem alkalmazható, például biztos tulajdonszerzéssel járó részletvétel, adómentes közösségi termékértékesítés, olyan értékesítések, amelyekre az adóalany az Áfa tv-ben meghatározott más különös rendelkezéseket alkalmazza) az általa fizetendő adót az adót is tartalmazó ellenérték jóváírásakor, kézhezvételekor állapítja meg. 
+
+
+
+Emellett a termék beszerzéséhez (kivéve a biztos tulajdonszerzéssel járó részletvétel útján történő beszerzést), szolgáltatás igénybevételéhez kapcsolódóan rá áthárított adó levonásának jogát a pénzforgalmi elszámolás időszakában legkorábban abban az adómegállapítási időszakban gyakorolja, amelyben az adót is tartalmazó ellenértéket a részére terméket értékesítő, szolgáltatást nyújtó számára megfizeti. 
+
+
+
+Ha az ellenérték jóváírása, kézhezvétele, megfizetése részletekben történik, a fizetendő adót a részlet jóváírásakor, kézhezvételekor, legalább a megfizetett részlet erejéig kell megállapítani, a levonási jog a megfizetett részlet erejéig gyakorolható. (Az ellenérték jóváírásának, kézhezvételének, megfizetésének kell tekinteni azt is, ha az abból származó követelése vagy kötelezettsége engedményezés, elengedés, tartozásátvállalás miatt vagy más módon szűnik meg.)
+
+
+
+Egyszerűbben összefoglalva: a pénzforgalomhoz, az ellenérték megszerzéséhez illetve megfizetéséhez kapcsolódik a fizetendő adó megállapításának és a beszerzést terhelő adó levonásának időpontja. 
+
+
+
+Fontos szabály, hogy a pénzforgalmi elszámolás nem alkalmazható arra a termékértékesítésre, szolgáltatásnyújtásra, amely teljesítését tanúsító számlán az adóalany a „pénzforgalmi elszámolás” hivatkozást, utalást nem tüntette fel.
+
+
+
+A pénzforgalmi elszámolás további feltétele, hogy abban az esetben választható (egyéb feltételek mellett), ha az adóalany összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenérték adó nélkül számított és éves szinten göngyölített összege sem a tárgy naptári évet megelőző naptári évben ténylegesen, sem a tárgy naptári évben ésszerűen várhatóan, illetve ténylegesen nem haladja meg a 125 000 000 forintnak megfelelő pénzösszeget.
+
+
+
+A pénzforgalmi elszámolás választására jogosító felső értékhatárba nem számítandó be – az alanyi adómentesség szabályozásához hasonlóan – 
+
+az adóalany vállalkozásában tárgyi eszközként használt termék értékesítése, 
+
+immateriális jószágként használt, egyéb módon hasznosított vagyoni értékű jog végleges átengedése, 
+
+a termék közösségen belüli adómentes értékesítése, 
+
+a tevékenység közérdekű jellegére tekintettel adómentes termékértékesítés, szolgáltatásnyújtás, egyes pénzügyi, biztosítási adómentes, kiegészítő jellegű szolgáltatásnyújtások fejében megtérített vagy megtérítendő ellenérték.
+
+
+
+Ha az adóalany belföldi nyilvántartásba vételével egyidejűleg választja (mivel erre lehetőség van) a tárgy naptári évre a pénzforgalmi elszámolást, ilyen esetben elegendő a bevételi összeghatárra vonatkozó feltételt időarányosan teljesíteni. 
+
+
+
+A pénzforgalmi elszámolás a tárgy naptári év végéig terjedő időszakra választható. Abban az esetben, ha az adóalany attól a következő évre el kíván térni, azt a megelőző év december 31-éig be kell jelenteni. Amennyiben a feltételeknek megfelel, és továbbra is a pénzforgalmi elszámolást kívánja alkalmazni, az külön bejelentést nem igényel.
+
+
+
+Abban az esetben, ha a pénzforgalmi elszámolás az értékhatár túllépése miatt szűnik meg, az adóalany a pénzforgalmi elszámolást nem alkalmazhatja már az olyan termékértékesítése, szolgáltatásnyújtása esetében sem, amelynek ellenértékével meghaladja a pénzforgalmi elszámolás választására jogosító felső értékhatárt. Emellett, az adóalany a pénzforgalmi elszámolás választásának jogával az értékhatár túllépés miatti megszűnés évét követő második naptári év végéig nem élhet.
+
+A pénzforgalmi elszámolás választásáról, illetőleg annak megszűnéséről nyilatkozni kell a NAV-hoz.
+
+
+
+A pénzforgalmi elszámolást választó adóalanytól vásárló másik adóalany, függetlenül attól, hogy maga nem választott pénzforgalmi elszámolást, csak akkor vonhatja le a pénzforgalmi elszámolást alkalmazó adóalany által rá áthárított adót, amikor annak ellenértékét a pénzforgalmi elszámolást alkalmazó, és ezt a tényt a számláján feltüntető adóalany részére megfizette.
+
+
+
+VII. Különleges adózási módok
+
+Mezőgazdasági tevékenységgel kapcsolatos különleges jogállás
+
+A mezőgazdasági tevékenységet végző adóalanyt – ilyen minőségében – e tevékenysége tekintetében különleges jogállás illeti meg, melynek keretében főszabályként adófizetésre nem kötelezett, adólevonási jogot nem gyakorolhat, nem terheli bevallási kötelezettség. Különleges jogállás esetén e tevékenysége körében teljesített termékértékesítése, szolgáltatásnyújtása után, a felvásárlási áron felül, az ellenérték részeként kompenzációs felárra jogosult. 
+
+Feltételek: 
+
+Azt, hogy az általános forgalmi adó szempontjából mely – az adóalany saját vállalkozásában előállított – növénytermelési, állattenyésztési termékek értékesítése, illetve mely – az adóalany saját tárgyi eszközének használatával végzett – szolgáltatásnyújtása után jogosult egy adóalany kompenzációs felárra, 
+
+az Áfa tv. melléklete határozza meg, 
+
+emellett egyéb feltételeknek (vállalkozás nagysága, egyéb tevékenységek folytatása esetén a mezőgazdasági tevékenységből származó bevétel túlnyomórészt kitevő aránya stb.) is meg kell felelni,
+
+a termék vásárlójának, a szolgáltatás igénybevevőjének is olyan személynek kell lenni, akire, amelyre a kompenzációs felár terhelhető. 
+
+A feltételek teljesülése esetén a különleges jogállás a törvény erejénél fogva, vagyis ez irányú választás nélkül is, megilleti az adóalanyt.
+
+
+
+A mezőgazdasági tevékenységet folytató adóalany jogosult különleges jogállását megváltoztatni. A különleges jogállásáról lemondhat, és helyette például általános szabályok szerinti adófizetéstválaszthat, mely választását be kell jelentenie az adóhatósághoz, és attól a változtatást követő második adóév végéig nem térhet el. Fontos, hogy az általános szabályok szerinti adómegállapítás – vagy amennyiben annak törvényi feltételei fennállnak az alanyi adómentesség – választásának bejelentése alkalmával a bejelentésre rendszeresített nyomtatványon jelölni kell, az arra rendszeresített helyen, a mezőgazdasági tevékenységgel kapcsolatos különös jogállásról történő lemondás tényét is.
+
+
+
+A különleges jogállású mezőgazdasági termelőt, olyan személynek (például nem adóalany magánszemély, másik különleges jogállású termelő) történő értékesítésekor, amikor kompenzációs felárra nem jogosult bizonylat kibocsátásra (számla- vagy nyugtaadásra) mindenképpen köteles. E mellett adó felszámítási és bevallási kötelezettsége (amennyiben nem választott alanyi mentességet ezekre az említett, különös adózás alá nem tartozó tevékenységeire) is van.
+
+
+
+(A mezőgazdasági tevékenység adózásával kapcsolatos bővebb tájékoztatást a mezőgazdasági őstermelő adózására vonatkozó információs füzet tartalmaz.)
+
+
+
+Használt ingóságokra, műalkotásokra, gyűjteménydarabokra és régiségekre vonatkozó különös szabályok
+
+Főszabály szerint a viszonteladó, a használt ingóság kereskedelmével foglalkozó adóalany – mindazon termékek értékesítése után, amely termékek és beszerzésük a különös szabályozás feltételeinek megfelel –, az adóalapot az árrés (értékesítési és beszerzési ár különbözete) alapján állapítja meg. (Egyedi nyilvántartáson alapuló módszer.) 
+
+
+
+Az Áfa tv. rendelkezései értelmében a viszonteladó dönthet úgy is, hogy az egyedi nyilvántartáson alapuló módszer helyett az adómegállapítási időszakban fizetendő adó összegének megállapítására a globális nyilvántartáson alapuló módszert alkalmazza. Ezt a választását előzetesen be kell jelenteni a NAV-hoz. Ebben az esetben a fizetendő adó összesített alapját az azonos adómérték alá eső termékeknek az adómegállapítási időszakra összesített árréstömege alapján kell megállapítani. Ha a globális módszer alkalmazását választotta, attól a választás évét követő naptári év végéig nem térhet el. A globális nyilvántartáson alapuló módszer nem alkalmazható az 50 ezer forint beszerzési árat meghaladó termékekre.
+
+
+
+A viszonteladó ilyen minőségében a használt ingóság, műalkotás, gyűjteménydarab, régiség beszerzéséhez – ideértve ezek Közösségen belüli beszerzését is –, importjához kapcsolódó előzetesen felszámított adó levonására nem jogosult, és csak olyan számla kibocsátásáról gondoskodhat, amelyben áthárított adó, illetve „visszaszámított” kulccsal meghatározott százalékérték nem szerepel. 
+
+
+
+A különös adózási mód nem terjed ki a viszonteladó valamennyi ügyletére, csak azokra, amelyekre az Áfa tv. feltételei fennállnak. Vagyis azokra, ahol a használt ingóságot, műalkotást, gyűjteménydarabot vagy régiséget a viszonteladó számára (a Közösség területéről) nem adóalany személy/szervezet, vagy olyan adóalany, akinek értékesítése az Áfa tv. 87. §-a szerint, a levonási jog korlátozására vonatkozó rendelkezések miatt mentes az adó alól, vagy másik viszonteladó értékesítette, vagy alanyi adómentes státuszú adóalany tárgyi eszközét értékesítette.
+
+
+
+A belföldön nyilvántartásba vett viszonteladó előzetes bejelentés alapján dönthet úgy is, hogy tevékenysége egészére nem alkalmazza a különleges eljárást, hanem adókötelezettségét például az általános szabályok alapján állapítja meg. Ezt a döntését a viszonteladó a tárgyévet megelőző év utolsó napjáig jelenti be a NAV-nak.
+
+
+
+A nyilvános árverés szervezőjére a különbözet szerinti adózásról lemondás lehetősége nem vonatkozik, számára kötelező a különös szabályok (a rá vonatkozó, árrés adózás) alkalmazása.
+
+
+
+Utazásszervezési szolgáltatásra vonatkozó különös szabályok 
+
+Utazásszervezési szolgáltatás nyújtása esetén a különös szabályok alkalmazása kötelező, attól való eltérésre még az adóalany arra irányuló választása esetén sem lenne lehetőség.
+
+
+
+A különös szabályok alkalmazásában utazásszervezési szolgáltatás az adóalany által 
+
+saját nevében, 
+
+utasnak nyújtott, 
+
+olyan, jellegadó tartalma alapján egészben vagy meghatározó részben turisztikai szolgáltatás, 
+
+amelynek teljesítéséhez saját nevében, de az utas javára megrendelten, más adóalanyok által teljesített szolgáltatásnyújtás, termékértékesítés (így különösen személyszállítás, szálláshely-szolgáltatás, ellátás, idegenvezetés stb.) szükséges. 
+
+
+
+A különös adómegállapítási szabályok alkalmazása szempontjából jelentős tényező – még 2020 évben – az utas fogalom. Utas, az Áfa tv. alkalmazása szempontjából – az utazásszervezőnek tett nyilatkozata alapján –, az az ügyfél, aki (amely) az utazásszervezési szolgáltatást nem adóalanyként vagy nem adóalanyi minőségében, illetőleg adóalanyi minőségében saját nevében és javára veszi igénybe. Erről a teljesítést megelőzően kell az utazásszervező felé nyilatkozni. (E meghatározás szerint minden utazásszervezési szolgáltatást igénybe vevő ügyfelet nyilatkoztatni kell utas státuszát, utaskénti igénybevételi szándékát illetően.) Fontos szempont, hogy csak a turisztikai jellegű utak minősülhettek és minősülhetnek utazásszervezési szolgáltatásnak a különös szabályok alkalmazásában, azonban utasnak minősülhet egy cég is abban az esetben, ha saját nevében és javára veszi igénybe az utazásszervezési szolgáltatást, és e tényről nyilatkozik az utazásszervezőnek. (Vagyis például amennyiben egy alapítvány gyerekek üdültetését rendeli meg az utazásszervezőtől, melynek költségét nem hárítja át, akkor az is lehet a különös szabályok alá tartozó utazásszervezési szolgáltatás.) 
+
+
+
+Az utazásszervezési szolgáltatásra vonatkozó különös adómegállapítási szabály tulajdonképpen egy árrésadózás, melynek lényege az, hogy az utazási iroda által fizetendő általános forgalmi adót az utasok által fizetett előlegek, részvételi díjak összegének és az utazásszervező megrendelésére más személyek által az utas javára teljesített (értékesítések és) szolgáltatások díjával csökkentett összege, az „árrés” után kell megállapítani és megfizetni. Az árrésadózásba vonandó, utas javára megrendelt és más adóalany által teljesített szolgáltatásnyújtáshoz, termékértékesítéshez kapcsolódóan megállapított adóra – mint előzetesen felszámított adóra – az utazásszervező adólevonási jogot nem alapíthat. Vagyis az utazásszervezési szolgáltatáshoz igénybe vett szolgáltatások beszerzését terhelő vagy az utazásszervező által ezzel kapcsolatban megállapított adó az utazásszervezőnél nem levonható.
+
+
+
+VIII. Bizonylatolási kötelezettség- Számlázás, nyugtaadás
+
+Mikor kell mindenképpen számlát adni?
+
+Az adóalany a saját személyétől eltérő más személy, szervezet részére köteles az általa teljesített termékértékesítésről és szolgáltatásnyújtásról számlát kibocsátani, ha
+
+adóalany vevő részére vagy nem adóalany jogi személy vevő részére értékesít,
+
+részére más adóalany fizet előleget,
+
+nem adóalany fizet előleget, és kéri a számla kibocsátását, illetőleg akkor is, ha ugyan nem kéri a számla kibocsátását, de az előleg összege eléri vagy meghaladja a 900000 forintnak megfelelő pénzösszeget,
+
+az adóalany a Közösség más tagállamában, illetve harmadik országban termékértékesítést teljesít, szolgáltatást nyújt (nem csak adóalany részére), feltéve, hogy a teljesítéssel a belföldi gazdasági célú letelepedésének helye a legközvetlenebbül érintett (ennek hiányában pedig lakóhelye, szokásos tartózkodási helye van kizárólag belföldön), és emellett, Közösség más tagállamába irányuló teljesítés esetén a más tagállami vevő az adófizetésre kötelezett ezzel összefüggően,
+
+ha jogi személynek nem minősülő, nem adóalany részére 900000 forintnak megfelelő pénzösszeget elérő vagy meghaladó, adót is tartalmazó ellenértékű ügyletet teljesít (még akkor is, ha az ellenértéket készpénzben a teljesítésig kiegyenlítik és a vevő számlát nem kér), illetve a jelzett értékhatár alatt is, ha a vevő számlát kér.
+
+
+
+Amennyiben az átvett, megszerzett előlegről bocsátja ki az adóalany a számlát, akkor a számlában szövegesen utalni kell annak az ügyletnek a tartalmára, adataira, melynek ellenértékébe az előleg majd beszámításra kerül.
+
+
+
+A számla kötelező adattartalmát az Áfa tv. részletesen meghatározza. Ezeket az adott ügylethez igazodóan a számlán szerepeltetni kell. Például számla kibocsátás kelte, számla sorszáma, értékesítő adószáma, vevő neve címe, adómentességre utalás, különös adózási módra utalás, fordított adózásra utalás, stb. Más jogszabály is előírhat a számlán feltüntetendő adatokra vonatkozó kötelezettséget, azoknak a feltüntetése vagy hiánya az Áfa tv. alkalmazásában azonban nem bír jelentőséggel. 
+
+
+
+A számla kibocsátás időpontja
+
+A számla kibocsátásáról az adóalanynak legkésőbb
+
+a teljesítésig, 
+
+előleg esetén a fizetendő adó megállapításáig – amely pénzben juttatott előleg esetében annak kézhezvételekor, jóváírásakor, egyéb esetben az előleg megszerzésekor van –, 
+
+de legkésőbb az attól számított ésszerű határidőn belül kell gondoskodni. 
+
+
+
+Az ésszerű határidő
+
+készpénzfizetéses vásárlás esetében azonnali, vagyis ilyen esetben a számlát (amennyiben számlaadási kötelezettség áll fenn) haladéktalanul ki kell bocsátani 
+
+az Áfa tv. szerinti adómentes közösségi termékértékesítés vagy egyes, olyan szolgáltatásnyújtások esetén, amely után az adót az Áfa tv. szerinti illetve az Irányelv 196. cikkének tartalmában megfelelő tagállami szabályozás alapján a szolgáltatást igénybevevő „külföldi” adóalany fizeti („szolgáltatás export” bizonyos, főszabály szerinti teljesítési hely alá tartozó eseteiben), a teljesítés hónapját követő hónap 15. napján belüli
+
+egyéb, de adó felszámításával, áthárításával járó esetekben a kibocsátási határidő maximum 15 nap, ez 2020. július 1-jétől 8 napra csökken 
+
+egyéb, nem készpénzes, de adó felszámításával nem járó esetekben az ésszerű határidőt az adóalany az észszerűség határain belül maga határoztatja meg. 
+
+
+
+Lehetőség van gyűjtőszámla kibocsátására is, abban az esetben, ha az adóalany ugyanannak a személynek, szervezetnek és azonos teljesítési napon, vagy a teljesítésre kötelezett adóalany azonos adómegállapítási időszakában több, számla kibocsátásra jogalapot teremtő ügyletet teljesít. [Bizonyos közösségi ügyletekben a gyűjtőszámlázás időszaka nem lehet egy naptári hónapnál hosszabb. (Közösségen belüli adómentes termékértékesítés, valamint olyan szolgáltatásnyújtás esetén, amely után az adót az Áfa tv. szerinti illetve az Irányelv 196. cikkének tartalmában megfelelő tagállami szabályozás alapján a szolgáltatást igénybevevő fizeti („szolgáltatás export” bizonyos, főszabály szerinti teljesítési hely alá tartozó eseteiben.)] 
+
+A gyűjtőszámla alkalmazásában a feleknek előzetesen meg kell állapodniuk.
+
+
+
+Meghatalmazotti számlázás
+
+A számla, egyszerűsített számla kibocsátására az Áfa tv. előírásai szerint kötelezett adóalany bizonylat kibocsátási kötelezettségét – előzetes írásbeli megállapodás, meghatalmazás alapján – az adóalany nevében és javára az adóalany vevő, megrendelő átvállalhatja, vagy azt a számla kibocsátására kötelezett adóalany nevében és az ő képviseletében eljáró harmadik fél adóalany is teljesítheti.
+
+
+
+Mi a számla?
+
+Számla: minden olyan okirat, amely megfelel az Áfa tv. X. fejezetében meghatározott feltételeknek. 
+
+Így például: 
+
+a számla kibocsátása a megfelelő tagállami szabályozás szerint történjen, 
+
+feleljen meg az eredet hitelessége, az adattartalom sértetlensége és az olvashatóság követelményének, 
+
+a kötelező adattartalmi feltételeknek, 
+
+a megjelenési formára vonatkozó feltételeknek, stb. 
+
+
+
+A számla és a nyugta megjelenési formája lehet elektronikus vagy papír alapú. 
+
+A számla kibocsátásának időpontjától a számla megőrzésére vonatkozó időszak végéig biztosítani kell a számla eredetének hitelességét, adattartalma sértetlenségét és olvashatóságát. 
+
+
+
+Az említett követelménynek bármely olyan üzleti ellenőrzési eljárással eleget lehet tenni, amely a számla és a termékértékesítés vagy a szolgáltatásnyújtás között megbízható ellenőrzési kapcsolatot biztosít.
+
+
+
+Elektronikus számla esetében az eredetének hitelességére és az adattartalmának sértetlenségére vonatkozó követelményeket oly módon is teljesíteni lehet, hogy 
+
+minősített elektronikus aláírással látják el, vagy 
+
+az elektronikus adatcsere (EDI) rendszerben elektronikus adatként hozzák létre és továbbítják. 
+
+Az elektronikus számlázás alkalmazásához (hacsak jogszabály eltérően nem rendelkezik) a vevő beleegyezésére szükség van minősített elektronikus aláírással ellátott elektronikus számlázás esetében is, és előzetes írásbeli megállapodásra van szükség az EDI rendszerben megvalósuló elektronikus számlázáshoz.
+
+
+
+Nyugtaadási kötelezettség
+
+Amennyiben a teljesítésig történő készpénzfizetés alkalmával a nem adóalany (és nem jogi személy) vevő számlát nem kért, akkor az eladó köteles az értékesítésről nyugtát adni. 
+
+A nyugtaadás minden adóalanyra nézve kötelező a számlával nem kísért, a teljesítéssel egyidejű készpénzfizetéses értékesítés esetén, kivétel:
+
+a szerencsejáték szolgáltatás, 
+
+a sajtótermék értékesítés és
+
+a kezelőszemélyzet nélküli automata berendezés útján teljesített termékértékesítés, szolgáltatásnyújtás. 
+
+Egyes meghatározott tevékenységi körökben a nyugtaadási kötelezettséget kizárólag pénztárgép alkalmazásával lehet teljesíteni. Erről külön jogszabály rendelkezik.
+
+
+
+A számlázással, nyugtaadással kapcsolatos legfontosabb szabályokról részletesen egy külön információs füzetben találhatnak eligazítást. 
+
+
+
+A pénztárgéppel, annak kötelező alkalmazásával kapcsolatban részletesen tájékozódhatnak a NAV internetes honlapján az Adó/Online pénztárgépek friss rovatban elhelyezett tájékoztatókból, gyakran felmerülő kérdésekre adott válaszokból.
+
+
+
+IX. Az adó megállapítása, elszámolása, bevallása
+
+Az adót 
+
+az adóalany főszabályként önadózással, 
+
+a kizárólag az ingatlan sorozatjelleggel történő értékesítése miatt adóalannyá válók esetében az állami adóhatóság kivetéssel, 
+
+a termékimport és egyes speciális adózói körbe tartozó adóalanyok egyes közösségi beszerzései tekintetében a vámhatóság kivetéssel, 
+
+a termékimporttal kapcsolatban kiadott, önadózásra jogosító engedély birtokában az arra jogosult adóalany az importot terhelő adót, (ide nem értve azokat az eseteket, amikor a vámtartozás a szabályok be nem tartása miatt keletkezik) önadózással
+
+állapítja meg.
+
+
+
+Az adó megállapítása, bevallása, megfizetése vagy visszaigénylése érdekében olyan nyilvántartást kell vezetni, mely alkalmas a felszámított adómérték szerinti részletezésben az értékesítés utáni adófizetési kötelezettség, illetve adófizetés alóli mentesség, az előzetesen felszámított adó – ezen belül a levonható és a nem levonható rész – összegszerű meghatározására és kimutatására. 
+
+
+
+Az adó megállapítása
+
+Az adómegállapítási időszakban megállapított fizetendő adó együttes összegét az adóalany csökkentheti 
+
+egyrészt a saját maga által a fordított adózás szabályai szerint fizetendő adóként megállapított és ugyanezen adómegállapítási időszakban keletkezett levonható adó összegével, 
+
+valamint a termékimport után saját maga vagy közvetett vámjogi képviselője által fizetendő adóként megállapított és ugyanezen adómegállapítási időszakban keletkezett levonható adó összegével, 
+
+másrészt az ugyanezen adómegállapítási időszakban vagy ezt megelőzően, de legfeljebb ezen adómegállapítási időszakot magában foglaló naptári évet megelőző egy naptári éven belül keletkezett, más által rá áthárított, 
+
+valamint termék importjához kapcsolódóan megfizetett, 
+
+továbbá bizonyos, az Áfa tv. 11. § (2) bekezdés a) és b) pontjában szabályozott, termékértékesítéssel egy tekintet alá eső esetekben fizetendőként megállapított, levonható előzetesen felszámított adó összesített összegével. 
+
+
+
+A különbözet az „elszámolandó adó”. Amennyiben az adólevonási jog gyakorlására meghatározott adómegállapítási időszakban az adóalany nem élt, vagy még nem élhetett a levonás lehetőségével, az a későbbiekben – az elévülési időn belül – önellenőrzéssel gyakorolható, az adólevonási jog keletkezésének eredeti időpontjában. Vagyis lehetőség van az adólevonás – adólevonási jog keletkezésének adómegállapítási időszakán túli – gyakorlására az elévülési időn belül, de bizonyos esetekben azt már csak önellenőrzés keretében teheti meg az adóalany.
+
+
+
+Az adó elszámolása
+
+Ha az „elszámolandó adó” pozitív előjelű (a fizetendő adó összege a levonható előzetesen felszámított adó összegét meghaladja), az adóalany az „elszámolandó adó” összegét köteles megfizetni, az Art-ben meghatározott esedékességig. 
+
+
+
+Ha az „elszámolandó adó” negatív előjelű (a levonható előzetesen felszámított adó összege a fizetendő adó összegét meghaladja), a különbözetet az adóalany az elévülési időre figyelemmel 
+
+a soron következő adómegállapítási időszakban a fizetendő adót csökkentő tételként beszámíthatja, vagy
+
+meghatározott feltételek szerint és módon az állami adóhatóságtól visszaigényelheti. (Az Art-ben meghatározott esedékességtől kezdődően a bevallás benyújtásával egyidejűleg, kérheti az állami adóhatóságtól annak visszatérítését.) 
+
+
+
+Az állami adóhatóság az adóalany adó-visszaigénylési kérelmét akkor teljesíti, ha a negatív előjelű különbözet összege eléri vagy meghaladja 
+
+a havi bevallásra kötelezett adóalany esetében az 1 millió forintot,
+
+negyedéves bevallásra kötelezett adóalany esetében a 250 ezer forintot,
+
+éves bevallásra kötelezett adóalany esetében az 50 ezer forintot.
+
+
+
+Jogutóddal történő megszűnés esetén a jogelőd megszűnéshez kapcsolódó adóbevallásában szerepeltetett negatív elszámolandó adó – az előzőekben ismertetett értékhatár-feltételek nem teljesülése miatt – vissza nem igényelhető összegét a jogutód veheti figyelembe, mint fizetendő adót csökkentő tételt.
+
+
+
+A beszerzések „kifizetettsége” nem feltétele a visszaigénylési lehetőségnek, annak a kiutalási határidő meghatározása során van szerepe. 
+
+
+
+Amennyiben az adózó adószámát az állami adóhatóság törölte, az adószám törléséről szóló határozat véglegessé válásának napjával adólevonási joga elenyészik. 
+
+
+
+Az adó bevallása
+
+Az általános forgalmi adót 
+
+a havi adóbevallásra kötelezett adóalany a tárgyhónap első napjától az utolsó napjáig, 
+
+a negyedéves adóbevallásra kötelezett adóalany a tárgynegyedév első napjától a tárgynegyedév utolsó napjáig, 
+
+éves bevallásra kötelezett adóalany a tárgyév első napjától a tárgyév utolsó napjáig 
+
+terjedő időszakra állapítja meg (ez az adómegállapítási időszak). 
+
+
+
+A tárgyévi adókötelezettség bevallására a tárgyévnek megfelelő évszámmal kezdődő ’65. számú nyomtatvány (2020. évre vonatkozóan a 2065. számú nyomtatvány) szolgál, melyen az adóalanynak jelölnie kell, hogy az adott bevallás havi, negyedéves vagy éves időszakra vonatkozik.
+
+
+
+Az általános forgalmi adó nettó összegéről a bevallást
+
+a havi adóbevallásra kötelezett adóalanynak a tárgyhót követő hó 20-ig, 
+
+a negyedéves adóbevallásra kötelezett adóalanynak a negyedévet követő hó 20-ig, 
+
+az éves bevallásra kötelezett adóalanynak a tárgyévet követő év február 25-ig 
+
+kell benyújtania. 
+
+
+
+A pozitív előjelű elszámolandó adót ezen időpontig kell befizetnie, illetve a negatív előjelű elszámolandó adót ezen időponttól igényelheti vissza (amennyiben annak előzőekben ismertetett jogszabályi feltételei fennállnak).
+
+
+
+Az adóalanyoknak – néhány kivételtől eltekintve – az adóbevallási kötelezettséget, így az áfa bevallást is, elektronikus úton kell teljesíteni. 
+
+
+
+Mindenképpen elektronikus úton kell benyújtani a közösségi kereskedelmi kapcsolatra tekintettel beadandó ’A60 jelölésű, 2020-ban 20A60 számú összesítő nyilatkozatot. 
+
+
+
+Az áfa bevallás gyakorisága
+
+Havi
+
+Havonként kell adóbevallást benyújtani: 
+
+az adó fizetésére kötelezett adóalanynak, ha a tárgyévet megelőző második év adómegállapítási időszak(ai)ban fizetendő adó együttes összegének és az ugyanezen vagy korábbi adómegállapítási időszakokban keletkezett – de a tárgyévet megelőző második év adómegállapítási időszak(ai)ban érvényesített – levonható, előzetesen felszámított adó különbözetének (az elszámolandó adónak) éves szinten összesített – vagy annak időarányosan éves szintre átszámított – összege pozitív előjelű, és az 1 millió forintot elérte
+
+a csoportos adóalanyiságot választó adóalanynak, 
+
+speciális esetekben a közvetett vámjogi képviselőnek, 
+
+a speciális jogállású adóraktár üzemeltetőnek, 
+
+a kizárólag az adómentes termékimportot megalapozó közösségi adómentes értékesítés miatt adóalannyá váló adózónak, valamint 
+
+az adóalanynak a bejelentkezés évének, valamint az azt követő évnek az általános forgalmi adó kötelezettségéről, feltéve, hogy jogelőd nélkül alakult.
+
+
+
+Havi gyakorisággal köteles áfa bevallási kötelezettségének eleget tenni az említetteken túl a speciális adózói körbe tartozó alanyi adómentességet választó, a kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző és a mezőgazdasági tevékenységet folytató, különös jogállású adóalany. E speciális adózói körbe tartozó adóalanynak csak akkor áll fenn „alkalmi” áfa-bevallási kötelezettsége, ha az adott hónapban volt áfa bevallást eredményező ügylete: adófizetési kötelezettsége keletkezett, összesítő nyilatkozat benyújtási kötelezettséget eredményező közösségi ügylete volt, vagy levonási jogot kíván gyakorolni.
+
+
+
+Éves
+
+Évente kell adóbevallást benyújtania az adó fizetésére kötelezett adóalanynak, ha 
+
+a tárgyévet megelőző második évben az elszámolandó adójának éves szinten összesített – vagy annak időarányosan éves szintre átszámított – összege előjelétől függetlenül nem érte el a 250 ezer forintot, és 
+
+az Áfa tv. szerinti termékértékesítése, szolgáltatásnyújtása ellenértékének adó nélküli, éves szinten összesített összege nem haladja meg az 50 millió forintot, 
+
+és feltéve, hogy nem rendelkezik közösségi adószámmal.
+
+
+
+Negyedéves bevallási gyakoriság az éves gyakorisági értékhatárok átlépése, közösségi adószám kiváltása stb. miatt állhat fenn.
+
+
+
+A bevallási gyakoriság az értékhatárok átlépésével változhat, erre figyelemmel kell lenni. 
+
+
+
+Bevallást attól függetlenül be kell nyújtani, hogy az elszámolandó adó összege pozitív vagy negatív előjelű vagy esetleg nulla.
+
+
+
+X. Online számlaadat-szolgáltatási kötelezettség (belföldi összesítő jelentés)
+
+Az értékesítő adóalanyt, mint számlakibocsátót, online számlaadat-szolgáltatási kötelezettség terheli, amit 
+
+nyomdai úton előállított nyomtatvány használatával kibocsátott számlákról (melyet az állami adó- és vámhatóság által erre a célja biztosított elektronikus felületen 5 napon belül, vagy ha a számla adótartalma eléri vagy meghaladja az ötszázezer forintot, akkor 1 napon belül) kell teljesítenie
+
+számlázó programmal – számlázási funkcióval rendelkező programmal – kiállított számlák adattartalmáról azonnal, külön jogszabályban meghatározott módon, gép-gép kapcsolat útján kell teljesítenie.
+
+Azokról a számlákról kell ezt az adatszolgáltatást teljesíteni, amelyekben egy másik belföldön nyilvántartásba vett adóalanyra áthárított adó összege a százezer forintot elérte vagy meghaladja. Az ezzel kapcsolatos szabályozás 2020. július 1-jétől változik. Az online számlaadat-szolgáltatási kötelezettség értékhatár nélkül kiterjed a belföldi teljesítési helyű (kivéve az adómentes Közösségen belüli termékértékesítést), belföldi adóalany részére kiállított számlákra, értékhatár nélkül. 
+
+
+
+
+
+Az adólevonási jogot gyakorló, számlabefogadó adóalanynak is van belföldi összesítő jelentés-tételi kötelezettsége termék beszerzése, szolgáltatás igénybevétele, illetve előleg fizetése esetén, a 100 ezer forint adótartalmat elérő vagy meghaladó áthárított adóösszeget tartalmazó számlákkal összefüggésben. Ezt az áfabevallásban, a 2065 jelű nyomtatvány M lapjain kell megtennie.
+
+
+
+Mindezekről bővebb tájékoztatás található a NAV honlapján a kiemelt témák között, az Online számla cím alatt.
+
+
+
+Ez a tájékoztató az Áfa tv. és az Art. rendelkezésein alapul.
+
+
+
+A Közösségen belüli termékbeszerzés, termékértékesítés, szolgáltatásnyújtás és igénybevétel esetén teljesítendő adókötelezettségről külön információs füzetek tartalmaznak részletes eligazítást, melyek a NAV internetes honlapjáról letölthetők. 
+
+
+
+
+
+XI. További információ, segítség
+
+Ha további kérdése van az adózási szabályokkal kapcsolatban, keressen minket bizalommal alábbi elérhetőségeinken! 
+
+
+
+Interneten:
+
+a NAV honlapján a www.nav.gov.hu-n.
+
+
+
+E-mailen:
+
+a következő címen található űrlapon: http://nav.gov.hu/nav/e-ugyfsz/e-ugyfsz.html.
+
+
+
+Telefonon:
+
+a NAV Infóvonalán 
+
+belföldről a 1819, 
+
+külföldről a +36 (1) 250-9500 hívószámon.
+
+
+
+NAV Ügyfél-tájékoztató és Ügyintéző rendszerén (ÜCC) keresztül* 
+
+belföldről a 80/20-21-22-es, 
+
+külföldről a +36 (1) 441-9600-as telefonszámon.
+
+
+
+A NAV Infóvonala és az ÜCC hétfőtől csütörtökig 8 óra 30 perctől 16 óráig, valamint péntekenként 8 óra 30 perctől 13 óra 30 percig hívható.
+
+
+
+*A rendszer használatához ügyfél-azonosító számmal vagy Részleges Kódú Telefonos Azonosítással (RKTA) kell rendelkeznie. Ha nincs ügyfél-azonosító száma, akkor azt a TEL jelű nyomtatványon igényelhet, amit a NAV-hoz személyesen vagy a KÜNY tárhelyen keresztül lehet benyújtani. Felhívjuk figyelmét, hogy ha nem saját ügyében kívánja használni az ÜCC-t, akkor EGYKE adatlap benyújtása is szükséges.
+
+
+
+Személyesen:
+
+országszerte a NAV ügyfélszolgálatain. Ügyfélszolgálat-kereső:
+https://nav.gov.hu/nav/ugyfelszolg.
+
+
+
+
+
+								Nemzeti Adó- és Vámhivatal
+
+21

@@ -1,0 +1,55 @@
+Cím: „Év végi Családi kedvezmény kalkulátor” Felvezető szöveg: „A következő két kalkulátor használatával segítséget kap a családi kedvezmény bevallásához.
+A „Családikedvezmény-kalkulátor az éves bevallás elkészítéséhez” kalkulátor segítségével kiszámolhatja, hogy milyen összegben tud kedvezményt érvényesíteni és a bevallását, hogyan kell kitöltenie.
+A program kizárólag az Ön által megadott adatok alapján számol, ezért célszerű a munkáltatói, kifizető igazolások, saját nyilvántartása alapján kitölteni.
+Ügyeljen arra, hogy a családi járulékkedvezmény alapjaként az adóalap után meghatározott, Önt terhelő járulék vehető figyelembe!
+Ez például azt jelenti, hogy a munkabére után családi járulékkedvezmény alapjaként megállapított járulék nem lehet több: 2019-ig mint az adóalap 17 százaléka, 2020-tól mint az adóalap 18,5 százaléka.
+A „Jogszerű családi kedvezmény kiszámítása” kalkulátor segítségével meghatározhatja az év közben jogszerűen és jogosulatlanul igénybevett családi járulékkedvezmény összegét.
+A családi kedvezményről bővebben „A családokat érintő adóalap-kedvezmények” című 73. számú információs füzetben olvashat.
+A 2020. évi 73. számú információs füzet elérhetősége: ) Ebben az információs füzetben a családi kedvezményen kívül megtalálja a négy vagy több gyermeket nevelő anyák kedvezményének, az első házasok kedvezményének, valamint a kedvezmények igénybevételének és bevallásának részleteit is.”
+Súgó!
+Kérem az alábbi súgó szövegeket a megadott sorokhoz elhelyezni.
+CSKK: A családikedvezmény-kalkulátor segítséget nyújt a magánszemély részére a kedvezmény érvényesítéséhez, bevallásához.
+Q2 A családi kedvezményt a jogosult minden jogosultsági hónapra igénybe veheti.
+Azonban – a törvényi feltételek megléte esetén – lehetőség van a kedvezmény közös érvényesítésére, megosztására.
+Q3 Közös érvényesítésTöbb jogosult esetén a családi kedvezményt a jogosultak közösen is igénybe vehetik, akár már év közben az adóelőleg megállapítása során, akár év végén a bevallásban.
+Például, egy házaspár a két gyermeke után, vagy az élettársak a közös gyermekük után, vagy a kismama és a férje a magzat után közösen érvényesíthetik a családi kedvezményt.Megosztás Ha az adott jogosultsági hónapra járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt az adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni.
+Például az anya az élettársával a saját gyermeke után, a kismama a magzat után az élettársával, regisztrált élettársával, a rokkantsági járadékban részesülő a házastársával, élettársával megoszthatja a családi kedvezményt a bevallásban.
+A jogosult nem oszthatja meg azon jogosultsági hónapokra eső családi kedvezmény összegét: amelyekben a gyermek után a családi pótlékot egyedülállóként veszi igénybe, amelyekben a családi kedvezményt más jogosulttal közösen érvényesíti.
+Q4 Ha évközben változott az eltartottak, kedvezményezett eltartottak száma, akkor ezt mindenképpen figyelembe kell venni a családi kedvezménykeret megállapításakor.
+Y A kalkulátor segítséget nyújt a korábbi évekre visszamenőlegesen, figyelemmel az adott évben hatályos szabályokra.
+E: Ide írja be az eltartottak számát.
+Eltartott: a kedvezményezett eltartott, az, aki a Cst. szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető (például a nappali tagozatos egyetemista gyermek) vagy figyelembe vehető lenne akkor is, ha a kedvezményezett eltartott után nem családi pótlékot állapítanak meg (például rokkantsági járadékban részesülő), családi pótlékot nem állapítanak meg (például a magzat), vagy a családi pótlék összegét a gyermekek száma nem befolyásolja (például a speciális gondozást igénylő gyermek eseten a családi pótlékot a testvérek száma nem befolyásolja).
+En (ugyan az mint az előző az első mondat kivételével) Ide írja be, hogy a megadott hónapban, hónapokban mennyi volt az eltartottak száma.
+Eltartott: a kedvezményezett eltartott, az, aki a Cst. szerint a családi pótlék összegének megállapítása szempontjából figyelembe vehető (például a nappali tagozatos egyetemista gyermek) vagy figyelembe vehető lenne akkor is, ha a kedvezményezett eltartott után nem családi pótlékot állapítanak meg (például rokkantsági járadékban részesülő), családi pótlékot nem állapítanak meg (például a magzat), vagy a családi pótlék összegét a gyermekek száma nem befolyásolja (például a speciális gondozást igénylő gyermek eseten a családi pótlékot a testvérek száma nem befolyásolja).
+KE- KEn Kérjük, ide írja be, hogy az eltartottak közül hány gyermek tekinthető kedvezményezett eltartottnak!
+Kedvezményezett eltartott az, aki után a magánszemély a Cst. szerint családi pótlékra jogosult (elég a jogosultság fennállása, nem feltétel a családi pótlék folyósítása), a magzat a várandósság időszakában (fogantatásának 91. napjától megszületéséig), az, aki a családi pótlékra saját jogán jogosult, a rokkantsági járadékban részesülő magánszemély.
+FKE- FKEn: Ide írja be, hogy a kedvezményezett eltartottak közül hány gyermek felváltva gondozott.
+Ha Önnek nincs ilyen gyermeke, akkor ezt a sort nem kell kitöltenie.
+Felváltva gondozott gyermek az, akit az elvált, külön élő szülők jogerős bírósági döntés, egyezség, vagy közös kérelem alapján felváltva gondoznak, és ezáltal a családi pótlékra 50-50 százalékos arányban jogosultak.
+A felváltva gondozott gyermek mindkét szülőnél kedvezményezett eltartottnak számít, azonban az utána megállapított családi kedvezmény összegét a szülők 50 százalékban érvényesíthetik.
+ÖCS: Ide írje be az összevont adóalap családi kedvezmény alapjaként figyelembe vehető összegét 2020-ban az összevont adóalapjának a négy vagy több gyermeket nevelő anyák kedvezményével és az első házasok kedvezményével csökkentett összegét.
+Ha Ön a korábbi évekre számol, akkor az első házasok kedvezményével csökkentett összevont adóalapot kell beírni!
+Ez a sor 2020-ban megegyezik a bevallási tervezet, vagy a kitöltött 20SZJA bevallás 26. sorával (a korábbi években a 21. sorral).
+TJJK Ide írja be a más jogosult, jogosultak által év közben érvényesített a családi járulékkedvezmény összegét.
+Ezt az összeget megtalálja a másik jogosult M30-as igazolásán, igazolásain, a 29. (a korábbi években a 24.) sorban, sorokban.”
+Egyes esetekben az Ön adóbevallási tervezete is tartalmazza ezt az összeget a 28.(a korábbi években 23.) sorban.
+AJJK Ide írja be az Ön által év közben érvényesített a családi járulékkedvezmény összegét.
+Ezt az összeget megtalálja az Ön M30-as igazolásán, igazolásain a 29. (a korábbi években a 24.) sorban, sorokban.
+Az Ön adóbevallási tervezete is tartalmazza ezt az összeget a 29. (a korábbi években 24.) sorában.
+ÉCSK Ide írja be, hogy milyen összegben szeretné a családi kedvezményt érvényesíteni!
+Ha a teljes kedvezmény összegét Ön érvényesíti, akkor írja be a „Családi kedvezmény törvény szerint járó összege” sorban szereplő összeget!
+Ha Ön jogosult házastársával, élettársával közösen veszi igénybe a kedvezményt, vagy azt nem kívánja teljes összegben érvényesíteni, akkor a „Családi kedvezmény törvény szerint járó összege” sor összegéből írja be azt a részt, amit érvényesíteni kíván!
+MJ Ide írja be a családi járulékkedvezmény szempontjából figyelembe vehető járulékok összegét a kifizetői igazolások, nyilvántartások alapján.
+Az ’M30 igazoláson a „Családi járulékkedvezménnyel kapcsolatos tájékoztatás” blokk (b) oszlopának az összesítő sorát vegye figyelembe!
+Fontos figyelni arra, hogy ez az összeg nem lehet több az összevont adóalap, azaz a bevallás 22. sorának (2020 előtt 18. sor) 18,5 százalékánál(2020 előtti években a 17 százalékánál).
+FJ Ide írja be az előzősorból azt az összeget, amit a jövedelméből levontak.
+Az ’M30 igazoláson a „Családi járulékkedvezménnyel kapcsolatos tájékoztatás” blokk (d) oszlopának az összesítő sorát vegye figyelembe!
+JLJK Ha Ön jogosulatlanul vett igénybe családi járulékkedvezményt, akkor annak összegét ide írja be.
+A jogosulatlanul igénybevett családi járulékkedvezmény kiszámításához segítséget nyújt a „Jogszerű családi járulékkedvezmény kiszámítása” kalkulátor.
+JAJ: Ide írja be a havi járulékalapot képező jövedelmet a kifizetői igazolások, nyilvántartások alapján.
+Az ’M30 igazoláson a „Családi járulékkedvezménnyel kapcsolatos tájékoztatás” blokk (a) oszlopát vegye figyelembe!
+KK Ide írja be az adott hónapra megállapított, Önt megillető családi kedvezmény összegét.
+MJ Ide írja be a családi járulékkedvezmény szempontjából figyelembe vehető járulékok havi összegét a kifizetői igazolások, nyilvántartások alapján.
+Az ’M30 igazoláson a „Családi járulékkedvezménnyel kapcsolatos tájékoztatás” blokk (b) oszlopát vegye figyelembe!
+ÉRJK Ide írja be az adóévben, az adott hónapban érvényesített családi járulékkedvezmény összegét a kifizetői igazolások, nyilvántartások alapján.
+Az ’M30 igazoláson a „Családi járulékkedvezménnyel kapcsolatos tájékoztatás” blokk (c) oszlopát vegye figyelembe!

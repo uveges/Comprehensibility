@@ -1,0 +1,222 @@
+NAV-azonosító mobilalkalmazás Felhasználói kézikönyv Tartalom 		1.	Tartalom	2 		2.	Dokumentumverziók	4 		3.	Bevezetés	5 		3.1.	Az alkalmazás célja és feladata	5 		3.2.	Az alkalmazás elérése	5 		4.	Előfeltételek az applikáció használatához	6 		4.1.	Regisztrált felhasználó	6 		5.	Az alkalmazás nézetei	7 		5.1.	Bevezető felület	7 		5.2.	Beállítások	8 		5.3.	Információs gomb	9 		5.4.	Beviteli mód felület	9 		5.4.1.	Kód beolvasása	10 		5.4.2.	Kód beolvasása - értesítésalapú	11 		5.4.3.	Kód beolvasása - kódgenerálás	11 		5.4.4.	Jelszó megadása felület	12 		5.4.5.	Kézi bevitel	14 		5.5.	Azonosító kódok és új alkalmazás beállítása	18 		5.5.1.	Azonosító kód törlése	18 		6.	Kétlépcsős azonosítás bekapcsolása	20 		6.1.	Azonosítási mód kiválasztása	20 		6.2.	Alkalmazás letöltése, megnyitása	21 		6.2.1.	Alkalmazás letöltése, megnyitása - értesítésalapú	21 		6.2.2.	Alkalmazás letöltése, megnyitása - kódgenerálás	22 		6.3.	Összekapcsolás	22 		6.3.1.	Értesítésalapú - új készülék	23 		6.3.2.	Értesítésalapú - korábban párosított készülék	24 		6.3.3.	Összekapcsolás - kódgenerálás	25 		6.4.	Ellenőrzés	26 		6.4.1.	Ellenőrzés - értesítésalapú	27 		6.4.2.	Ellenőrzés - kódgenerálás	27 		6.5.	Sikeres ellenőrzés	28 		7.	Bejelentkezés kétlépcsős azonosítással	30 		7.1.	Bejelentkezés értesítésalapú párosított eszközzel	30 		7.2.	Bejelentkezés kódgenerálás-alapú párosított eszközzel	33 		7.3.	Sikertelen azonosítás	34 		8.	Kétlépcsős azonosítás módosítása	37 		8.1.	Új biztonsági kulcs előállítása	38 		9.	Párosított készülékek	41 		9.1.	Készülékrészletek oldal	41 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 				 	 Dokumentumverziók A felhasználói kézikönyv eddigi verziói a következő időpontokban jelentek meg: Dokumentumverzió Szoftververzió A kiadás dátuma 1.0 1.0 2021.05.05 Bevezetés Az alkalmazás célja és feladata A NAV-azonosító mobilalkalmazás célja az Online Számla rendszerbe regisztrált felhasználó személyazonosságának ellenőrzése, biztonságos bejelentkezésének biztosítása.
+Az alkalmazás iOS és Android operációs rendszerrel működő okostelefonokra tölthető le.
+Az alkalmazás futtatásának feltétele: Android 7.0-ás és magasabb verziószámú, vagy iOS 11.0-ás és magasabb verziószámú operációs rendszer, aktív internetkapcsolat.
+FIGYELEM!
+Az alkalmazás használatához regisztrálni kell az Online Számla rendszerbe.
+Az alkalmazás elérése Az alkalmazás beszerezhető: Android operációs rendszerhez a Google Play Áruházból, iOS operációs rendszerhez App Store-ból.
+Az alkalmazás a “NAV-azonosító alkalmazás”-ra keresve érhető el.
+Előfeltételek az applikáció használatához Regisztrált felhasználó A NAV-azonosító mobilalkalmazás használatához szükség van egy Online Számla felhasználói fiókra, tehát h a a felhasználó még nem regisztrált az Online Számla rendszerbe, akkor az alkalmazás használata előtt ezt meg kell tennie.
+A felhasználó az Online Számla webes felületére bejelentkezve párosíthatja össze a felhasználói fiókot a mobilalkalmazással.
+A regisztrációs folyamatról bővebben az Online Számla rendszer Felhasználói kézikönyvének 7., “Regisztráció menete” című bekezdésében olvashat.
+A felhasználói kézikönyv megtalálható a  oldalon.
+Az alkalmazás nézetei Az alkalmazás első indításakor a Bevezető felület jelenik meg.
+Miután a felhasználó megismerte a Bevezető tartalmát és oldalait, továbbléphet az alkalmazás használatára.
+A Bevezető felülethez az alkalmazás későbbi használatakor is vissza lehet térni.
+Bevezető felület A Bevezető tájékoztató szövegei segítik a felhasználót az alkalmazás megismerésében.
+Ezt a felhasználó a Bevezető felületen található Tovább funkciógombra koppintva tudja elkezdeni.
+1.Alkalmazás indítása - Android 			2. Alkalmazás indítása - IOS Ha a felhasználó megismerte a Bevezető felületen található információkat, a Beállítás elkezdése funkciógombra koppintva kezdheti el az alkalmazás használatát.
+3. Bevezető vége - Android 			4. Bevezető vége - iOS Ha a felhasználó a Bevezető felületen található Kihagyás funkciógombra koppint, akkor a rendszer kihagyja az ismertető tartalmakat és közvetlenül a Beviteli mód felületre navigál.
+A Beviteli mód felületen lehet a kétlépcsős azonosítást beállítani.
+A Beviteli mód felületről bővebben a “Beviteli mód felület” című fejezetben olvashat.
+Beállítások Az alkalmazás bal felső sarkában található Beállítások ikonra koppintva az alkalmazás a Beállítások felületre navigál.
+A felületen a felhasználó beállíthatja az alkalmazás nyelvét.
+A következő opciók közül választhat: Magyar Angol Német.
+A megfelelő nyelv kiválasztása után az alkalmazás visszanavigál a kezdőfelületre.
+Ha a felhasználó nem kívánja módosítani az alkalmazás nyelvét, akkor a bal felső sarokban található “Vissza” funkciógombra koppintva visszanavigálhat az alkalmazás kezdőfelületére.
+5. Beállítások - Android 					6. Beállítások - iOS Információs gomb Az alkalmazás jobb felső sarkában található információs ikonra koppintva újból elérhető a Bevezető képernyő és az alkalmazás használatával kapcsolatos információs tartalmak.
+A Bevezető képernyő felületről bővebben a “Bevezető felület” című fejezetben olvashat.
+Beviteli mód felület A Bevezető felület megismerése után az alkalmazás a felhasználót a Beviteli mód felületre navigálja.
+Itt kiválasztható a kétlépcsős azonosítás beviteli módja.
+7. Beviteli mód felület - Android			8. Beviteli mód felület - iOS Kód beolvasása A Beviteli mód felületen található Kód beolvasása funkciógombra koppintva elindul a mobileszköz kamerája, így az Online Számla rendszer oldalán található QR-kód beolvasható.
+A QR-kód generálásáról az Online Számla rendszer felületén, a kétlépcsős azonosítás bekapcsolásáról bővebben a “Kétlépcsős azonosítás bekapcsolása” című fejezetben olvashat.
+Figyelem!
+A QR-kód beolvasához engedélyezni kell az alkalmazás hozzáférését a kamerához.
+Ha a beolvasott QR-kóddal nem volt sikeres a mobilalkalmazás és az Online Számla felhasználói fiók összekapcsolása, akkor “A kód érvénytelen” figyelmeztető üzenet jelenik meg.
+9. Érvénytelen QR Kód - Android				10. Érvénytelen QR Kód - iOS Az Újraolvasás funkciógombra koppintva a felhasználó újból megkísérelheti a QR-kód beolvasását.
+A Mégsem funkciógombra koppintva az alkalmazás visszanavigál a Beviteli mód felületre.
+Figyelem!
+Az alkalmazásban generált QR-kód 30 másodpercenként újragenerálódik.
+Kód beolvasása - értesítésalapú Ha a felhasználó Értesítésalapú azonosítási módot és Új készülék típusú összerendelést választott, akkor a QR-kód-sikeres leolvasása után a mobilalkalmazás a Jelszó megadása felületre navigál.
+A Jelszó megadása felületről bővebben a “Jelszó megadása felület” című fejezetben olvashat.
+Kód beolvasása - kódgenerálás Ha a felhasználó Kódgenerálás azonosítási módot választotta, akkor a QR-kód sikeres leolvasása után a mobilalkalmazás az Azonosító kódok felületre navigál.
+Az Azonosító kódok felületről bővebben az “Azonosító kódok és új alkalmazás beállítása” című fejezetben olvashat.
+Ha a felhasználó olyan fiókhoz tartozó QR-kódot olvas be, amellyel már létezik párosítása az eszközhöz, megjelenik a Párosítás felülírása figyelmeztető ablak.
+11. Párosítás felülírása - Android				12. Párosítás felülírása - iOS A felugró ablakban a Mégsem funkciógombra koppintva az eredetileg elmentett összekapcsolás megmarad és az új összerendelés nem írja felül.
+A Felülirás funkciógombra koppintva a felhasználó korábban elmentett párosítást felülírhatja.
+Ha a felhasználó többször is olyan fiókhoz tartozó QR-kódot olvas be, amellyel már létezik párosítása az eszközhöz, akkor az alábbi figyelmeztető ablak jelenik meg.
+13. Párosítás sikertelen felülírása - Android		14. Párosítás sikertelen felülírása - iOS A Tovább funkciógombra koppintva az elmentett összekapcsolás megmarad és az új összerendeléssel nem módosul.
+A Módosítás funkciógombra koppintva a felhasználó visszakerül a Felhasználónév megadása felületre, ahol lehetősége van módosítani az előzőleg megadott felhasználónevet.
+Jelszó megadása felület Az Értesítésalapú azonosítási mód és Új készülék típusú összerendeléshez tartozó QR-kód leolvasása után a mobilalkalmazás a Jelszó megadása felületre navigál.
+A felületen a felhasználói fiókhoz tartozó jelszó megadásával véglegesíthető a mobilkészülék és felhasználói fiók összekapcsolása.
+15. Jelszó megadása - Android			16. Jelszó megadása - iOS	 Az Online Számla rendszerhez tartozó felhasználói fiók jelszavát megadva, majd az Összekapcsolás funkciógombra koppintva a felhasználó véglegesítheti az összerendelést.
+Sikeres összekapcsoláskor a mobilalkalmazás a Sikeres összekapcsolás felületre navigál.
+17. Sikeres összekapcsolás felület	 A Rendben funkciógombra koppintva az alkalmazás az Azonosító kódok felületre navigál.
+Az Azonosító kódok felületről bővebben az “Azonosító kódok és új alkalmazás beállítása” című fejezetben olvashat.
+Kézi bevitel Az alkalmazás Kézi bevitel funkciójával a felhasználó kézzel adhatja meg a felhasználói fiók és mobileszköz párosításához tartozó kódot.
+A Beviteli mód felületen a Kézi bevitel funkciógombra koppintva az alkalmazás a Kézi bevitel felületre navigál, ahol az Online Számla rendszer oldalán található kód beírható.
+A QR-kód generálásáról az Online Számla rendszer felületen, a kétlépcsős azonosítás bekapcsolásáról bővebben a “Kétlépcsős azonosítás bekapcsolása” című fejezetben olvashat.
+18. Kézi bevitel - Android					19. Kézi bevitel - iOS	 A felhasználó az Online Számla webes felületén található 16 jegyű kódot a Kód megadása mezőbe gépelve, majd a Tovább funkciógombra kattintva tudja a mobilalkalmazást a felhasználói fiókhoz rendelni.
+A kódot begépelve a NAV-azonosító alkalmazás a felhasználót az Alkalmazás hozzáadása felületre navigálja.
+20. Alkalmazás hozzáadása - Android		21. Alkalmazás hozzáadása - iOS		 A felhasználó nevet adhat az azonosítóhoz tartozó alkalmazásnak, az Alkalmazás neve mező kitöltésével.
+A Korábbi alkalmazásaim gombra koppintva a felhasználó választhat a korábban megadott alkalmazásnevek között. 	 22 Korábbi alkalmazásaim - Android		23 Korábbi alkalmazásaim - iOS		 Az Alkalmazás neve mező kitöltése után, a Tovább funkciógombra koppintva az alkalmazás a Felhasználó neve felületre navigál, ahol megadható a felhasználóhoz tartozó tetszőleges felhasználónév.
+24. Felhasználónév megadása - Android		25. Felhasználónév megadása - iOS A Felhasználói név mező kitöltése után, majd a Tovább gombra koppintva az alkalmazás az Azonosító kódok felületre navigál.
+Itt megjelenik az az azonosító kód, amely segítségével a mobilalkalmazás és a webes felülethez tartozó felhasználói fiók összekapcsolható.
+A QR-kód generálásról az Online Számla rendszer felületén, a kétlépcsős azonosítás bekapcsolásáról bővebben az “Kétlépcsős azonosítás bekapcsolása” című fejezetben olvashat.
+Az Azonosító kódok felületről bővebben az “Azonosító kódok és új alkalmazás beállítása” című fejezetben olvashat.
+Azonosító kódok és új alkalmazás beállítása Ha a mobiltelefont már társították egy Online Számla rendszerhez tartozó felhasználói fiókhoz, akkor az Azonosító kódok felületen megjelennek a kódgenerálással csatlakoztatott felhasználók és a hozzájuk tartozó biztonsági kódok.
+26. Azonosító kódok - Android				27. Azonosító kódok - iOS	 Az Azonosító kódok felületen az Új alkalmazás funkciógomra koppintva megjelenik a Beviteli mód felület, ennek segítségével a felhasználó új felhasználói fiókhoz társíthatja az eszközt.
+Az Beviteli mód felületről bővebben az “Beviteli mód felület” című fejezetben olvashat.
+Azonosító kód törlése Ha a felhasználónak nincs szüksége egy meglévő azonosító kódra, akkor az Azonosító kódok felületen, a kiválasztott kód mellett található Törlés ikonra koppintva törölheti azt.
+A Törlés ikonra koppintva megjelenik az Azonosító törlése felugró ablak.
+28. Azonosító törlése- Android				29. Azonosító törlése- iOS	 A felhasználó a felugró ablakban található Törlés funkciógombra kattintva megerősítheti törlési szándékát és az azonosító kódot törli az alkalmazás.
+A Mégsem funkciógombra kattintva a törlési művelet megszakad, és az azonosító kód nem törlődik.
+Kétlépcsős azonosítás bekapcsolása Az Online Számla webes felületére első alkalommal bejelentkezve megjelenik a Kétlépcsős azonosítás beállítása oldal.
+A kétlépcsős azonosítás bekapcsolásához a rendszer egy négylépéses folyamaton vezeti végig a felhasználót.
+A lépések között a felhasználó bármikor visszanavigálhat a felület bal oldalán található Vissza funkciógomb segítségével.
+30. Párosított eszköz beállítása Azonosítási mód kiválasztása Az első lépésben a felhasználó az Azonosítási mód kiválasztása felületen a kétlépcsős azonosítás módszeréről dönthet.
+Az értesítésalapú azonosítási módszerrel a felhasználó a NAV-azonosító mobilalkalmazásban megjelenő értesítés segítségével engedélyezi a bejelentkezést kétlépcsős azonosítással.
+Figyelem!
+Az értesítésalapú azonosítási módszer használatához szükség van internetkapcsolatra.
+A Kódgenerálás módszerrel a felhasználó a bejelentkezéshez szükséges másodlagos azonosító kódot generál.
+Kódgenerálás esetén nincs szükség internetelérésre Az azonosítási mód kiválasztása után a rendszer az Alkalmazás letöltése, megnyitása felületre navigál.
+Az Alkalmazás letöltése, megnyitása felületről bővebben az “Alkalmazás letöltése, megnyitása” című fejezetben olvashat.
+Alkalmazás letöltése, megnyitása A második lépésben az Alkalmazás letöltése, megnyitása felületen a felhasználó az alkalmazás eléréséről és letöltéséről talál információkat.
+A felületen megjelenő tartalmak és funkciógombok az előző lépésben kiválasztott azonosítási mód függvényében eltérőek.
+Alkalmazás letöltése, megnyitása - értesítésalapú Ha a felhasználó az értesítésalapú azonosítási módszerrel használja a kétlépcsős azonosítást, akkor az Alkalmazás letöltése, megnyitása felületen lehetősége van a kétlépcsős azonosításhoz új készülék hozzáadására, vagy korábban párosított készülékek kiválasztására.
+31. Értesítésalapú azonosítás Ha a felhasználó még nem rendelkezik párosított készülékkel, akkor az Új készüléket használok funkciógombra kattintva a rendszer átnavigálja az Összekapcsolás felületre.
+Itt a felhasználó QR-kód beolvasással társíthatja a mobilkészülékét felhasználói fiókjához.
+Új készülék felhasználói fiókhoz kapcsolásáról bővebben az “Értesítésalapú - új készülék” című fejezetben olvashat.
+A Korábban párosított készüléket használok funkciógombra kattintva a rendszer az Összekapcsolás felületre navigál.
+Itt a felhasználó választhat a korábban társított eszközök közül.
+A korábban párosított készülék összekapcsolásáról bővebben az “Értesítésalapú - korábban párosított készülék” című fejezetben olvashat.
+Alkalmazás letöltése, megnyitása - kódgenerálás Ha a felhasználó a kódgenerálás módszerrel használja a kétlépcsős azonosítást, akkor az Alkalmazás letöltése, megnyitása felületen az alkalmazás elérhetőségéről talál információt.
+32. Kódgenerálás alkalmazás letöltése, megnyitása A Tovább az összekapcsolásra funkciógombra kattintva a rendszer átnavigál az Összekapcsolás felületre.
+Itt a felhasználó mobilkészülékkel beolvashatja az azonosításhoz szükséges QR-kódot.
+A kódgenerálás típusú összakapcsolásról bővebben az “Összekapcsolás - kódgenerálás” című fejezetben olvashat.
+Összekapcsolás A harmadik lépésben, az Összekapcsolás felületen a felhasználó a mobilkészülék és felhasználói fiókjának összekapcsolásáról talál információkat.
+A felületen megjelenő tartalmak és funkciógombok az előző lépésekben kiválasztott Azonosítási mód és Új készülék vagy Korábban párosított készülék függvényében eltérőek.
+Értesítésalapú - új készülék Ha a felhasználó az értesítésalapú azonosítás módszerrel és Új készülék hozzárendelésével használja a kétlépcsős azonosítást, akkor az Összerendelés felületen tudja az ehhez tartozó QR-kódot megjeleníteni.
+33. Értesítésalapú azonosítás - QR-kód beolvasása A kódgeneráláshoz tartozó QR-kód beolvasásáról bővebben a “Kód beolvasása” című fejezetben olvashat.
+A felületen megjelenő QR-kód beolvasásával a mobilalkalmazás a Jelszó megadása képernyőre navigál.
+Itt az Online Számla rendszerben szereplő felhasználói fiókhoz tartozó jelszó megadásával a mobilkészülék a felhasználói fiókhoz párosítható.
+Az Jelszó megadása felületről bővebben a “Jelszó megadása felület” című fejezetben olvashat.
+A Tovább gombra kattintva a rendszer megjeleníti a felhasználói fiókhoz párosított eszközöket.
+Sikeres összekapcsoláskor az újonnan társított eszköz is megjelenik a listában.
+A párosított készülék kiválasztásáról és további lépésekről bővebben a “Értesítésalapú - korábban párosított készülék” c. fejezetben olvashat.
+Értesítésalapú - korábban párosított készülék Ha a felhasználó az értesítésalapú azonosítási módszerrel és korábban párosított készülék hozzárendelésével használja a kétlépcsős azonosítást, akkor az Összerendelés felületen megjelennek a felhasználói fiókhoz párosított eszközök.
+Ha a felhasználó korábban nem párosított eszközt a felhasználói fiókjához, akkor az Összekapcsolás oldalon nem jelenik meg választható elem.
+34. Korábban párosított eszközök - nincs Ha a felhasználó rendelkezik korábban párosított készülékkel, akkor a megjelenő készülékek listájából választva a Tovább az ellenőrzésre funkciógomb kattinthatóvá válik.
+35. Korábban párosított készülék A funkciógombra kattintva a rendszer az Ellenőrzés felületre navigálja a felhasználót és a mobilalkalmazás értesítés formájában megjeleníti az ellenőrzéshez szükséges biztonsági kódot.
+Az Ellenőrzés felületről bővebben a “Ellenőrzés - értesítésalapú” c. fejezetben olvashat.
+Összekapcsolás - kódgenerálás Ha a felhasználó az Kódgenerálás módszerrel használja a kétlépcsős azonosítást, akkor az Összerendelés felületen tudja az ehhez tartozó QR-kódot megjeleníteni.
+36. Kódgenerálás azonosító alkalmazással - QR-kód beolvasása A QR-kód beolvasásáról bővebben a “Kód beolvasása” című fejezetben olvashat.
+A QR-kód beolvasása után a mobilalkalmazás átnavigál az Azonosító kódok képernyőre.
+Itt a felhasználó leolvashatja a kétlépcsős azonosítás aktiválásához szükséges ellenőrző kódot.
+A mobilalkalmazásban található Azonosító kódok képernyő működéséről bővebben a “Azonosító kódok és új alkalmazás beállítása” című fejezetben olvashat.
+Az Összekapcsolás felületen található QR-kód beolvasása után, a Tovább az ellenőrzésre funkciógombra kattintva a rendszer átnavigál az Ellenőrzés felületre.
+Az Ellenőrzés felületről bővebben a “Ellenőrzés - kódgenerálás” című fejezetben olvashat.
+Ha a felhasználó nem tudja a telefonjával beolvasni a QR-kódot, a Nem tudom leolvasni a kódot funkciógombra kattintva a rendszer átnavigálja az Összekapcsolás felületre.
+Itt megjelenik a 16 karakter hosszú beviteli kód, amely segítségével kézi bevitellel is elvégezheti az összekapcsolást.
+37. Kódgenerálás azonosító alkalmazással - Kézi bevitel A Kézi bevitel használatáról bővebben a “Kézi bevitel” című fejezetben olvashat.
+A kézi bevitel elvégzése után a Tovább az ellenőrzésre funkciógombra kattintva a rendszer átnavigál az Ellenőrzés felületre.
+Itt a felhasználó véglegesítheti a kétlépcsős azonosítás bekapcsolását.
+Az Ellenőrzés felületről bővebben a “Ellenőrzés - kódgenerálás” című fejezetben olvashat.
+Ellenőrzés A negyedik, utolsó lépésben, az Ellenőrzés felületen a felhasználó a mobilalkalmazásban megjelenő ellenőrzőkódot a weblapra írja be.
+A felületen megjelenő tartalmak és funkciógombok az előző lépésekben kiválasztott Azonosítási mód függvényében eltérők.
+Ellenőrzés - értesítésalapú Ha a felhasználó az értesítésalapú módszerrel használja a kétlépcsős azonosítást, akkor az Ellenőrzés felületen tudja a kétlépcsős azonosítás bekapcsolásához értesítésben kapott azonosító kódot megadni.
+38. Értesítésalapú azonosítás - Ellenőrzés Ha az alkalmazásban nem jelent meg az értesítés, akkor az Azonosító megadása webes felületen található Értesítés újraküldése funkciógombra kattintva igényelhet új azonosító kódot.
+Az Azonosító kód mezőt kitöltve, az Ellenőrzés funkciógombra kattintva a rendszer a Sikeres ellenőrzés oldalra navigál.
+A Sikeres ellenőrzés oldalról bővebben a “Sikeres ellenőrzés” című fejezetben olvashat.
+Ellenőrzés - kódgenerálás Ha a felhasználó a kódgenerálás módszerrel használja a kétlépcsős azonosítást, akkor az Ellenőrzés felületen lehet a mobilalkalmazás Azonosító kódok képernyőjén található azonosító kódot megadni.
+39. Kódgenerálás azonosító alkalmazással - Ellenőrzés Az Azonosító kód mező kitöltése után az Ellenőrzés funkciógombra kattintva a rendszer a Sikeres ellenőrzés oldalra navigál.
+A Sikeres ellenőrzés oldalról bővebben a “Sikeres ellenőrzés” című fejezetben olvashat.
+Sikeres ellenőrzés Ha a felhasználó a mobilalkalmazásban található azonosító kóddal sikeresen elvégezte az Ellenőrzés lépését, a rendszer átnavigálja a Sikeres ellenőrzés felületre.
+Az Ellenőrzés teljesítésével a felhasználó véglegesítette az Online Számla rendszer felhasználói fiókjához tartozó kétlépcsős azonosítást is.
+A Sikeres ellenőrzés felületen jelennek meg az összerendeléshez tartozó biztonsági kulcsok.
+Figyelem!
+A biztonsági kulcsok később nem jelennek meg a felhasználónak, azokat érdemes elmenteni.
+40. Sikeres ellenőrzés A biztonsági kulcsok lehetővé teszik az Online Számla rendszerbe bejelentkezést olyan esetekben is, amikor a kétlépcsős azonosítás sikertelen.
+A sikertelen azonosításról bővebben a “Sikertelen azonosítás” című fejezetben olvashat.
+A felületen található Befejezés funkciógombra kattintva a kétlépcsős azonosítás bekapcsolása folyamat lezárul, és a felhasználó sikeresen bejelentkezett az Online Számla rendszerbe.
+Bejelentkezés kétlépcsős azonosítással A kétlépcsős azonosítást beállítva, az Online Számla rendszerbe bejelentkezéshez a felhasználó kétlépcsős azonosítása szükséges.
+A kétlépcsős azonosítás módja függ attól, hogy a felhasználó milyen módszert választott.
+A felületen megjelenő tartalmak a kiválasztott azonosítási mód függvényében eltérőek.
+Az értesítésalapú azonosítási mód használatáról bővebb információ található “Bejelentkezés értesítésalapú párosított eszközzel” című fejezetben.
+A kódgenerálás azonosítási mód használatáról bővebb információ található “Bejelentkezés kódgenerálás-alapú párosított eszközzel” című fejezetben.
+Bejelentkezés értesítésalapú párosított eszközzel Ha a felhasználó a kétlépcsős azonosítás beállításakor értesítésalapú azonosítást választott, akkor a következő bejelentkezéskor a Kétlépcsős azonosítás felület jelenik meg.
+41. Kétlépcsős azonosítás A felületen a felhasználó kiválaszthatja az eszközt, amivel az azonosítást szeretné elvégezni, majd a Bejelentkezés funkciógombra kattintva a mobilalkalmazásban megjelenik az “Online Számla jóváhagyási kérés” értesítés, és a webes felület a Kétlépcsős azonosítás oldalra navigálja a felhasználót.
+Az Online Számla rendszer felől érkező kétlépcsős azonosításról a felhasználó a párosított mobilkészüléken, alkalmazásértesítéssel kap információt.
+Figyelem!
+Az értesítésalapú azonosítás használatához internetkapcsolat szükséges.
+Az alkalmazásértesítésre koppintva a mobilalkalmazás a Bejelentkezés képernyőre navigál.
+A Bejelentkezés képernyőn a felhasználó megerősítheti bejelentkezési szándékát az adott felhasználóhoz.
+42. Bejelentkezés képernyő A képernyő Igen funkciógombjára koppintva a bejelentkezés az Online Számla rendszerbe megerősíthető.
+Az Igen gombra koppintva a rendszer rövid időn belül bejelentkezteti a felhasználót.
+43. Kétlépcsős azonosítás - Értesítésalapú bejelentkezés Ha a telefonon nem jelenik meg az értesítés, akkor a felhasználó a webes felületen az Értesítés újraküldése funkciógombra kattintva új értesítést kérhet.
+Ha a felhasználó olyan értesítést kap az alkalmazásban, amit nem ő kezdeményezett, akkor lehetősége van azt elutasítani, a Nem én vagyok funkciógombra koppintva.
+Ilyenkor az azonosítás sikertelen, a kezdeményezett bejelentkezési folyamat megszakad.
+A sikertelen azonosítással és annak megoldásával kapcsolatban bővebb információ a “Sikertelen azonosítás” című fejezetben található.
+Bejelentkezés kódgenerálás alapú párosított eszközzel Ha a felhasználó a kétlépcsős azonosítás beállításakor kódgenerálás-alapú azonosítást választott, akkor a következő bejelentkezéskor megjelenik a Kétlépcsős azonosítás felület.
+44. Kétlépcsős azonosítás - Bejelentkezés biztonsági kóddal A felhasználó a bejelentkezéshez szükséges azonosító kódot a párosított mobilkészüléken, az Azonosító kódok képernyőn találja.
+Az Azonosító kódok felületről bővebben az “Azonosító kódok és új alkalmazás beállítása” című fejezetben olvashat.
+A kétlépcsős azonosítás megerősítéséhez az Online Számla rendszer felületén található Azonosító kód mező kitöltése szükséges, a felhasználóhoz tartozó hatjegyű azonosító kóddal.
+Az Azonosító kód mező kitöltése után az Ellenőrzés funkciógomb aktívvá válik.
+A funkciógombra kattintva a rendszer ellenőrzi az azonosító kód helyességét.
+Sikeres ellenőrzéskor a rendszer bejelentkezteti a felhasználót az Online Számla rendszerbe.
+Sikertelen bejelentkezéskor a rendszer tájékoztatja a felhasználót az azonosító kóddal kapcsolatos hibáról.
+45. Kétlépcsős azonosítás – Helytelen azonosító kód A sikertelen azonosítással és annak megoldásával kapcsolatban bővebb információ a “Sikertelen azonosítás” című fejezetben található.
+Sikertelen azonosítás Ha a felhasználó nem tud azonosító kódot megadni, vagy az azonosítás folyamata sikertelen, akkor a webes felületen található Nem tudok belépni funkciógombra kattinthat.
+A funkciógombra kattintva a rendszer átnavigál a Biztonsági kulcs megadása felületre.
+46. Biztonsági kulcs megadása felület A felületen a felhasználó a Kétlépcsős azonosítás beállítása folyamatban létrejött biztonsági kulcsot adhatja meg.
+Figyelem!
+Egy biztonsági kulcs csak egyszer használható fel!
+Ha a felhasználónak nincsenek helyes biztonsági kulcsai, akkor a Nem férek hozzá a biztonsági kulcsaimhoz funkció segítségével igényelhet új kulcsokat.
+A Nem férek hozzá a biztonsági kulcsaimhoz funkciógombra kattintva megjelenik az Új biztonsági kulcs igénylése felugró ablak.
+47. Új biztonsági kulcs igénylése A felugró ablakban található Igénylés funkciógombra kattintva a rendszer egy biztonsági kulcsot tartalmazó levelet küld a felhasználói fiókhoz tartozó e-mail-címre.
+A rendszer által küldött e-mail tartalmaz egy új biztonsági kulcsot, ezt a felhasználó a bejelentkezéskor egyszer használhatja.
+A Biztonsági kulcs mező kitöltése után a Bejelentkezés funkciógomb aktívvá válik.
+A funkciógombra kattintva a rendszer ellenőrzi a biztonsági kód helyességét.
+Sikeres ellenőrzéskor a rendszer bejelentkezteti a felhasználót az Online Számla rendszerbe.
+Sikertelen bejelentkezéskor a rendszer tájékoztatja a felhasználót az azonosító kóddal kapcsolatos hibáról.
+48. Helytelen biztonsági kulcs hibaüzenet Kétlépcsős azonosítás módosítása Az Online Számla rendszerben a felhasználó módosíthatja a bejelentkezéshez szükséges kétlépcsős azonosítás módját.
+A Felhasználói profil felületen, a Módosítás funkciógombra kattintva megjelenik a módosítható elemek listája.
+49. Felhasználói profil - Kétlépcsős azonosítás módosítása A megjelenő lehetőségek közül a Kétlépcsős azonosítás módosítása elem választásakor a rendszer átnavigál a Kétlépcsős azonosítás módosítása felületre.
+A Kétlépcsős azonosítás módosítása felület működése azonos a Kétlépcsős azonosítás beállítása felülettel.
+A Kétlépcsős azonosítás beállítása felületről bővebb információt a “Kétlépcsős azonosítás bekapcsolása” című fejezetben találhat.
+A sikertelen azonosítással és annak megoldásával kapcsolatban bővebb információ a “Sikertelen azonosítás” című fejezetben található.
+Figyelem!
+A Kétlépcsős azonosítás módosítása folyamat során a biztonsági kulcsok nem generálódnak újra.
+Új biztonsági kulcs előállítása A Kétlépcsős azonosítás bekapcsolása folyamat végeztével az Online Számla rendszer automatikusan generál a felhasználónak biztonsági kulcsokat.
+A biztonsági kulcsokról bővebb információ található a “Sikeres ellenőrzés” című fejezetben található.
+A felhasználó további biztonsági kulcsokat állíthat elő a Felhasználói profil oldalon.
+A Felhasználói profil felületen, a Módosítás funkciógombra kattintva megjelenik a módosítható elemek listája.
+50. Felhasználói profil - Új biztonsági kulcsok előállítása A megjelenő lehetőségek közül a Új biztonsági kulcsok előállítása elem választásakor megjelenik az Új biztonsági kulcsok előállítása felugró ablak.
+51. Új biztonsági kulcsok generálása A felugró ablakban található Jelszó mező kitöltése után a Generálás gomb kattinthatóvá válik.
+A Generálás funkciógombra kattintva a rendszer ellenőrzi az Online Számla rendszerben található felhasználói fiókhoz tartozó jelszó helyességét.
+Ha az ellenőrzés sikertelen, a rendszer figyelmezteti a felhasználót a hibáról.
+52. Biztonsági kulcsok generálása - felugró ablak Ha az ellenőrzés sikeres, a felületen megjelenik a Biztonsági kulcsok felugró ablak a felhasználónak generált új biztonsági kulcsokkal.
+53. Biztonsági kulcsok A Másolás funkciógombra kattintva a biztonsági kulcsok a vágólapra kerülnek.
+A felhasználó a Letöltés funkciógombra kattintva egy “.txt” kiterjesztésű állományba töltheti le a biztonsági kulcsokat.
+A Befejezés funkciógombbal a felugró ablak bezárható.
+Párosított készülékek A felhasználó a Szolgáltatások menüpont, Párosított készülékek opció kiválasztásával, a Párosított készülékek oldalon tudja a felhasználói fiókhoz tartozó párosított eszközök adatait megtekinteni, és a párosítások adatait módosítani, vagy törölni.
+54 Párosított készülékek oldal A felületről további információkat az Online Számla rendszer Felhasználói kézikönyvének 19.5.
+(Párosított eszközök) bekezdésében olvashat.
+A felhasználói kézikönyv megtalálható a  oldalon.
+Készülékrészletek oldal Ha a felhasználónak van párosított eszköze, akkor a Részletek funkciógombra kattintva a rendszer a Készülékrészletek oldalra navigálja.
+A felhasználó ezen az oldalon tudja módosítani és törölni a korábban felvett, párosított eszközök adatait.
+55. Készülék részletei A felhasználó az Adatok módosítása funkciógombbal szerkesztheti a készülékhez tartozó adatokat, a Készülék szerkesztése ablakban.
+56. Készülék szerkesztése A felületen a készülék státuszát és leírását is módosíthatja a felhasználó, és a Mentés funkciógombbal megerősítheti a változást.
+A Mégsem funkciógombra kattintva a felhasználó elvetheti a módosításokat.
+A Készülékrészletek oldalon, a Készülék törlése funkciógombra kattintva megjelenik a Készülék törlése felugró ablak.
+57. Készülék törlése A felhasználó a Törlés megerősítése funkciógombbal megszüntetheti a párosítást az eszköz és a felhasználói fiók között.
+A Mégsem funkciógombra kattintva a törlés elvethető.  Figyelem!
+A törlés után a felhasználó újból párosíthatja az eszközt a felhasználói fiókhoz, a Kétlépcsős azonosítás bekapcsolása folyamaton keresztül.
+Ha a felhasználó nem hitelesítette a készüléket az értesítésekhez, akkor a részletek között megjelenik a Hitelesítés funkciógomb.
+58. Nem hitelesített készülék A felhasználó a Hitelesítés funkciógombbal elindíthatja a hitelesítés folyamatát.
+A funkciógombra kattintva megjelenik az Azonosító kód megadása a hitelesítéshez felugró ablak és a készüléken értesítésként megjelenik az azonosító kód.
+59. Készülék hitelesítése A felhasználó az Azonosító kód mező kitöltése után, az aktivvá vált Ellenőrzés funkciógombra kattintva hitelesítheti a készüléket.
+Ha a felhasználó a kapott kóddal nem tudja hitelesíteni a készüléket, az Új kód kérése funkciógombbal kérhet új biztonsági kódot.
+Ha a felhasználó hitelesítette a készüléket az értesítésekhez, a Készülékinformációk felületen megjelenik az Értesítések panel.
+Az Értesítések módosítása funkciógombra kattintva megjelenik az Értesítések módosítása felugró ablak.
+60. Értesítések módosítása A felugró ablakban található, Kétfaktoros azonosításhoz kapcsoló be- és kikapcsolásával engedélyezhető, hogy a felhasználó minden kétfaktoros azonosításkor a kiválasztott készülékre kapjon értesítéseket.
+14

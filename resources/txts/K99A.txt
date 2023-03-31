@@ -1,0 +1,25 @@
+Az OSS rendszerbe külföldön regisztráló adóalanyok távértékesítés utáni számlaadat-szolgáltatására vonatkozó szankciómentesség
+
+
+
+2021. július 1-jétől az OSS (One Stop Shop) rendszer keretében a távértékesítések után is be lehet vallani és fizetni az áfát azokban az esetekben, amikor az értékesítő nem telepedett le a teljesítési hely szerinti tagállamban. E rendszer előnye, hogy az adókötelezettségek a rendszerbe történő bejelentkezés államában teljesíthetők, így távértékesítések kapcsán az érintett adóalanyoknak nem kell a távértékesítés teljesítési helye szerinti államban a nyilvántartásba vételüket kérelmezniük.
+
+
+
+A rendszer alkalmazásának következménye, hogy a külföldi adóalanyt az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) rendelkezései alapján, belföldön teljesített távértékesítései kapcsán nem terheli számlaadat-szolgáltatási kötelezettség. Ennek oka, hogy az OSS rendszerbe regisztrált adóalany a nyilvántartásba vétel államának szabályai szerint köteles az általa teljesített ügyletről a számlát kibocsátani, vagyis arra a magyar jogszabályokban előírt számlaadat-szolgáltatási kötelezettség nem terjed ki.  
+
+
+
+E következmény azonban csak 2021. július 1-jétől érvényesül, ezért ezen időpontig a 2021. január 4-én hatályba lépett szabályok értelmében, a belföldi teljesítési helyű – és ezáltal belföldi nyilvántartásba vételre kötelezett (vagy azt választó) – távértékesítést végző adóalanyok kötelesek a belföldön teljesített értékesítéseik számláiról adatszolgáltatást teljesíteni. 
+
+
+
+Minthogy ezen adóalanyoknak – a 2021. március 31-ig tartó szankciómentes időszakkal összevetve – mindössze a második negyedévben kellene adatszolgáltatást teljesíteniük és az ehhez szükséges fejlesztéseket megvalósítaniuk, a Nemzeti Adó- és Vámhivatal (NAV) 2021. június 30. napjáig eltekint a számlaadat-szolgáltatás nem teljesítése miatt kiszabható szankció (mulasztási bírság) alkalmazásától, illetőleg utólagosan sem kötelezi az adóalanyokat az adatszolgáltatás teljesítésére.
+
+
+
+A szankciómentesség csak azon adóalanyokra vonatkozik, amelyek
+
+2021. július 1. napjáig valamely tagállamban regisztrálnak az OSS rendszerbe, 
+
+kizárólag a Magyarországra irányuló távértékesítés okán kötelezettek a belföldi nyilvántartásba vételre.

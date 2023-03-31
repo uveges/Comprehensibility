@@ -1,0 +1,56 @@
+
+
+Tárgy: OSS-regisztráció módosításának elfogadása
+
+Ügyfél: <ügyfél (közvetítő) neve>
+OSS-azonosítója: <xxxxxxxxxx>
+Regisztrációmódosítási kérelem benyújtásának napja: <éééé.hh.nn.>
+Regisztrációmódosítási kérelem iktatószáma: <KÉRELEM BÁRKÓD>
+Alapregisztrációs kérelem benyújtásának napja: <éééé.hh.nn.> 
+Alapregisztrációs kérelem iktatószáma: <KÉRELEM BÁRKÓD>
+
+
+                                  ÉRTESÍTÉS
+
+Tisztelt <ügyfél neve>!
+
+A Nemzeti Adó- és Vámhivatal (NAV) elfogadta
+
+ha közvetítő jár el
+      - a közvetítőként eljáró <közvetítő neve > által benyújtott,
+
+regisztrációmódosítási kérelmét a Közösségi Egyablakos Rendszer (OSS)
+
+OSS regisztrációs kérelem – uniós séma
+      uniós sémájában.
+
+OSS regisztrációs kérelem – nem uniós séma
+      nem uniós sémájában.
+
+
+OSS regisztrációs kérelem – IOSS közvetítői regisztráció
+      importsémájában közvetítőként.
+
+
+OSS regisztrációs kérelem – IOSS adózói regisztráció
+      importsémájában adózóként.
+
+A NAV a megváltozott adatokat <éééé.hh.nn.> napján vette nyilvántartásba.
+
+[SZABADON   GÉPELHETŐ   RÉSZ,   A   MÓDOSÍTÁSSAL   ÉRINTETT,   A   MÓDOSÍTÁS
+KÖVETKEZTÉBEN MEGVÁLTOZOTT ADATOK FELSOROLÁSA]
+
+
+[A döntéshozatal helye és dátuma: elektronikus pecsét szerint]
+
+                               [igazgató neve]
+                                  igazgató
+                           (a hatáskör gyakorlója)
+
+                      [a döntés kiadmányozójának neve]
+               [a döntés kiadmányozójának hivatali beosztása]
+
+
+A döntésről értesülnek:
+   1. a címzett, elektronikusan.
+

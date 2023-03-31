@@ -1,0 +1,11 @@
+e-ellenőrzés – a biztonságos, korlátok nélkül megoldás
+
+A magyar adóhatóság már 2015-ben megkezdte az e-ellenőrzések előkészítését, amikor az ellenőrzés megbízólevelét és tájékoztatását elektronikus úton küldte meg az adózók elektronikus tárhelyére. A Magyarországon 2018-ban bevezetett kötelező e-ügyintézés az adóhatóság mellett az adózókat is az elektronikus kommunikáció útjára terelte. A törvényi kötelezés innovatív informatikai megoldások kialakítására ösztönözte az adóhatóságot, mely során alapvetés volt, hogy az új kommunikációs eszköz adatméret-korlát nélkül és költségmentesen álljon az adózók rendelkezésére. 
+
+A 2018. év végén elkészült platform és a méretkorlát nélküli digitalizált iratanyag továbbításának lehetősége rendkívül népszerűvé tette az e-kommunikációt az ellenőrzések során, melynek eredményként 2019-ben kialakult az EU-ban is egyedülálló e-ellenőrzés. Ezen ellenőrzések teljes folyamata a digitális térben zajlik, az adózó és az adóhatóság a személyes és a postai út mellőzésével tartja a kapcsolatot. 2019-2020 során az ellenőrzött adózók 2,7 millió Mbyte méretű e-dokumentumot küldtek, míg az adóhatóság közel 1 millió e-iratot küldött részükre.
+
+Az e-ellenőrzésnek köszönhetően, Magyarországon a járványhelyzettel bevezetett korlátozások sem akadályozták az ellenőrzéseket. Az informatikai eszközökkel az adózók bárhonnan, biztonságos körülmények között tudtak együttműködni a hatósággal. A biztonság mellett, az e-ellenőrzés rendkívül költséghatékony és környezettudatos eljárás is, a nyomdai (több mint 5 millió lap) és postai díjak megtakarításával. 
+
+Az e-ellenőrzés legnagyobb eredménye azonban az eljárások hosszának jelentős rövidülése. Míg egy klasszikus utólagos adóellenőrzés átlagos hossza 2019-2020-ban 128 nap volt, addig az e-ellenőrzés esetében ez már csak 86 nap volt. 
+
+Az e-ellenőrzések mindenkinek előnyösek, hiszen az adózók és az adóhatóság is humán és anyagi kapacitást takarít meg, melyet egyikük gazdasági tevékenységére, másikuk pedig a költségvetési bevételek hatékonyabb biztosítására fordíthat.

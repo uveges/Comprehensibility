@@ -1,0 +1,65 @@
+Adatváltozás bejelentése
+
+Jogosultak köre
+
+Jogosult az, aki egyéni vállalkozói tevékenységet folytat (már működő egyéni vállalkozó).
+
+Hol intézhető
+
+Az egyéni vállalkozó az egyéni vállalkozók nyilvántartásában szereplő adatainak megváltozását az ügyfélkapun történő belépést követően a Webes Ügysegéden keresztül jelentheti be.
+
+Szükséges iratok
+
+A Webes Ügysegéden keresztül történő elektronikus ügyintézéshez nem szükségesek iratok.
+
+További információ
+
+További információ telefonon a NAV Infóvonalán a 1819-es számon vagy személyesen a NAV ügyfélszolgálatain kérhető.
+
+Ügyintézési idő
+
+Sürgősségi eljárásra nincs mód. Ha a bejelentő a Webes Ügysegéden található változás-bejelentési űrlapot megfelelően töltötte ki, a nyilvántartást vezető szerv a megváltozott adatokat haladéktalanul, automatikusan, az e célra rendszeresített elektronikus rendszeren keresztül nyilvántartásba veszi, és a Webes Ügysegéden keresztül megküldi a bejelentő részére a nyilvántartásba bejegyzett, megváltozott adatokat tartalmazó értesítést.
+
+Érdemes tudni
+
+Az egyéni vállalkozó – természetes személyazonosító adatai (név, születési helye, születési ideje, anyja neve), lakcíme és állampolgársági adatai kivételével – az egyéni vállalkozók nyilvántartásában szereplő adatainak megváltozását a változástól számított tizenöt napon belül köteles az e célra rendszeresített elektronikus űrlapon (változás-bejelentési űrlap) a Webes Ügysegéden keresztül bejelenteni.
+
+Az adózási nyilatkozatok (pl. áfa-nyilatkozatok) változását továbbra is a 20T101E jelű űrlapon keresztül vagy az Online Nyomtatványkitöltő Alkalmazásban (ONYA) is kitölthető „Egyéni vállalkozó bejelentése” elnevezésű szolgáltatással kell bejelenteni. Célszerű az ONYA használata bármely adat- és változásbejelentés esetén, mert az ONYA szolgáltatásai azonnali visszajelzést adnak a bejelentések eredményéről, és esetleges hibáiról, hiányosságairól.
+
+A Webes Ügysegéden keresztül megtett adatváltozás-bejelentés akkor tekinthető eredményesnek, ha a megváltozott adatok nyilvántartásban való rögzítése megtörtént. Az erről szóló értesítés a Webes Ügysegéd felületén elérhető, onnan letölthető. A bejelentett adatok ellenőrizhetőek az Egyéni Vállalkozók Nyilvántartásában.
+
+Elektronikus ügyintézés
+
+Kizárólag elektronikus úton – a Webes Ügysegéden keresztül – kezdeményezhető az adatváltozás bejelentése.
+
+A Webes Ügysegéd használatának általános feltételei
+
+Letölthető anyagok
+
+„Önálló vállalkozók tevékenységi jegyzéke„ (ÖVTJ-kódok)
+
+A KSH honlapján tartalom fül alatt segítséget találhat az egyéni vállalkozó az általa végezni kívánt tevékenység ÖVTJ kód szerinti besorolásáról:
+
+https://ksh.hu/docs/osztalyozasok/ovtj2/ovtj_tartalom_2019_11.pdf?lang=hu
+
+ A Magyar Kereskedelmi és Iparkamara honlapján elérhető a bejelentéshez, hatósági engedélyhez kötött gazdasági tevékenységek katalógusa: https://e-tus.hu/etus/
+
+Fogalmak
+
+Gyakran ismételt kérdések
+
+
+
+Jogszabályok
+
+2009. évi CXV. törvény az egyéni vállalkozóról és az egyéni cégről
+
+2009. évi LXXVI. törvény a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól
+
+210/2009. (IX. 29.) Korm. rendelet a kereskedelmi tevékenységek végzésének feltételeiről
+
+5/1997. (III. 5.) IKIM rendelet az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről
+
+21/2010. (V. 14.) NFGM rendelet az egyes ipari és kereskedelmi tevékenységek gyakorlásához szükséges képesítésekről
+
+Az EURÓPAI PARLAMENT ÉS A TANÁCS 2006. december 12-i 2006/123/EK IRÁNYELVE a belső piaci szolgáltatásokról

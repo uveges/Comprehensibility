@@ -1,0 +1,571 @@
+Az eÁFA rendszer
+
+
+
+Mi az az eÁFA rendszer?
+
+
+
+Az áfabevallást támogató rendszer. A rendszerben a NAV által összeállított bevallási tervezet felhasználásával áfabevallást lehet készíteni és benyújtani.
+
+
+
+
+
+Kötelező használni az eÁFA rendszert?
+
+
+
+Az eÁFA használata nem kötelező, az áfabevallás benyújtható az Általános Nyomtatványkitöltő Keretprogram segítségével (ÁNYK) is. 
+
+
+
+
+
+A rendszer használatához új technikai felhasználót kell létrehozni? 
+
+
+
+Nem. Az Online Számla rendszerben már létező technikai felhasználó az eÁFA rendszerhez is használható.
+
+
+
+
+
+Ki éri el a rendszert?
+
+
+
+Az áfabevallás benyújtására kötelezett adózó, és a nevében eljárni jogosult törvényes képviselő vagy állandó meghatalmazott (továbbiakban ezek: elsődleges felhasználó).
+
+
+
+Az adózó állandó meghatalmazottja akkor jelentkezhet be az eÁFA rendszerbe, ha 
+
+	valamennyi adóügy intézésére jogosult (EGYKE-adatlap 1. lap E/1. rovat),
+
+	valamennyi adóügyi bevallás, adatszolgáltatás, bejelentés, beadvány, kérelem intézésére jogosult (EGYKE-adatlap 3. lap G/1. rovat),
+
+	valamennyi adatszolgáltatás intézésére jogosult (EGYKE-adatlap 3. lap G/3. rovat),
+
+	az általános forgalmi adóval összefüggő adatszolgáltatások intézésére jogosult (az EGYKE-adatlap 3. lap G/3/d) rovat).
+
+
+
+Az elsődleges felhasználó az eÁFA rendszer bizonyos funkcióinak kezelésére másodlagos felhasználót hozhat létre az Online Számla rendszerben. A másodlagos felhasználó képviseleti joggal nem rendelkezik, jogosultságait az elsődleges felhasználó az Online Számla rendszerben határozza meg.  
+
+
+
+
+
+Hogy tud belépni az elsődleges felhasználó, és hogy tud belépni a másodlagos felhasználó?
+
+
+
+Az elsődleges felhasználók a bejelentkezésnél a Központi Azonosítási Ügynökön (KAÜ) keresztül ügyfélkapus belépési adataikkal hitelesítik magukat.
+
+A másodlagos felhasználók kétlépcsős azonosítással jelentkezhetnek be. 
+
+Ez azt jelenti, hogy felhasználónevük és jelszavuk mellett 
+
+egy külön alkalmazás által küldött belépési értesítés jóváhagyásával, vagy 
+
+egy, a mobileszközükre (mobiltelefon, tablet) telepített külön alkalmazással generált kóddal 
+
+jelentkezhetnek be.
+
+
+
+Az Online Számla rendszer webes felületén a másodlagos felhasználó első bejelentkezésekor a felhasználónév és jelszó megadása után megjelenik a „Kétlépcsős azonosítás bekapcsolása” felület. A felület a másodlagos felhasználót végigvezeti a kétlépcsős azonosítás bekapcsolásához.
+
+
+
+
+
+Használhatom-e egyszerre az Online Számla és az eÁFA rendszert?
+
+
+
+Igen, a párhuzamos használat nem okoz problémát, esetenként segíthet az érintett áfabevalláshoz tartozó adatszolgáltatások áttekintésében. Két különböző böngészőablakot kell megnyitni, és az egyikben az Online Számla rendszerbe, a másik ablakban pedig az eÁFA rendszerbe belépve használható egyszerre a két rendszer. Bejelentkezni csak egyszer kell a felületre.
+
+
+
+
+
+Az eÁFA rendszerben elsődleges felhasználóként az összes általam képviselt adózót látni fogom?
+
+
+
+Igen, bejelentkezés után az összes olyan adózó láthatóvá az elsődleges felhasználó számára, akire képviseleti jogosultsága vonatkozik. 
+
+
+
+
+
+Korábban be tudtam lépni az eÁFA rendszerbe, most viszont nem sikerül. Mi lehet a hiba?
+
+
+
+Először ellenőrizze, hogy képviseleti jogosultsága még érvényes-e! 
+
+
+
+Érdemes meggyőződni arról is, hogy a megfelelő böngészőt használja-e, illetve, hogy nincs-e rendszerkarbantartás. A NAV a https://onlineszamla.nav.gov.hu/home címen található Kezdőlapon a Hírek rovatban, továbbá honlapján a https://nav.gov.hu/nav/uzemszunet címen tájékoztatja a felhasználókat az Online Számla rendszer vagy az eÁFA rendszer, továbbá a NISZ Zrt. által végzett és a KAÜ-azonosítást igénylő alkalmazásokat érintő esetleges karbantartásáról.
+
+
+
+Bevallástervezet
+
+
+
+Mi a bevallástervezet?
+
+
+
+A bevallástervezet a NAV nyilvántartásán alapuló tervezet, amiben az adott áfamegállapítási időszakra vonatkozóan szerepel 
+
+a fizetendő áfa összege és annak adóalapja, valamint
+
+az áthárított áfa összege és annak adóalapja. 
+
+
+
+A bevallástervezetben megadott adatok felhasználásával az adózó az eÁFA rendszerben áfabevallást készíthet és nyújthat be.
+
+
+
+Ha a NAV nyilvántartásában nem szerepel az áfaalany adott adómegállapítási időszakra vonatkozó adata, a bevallástervezet nem értelmezhető.
+
+
+
+
+
+Kinek (mely adóalanyoknak) készít, és kinek (mely adóalanyoknak) nem készít a NAV bevallástervezetet?
+
+
+
+Bevallástervezet azoknak az áfaalanyoknak készül, akiknek belföldön bevallási kötelezettségük van. Így bevallástervezet készül a belföldön nyilvántartásba vett, áfa fizetésére kötelezett áfaalanyoknak, ideértve a belföldön áfaregisztrált külföldi adóalanyokat is.
+
+
+
+Nem készül azonban bevallástervezet azoknak az áfaalanyoknak, akik mentesülnek a bevallási kötelezettség alól. Nem készít tehát a NAV bevallástervezetet 
+
+az alanyi adómentességet választó adóalanyoknak, 
+
+a kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző adóalanyoknak, illetve 
+
+a kizárólag kompenzációs felárra jogosító mezőgazdasági tevékenységet végző adóalanyok részére sem [Áfa tv. 257.§ (2)].
+
+
+
+
+
+Mely adómegállapítási időszakról készül először bevallástervezet?
+
+
+
+A NAV először a 2021. október 1-jén kezdődő adómegállapítási időszakról készít bevallástervezetet:
+
+havi áfabevallóknak először 2021 októberéről,
+
+negyedéves áfabevallóknak először 2021 IV. negyedévéről,
+
+éves áfabevallóknak először a 2022-ről.
+
+
+
+Az eÁFA rendszerben elsőként a 2022. július 1-jét magában foglaló adómegállapítási időszakra lesz lehetőség 
+
+állatbetegséggel összefüggő kártalanítás miatt fizetési halasztást kérni, továbbá 
+
+nyilatkozatot tenni a fordított adózás alá tartozó ügyletekről (Áfa tv. 6/C. számú melléklete), és 
+
+adatot szolgáltatni személygépkocsi Közösségen belüli beszerzéséről, importjáról (Áfa tv. 4/A. számú melléklet II. pontja), illetve 
+
+adatot szolgáltatni új közlekedési eszköz értékesítéséről (Áfa tv. 4/A. számú melléklet III. pontja). 
+
+
+
+Ezeket a nyilatkozatokat, adatszolgáltatásokat a 2022. július 1-je előtti adómegállapítási időszakokra a ’65-ös nyomtatványon kell benyújtani.
+
+
+
+Egyéb speciális esetek:
+
+Ha az adóalany bevallási gyakorisága a 2021. október 1-jei állapothoz képest 2021-ben módosul, a NAV először a 2022. január 1-jén kezdődő adómegállapítási időszakra készít bevallástervezetet.
+
+Soron kívüli bevallást először a 2022. július 1-jével kezdődő adómegállapítási időszakáról lehet benyújtani az eÁFA rendszerben. [Az adózás rendjéről szóló 2017. évi CL. törvény (Art.) 52.§-a szerinti soron kívüli bevallás.]
+
+A felszámolás, végelszámolás, kényszertörlés alatt állók ugyancsak a 2022. július 1-jén kezdődő adómegállapítási időszakról nyújthatnak be először az eÁFA rendszerben bevallást. [Art. 53. § szerinti bevallás.]  
+
+A bevallás önellenőrzésére először a 2022. július 1-jével kezdődő adómegállapítási időszakra nyílik lehetőség az eÁFA rendszerben.
+
+Jogutóddal megszűnés esetén a jogelőd bevallástervezetét először a 2022. július 1-jén kezdődő időszakra készíti el a NAV a jogutód számára, aki ezután nyújthatja be azt az eÁFA rendszerben.
+
+
+
+Milyen adatok találhatók a kiajánlott eÁFA bevallástervezetben?
+
+
+
+A bevallástervezetben a NAV az adóalany rendelkezésére bocsátja az adott adómegállapítási időszakra vonatkozó, a nyilvántartásában szereplő adatokat:
+
+a fizetendő adó alapját és a fizetendő adót, valamint 
+
+az adóalanyra áthárított, előzetesen felszámított adó alapját és az előzetesen felszámított adót. 
+
+A bevallástervezetben alapvetően az online számlaadat-szolgáltatásból és az online pénztárgépekből származó adatok szerepelnek. A termékimport-adatok 2022. január 31-én, illetve azt megelőzően végződő adómegállapítási időszakra vonatkozó bevallástervezetben még nem állnak rendelkezésre.
+
+
+
+
+
+Csak alapbevallás benyújtására van lehetőség az eÁFA rendszerben, vagy be lehet nyújtani önellenőrzést is?
+
+
+
+A bevallás önellenőrzésére először a 2022. július 1-jével kezdődő adómegállapítási időszakra nyílik lehetőség az eÁFA rendszerben, eddig az időpontig az áfabevallásban szereplő adóalapot és adót az erre a célra rendszeresített ÁNYK-nyomtatványon lehet önellenőrzéssel helyesbíteni.
+
+
+
+
+
+Ki jogosult egy adóalany bevallástervezetének megismerésére, szerkesztésére, és ki nyújthatja be az áfabevallást?
+
+
+
+A természetes személy áfaalany, illetve 
+
+az áfaalany törvényes képviselője, valamint 
+
+az áfaalanynak állandó meghatalmazottja [az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (Air.) szerint]  
+
+jogosult a bevallástervezet adatainak megismerésére, szerkesztésére (módosítására, kiegészítésére, elfogadására) és a bevallás benyújtására is.
+
+
+
+Az elsődleges felhasználó jogosultságot adhat a másodlagos felhasználónak a bevallástervezetben szereplő adatok megismerésére és szerkesztésére (módosítására, kiegészítésére, elfogadására), de a másodlagos felhasználó nem nyújthatja be a bevallást.
+
+
+
+
+
+Mikortól érhető el a bevallástervezet? 
+
+
+
+A bevallástervezet kihelyezésének időpontjai:
+
+havi bevallásra kötelezetteknél a tárgyhónapot követő hó 12., 
+
+negyedéves bevallásra kötelezetteknél a tárgynegyedévet követő hó 12.,
+
+éves bevallásra kötelezetteknél a tárgyévet követő február 12.
+
+
+
+A bevallástervezet első alkalommal a 2021 októberi időszakra vonatkozóan (havi áfabevallás), 2021 november 12-től érhető el. 
+
+
+
+
+
+A bevallástervezet módosítását meddig lehet megtenni?
+
+
+
+A bevallástervezetet a jóváhagyásáig (benyújtásáig), de legkésőbb a bevallásbenyújtási határidő lejártáig módosíthatja a felhasználó.
+
+
+
+
+
+Módosítható-e utólag az eÁFA rendszerben már benyújtott áfabevallás?
+
+
+
+Nem. A már jóváhagyott (benyújtott) bevallás csak önellenőrzéssel vagy helyesbítéssel módosítható. 
+
+
+
+
+
+Mit jelent a bevallástervezet elfogadása és benyújtása?
+
+
+
+A bevallástervezet elfogadása a bevallás jóváhagyását jelenti. A tervezet csak akkor válik bevallássá, ha azt az elsődleges felhasználó jóváhagyta.
+
+
+
+A bevallástervezet jóváhagyásával válik a tervezet benyújtott bevallássá. 
+
+
+
+
+
+Meddig lehet az eÁFA felületen benyújtani a bevallást?
+
+
+
+A bevallástervezetet az adózó áfabevallói gyakoriságának megfelelő bevallásbenyújtási határidőig lehet jóváhagyni:
+
+havi bevallónak a tárgyhónapot követő hó 20-áig, 
+
+negyedéves bevallónak a tárgynegyedévet követő hó 20-áig,
+
+éves bevallónak pedig a tárgyévet követő év február 25-éig.
+
+
+
+
+
+Automatikusan bevallássá válik a bevallástervezet? 
+
+
+
+Nem. A bevallástervezet csak a jóváhagyással válik bevallássá. 
+
+
+
+
+
+Miért nem készített nekem a NAV bevallási tervezetet?
+
+
+
+Több oka is lehet annak, hogy ha nem készül bevallástervezet. 
+
+
+
+Az egyik ok az lehet, hogy a NAV nyilvántartásában az adott időszakra vonatkozóan nincs az adózó által kiállított, illetve az adózó részére kiállított számláról teljesített számlaadat-szolgáltatás, illetve 
+
+nincs az adózóval kapcsolatba hozható, online pénztárgépből származó adat. 
+
+
+
+Másik ok lehet, hogy az adózó a jogszabályban leírtak alapján nem tartozik azon adózói körhöz, akiknek bevallástervezet elkészül.
+
+
+
+
+
+Nem jó sorban vagy nem helyes adatokkal szerepel az általam kiállított számla a tervezetben. Mit tegyek?
+
+
+
+Az Online Számla rendszerbe számlaadat-szolgáltatásként, pénztárgéppel előállított egyszerűsített számlaként beérkezett adatok alapján állítjuk össze a bevallástervezetet. Ezért, ha nem jó sorban vagy nem a helyes adatokkal szerepel az adott számla adata, akkor az Online Számla rendszer adatait kell felülvizsgálni, és ha szükséges, javítani. 
+
+
+
+
+
+Nem jó sorban vagy nem helyes adatokkal szerepel az általam befogadott számla a tervezetben. Mit tegyek?
+
+Az Online Számla rendszerbe számlaadat-szolgáltatásként, pénztárgéppel előállított egyszerűsített számlaként beérkezett adatok alapján állítjuk össze a bevallástervezetet. Ezért, ha nem jó sorban vagy nem a helyes adatokkal szerepel az adott számla adata, akkor az Online Számla rendszer adatait kell felülvizsgálni, és ha szükséges, javítani. 
+
+
+
+Hiba esetén célszerű lehet a számlaadásra kötelezett figyelmét felhívni a javítás szükségességére. A hibás adattartalmú tételt a bevallástervezetből törölni kell. A helyes adatok a kézi rögzítőfelületen rögzíthetők és ezáltal a tétel behelyezhető a bevallástervezet megfelelő sorába.
+
+
+
+
+
+Figyelembe veszi a bevallástervezet a megelőző bevallások adattartalmát (például következő időszakra átvihető követelés)? 
+
+
+
+A bevallástervezet az indulást követően figyelembe veszi a következő időszakra átvihető követelés összegét.
+
+
+
+
+
+Áfaanalitika
+
+
+
+Mi a funkciója az áfaanalitikának?
+
+
+
+A felhasználó áfaanalitikában 
+
+rögzítheti a hiányzó adatokat, 
+
+nyilatkozhat az előzetesen felszámított áfa utáni adólevonási jogáról, illetve 
+
+halaszthatja az adólevonási jogot, ha az még nem nyílt meg, vagy azt később gyakorolja.
+
+
+
+A számlában felszámított adóból ténylegesen fizetendő adót a „halasztás” alkalmazásával lehet meghatározni, ha az adóalany az áfa elszámolására pénzforgalmi elszámolást választott, vagy a fizetendő adó megállapításának halasztására jogosult. 
+
+
+
+
+
+Hogyan tudom kezelni a bejövő számláimat (levonásba helyezés, halasztás)?
+
+
+
+A bejövő számlákat a felületen az Analitikaszerkesztőben, az egyesített állapotnál lehet kezelni a bejövő számla az adólevonási jogtól függően
+
+levonásba helyezhető teljes összegben, részösszegben, arányosítva, 
+
+végleg kivehető az adólevonás alapjául szolgáló számlák közül, ha az adóalany az adott ügylet áfát nem vonhatja le, illetve
+
+halasztásra jelölhető, ha az adót később vonja le. 
+
+
+
+
+
+Miért nem szerepel egy általam befogadott számla a levonható tételek között?
+
+
+
+Mert a számlakiállító partner nem teljesítette a számlaadat-szolgáltatási kötelezettségét, vagy az érintett számlát a kiállító technikailag érvénytelenítette, esetleg sztornózta (érvénytelenítő számlát állított ki).
+
+
+
+
+
+Más időszakra szeretnék beállítani egy költségszámlát. Hogyan tehetem ezt meg?
+
+
+
+Az adott költségszámlát az Analitikaszerkesztőben, az Egyesített állapotnál lehet halasztásra jelölni.
+
+
+
+
+
+Mi az az egyesített állapot?
+
+
+
+A számlaadatok egyesített állapota számlaláncok esetében értelmezhető. 
+
+
+
+Az egyesített állapotú számlán egyszerre látszik az alapszámlára az adómegállapítási időszakban érkezett módosító, érvénytelenítő számlák eredménye. Tulajdonképpen egy „összevont” adattartalmú számla az alapszámla számlasorszámával. 
+
+
+
+
+
+Mikor nem készül egyesített állapot időszakon belül sem?
+
+
+
+Ha az alapszámlára érkező módosító, érvénytelenítő számláról beérkezett adatszolgáltatásában a „módosítás sorszáma” adatmező hibás, azaz a számlalánc hiánytalanul nem építhető fel. A hibás sorszámú módosításokat a rendszer nem veszi figyelembe a számlalánc építésekor. 
+
+
+
+Hiányzó vagy hibás láncelemet
+
+a vevő kézi rögzítéssel pótolhatja, javíthatja, 
+
+a kiállító azonban az adatokat csak számlaadat-szolgáltatással pótolhatja, módosíthatja.
+
+
+
+Az egyesített állapot a beérkezett számlaadat-szolgáltatások alapján, az adott időszakra vonatkozóan beérkezett alap- és módosító számlák adataiból képzett egyenleg. 
+
+
+
+
+
+Az eÁFA rendszer használata mellett továbbra is be kell nyújtani a ’65-ös jelű bevallást is?
+
+
+
+Nem kell’65-ös jelű bevallást benyújtani, ha a bevallástervezetet határidőben jóváhagyta.
+
+
+
+
+
+Mi történik, ha az eÁFA rendszerben és a ’65-ös jelű adatlapon is nyújtottam be alapbevallást ugyanarra az adómegállapítási időszakra?
+
+
+
+Ebben az esetben azt a bevallását fogadja el a NAV, amelyiket előbb nyújtotta be.
+
+
+
+
+
+Ha az eÁFA rendszerben nyújtottam be a bevallásom, akkor ezt követően már mindig az eÁFA rendszert kell használnom?
+
+
+
+Nem. Az eÁFA rendszer használata nem kötelező, az adózók továbbra is használhatják a korábbi bevallásbenyújtási lehetőségeket.
+
+
+
+
+
+Az eÁFA rendszerben benyújtott bevallásra ugyanazok a szabályok vonatkoznak mint az ÁNYK-s bevallásra? Például hiánypótlásra felhívás, mulasztási bírság stb.
+
+
+
+Mindezt nem a bevallás benyújtásának módja határozza meg, hanem az, hogy a bevallást benyújtották-e vagy sem. 
+
+
+
+
+
+Mi a teendő, ha az analitikában megjelenő online számlaadat-szolgáltatási adatok eltérnek a számlán szereplő tényleges adatoktól? 
+
+
+
+Az ilyen hibát jellemzően hibás számlaadat-szolgáltatás okozza.
+
+
+
+Ha a hiba az adóalany által kiállított számlánál jelentkezik, akkor az adatszolgáltatást technikailag érvényteleníteni (annulálni) kell, és az adatszolgáltatást meg kell ismételni. Ha ez megvalósul az adómegállapítási időszakot követő hónap 18-áig, akkor a bevallási tervezetben már a helyes adatok fognak szerepelni. 
+
+
+
+Ha a probléma az adóalanynak kiállított számlánál jelentkezik, akkor az adózó az érintett számlát a tervezetből kiveszi és a kézi rögzítőfelületen rögzíti a számla adatait. Erre azonban csak akkor van szükség, ha az adott adómegállapítási időszakban az érintett számla (számlatételek) kapcsán adólevonási jogot érvényesít. Mindemellett javasolt felvenni a kapcsolatot az eladó partnerrel, hogy az a hibás számlaadat-szolgáltatás miatt szükséges intézkedést megtegye.
+
+
+
+
+
+Mi a teendő az áfaanalitikában megjelenő WARN-nal érintett számlaadatokkal?
+
+
+
+Az Online Számla rendszerben a hibás adatszolgáltatásokról hibaüzenetek jelennek meg. Ha a hibákat nem javítják, azok az eÁFA rendszerben is megjelennek, és javításuk nemcsak az eladónál, hanem a vevőnél is többletadminisztrációt okoz.
+
+
+
+
+
+Hogyan tudom ellenőrizni, hogy vannak-e WARN-nal érintett adatszolgáltatásaim?
+
+
+
+Ez az Online Számla Számlák / Adatszolgáltatások menüpontjában szereplő adatoknál a számlák státusza oszlopban, a Szolgáltatások menüpontban elérhető Használati statisztika adatainál pedig a „számlatípus-statisztika” blokkban ellenőrizhető.
+
+
+
+Az eÁFA rendszerben az online számlaadat-szolgáltatás adatforrású bevallási mezőkről lefúrva, számlánként lehet informálódni azok WARN-érintettségéről.
+
+
+
+Ha a számlázó programból származó számla helyes, azonban a beérkező adatok a számlaadatokkal nem egyeznek, a számlázó program fejlesztőjével kell felvenni a kapcsolatot. Ha kézi számláról történt az adatszolgáltatás, vélelmezhető, hogy az adatok rögzítésekor elütés történt.
+
+
+
+Ha a számla helyes, a hibás adatszolgáltatást technikai érvénytelenítéssel, majd újraküldéssel lehet javítani, míg a hibás számlát sztornózni vagy módosítani kell.
+
+
+
+
+
+1

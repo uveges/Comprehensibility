@@ -1,0 +1,77 @@
+Katás vállalkozás esetén a visszatérítés alapjához a 40 százalékos adót is hozzá lehet-e számolni?
+
+
+
+Nem. A katások esetén a visszatérítés csak a bejelentett kisadózó után a kisadózó vállalkozást a 2021. év tekintetében terhelő tételes adó 25 százaléka lehet. 
+
+
+
+	Magzatra tekintettel az apa kaphat-e adóvisszatérítést, ha csak élettársa a kismamának?
+
+
+
+Az adóvisszatérítésre csak az jogosult, aki a családi kedvezményre jogosult. Várandósság esetén a kismama és a vele közös háztartásban élő házastársa tekinthető jogosultnak, ezért az élettárs nem jogosult a családi kedvezményre és az adóvisszatérítésre sem.
+
+Ha a gyermek 2021-ben megszületik, az apa szülőként jogosult lesz családi pótlékra, ezért családi kedvezményre és az adóvisszatérítésre is. 
+
+
+
+Mikor célszerű nyilatkozatot adnia annak a magánszemélynek az adó-visszatérítéshez, akinek családi pótlékot folyósítanak?
+
+
+
+Ha a magánszemély családi pótlékot kap, akkor a kincstár erről adatot szolgáltat a NAV-nak és közli azt a számlaszámot, vagy postai utalási címet, ahová az ellátást folyósítja. Ekkor a magánszemélynek nincs teendője, az adóvisszatérítést automatikusan megkapja 2022. február 15-ig, ha van olyan jövedelme, ami a kedvezmény alapját képezi, vagy bejelentett kisadózóként fizettek utána tételes adót. 
+
+Ha a magánszemély más bankszámlaszámra, postai utalási címre kéri a kiutalást, mint ahová a családi pótlékot kapja, akkor célszerű a nyilatkozatot benyújtani.
+
+
+
+Hova utalja vagy postázza a NAV a pénzt?
+
+
+
+Ha a magánszemély családi pótlékot kap. akkor a kincstár közli a NAV-val azt a számlaszámot vagy postai utalási címet, ahová az ellátást folyósítja. A NAV a visszatérítés kiutalásához ezeket az adatokat veszi alapul. Ha a magánszemély más bankszámlaszámra, postai utalási címre kéri a kiutalást, mint ahová a családi pótlékot kapja, akkor azt a VISSZADO-nyomtatvány benyújtásával lehet jelezni a NAV felé 2021. december 31-ig.
+
+Ha a magánszemély nem kap családi pótlékot, és benyújtja a VISSZADO-nyomtatványt, akkor a NAV a kedvezmény-előleget arra a bankszámlaszámra, postai utalási címre utalja, ami abban szerepel. 
+
+Ha sem kincstári adatszolgáltatás, sem a magánszemély nyilatkozata nem áll a rendelkezésére 2021. december 31-ig, akkor az adóvisszatérítést a NAV 2022. február 15-ig nem utalja ki, azt a magánszemély a bevallásában kérheti vissza.
+
+
+
+Az is jogosult lesz-e a visszatérítésre, aki év közben családi kedvezményt érvényesített és ezért nincs levont adóelőlege?
+
+
+
+Az adóvisszatérítésre az is jogosult, akitől év közben a munkáltató azért nem vont le adóelőleget, mert a családi kedvezmény az adóalapjátteljes mértékben lecsökkentette. Levont adóelőleg hiányában azonban nincs mit visszaigényelni.
+
+Ha a magánszemélynek van olyan összevont adóalapba tartozó jövedelme, ami után saját maga fizette meg az adóelőleget év közben (például magánszemélynek adott bérbe ingatlant) és abból családi kedvezményt nem érvényesített, akkor a bevallásában kérheti a negyedévente megfizetett adóelőleg visszatérítését.
+
+
+
+A NAV által elkészített adóbevallási tervezetet kell-e módosítani az adó-visszatérítés miatt?
+
+
+
+Ha a NAV kedvezmény-előleget utal ki az adózónak, akkor a kiutalt összeget az adóbevallási tervezetben feltünteti. Emiatt tehát nem  kell a tervezetet ódosítani, arra csak akkor van szükség, például, ha a magánszemély olyan jövedelmet is kapott 2021-ben, ami a tervezetben nem szerepel, vagy a családi kedvezményt a jogosultak az évközi érvényesítéshez képest másként osztják fel egymás közt a bevallásban.
+
+
+
+Milyen határidőkre kell figyelemmel lenni az adó-visszatérítés miatt?
+
+2021. október 31. és 2021. december 31. között nyilatkozhat a magánszemély a VISSZADO nyomtatványon, a családi kedvezményre való jogosultságáról, a családi kedvezményre jogosult másik magánszemélyről, a családi kedvezményre jogosító gyermekekről, illetve a kiutaláshoz szükséges adatokról, számlaszámról, címről. Ügyfélkapus hozzáférés esetén a nyilatkozatot célszerű az Online Nyomtatványkitöltő Alkalmazáson keresztül kitölteni és beküldeni, mert így látható lesz, hogy milyen adatok állnak a NAV rendelkezésére a visszatérítéshez.
+
+2022. február 15-ig a NAV a rendelkezésére álló adatok alapján kiutalja a kedvezmény-előleget.
+
+2022. március 15-től elérhető az adóbevallási tervezet, amely tartalmazza a kiutalt kedvezmény-előleget is. 
+
+2022. május 20-ig nyújtható be a 2021. évi szja-bevallás, amelyben az arra jogosult magánszemély kérheti az adó-visszatérítést, ha nem kapott február 15-ig kedvezmény-előleget. . 
+
+
+
+Az adó-visszatérítés mellett a családi járulékkedvezményt még lehet érvényesíteni az adóbevallásban?
+
+
+
+Az adó-visszatérítés a kedvezményekkel csökkentett összevont adóalap után megállapított adó terhére érvényesíthető. Tehát a bevallásban először a családi adóalap-kedvezményt lehet érvényesíteni az szja-alappal szemben. Ha az adóalap a családi kedvezmény igénybevétele miatt nullára csökken, de a magánszemélynek még marad a gyermekekre tekintettel járó családi kedvezmény keretösszegéből, akkor a fel nem használt összeg 15 százaléka a levont társadalombiztosítási járulék terhére családi járulékkedvezményként érvényesíthető. 
+
+Ha a magánszemély a családi kedvezmény igénybevétele miatt az adóalapját lenullázta, az adó-visszatérítést a személyi jövedelemadóból nem tudja igénybe venni.

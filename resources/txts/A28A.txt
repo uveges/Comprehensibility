@@ -1,0 +1,111 @@
+Az egyéni vállalkozás szüneteltetést követő folytatása
+
+Jogosultak köre
+
+Jogosult az, aki egyéni vállalkozói tevékenységét szünetelteti.
+
+Hol intézhető
+
+Az egyéni vállalkozó a vállalkozói tevékenység szünetelés utáni folytatását kizárólag elektronikus úton, a Webes Ügysegéd alkalmazáson keresztül jelentheti be.
+
+Szükséges iratok
+
+A Webes Ügysegéden keresztül történő elektronikus ügyintézéshez nem szükségesek iratok.
+
+Költségek
+
+A tevékenység folytatására vonatkozó bejelentés díj- és illetékmentes.
+
+További információ
+
+További információ telefonon a NAV Infóvonalán a 1819-es számon vagy személyesen a NAV ügyfélszolgálatain kérhető.
+
+Ügyintézési idők
+
+Sürgősségi eljárásra nincs mód. Ha a bejelentő a Webes Ügysegéden található változás-bejelentési űrlapot megfelelően kitöltötte, a nyilvántartást vezető szerv haladéktalanul, automatikusan, az e célra rendszeresített elektronikus rendszeren keresztül a szüneteltetett egyéni vállalkozói tevékenység szüneteltetetésének záró időpontját nyilvántartásba veszi, és a Webes Ügysegéden keresztül megküldi, a nyilvántartásba bejegyzett, a szüneteltetés kezdő, valamint záró napját tartalmazó értesítést a bejelentő részére.
+
+Érdemes tudni
+
+Az egyéni vállalkozói tevékenység legfeljebb két évig szüneteltethető. A tevékenység szüneteltetésére előírt 30 napos minimális időtartamot 2020. december 31-ig nem kell alkalmazni, a tevékenység szüneteltetésének időtartama 2020. december 31-éig egy hónapnál rövidebb is lehet.
+
+Az egyéni vállalkozó szüneteltetett vállalkozói tevékenységét – a szünetelés megkezdését követő 2 éven belül – bármikor folytathatja a tevékenység folytatására vonatkozó bejelentésével, melyet megtehet az elektronikus azonosítást követően a Webes Ügysegéden keresztül. Az elektronikus úton megtett bejelentés akkor tekinthető eredményesnek, ha az egyéni vállalkozói tevékenység szünetelés utáni folytatásának nyilvántartásban való rögzítése megtörtént. Az erről szóló értesítés a Webes Ügysegéd felületén elérhető, onnan letölthető.
+
+A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel.
+
+A tevékenység folytatásának kezdő napja a bejelentést követő nap.
+
+A szünetelés után a vállalkozói tevékenység, a bejelentést követő nappal gyakorolható. Példa: ha az egyéni vállalkozó április 1-től folytatni kívánja a tevékenységét, akkor azt március 31-én kell bejelentenie.
+
+Amennyiben a szünetelés kezdő napját követő két éven belül az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatását vagy megszüntetését nem jelentette be, a NAV a szünetelés kezdőnapját követő két év elteltét követő napon törli az egyéni vállalkozók nyilvántartásából.
+
+A bejelentett adatok ellenőrizhetőek az Egyéni Vállalkozók Nyilvántartásában
+
+Elektronikus ügyintézés
+
+Kizárólag elektronikus úton a Webes Ügysegéden keresztül kezdeményezhető a szünetelés utáni folytatás bejelentése.
+
+A Webes Ügysegéd használatának általános feltételei
+
+Bejelentkezés
+
+A Webes Ügysegéd a Központi Azonosítási Ügynök (röviden: KAÜ) szolgáltatáson keresztül vehető igénybe, tehát
+
+vagy Ügyfélkapu-regisztrációval,
+
+vagy Telefonos Azonosítási szolgáltatásra vonatkozó regisztrációval,
+
+vagy eSzemélyi okmánnyal
+
+szükséges rendelkeznie.
+
+Ügyfélkapu-regisztrációt igényelhet személyesen bármely okmányirodai- és kormányablak ügyfélszolgálaton, a NAV kiemelt ügyfélszolgálatain, egyes postahivatalokban, illetve elektronikus úton – amennyiben Ön rendelkezik 2016. január 1-jét követően kiállított, tároló elemmel ellátott személyazonosító igazolvánnyal – az ugyfelkapu.gov.hu webes felületen.
+
+Telefonos Azonosítási szolgáltatásra vonatkozó regisztrációt igényelhet személyesen bármely okmányirodai- és kormányablak-ügyfélszolgálaton.
+
+A KAÜ-szolgáltatással kapcsolatos kérdéseivel forduljon bizalommal a 1818-as hívószámon elérhető Kormányzati Ügyfélvonalhoz.
+
+Az ügyintézés menete
+
+Új bejelentés, illetve kérelem indítása és bejelentkezés
+
+Új kérelem/bejelentés/nyilatkozat indításához a legtöbb szolgáltatás esetében be kell jelentkezni az alkalmazásba a KAÜ-n keresztül, ahol valamely ott felajánlott bejelentkezési lehetőséget kell kiválasztani. Ezt követően, néhány másodpercen belül automatikusan megjelenik a Webes Ügysegéd főoldala.
+
+Személyes adatok megadása az első belépéskor
+
+Sikeres azonosítást követően a Webes Ügysegéd első használatakor meg kell adni a hiányzó természetes személyazonosító adatokat és az elektronikus levélcímet (e-mail címet) is.
+
+Bejelentés/Kérelem összeállítása
+
+A sikeres azonosítást követően a kiválasztott ügytípushoz tartozó űrlap jelenik meg, amelynek mezőit értelemszerűen kell kitölteni. A Webes Ügysegéd a kitöltés során ellenőrzéseket végez, amelynek eredményeként megjeleníti az esetleges hibákat.
+
+Bejelentés/Kérelem benyújtása
+
+A bejelentés, illetve a kérelem benyújtásával az ügy intézése megkezdődik, amelyet a Webes Ügysegéd visszaigazol.
+
+Bejelentés/Kérelem státusza
+
+Ismételt bejelentkezéssel akár utólag is megtekinthetők a Webes Ügysegédről indított ügyek és azok ügyintézésének állása. A bejelentett adatok ellenőrizhetőek az Egyéni Vállalkozók Nyilvántartásában.
+
+Letölthető anyagok
+
+„Önálló vállalkozók tevékenységi jegyzéke„ (ÖVTJ-kódok)
+
+Fogalmak
+
+Gyakran ismételt kérdések
+
+
+
+Jogszabályok
+
+2009. évi CXV. törvény az egyéni vállalkozóról és az egyéni cégről
+
+2009. évi LXXVI. törvény a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól
+
+210/2009. (IX. 29.) Korm. rendelet a kereskedelmi tevékenységek végzésének feltételeiről
+
+5/1997. (III. 5.) IKIM rendelet az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről
+
+21/2010. (V. 14.) NFGM rendelet az egyes ipari és kereskedelmi tevékenységek gyakorlásához szükséges képesítésekről
+
+Az EURÓPAI PARLAMENT ÉS A TANÁCS 2006. december 12-i 2006/123/EK IRÁNYELVE a belső piaci szolgáltatásokról

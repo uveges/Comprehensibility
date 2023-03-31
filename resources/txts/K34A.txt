@@ -1,0 +1,23 @@
+Változások az Online Számla rendszerben
+
+Az Online Számla rendszer 3.7-es verziójának fejlesztései, hibajavításai:
+
+
+
+regisztráció megszüntetése,
+
+bejelentkezési folyamat módosítása,
+
+kétfaktoros azonosítás bekapcsolása másodlagos felhasználók esetében,
+
+Online Számlázó gomb áthelyezése,
+
+mobilalkalmazás ismételt párosítása, mobil jelszó bevezetése,
+
+INCORRECT_HEAD_DATA_CUSTOMER_TAXPAYERID javítása.
+
+
+
+
+
+A változásokról részletesen a Technikai információk/Informatikai változások menüpontban tájékozódhat.

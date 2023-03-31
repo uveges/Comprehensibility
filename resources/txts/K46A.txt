@@ -1,0 +1,49 @@
+OSS/IOSS - egyablakos e-kereskedelmi rendszer és a kisértékű import küldemények adózási módja 2021.07.01-től – közösségi adózás egyszerűen
+
+A 2021. július 1-től működő Egyablakos Rendszer (OSS) olyan adózóknak kínál egyszerű, hatékony elektronikus ügyintézési lehetőséget, akik/amelyek nem áfaalany fogyasztóknak (jellemzően magánszemélyeknek) az Európai Közösség (a továbbiakban: Közösség) más tagállamaiba nyújtanak szolgáltatásokat, illetve nem adóalany vevőnek, vagy a Közösségen belüli termékbeszerzés tekintetében adófizetésre nem kötelezett adóalany vevőnek teljesítenek termékértékesítéseket. Az OSS a 2015 óta működő Mini Egyablakos Rendszer (MOSS elődrendszer) jelentős kibővítését jelenti az azt alkalmazó adóalanyok és a tevékenységi körök tekintetében egyaránt. Az OSS/IOSS alkalmazása nem kötelező, az adózó választhatja annak használatát.
+
+Milyen esetben érdemes választani?
+
+Ha az Ön vállalkozása a Közösség valamely más tagállamában nem adóalanyok részére nyújt szolgáltatásokat, teljesít Közösségen belüli távértékesítést, vagy importált termékek távértékesítését végzi, úgy a fogyasztó/vevő letelepedése, illetve a termék rendeltetési helye szerinti tagállamban adókötelezettsége keletkezik. Az OSS/IOSS alkalmazása nélkül Önnek 
+
+a vevő, megrendelő tagállama szerinti minden egyes nemzeti adóhatósághoz külön-külön be kell jelentkeznie, majd
+
+az egyes tagállamokban az ott érvényes szabályok szerint külön bevallásokat kell benyújtania és
+
+külön befizetéseket kell teljesítenie. 
+
+Ha Ön az OSS/IOSS rendszer magyarországi használata mellett dönt, úgy elegendő a magyar adóhatóság által üzemeltetett OSS Portálon bejelentkeznie, bevallási időszakonként egyetlen, egységes bevallást benyújtania minden tagállamra vonatkozóan. Ez esetben Magyarország mint azonosítót kiadó tagállam a bevallási adatokat továbbítani fogja azon tagállamok részére, amelyeket Ön a bevallásában feltüntetett. Az adófizetés szintén egyetlen, összevont utalással teljesíthető, amelyet a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) a vonatkozó bevallásnak megfelelően továbbít a teljesítés helye szerinti tagállamoknak.
+
+Az OSS alkalmazásával Ön a NAV számára jelezheti adatainak megváltozását, bevallásait beküldheti és módosíthatja, megtekintheti mindezek állapotát, teljesítheti befizetéseit, igénybe veheti a Helpdesk szolgáltatást.
+
+Vállalkozásának letelepedése és a végzett tevékenységek függvényében az OSS rendszer következő sémáiba lehetséges a regisztráció.
+
+
+
+Uniós séma
+
+Az uniós OSS séma adózója által bevallható ügyletek köre a Közösségen belüli távértékesítések, valamint minden olyan szolgáltatás, amelyet a Közösség valamely tagállamába nem adóalany megrendelő számára nyújtanak. A sémát a szolgáltatások és távértékesítések tekintetében választhatja a belföldön gazdasági céllal letelepedett adózó, valamint távértékesítésekre a Közösségben nem letelepedett harmadik országos adózó.
+
+b) Nem uniós séma
+
+A nem uniós OSS séma adózója által bevallható ügyletek köre a Közösségen belüli, nem adóalanyok részére nyújtott szolgáltatások. A sémát a Közösségben nem letelepedett harmadik országos adózó választhatja.
+
+	     c) Importséma (IOSS)
+
+A séma használatával az adózó a harmadik államból importált 150 eurót meg nem haladó belső értékű, nem jövedékiadó-köteles termékek távértékesítését terhelő adót vallhatja be és fizetheti meg, így a terméknek a Közösség területére történő behozatala/importja – az IOSS regisztráció vámhatósági ellenőrzését követően – adókivetés mellőzésével történik. A Közösségben lévő vámraktárból szabad forgalomba bocsátott termékek esetén az importséma nem alkalmazható. Az importsémát belföldön, a Közösség más tagállamában, és akár harmadik országban letelepedett adózók is választhatják.
+
+
+
+Az OSS-be már 2021. április 1-től lehetséges az előregisztráció a NAV honlapján, azonban ez 2021. július 1-től „élesedik”, tehát csak a 2021. június 30-át követően teljesített ügyletek vallhatóak be az új felületen. 
+
+
+
+Az OSS/IOSS rendszer elérhetősége: https://oss.nav.gov.hu/ 
+
+A rendszer szabályainak alapjait a NAV honlapján elérhető,  „Az elektronikus kereskedelemre vonatkozó új áfaszabályok” című, 2021. március 16-i tájékoztató foglalja össze.
+
+A kisértékű importküldemények áfamentességének megszűnéséről az alábbi tájékoztató szól: https://nav.gov.hu/nav/sajtoszoba/hirek/Megszunik_a_22_euros_20210408.html
+
+Az OSS rendszerről további, részletes információkat olvashat magyar nyelven az alábbi linkre kattintva: 
+
+https://ec.europa.eu/taxation_customs/sites/taxation/files/vatecommerceexplanatory_28102020_hu.pdf

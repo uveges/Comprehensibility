@@ -1,0 +1,1602 @@
+10
+
+
+
+Gyakori kérdések és válaszok az szja-bevallásról
+
+
+
+
+
+Összeállításunkban az adóbevallási tervezettel kapcsolatban leggyakrabban felmerülő kérdésekre adunk választ.
+
+
+
+A kérdések témák szerinti csoportosításban:
+
+
+
+Sorszám
+
+Téma
+
+Kérdések száma
+
+I.
+
+Technikai kérdések – a bevallási tervezet elérése, módosítása, benyújtása
+
+1–10.
+
+II.
+
+Szja-befizetés és -kiutalás
+
+11–14.
+
+III.
+
+Összevonás alá eső jövedelmek és a kedvezmények
+
+15–21.
+
+IV.
+
+Elkülönülten adózó jövedelmek
+
+22–24.
+
+V.
+
+Adómentes, illetve a jövedelembe be nem számító bevételek
+
+25–27.
+
+VI.
+
+Mezőgazdasági őstermelők és egyéni vállalkozók
+
+28–33.
+
+VII.
+
+Szociális hozzájárulási adó
+
+34–37.
+
+VIII.
+
+Rendelkezés az adóról – önkéntes pénztári rendelkezések, 1+1 százalék
+
+38–40.
+
+
+
+
+
+Ha nem talál választ kérdésére, hívja a Nemzeti Adó- és Vámhivatal (NAV) Infóvonalát a 1819-es számon, ahol munkatársaink készséggel állnak rendelkezésére hétfőtől csütörtökig 8 óra 30 perctől 16 óráig, pénteken 8 óra 30 perctől 13 óra 30 percig.
+
+
+
+Konkrét adózóról, valamint egyedi adóügyekről a NAV e-mailben nem adhat tájékoztatást. Ilyen információkat Ön vagy meghatalmazottja a NAV illetékes igazgatóságának címzett, aláírt, postai levélben vagy a 06 80 202122-es telefonszámon, ügyfél-azonosító számmal, azaz PIN-kóddal kérhet, amit a TEL jelű nyomtatványon igényelhet. Adóügyeit Ön vagy meghatalmazottja a NAV ügyfélszolgálatain személyesen is intézheti.
+
+
+
+***
+
+
+
+
+Általános információk
+
+
+
+A 2020-ra vonatkozó személyijövedelemadó-bevallás benyújtásának és az adó megfizetésének határideje 2021. május 20.
+
+
+
+A NAV a nyilvántartásában szereplő, a munkáltatói, kifizetői bevallásokban, adatszolgáltatásokban érkezett adatok alapján 2021-ben is külön kérés nélkül elkészíti a magánszemélyek adóbevallási tervezetét.
+
+
+
+Az éves személyi jövedelemadó bevallható
+
+a NAV által elkészített adóbevallási tervezet elfogadásával, kiegészítésével és beküldésével, vagy
+
+önállóan benyújtott 20SZJA jelű nyomtatványon is.
+
+
+
+Ha az Ön egyetért a NAV által készített adóbevallási tervezetben foglaltakkal, akkor további teendője nincs, a tervezet 2021. május 20-án érvényes bevallássá válik. 
+
+
+
+Ha nem ért egyet az adatokkal, akkor 2021. május 20-ig
+
+az eSZJA-portálon javíthatja, kiegészítheti és beküldheti a bevallást, vagy
+
+ha nem rendelkezik ügyfélkapuval, akkor önállóan kell bevallást benyújtania.
+
+
+
+Az áfás magánszemélyeknek, a mezőgazdasági őstermelőknek és az egyéni vállalkozóknak önállóan kell bevallást benyújtaniuk, ehhez felhasználhatják a NAV által készített adóbevallási tervezetet. Esetükben a NAV által elkészített adóbevallási tervezet a bevallási határidő letelte után nem válik bevallássá. 
+
+
+
+Az szja-bevallás intézhető 
+
+elektronikusan, 
+
+a NAV erre a célra kialakított webes felületén, az eSZJA-portálon, illetve
+
+a 20SZJA jelű nyomtatvány elektronikus benyújtásával vagy
+
+papíralapon is, a 20SZJA jelű nyomtatvány kitöltésével és postázásával.
+
+
+
+Az elektronikus ügyintézés feltétele a Központi Azonosítási Ügynök általi azonosítás, vagyis úgynevezett KAÜ-azonosítás. Ennek három formája lehet: 
+
+ügyfélkapus azonosítás
+
+azonosítás e-személyi igazolvánnyal vagy 
+
+Részleges Kódú Telefonos Azonosítás (RKTA-azonosítás).
+
+
+
+I. Technikai kérdések – a bevallási tervezet elérése, módosítása, benyújtása
+
+
+
+Nincs elektronikus hozzáférésem. Hogyan juthatok hozzá a bevallási tervezetemhez?
+
+
+
+A magánszemélyek 2021. március 16-áig kérhetik, hogy a NAV papíralapon küldje meg az adóbevallási tervezetet. A kérelem többféle módon juttatható el a NAV-hoz:
+
+SMS-ben a 06 30/344-4304 telefonszámon, az üzenetben meg kell adni az adóazonosító jelet és a születési dátumot a következők szerint: SZJAszóközadóazonosító jelszóközééééhhnn;
+
+a NAV honlapjáról elérhető webűrlapon (www.nav.gov.hu/eszja/eszja); 
+
+a NAV telefonos tájékoztató rendszerein keresztül (NAV Infóvonal: 1819, ÜCC: 06 80 20 21 22 – ez előzetes regisztrációt igényel); 
+
+a „Kérelem az adóbevallási tervezet papíralapon történő átvételéhez” elnevezésű, BEVTERVK jelű formanyomtatványon;
+
+levélben kötetlen formában, megadva adóazonosító jelét és születési dátumát, 
+
+az ügyfélszolgálatokon személyesen.
+
+
+
+Az igénylés alapján adóbevallási tervezetét tértivevényes küldeményként 2021. április 30-áig postázza a NAV.
+
+
+
+2021. március 16. után az adóbevallási tervezet kizárólag személyesen, a NAV ügyfélszolgálatain kérhető és vehető át 2021. május 20-ig. 
+
+
+
+Még nem késő ügyfélkaput sem nyitni, így az adóbevallási tervezet a www.nav.gov.hu oldalról elérhető eSZJA-portálon megtekinthető, és szükség esetén módosítható.
+
+
+
+
+
+Hogyan juthatok hozzá a bevallási tervezethez?
+
+
+
+A NAV a nyilvántartásában szereplő, a munkáltatói, kifizetői bevallásokban, adatszolgáltatásokban érkezett adatok alapján 2021-ben is elkészíti a magánszemélyek adóbevallási tervezetét, külön kérés nélkül.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Az adóbevallási tervezet a NAV honlapján (www.nav.gov.hu/nav/szja/szja) 2020. március 15-től elektronikusan elérhető. A tervezetet az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapu, e-személyi igazolvány, RKTA telefonos azonosítás – után lehet megtekinteni, ha kell, módosítani, és nyilatkozni az 1+1 százalék felajánlásáról.
+
+
+
+Ha nincs elektronikus hozzáférése 
+
+
+
+A magánszemélyek 2021. március 16. után csak az ügyfélszolgálati irodákban, személyesen kérhetik az adóbevallási tervezet papíralapú kiadását.
+
+
+
+A papíralapon kapott tervezetet nem kell aláírni, nem kell visszaküldeni, ha annak tartalmával az adózó egyetért. Ha viszont nem, akkor a 20SZJA jelű bevallást kell benyújtani 2021. május 20-ig, mivel a kinyomtatott, papíralapon kapott tervezetet javítani nem lehet.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot, és üres bevallást is nyomtat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/19SZJA20SZJA.html 
+
+
+
+
+
+Mit kell tennem, ha megkapom a tervezetet?
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Ha egyetért az adóbevallási tervezettel és elfogadja azt, akkor a tervezet az Ön személyijövedelemadó-bevallásává válik. 
+
+
+
+Ha nem fogadja el a tervezetét és nem küld be 20SZJA jelű bevallást sem, akkor 2021. május 20-a után az adóbevallási tervezete végleges bevallássá válik, kivéve, ha Ön 
+
+őstermelő, 
+
+áfafizetésre kötelezett magánszemély vagy 
+
+az szja hatálya alá tartozó egyéni vállalkozó.
+
+
+
+Ha nem ért egyet a bevallási tervezet adataival, akkor a tervezetet az elektronikus felületen módosítania kell és be kell küldenie. 
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+A papíralapon kapott tervezetét nem kell aláírnia, nem kell visszaküldenie, ha annak tartalmával egyetért. 
+
+
+
+Ha nem, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig, mivel a kinyomtatott, papíralapon kapott tervezetet javítani nem lehet.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot, és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következpő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html 
+
+
+
+
+
+Hová postázza a NAV a bevallási tervezetemet?
+
+
+
+Ha Ön rendelkezik értesítési tárhellyel (https://tarhely.gov.hu, https://szuf.magyarorszag.hu) és a Rendelkezési Nyilvántartásban rendelkezett arról, hogy a NAV Önnel ne elektronikusan tartson kapcsolatot, akkor hivatalunk a rendelkezési nyilvántartásban megadott kapcsolattartási címet veszi figyelembe. Ha bejelentett a NAV-hoz levelezési címet vagy tartózkodási helyet, akkor oda érkezik a küldemény. Ha külön nem jelentett be elérhetőséget, akkor állandó lakcímére küldjük a bevallási tervezetet.
+
+
+
+A bevallási tervezeteket a NAV 2021. március 15-től 2021. április 30-ig postázza.
+
+
+
+A bejelentett adatait egyeztetheti 
+
+ügyfélszolgálatunkon személyesen vagy 
+
+a 06 80 20 21 22-es telefonszámon a TEL-nyomtatványon kérhető ügyfél-azonosító számmal, azaz PIN-kóddal, vagy Részleges Kódú Telefonos Azonosítással (RKTA-azonosító).
+
+
+
+
+
+Még nincs ügyfélkapum, de a közeljövőben szeretnék nyitni. Ha március 16. után regisztrálok az ügyfélkapun, akkor hozzáférek-e online az adóbevallási tervezethez, jóváhagyhatom-e azt már az ügyfélkapun keresztül?  
+
+
+
+Ügyfélkapus regisztráció után mindenki láthatja, módosíthatja, jóváhagyhatja az elkészített bevallási tervezetet. Ha korábban már más módon eleget tett bevallási kötelezettségének, akkor a „Dokumentumok” menüpont alatt érheti el az adóbevallási tervezet. 
+
+
+
+Ha Ön rendelkezik egyéb elektronikus hozzáférési lehetőséggel – e-személyi igazolvány, telefonos azonosítás (RKTA) –, akkor a https://www.nav.gov.hu/nav/szja/szja oldalon ügyfélkapus regisztráció nélkül is megtekintheti a bevallási tervezetét az azonosítás után.
+
+
+
+
+
+Megkaptam postán a bevallási tervezetet. Hogyan javíthatom? 
+
+
+
+Mivel a kinyomtatott, papíralapon kapott tervezetet javítani nem lehet, a 20SZJA jelű bevallást kell benyújtani 2021. május 20-ig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot, és üres bevallást is nyomtathat, pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+	
+
+	Ilyenkor is célszerű ügyfélkaput nyitni, mert a bevallási tervezet a legegyszerűbben az online kitöltőfelületen javítható.
+
+
+
+
+
+Hogyan lehet a bevallási tervezetet az interneten módosítani, kiegészíteni és beadni?
+
+
+
+Az online felületre (WebNYK) belépve (http://eszja.nav.gov.hu) a „Bevallás 2020-ról” feliratú csempe jelzi a bevallás állapotát. Az „Átnézem” gombra kattintva megtekintheti bevallását. A tervezethez új sorokat adhat hozzá, valamint módosíthatja a bevallási tervezetben eredetileg feltüntetett összegeket. Az új sorok hozzáadásához célszerű a „Gyakori mezők”, illetve a „Keresés a hozzáadható mezők között” funkciót használni.
+
+
+
+Ha elvégezte a szükséges módosításokat, kiegészítéseket és azokat el is mentette, a „Tovább a beadáshoz”, majd a „Beadás” gomb megnyomásával küldheti be a NAV-hoz a módosított tervezetet. Ezután a bevallás státusza „Beküldött” lesz, a Profil oldalon a státusz alatt pedig megjelenik az „Ön sikeresen beküldte az adóbevallását” felirat. 
+
+
+
+Ha Ön nem egyéni vállalkozó, őstermelő vagy áfafizetésre kötelezett magánszemély, és nem módosítja, nem egészíti ki a tervezetet, az jóváhagyás nélkül is a bevallásává válik 2021. május 20-án, akkor is, ha nem készített és küldött be 20SZJA jelű bevallást. 
+
+
+
+
+
+Ha 2020-ban több munkáltatóm is volt, vagy év közben megszűnt a munkaviszonyom, akkor is elkészíti a NAV a bevallási tervezetemet?
+
+
+
+A magánszemélyeknek a NAV akkor is elkészíti az adóbevallási tervezetet, ha 2020-ban több munkáltatójuk volt, vagy év közben megszűnt a munkaviszonyuk. Az adóbevallási tervezet valamennyi munkáltatótól származó jövedelmet tartalmazza akkor, ha a munkáltatók az előírásoknak megfelelően teljesítették adókötelezettségüket. 
+
+
+
+Ha Ön valamilyen kedvezményt (családi kedvezmény, első házasok kedvezménye, súlyos fogyatékosság miatti személyi kedvezmény) érvényesíthet, és év közben megszűnt a munkaviszonya, akkor – feltéve, hogy jogosult volt az adott kedvezményre az év egészében – a bevallási tervezetet módosítania kell, hiszen az érvényesíthető kedvezmények nem csak azokra a hónapokra járnak, amikor volt munkaviszonya.
+
+
+
+Ha van elektronikus hozzáférése (ügyfélkapu, telefonos azonosítás, e-személyi igazolvány), az elkészített adóbevallási tervezetet a http://eszja.nav.gov.hu oldalon elérhető eSZJA-felületen ellenőrizheti, és ha kell, javíthatja, illetve kiegészítheti. 
+
+
+
+Ha nincs elektronikus hozzáférése, a NAV valamennyi ügyfélszolgálatán, továbbá bármely megyei vagy fővárosi kormányhivatalban, a megyei és fővárosi kormányhivatalok járási vagy fővárosi kerületi hivatalában, illetve a Magyar Posta Zrt. kijelölt postahelyein is regisztrálhat az Ügyfélkapura. 
+
+
+
+
+
+A munkáltatómtól többszöri kérésem ellenére sem kaptam meg a 20M30-as igazolásomat. Mit kell tennem?
+
+
+
+A munkáltatóknak a 2020-ban kifizetett, juttatott jövedelmekről, a levont adóról és járulékokról szóló igazolást 2021. január 31-ig kellett kiadniuk munkavállalóiknak. Ha a munkáltató nem adta át az igazolást és emiatt Ön nem tudja határidőben benyújtani a bevallást, akkor lehetősége van arra, hogy az igazolás későbbi beszerzése után, tizenöt napon belül pótolja a bevallást és ezzel egy időben igazolási kérelmet nyújtson be.
+
+
+
+Ha nem sikerül beszereznie a munkáltatótól az igazolást, akkor kérheti a NAV-tól a munkáltatói adatszolgáltatások (’08M) alapján rendelkezésre álló, Önre vonatkozó adatok kiadását. A kifizetői adatok, igazolások kiadását a kifizető székhelye szerint illetékes adóigazgatóság Eljárási és Illeték Főosztályától kérheti.
+
+
+
+Az igazolási kérelem „Egyes adókötelezettségek késedelmes teljesítésének (EKKT) kimentésére szolgáló igazolási kérelem minta” néven elérhető a NAV honlapján (www.nav.gov.hu) a főlap bal oldalán található „Letöltések-egyéb” menüpont alatt az adatlapok, igazolások, meghatalmazásminták között.
+
+
+
+
+
+Hogyan tudom önellenőrizni az szja-bevallást?
+
+
+
+Az eSZJA-felületen az önellenőrzést elvégezheti az önellenőrzés támogatása funkcióval vagy anélkül.
+
+
+
+Az önellenőrzés támogatása funkcióval
+
+
+
+Az önellenőrzés támogatása funkció a bevallás kitöltését könnyítő szolgáltatás a WebNYK programban, KAÜ-azonosítás –  ügyfélkapus, e-személyi igazolványos és telefonos azonosítás – után érhető el. 
+
+
+
+Ha önellenőrzést kíván benyújtani, akkor a „Bevallás lekérése, módosítása” menüpontban lekért, érvényes bevallásából (a továbbiakban: előzménybevallás) kiindulva készítheti el az önellenőrzést. A funkciót használva a módosított és az előzménybevallás adataiból a program automatikusan kiszámolja és kitölti az önellenőrzéses mezőket, ELL jelű sorokat. 
+
+
+
+A program az önellenőrzéses mezőket csak 1 000 forintot meghaladó kötelezettségváltozásnál tölti ki. 
+
+
+
+Ha önellenőrzéskor kötelezettségnövekedés keletkezik, akkor az ELL-12. sorban az önellenőrzési pótlék összege is megjelenik. Ha az önellenőrzési pótlék összege nem haladja meg az 1 000 forintot, akkor az ELL-12. sorba nulla forint kerül. 
+
+
+
+Ha önellenőrzéskor visszaigényelhető adó keletkezik, akkor a „Visszaigényelhető összeg kiutalását vagy átvezetését kérem” kódkocka jelölésével az „Átvezetési és kiutalási kérelem” „Terhelendő”, illetve a „Kiutalandó” sorában lévő mezőket is kitölti a program. 
+
+
+
+Ha más adónemre kívánja átvezettetni a visszajáró összeget vagy annak egy részét, akkor azt a „Jóváírandó” sorban az adónem kód kiválasztásával és az összeg megadásával teheti meg. „Kiutalandó” összegnél meg kell adni a „Visszaigénylési adatok” mezőcsoportban a kiutaláshoz szükséges adatokat.
+
+
+
+Az önellenőrzés támogatása funkció nélkül
+
+
+
+A belépés után az „Adóbevallás megtekintése”, majd az „Új bevallás korábbi adatokkal” mezőre kell kattintani, ezáltal szerkeszthetővé válik a korábbi bevallási tervezet. Először az önellenőrzéssel módosítandó adatokat kell kitölteni, javítani – például adókedvezmények –, majd az önellenőrzési mellékleteket kell hozzárendelni a bevalláshoz a következők szerint.
+
+
+
+Az „Összes mező” rovatban az „Önellenőrzés, helyesbítés, javítás” sorra kattintva jelennek meg az önellenőrzés kitöltéséhez szükséges sorok. A „Bevallás jellege (önellenőrzés, helyesbítés)” rovatban a „Hozzáadás”, majd a „Szerkesztés” fülre kattintás után megjelenő mezőbe írt „O” betűvel lehet jelezni, hogy a bevallást önellenőrzésként nyújtja be. 
+
+
+
+Ezután az „Önellenőrzési pótlék, adónemenkénti kötelezettséglap-különbözet és kötelezettségváltozás”, illetve szükség esetén – például önkéntes pénztári, NYESZ-R vagy nyugdíjbiztosítási kedvezmény önellenőrzésekor –  a „Az önellenőrzés oka, módja az ELL-26 – ELL-40. sorokra vonatkozóan” mezőket is hozzá kell adni a bevalláshoz (Hozzáadás, Szerkesztés). 
+
+
+
+Az így megjelenő mezőkben kell feltüntetni az adókötelezettség változását, például ELL-1. sor: Személyijövedelemadó-kötelezettség alapjának különbözete, kötelezettség változása.
+
+
+
+Ha a módosítás után visszaigényelhető adója keletkezik, a visszaigényléshez szükséges mezők hozzáadásához a „Keresés a hozzáadható mezők között” rovatba írja be az „Átvezetési és kiutalási kérelem” szöveget. A „Visszaigénylési adatok” sorában jelölni kell, hogy Ön a visszajáró összegnek, összegeknek egy részét visszakéri és/vagy átvezetést kér, majd meg kell adni a számlaszámot vagy postai címet, ahová a NAV a visszajáró összeget kiutalja. Az „Átvezetési és kiutalási kérelem” rovatban meg kell adni a terhelendő adónemkódját (személyi jövedelemadó: 103), valamint a visszajáró összeget forintban. 
+
+
+
+A módosításnál a berögzített adatokat a „Mentés” gombra kattintva kell elmenteni. Ha az így módosított adatok megfelelőek, akkor a „Tovább a bevalláshoz” gombra kell kattintani, és a bevallást a „Beadás” gombbal beadni.
+
+
+
+
+
+II. Szja-befizetés és -kiutalás
+
+
+
+A bevallási tervezet egyenlege befizetendő adót mutat, pedig ezt az összeget még 2020-ban átutalással befizettem. Egyébként év közben nem kellett adóelőleget fizetnem. Mi a teendő?
+
+
+
+A személyi jövedelemadóról a magánszemélynek, a mezőgazdasági őstermelőnek, az áfafizetésre kötelezett magánszemélynek és az egyéni vállalkozónak – ideértve a vállalkozási tevékenységét az év utolsó napján szüneteltető természetes személyt is – 2021. május 20-áig kell bevallást benyújtania és az adót megfizetnie.
+
+
+
+Tehát a 2020-ról szóló személyijövedelemadó-bevallás a még fizetendő adót tartalmazza, amit 2021. május 20-ig kell befizetni. 
+
+
+
+A NAV által elkészített adóbevallási tervezet megküldésekor folyószámla-egyeztetés nem történik, mert az adó megfizetésének határideje akkor még nem jár le. A határidő előtt megfizetett adó túlfizetésként jelenik meg adószámláján. A tervezetben az Ön által év közben befizetett személyi jövedelemadó összege nem szerepel, ezért a bevallási tervezetet módosítani kell. 
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+A 74. sor, azaz „Az adózó által befizetett adóelőleg, adó” mező hozzáadásával fel kell tüntetnie az Ön által már év közben befizetett adó összegét. Ezáltal a bevallás egyenlegében a 79. sorban a fizetendő adónál az összeg törlődik és a bevallás feldolgozása után a túlfizetéses egyenleg az adószámláján rendeződik.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+A módosításhoz be kell nyújtania a 20SZJA jelű bevallást 2021. május 20-ig. Ennek a bevallásnak a 74. sorában, azaz „Az adózó által befizetett adóelőleg, adó” mezőben fel kell tüntetnie az Ön által már év közben befizetett adó összegét. Ezáltal a 79. sorban a fizetendő adónál szereplő összeg nulla lesz és a bevallás feldolgozása után a túlfizetéses egyenleg az adószámláján rendeződik.
+
+
+
+
+
+Hogyan kérhetek részletfizetést a bevallási tervezetben?
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Az elektronikus hozzáféréssel rendelkező adózó a bevallási tervezetét, ha szükséges, módosíthatja a www.nav.gov.hu/nav/szja/szja honlapról elérhető eSZJA-portálon. 
+
+
+
+A módosításra megnyitott bevallási tervezetben az „Átvezetési és kiutalási kérelem, részletfizetés, visszaigénylési adatok, egyenlegek” menüpontban a 81. sor „Nyilatkozom, hogy az együttesen 500 ezer forintot meg nem haladó személyi jövedelemadó és szociális hozzájárulási adó fizetési kötelezettségemre az esedékességtől számított, legfeljebb tizenkét hónapon keresztül egyenlő részletekben történő pótlékmentes megfizetést vállalom. (A választott időtartam – 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 vagy 12 hónap)” alatt megjelenő kódkocka kitöltésével adhatja meg a részletek számát.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha a postán küldött bevallási tervezetben foglaltakkal egyetért, akkor a bevallási tervezet mellékleteként megküldött kiegészítő nyilatkozaton jelölheti a részletfizetés választását. A kitöltött és aláírt nyomtatványt postán kell visszaküldenie a NAV-nak 2021. május 20-ig. 
+
+
+
+Ha a bevallási tervezetet más ok miatt is ki kell egészítenie vagy módosítania kell, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig. Ekkor a részletfizetést a bevallás C) lapjának 81. sorában kell kérnie. 
+
+
+
+
+
+Hogyan kérhetem és mennyi időn belül kapom meg a visszaigényelhető adót? 
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Az elektronikus hozzáféréssel rendelkező adózó bevallási tervezetét, ha kell, módosíthatja, illetve kiegészítheti a www.nav.gov.hu/nav/szja/szja honlapról elérhető eSZJA-portálon.
+
+
+
+A bevallás kiegészítésekor az „Összes mező”/„”Átvezetési és kiutalási kérelem, részletfizetés, visszaigénylési adatok, egyenlegek”/„Visszaigénylési adatok” menüpontokon keresztül hozzáadhatók azok a mezők, amelyek kitöltésével kezdeményezheti a visszaigényelhető adó kiutalását.
+
+
+
+A megjelenő mezőkben jelölje be a „Teljes visszaigényelhető összeg/összegek visszakérésének” lehetőségét, majd adja meg a postázási címét vagy pénzforgalmi, illetve fizetési számlájának számát.
+
+
+
+A visszaigényelt adót a bevallás beérkezésétől, a módosított bevallási tervezet jóváhagyásától számítva legkésőbb a 30. napon utalja ki a NAV. A 30 nap számításánál figyelembe kell venni a postai kézbesítés átfutási idejét is.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha a postán küldött bevallási tervezetben foglaltakkal egyetért, akkor a bevallási tervezet mellékleteként megküldött kiegészítő nyilatkozaton adhatja meg a visszaigényléshez szükséges adatokat. Be kell jelölnie a „Teljes visszaigényelhető összeg/összegek visszakérésének” lehetőségét, illetve meg kell adnia a postázási címét vagy pénzforgalmi, illetve fizetési számlájának számát.
+
+
+
+A kitöltött és aláírt nyomtatványt postán kell visszaküldenie a NAV-nak 2021. május 20-ig. 
+
+
+
+Ha a bevallási tervezetet más okból is ki kell egészítenie vagy módosítania kell, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig, aminek a D) blokkjában kell feltüntetnie a visszaigényléshez szükséges adatokat.
+
+
+
+A visszaigényelt adót a bevallás, illetve a bevallási tervezet kiegészítő nyilatkozatának beérkezésétől számítva maximum a 30. napon utalja ki a NAV. A 30 nap számításánál figyelembe kell venni a postai kézbesítés átfutási idejét is.
+
+
+
+
+
+ Ha a bevallási tervezet befizetendő személyi jövedelemadót tartalmaz, hogyan lehet azt befizetni, kérhető-e részletfizetés? 
+
+
+
+Ha a bevallással egy időben személyi jövedelemadót kell fizetnie, akkor arra több lehetősége is van:
+
+az eSZJA-portálon bankkártyás fizetéssel;
+
+lakossági folyószámláról átutalással, a közlemény rovatban az adószám vagy az adóazonosító jel feltüntetésével a NAV Személyi jövedelemadó magánszemélyt, őstermelőt, egyéni vállalkozót, kifizetőt terhelő kötelezettség beszedési számla elnevezésű, 10032000-06056353 számú számlára;
+
+a NAV ügyfélszolgálatain bankkártyával (POS);
+
+elektronikus hozzáféréssel, az eBEV-portálon, az adószámla lekérdezéséhez kapcsolódóan internetes bankkártyás fizetéssel (VPOS);
+
+készpénzátutalási megbízással, azaz csekken, amit a CSEKK formanyomtatványon, bármelyik NAV ügyfélszolgálati irodában, illetve telefonon a NAV Infóvonalán keresztül, a 1819-es telefonszámon igényelhet.
+
+
+
+Az adózó automatikus részletfizetést is választhat, ha a fizetendő személyi jövedelemadó és egészségügyi hozzájárulás összege nem több, mint 200 ezer forint. 
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Bevallási tervezetét, ha kell, módosíthatja a www.nav.gov.hu/nav/szja/szja honlapról elérhető eSZJA-portálon.
+
+
+
+A módosításra megnyitott bevallási tervezetben az „Átvezetési és kiutalási kérelem, részletfizetés, visszaigénylési adatok, egyenlegek” menüpontban a 81. sor „Nyilatkozom, hogy az együttesen 500 ezer forintot meg nem haladó személyi jövedelemadó és szociális hozzájárulási adó fizetési kötelezettségemre az esedékességtől számított, legfeljebb tizenkét hónapon keresztül egyenlő részletekben történő pótlékmentes megfizetést vállalom. (A választott időtartam – 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 vagy 12 hónap)” alatt megjelenő kódkocka kitöltésével adhatja meg a részletek számát.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha a postán küldött bevallási tervezetben foglaltakkal egyetért, akkor a bevallási tervezet mellékleteként megküldött kiegészítő nyilatkozaton jelölheti a részletfizetés választását. A kitöltött és aláírt nyomtatványt postán kell visszaküldenie a NAV-nak 2021. május 20-ig. 
+
+
+
+Ha a bevallási tervezetet más okból is ki kell egészítenie vagy módosítania kell, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig és a részletfizetést a bevallás C) lapjának 81. sorában kell kérnie.
+
+		
+
+	
+
+III. Összevonás alá eső jövedelmek és a kedvezmények
+
+
+
+ 2020 júliusától négygyermekes anyuka vagyok. Év közben nem kértem a négy vagy több gyermeket nevelő anyák kedvezményét (a továbbiakban: NÉTAK). Csak munkabérem van, más kedvezményt nem veszek igénybe. Hogyan kell a NÉTAK-ot a bevallásban érvényesíteni?
+
+
+
+Ha van elektronikus hozzáférése 
+
+
+
+Ha a bevallási tervezetében a NÉTAK-ot szeretné érvényesíteni, akkor ezt az elektronikus felületen a következők szerint teheti meg.
+
+
+
+A „Gyakori mezők” opciót választva egy 14 lehetőséget tartalmazó felület válik láthatóvá, ahol kiválasztható a „Négy vagy több gyermeket nevelő anyák kedvezménye” lehetőség.
+
+Ezt választva a „Tovább” gombra kattintással válik elérhetővé a NÉTAK-kal kapcsolatos adóbevallási sorok hozzáadása lehetőség.
+
+
+
+A „Hozzáadás”-t, majd a „Szerkesztés”-t választva tudja a NÉTAK-kal kapcsolatos nyilatkozatait megtenni és a kedvezményt érvényesíteni. 
+
+A gyermekekre vonatkozó nyilatkozatban a kedvezmény típusa 2 (négy vagy több gyermeket nevelő anyák kedvezménye) kódot írjon és adja meg a gyermekek nevét, adóazonosító jelét.
+
+Mivel a jogosultság év közben nyílt meg, ezért erről is nyilatkozni kell a 114. sorban, a jogosultság megnyíltának időpontja 2020.07.01.
+
+Az 1. sorban szereplő bérjövedelmek közül a július–december hónapokra kapott jövedelmet írja be a mellette lévő mezőbe. Például, ha a havi jövedelme 300 ezer forint, akkor 300 000*6= 1 800 000 forintot tüntessen fel.
+
+
+
+A visszaigénylésre vonatkozó adatokat szintén a „Gyakori mezők” között találja „Visszaigényelhető adó, részletfizetés esetén kitölthető mezők” néven. A visszaigénylési adatoknál jelölni kell, ha Ön a teljes visszaigényelhető összeget visszakéri, majd meg kell adni a számlaszámot, vagy a postai címet, ahová a NAV a visszajáró összeget kiutalja.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, úgy a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás a zöld színű „Beadás” gombbal benyújtható.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha Ön nem ért egyet a postán megküldött bevallási tervezetben foglaltakkal, illetve az kiegészítésre szorul, akkor egy 20SZJA-bevallást kell benyújtania 2021. május 20-ig.
+
+
+
+A nyomtatvány elérhető 
+
+az internetes kitöltőfelületen a http://nav.gov.hu/szja/szja linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot, és üres bevallást nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: http://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+A NÉTAK-ról a nyilatkozatát a 20SZJA-01 és -02 lapjain teheti meg. A kedvezményt a 20SZJA-A lapon az 1. sor e oszlopában érvényesítheti. 
+
+
+
+A NÉTAK-kal kapcsolatban segítséget nyújthat a NAV honlapján megtalálható 
+
+73. számú, a családokat érintő adóalap-kedvezményekről szóló információs füzet, amelyet az alábbi linken keresztül érhet el: 
+
+https://nav.gov.hu//data/cms508857/73_A_csaladokat_erint__adoalap_kedvezmenyek_20200804.pdf
+
+valamint a Kedvezmények Példatára:
+
+https://nav.gov.hu/data/cms532838/orszagos_peldatar.pdf
+
+
+
+
+
+Négygyermekes anyuka vagyok. Év közben kértem a NÉTAK érvényesítését, a férjem pedig a családi kedvezményt, de ő nem tudta ezt teljes összegben igénybe venni. Ha 2020-ban csak munkabérem és osztalékból származó jövedelmem volt, akkor van lehetőségem a fel nem használt családi kedvezményt igénybe venni?
+
+
+
+Igen. Az osztalékból származó jövedelemből sem a NÉTAK-ot, sem a családi kedvezményt nem veheti igénybe, a munkabéréből levont, a családi járulékkedvezményként figyelembe vehető járulék terhére azonban a fel nem használt összeg 15 százalékát érvényesítheti. 
+
+
+
+családi járulékkedvezménynél figyelembe vehető járulékokat a munkáltatói igazolás tartalmazza.
+
+
+
+
+
+Hogyan tudom a bevallási tervezetben érvényesíteni a családi kedvezményt vagy az első házasok kedvezményét vagy a súlyos fogyatékosságra vonatkozó kedvezményt? Ha csak az év egy részében volt munkaviszonyom, akkor a kedvezményeket a bevallásban csak arányosan vehetem igénybe?
+
+
+
+Családi kedvezmény
+
+
+
+A családi kedvezményt azokra a hónapokra érvényesítheti, amely hónapokra Ön 
+
+a kedvezményezett eltartott után családi pótlékra jogosult vagy 
+
+a családi pótlékra saját jogán jogosult vagy
+
+rokkantsági járadékban részesül, 
+
+függetlenül attól, hogy a munkaviszony hány hónapon keresztül állt fenn. 
+
+
+
+A családi kedvezményt az összevont adóalapba tartozó jövedelmek utáni személyi jövedelemadó, valamint családi járulékkedvezményként az egyéni egészségbiztosítási és nyugdíjjárulék együttes összege terhére lehet érvényesíteni.
+
+
+
+Ha van elektronikus hozzáférése
+
+ 
+
+Ha a NAV által elkészített bevallási tervezetet a családi kedvezményt érintően módosítani kívánja, akkor erre az elektronikus felületen kétféleképp van lehetősége.
+
+A „Gyakori mezők” opciót választva egy 14 lehetőséget tartalmazó felület válik láthatóvá, ahonnan kiválasztható a „Családi kedvezmény”. Ezután a „Tovább” gombra kattintással válik elérhetővé a családi kedvezményekkel kapcsolatos adóbevallási sorok hozzáadása. A „Hozzáadás”-t, majd a „Szerkesztés”-t választva tudja a családi kedvezménnyel kapcsolatos nyilatkozatait megtenni a gyermekekre vonatkozó adatokkal, a megosztással, a jogosultsági hónapokkal.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszó megadása alapján választhatja ki a hozzáadandó sorokat. Ehhez a keresőmezőbe írja be a „családi kedvezmény” kifejezést és kattintson a mezőben látható, nagyítót jelképező ikonra. Ezzel elérhetővé válnak a családi kedvezménnyel kapcsolatos sorok. Innen az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A visszaigénylésre vonatkozó adatokat szintén a „Gyakori mezők” között találja „Visszaigényelhető adó, részletfizetés esetén kitölthető mezők” néven. A visszaigénylési adatoknál jelölni kell, ha Ön a teljes visszaigényelhető összeget, összegeket visszakéri, majd meg kell adni a számlaszámot vagy a postai címet, ahová a NAV a visszajáró összeget kiutalja.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás zöld színű „Beadás” gombbal beadható.
+
+
+
+A családi kedvezmény érvényesítéséhez és a bevallás kitöltéséhez segítséget nyújthat az „Eltartottak után járó családi kedvezmény” rovathoz tartozó súgó. A súgó a sor végén található „i” ikonra kattintva érhető el.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha Ön nem ért egyet a postán küldött bevallási tervezetben foglaltakkal, illetve az kiegészítésre szorul, akkor a 20SZJA-bevallást kell benyújtania 2021. május 20-áig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+A családi kedvezménnyel kapcsolatban segítséget nyújthat a NAV honlapján megtalálható 
+
+73. számú, a családokat érintő adóalap-kedvezményekről szóló információs füzet, amelyet az alábbi linken keresztül érhet el: 
+
+https://nav.gov.hu//data/cms508857/73_A_csaladokat_erint__adoalap_kedvezmenyek_20200804.pdf
+
+valamint a Kedvezmények Példatára:
+
+https://nav.gov.hu/data/cms532838/orszagos_peldatar.pdf
+
+
+
+Első házasok kedvezménye
+
+
+
+Az első házasok kedvezménye annak a párnak jár, amelynek legalább egyik tagja az első házasságát köti. A kedvezmény a házaspárt a házasságkötés hónapját követő 24 hónapon keresztül illeti meg, ha a házasság ez idő alatt fennáll. A kedvezmény tehát nem csak azokra a hónapokra érvényesíthető, amelyekben Ön munkaviszonnyal rendelkezett.
+
+
+
+Ez azt jelenti, hogy a kedvezmény akkor is érvényesíthető, ha a munkaviszony nem áll fenn a teljes évben, feltéve, hogy Ön rendelkezik annyi összevont adóalapba tartozó jövedelemmel, amelyből a kedvezmény egész évi összege levonható.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Ha a NAV által elkészített bevallási tervezetet az első házasok kedvezményét érintően módosítani kívánja, akkor erre az elektronikus felületen kétféleképp van lehetősége.
+
+A „Gyakori mezők” opciót választva egy 14 lehetőséget tartalmazó felület válik láthatóvá, ahonnan kiválasztható az „Első házasok kedvezménye”. Ezután a „Tovább” gombra kattintással válik elérhetővé az első házasok kedvezményével kapcsolatos adóbevallási sorok hozzáadása. A „Hozzáadás”-t, majd a „Szerkesztés”-t választva tudja a családi kedvezménnyel kapcsolatos nyilatkozatait megtenni a házastársra vonatkozó adatokkal, a megosztással, a jogosultsági hónapokkal.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszóval választhatja ki a hozzáadandó sorokat. Ehhez a keresőmezőbe írja be az „első házasok” kifejezést és kattintson a mezőben látható nagyítót jelképező ikonra. Ezzel elérhetővé válnak az első házasok kedvezményével kapcsolatos sorok. Innen az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A visszaigénylésre vonatkozó adatokat szintén a „Gyakori mezők” között találja „Visszaigényelhető adó, részletfizetés esetén kitölthető mezők” néven. A visszaigénylési adatoknál jelölni kell, ha Ön a teljes visszaigényelhető összeget, összegeket visszakéri, majd meg kell adni a számlaszámot vagy a postai címet, ahová a NAV a visszajáró összeget kiutalja.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás a zöld színű „Beadás” gombbal beadható.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha Ön nem ért egyet a postán küldött bevallási tervezetben foglaltakkal, illetve az kiegészítésre szorul, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-áig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+Az első házasok kedvezményével kapcsolatban segítséget nyújthat a NAV honlapján megtalálható 
+
+73. számú, a családokat érintő adóalap-kedvezményekről szóló információs füzet, amelyet az alábbi linken keresztül érhet el: 
+
+https://nav.gov.hu//data/cms508857/73_A_csaladokat_erint__adoalap_kedvezmenyek_20200804.pdf
+
+valamint a Kedvezmények Példatára:
+
+https://nav.gov.hu/data/cms532838/orszagos_peldatar.pdf
+
+
+
+Súlyos fogyatékosság
+
+
+
+A személyi kedvezményt, azaz a súlyos fogyatékosság miatti kedvezményt 
+
+a 335/2009-es Kormányrendeletben felsorolt, BNO-kód alapján meghatározott betegségekben szenvedő, illetve
+
+fogyatékossági támogatásban részesülő, valamint
+
+rokkantsági járadékban részesülő 
+
+személyek érvényesíthetik. 
+
+
+
+A fogyatékos állapot fennállása alatt, az erről szóló orvosi igazolás vagy az ellátás folyósításáról szóló határozat birtokában érvényesíthető kedvezmény összege havonta a mindenkori minimálbér 5 százalékának megfelelő összeg. A kedvezmény nem csak azokra a hónapokra érvényesíthető, amelyekben Ön munkaviszonnyal rendelkezett.
+
+
+
+Ez azt jelenti, hogy a kedvezmény akkor is érvényesíthető, ha a munkaviszony nem áll fenn a teljes évben, feltéve, hogy Ön rendelkezik annyi összevont adóalapba tartozó jövedelmet terhelő adóval, amelyből az egész éves kedvezmény összege levonható.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Ha a NAV által elkészített bevallási tervezetet a személyi kedvezményt érintően módosítani kívánja, akkor erre az elektronikus felületen kétféleképp van lehetősége.
+
+A „Gyakori mezők” opciót választva egy 14 lehetőséget tartalmazó felület válik láthatóvá, ahonnan kiválasztható a „Személyi kedvezmény (súlyos fogyatékosság miatti kedvezmény)”. Ezután a „Tovább” gombra kattintással válik elérhetővé a súlyos fogyatékosság miatti kedvezménnyel kapcsolatos adóbevallási sorok hozzáadása. A „Hozzáadás”-t, majd a „Szerkesztés”-t választva tudja a családi kedvezménnyel kapcsolatos érvényesíthető összeget feltüntetni, 2020-ban ez jogosultsági hónaponként   8 050 forint.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszóval választhatja ki a hozzáadandó sorokat. Ehhez a keresőmezőbe írja be a „súlyos fogyatékosság” kifejezést és kattintson a mezőben látható nagyítót jelképező ikonra. Ezzel elérhetővé válnak a súlyos fogyatékosság kedvezményével kapcsolatos sorok. Innen az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A visszaigénylésre vonatkozó adatokat szintén a „Gyakori mezők” között találja „Visszaigényelhető adó, részletfizetés esetén kitölthető mezők” néven. A visszaigénylési adatoknál jelölni kell, ha Ön a teljes visszaigényelhető összeget, összegeket visszakéri, majd meg kell adni a számlaszámot vagy a postai címet, ahová a NAV a visszajáró összeget kiutalja.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, a bevallás benyújtása pedig a zöld színű „Beadás” gombbal történik.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha Ön nem ért egyet a postán küldött bevallási tervezetben foglaltakkal, illetve az kiegészítésre szorul, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-áig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtahat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+A személyi kedvezménnyel kapcsolatban segítséget nyújthat a NAV honlapján megtalálható Kedvezmények Példatára: https://nav.gov.hu/data/cms532838/orszagos_peldatar.pdf
+
+
+
+
+
+Ha 2020-ban külföldről is származott jövedelmem, akkor ez szerepelni fog a bevallási tervezetben? Mi a teendő, ha 2020-ban csak külföldön szereztem jövedelmet?
+
+
+
+A NAV a nyilvántartásaiban szereplő munkáltatói, kifizetői adatszolgáltatások alapján állítja össze a magánszemélyek adóbevallási tervezetét. A külföldi munkáltatók, kifizetők a NAV-nak nem szolgáltatnak adatot, ezért az adóbevallási tervezet a külföldről származó jövedelmeket nem tartalmazza. 
+
+
+
+Ha külföldről származó jövedelme van, akkor az adóbevallási tervezetet Önnek ki kell egészítenie. A tervezet megtekinthető és módosítható 
+
+a nav.gov.hu/nav/szja/szja honlapon az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy RKTA telefonos azonosítás – után,
+
+postán kapott tervezetnél a NAV honlapjáról letölthető vagy az ügyfélszolgálatokon elérhető 20SZJA jelű bevallás benyújtásával. 
+
+
+
+Ha nincs ügyfélkapuja, a NAV valamennyi ügyfélszolgálatán, továbbá bármely megyei vagy fővárosi kormányhivatalban, a megyei és a fővárosi kormányhivatalok járási vagy fővárosi kerületi hivatalában, illetve a Magyar Posta Zrt. kijelölt postahelyein is regisztrálhat. 
+
+
+
+A külföldi munkaviszonyból származó jövedelem a kettős adóztatás elkerüléséről szóló egyezmény alapján a munkavégzés államában adóköteles, Magyarországon a külföldi jövedelméről nem kell bevallást benyújtania, ha nem volt az adóévben egyéb olyan jövedelme, amely itthon adóköteles.
+
+
+
+
+
+Ingatlan-bérbeadásból származó jövedelem szerepel-e a tervezetben?
+
+
+
+Bérbeadás kifizetőnek
+
+
+
+Ha Ön magánszemélyként az ingatlant nem egy másik magánszemélynek, hanem kifizetőnek adta bérbe, akkor a NAV elkészíti az adóbevallási tervezetet, amely tartalmazza a bérbeadásból származó jövedelemre vonatkozó adatokat, vagyis a kifizető által levont személyijövedelemadó-előleget. Ha Önnek ezen kívül más adóköteles jövedelme is volt tavaly, például munkabér, akkor az is szerepel a tervezetben. 
+
+
+
+Ha Ön az ingatlan-bérbeadási tevékenysége miatt áfafizetésre kötelezett, erre a tevékenységére az adókötelessé tételt választotta, és a NAV elkészítette az adóbevallási tervezetét, akkor az módosítás, kiegészítés nélkül nem hagyható jóvá.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+A tervezet megtekinthető és módosítható a nav.gov.hu/nav/szja/szja honlapon, az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy RKTA telefonos azonosítás – után. . A bejelentkezést követően be kell lépni a „Szerkesztés” menübe, meg kell adni az ingatlan-bérbeadásból származó jövedelemre vonatkozó adatokat, majd a bevallást be kell küldeni.
+
+
+
+A módosításkor az ingatlan-bérbeadásból származó jövedelem bevallására szolgáló sorokat kétféleképp adhatja hozzá a tervezethez. A „Bevallás elkészítése” felirat alatt látható a „Gyakori mezők”, illetve a „Keresés a hozzáadható mezők között” felirat, amelyek segítségével további sorok adhatók a bevallási tervezethez.
+
+A „Gyakori mezők” opciót választva kiválasztható az „Ingatlan-bérbeadásból és más önálló tevékenységből származó jövedelmek” mezőcsoport. Ezt választva lehetőség nyílik az „Önálló tevékenységből származó jövedelmek” sorok hozzáadására. A „Hozzáadás”-t választva tudja a 7. és 8. sorban feltüntetni az ingatlan-bérbeadásból származó jövedelmet és adóját.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszó megadása alapján választhatja ki a hozzáadni kívánt sorokat. Ehhez a keresőmezőbe írja be a „bérbeadás” kifejezést, ezzel elérhetővé válnak az „Önálló tevékenységből származó jövedelem” és „A 7. sorból az ingatlan-bérbeadásból származó jövedelem” feltüntetésére szolgáló 7. és 8. sor. Innentől az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, a bevallás benyújtása pedig a zöld színű „Beadás” gombbal történik.
+
+
+
+Bérbeadás magánszemélynek
+
+
+
+Ha valakinek 2020-ban kizárólag bérbeadási tevékenységből származott bevétele és az ingatlant magánszemélynek adta bérbe, akkor számára a NAV nem készíti el az adóbevallási tervezetet. Az ingatlan-bérbeadásból származó bevételt, a költségeket, a kiszámított jövedelmet, továbbá a negyedévente megfizetett adóelőleg összegét a magánszemélynek kell bevallania a 20SZJA jelű bevallásban. 
+
+
+
+Ha ezen a bevételen kívül a magánszemélynek olyan jövedelme is volt, amelyről a NAV kifizetői adatokkal rendelkezik, például munkabér, akkor a NAV elkészíti az adóbevallási tervezetet, amelyet azonban a bérbeadó magánszemélynek ki kell egészítenie a bérbeadásból származó jövedelemre vonatkozó adatokkal. 
+
+
+
+Ha az ingatlan-bérbeadási tevékenységet folytató magánszemély áfa fizetésére kötelezett, erre a tevékenységére az adókötelessé tételt választotta, és számára a NAV elkészítette az adóbevallási tervezetet, akkor azt módosítás nélkül nem fogadhatja el, személyijövedelemadó-bevallását a tervezet felhasználásával készítheti el.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+A tervezet megtekinthető és módosítható a nav.gov.hu/nav/szja/szja honlapon, az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy RKTA telefonos azonosítás – után. A belépést követően be kell lépni a „Szerkesztés” menübe, meg kell adni az ingatlan-bérbeadásból származó jövedelemre vonatkozó adatokat, ezután pedig a bevallást be kell küldeni.
+
+
+
+A módosításkor az ingatlan-bérbeadásból származó jövedelem bevallására szolgáló sorokat kétféleképp tudja hozzáadni a tervezethez. A „Bevallás elkészítése” felirat alatt látható „Gyakori mezők”, illetve a „Keresés a hozzáadható mezők között” felirat, amelyek segítségével további sorok adhatók a bevallási tervezethez.
+
+A „Gyakori mezők” opciót választva kiválasztható az „Ingatlan-bérbeadásból és más önálló tevékenységből származó jövedelmek” mezőcsoport. Ezt választva lehetőség nyílik az „Önálló tevékenységből származó jövedelmek” sorok hozzáadására. A „Hozzáadás”-t választva tudja a 7. és 8. sorban feltüntetni az ingatlan-bérbeadási tevékenységből származó jövedelmet és adóját.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszóval választhatja ki a hozzáadni kívánt sorokat. Ehhez a keresőmezőbe írja be a „bérbeadás” kifejezést, ezzel elérhetővé válnak az „Önálló tevékenységből származó jövedelem” és „A 7. sorból az ingatlan bérbeadásából származó jövedelem” feltüntetésére szolgáló 7. és 8. sor. Innentől az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, a bevallás benyújtása pedig a zöld színű „Beadás” gombbal történik.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha az adóbevallási tervezet postázását kérte a NAV-tól, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig, mivel a tervezetet javítani nem lehet.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+
+
+ Kapok-e a NAV-tól bevallást, ha tavaly csak gyermekgondozási díjat kaptam, más jövedelmem nem volt. Van-e valamilyen bevallási kötelezettségem, vagy a NAV készít nekem bevallást?
+
+
+
+A NAV által készített adóbevallási tervezet tartalmazza a gyermekgondozási díjat, mert az egy adóköteles társadalombiztosítási ellátás. 
+
+
+
+A tervezetet megtekintheti a www.nav.gov.hu/nav/szja/szja honlapon, az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy RKTA telefonos azonosítás – után. Ha nincs ügyfélkapuja és kérte a tervezet postázását, akkor postán kapja meg az elkészült tervezetet.
+
+
+
+Ha mindent rendben talál a bevallási tervezettel kapcsolatban, egyéb teendője nincs, az 2021. május 20-án bevallássá válik.
+
+
+
+
+
+Diákmunkával összesen 10 ezer forintot kerestem 2020-ban. Munkaszerződést kötöttek velem. Ezt a kis összegű jövedelmet is be kell vallanom? 
+
+
+
+Az szja-bevallást akkor is el kell készíteni, ha valaki csak rövid ideig állt munkaviszonyban és kisebb összegű bérjövedelmet kapott. Függetlenül attól, hogy diákként milyen összegű bérjövedelmet szerzett munkaviszonyában 2020-ban, a jövedelem adóköteles, és a NAV által elkészített adóbevallási tervezet is tartalmazza.
+
+
+
+A tervezetet megtekintheti a www.nav.gov.hu/nav/szja/szja honlapon, az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy RKTA telefonos azonosítás – után. Ha nincs ügyfélkapuja és kérte a tervezet postázását, akkor postán kapja meg az elkészült tervezetet.
+
+
+
+Ha mindent rendben talál a bevallási tervezettel kapcsolatban, egyéb teendője nincs, az 2021. május 20-án bevallássá válik.
+
+
+
+
+
+IV. Elkülönülten adózó jövedelmek
+
+
+
+Ha 2020-ban ingatlant adtam el, akkor hogyan tudom a tervezetet kiegészíteni?
+
+
+
+A bevallási tervezet a kifizetők, munkáltatók által megküldött adatokat tartalmazza, ezért az ingatlanértékesítésből származó jövedelem a bevallási tervezetben nem szerepel.
+
+
+
+Ha az ingatlant olcsóbban adta el, mint amennyiért korábban vásárolta, vagy az ingatlant a vásárlástól számított öt év elteltével adta el, akkor az értékesítésből származó bevételt nem kell a bevallásban szerepeltetnie, mivel az eladásból nem keletkezett jövedelme. Ilyenkor a bevallási tervezetet sem kell kiegészítenie az ingatlanértékesítésből származó bevétellel.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+A bevallási tervezetet az elektronikus felületen módoítania kell.
+
+
+
+A módosításkor az ingatlan értékesítéséből származó jövedelemhez kapcsolódó sorokat kétféleképp tudja hozzáadni a tervezethez. A „Bevallás elkészítése” felirat alatt látható „Összes mező”, illetve „Keresés a hozzáadható mezők között” felirat segítségével további sorok adhatók a bevallási tervezethez.
+
+Az „Összes mezők” opciót választva a következő útvonalon érhetők el a szükséges mezők: Személyi jövedelemadó (szja)/ Jövedelmek/ Elkülönülten adózó jövedelmek/ Termőföld, ingatlan, vagyoni értékű jog, ingó vagyontárgy értékesítése. Ezt követően válassza a „Hozzáadás”-t, majd „Szerkesztés”-t, és megadhatja az ingatlan értékesítéséből származó jövedelemmel kapcsolatos adatokat, a bevételt, a költségeket, a jövedelmet.
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszóval választhatja ki a hozzáadandó sorokat. Ehhez a keresőmezőbe írja be az „ingatlanértékesítés” kifejezést, és kattintson a mezőben látható nagyítót jelképező ikonra. Ezzel elérhetővé válnak az ingatlanértékesítéssel kapcsolatos sorok. Innen az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani és a bevallás a zöld színű „Beadás” gombbal beadható.
+
+
+
+Az ingatlanértékesítésből származó jövedelem megállapításához és a bevallás kitöltéséhez segítséget nyújthat a „Termőföld, ingatlan, vagyoni értékű jog, ingó vagyontárgy értékesítése” rovathoz tartozó súgó. A súgó a sor végén található „i” ikonra kattintva érhető el.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Az ingatlanértékesítésből származó jövedelem a bevallási tervezetben nem szerepel, azt Önnek kell bevallania.
+
+
+
+Ha a postán küldött bevallási tervezet kiegészítésre szorul, akkor egy 20SZJA jelű bevallást kell benyújtania 2021. május 20-áig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+A 2020-as ingatlanértékesítésből származó jövedelem megállapításával kapcsolatban segítséget nyújthat a NAV honlapján elérhető
+
+9. számú információs füzet:
+
+https://nav.gov.hu//data/cms511239/9_Az_ingatlanertekesitesb_l_szarmazo_jovedelem_20200130.pdf és
+
+a jövedelem meghatározásához segítséget nyújt a NAV honlapján elérhető ingatlanértékesítési kalkulátor:
+
+http://nav.gov.hu/nav/szolgaltatasok/kalkulatorok/ing_kalk
+
+
+
+
+
+Ha 2020-ban ingóértékesítésből származott jövedelmem, akkor hogyan tudom a tervezetet kiegészíteni?
+
+
+
+Az adóbevallási tervezet a NAV nyilvántartásában szereplő munkáltató, kifizető által teljesített havi adó- és járulékbevallások adatait tartalmazza, vagyis az ingó vagyontárgy átruházásából származó jövedelem nem szerepel a tervezetben. 
+
+
+
+Az ingóértékesítésből származó jövedelem adóját a magánszemélynek az adóbevallásában kell megállapítania és megfizetnie.
+
+
+
+Ha valakinek 2020-ban kizárólag ingóértékesítésből származott jövedelme, akkor a NAV nem készíti el az adóbevallás tervezetét. Ha ezen bevételen kívül olyan jövedelme is volt, amiről a NAV kifizetői adatokkal rendelkezik, például munkabér, akkor a NAV elkészíti az adóbevallási tervezetet, amelyet azonban ki kell egészíteni az ingóértékesítésből származó jövedelemre vonatkozó adatokkal. 
+
+
+
+Az ingóértékesítésből származó adóköteles jövedelmet a 163. sorban kell feltüntetni.
+
+
+
+Ha az ingóságok értékesítésére gazdasági tevékenységként, vagyis üzletszerűen, illetőleg tartós vagy rendszeres jelleggel került sor 2020-ban, akkor az ingó vagyontárgy értékesítéséből származó jövedelem megállapítására vonatkozó szabályok szerint kiszámított jövedelem önálló tevékenységből származó jövedelemnek tekintendő, amit a 13. sorban kell feltüntetni. Ezután 15,5 százalékos szociális hozzájárulási adót is kell fizetni. A személyi jövedelemadó és a szociális hozzájárulási adó alapja a megállapított jövedelem 87 százaléka.
+
+
+
+Nem keletkezik adókötelezettség, ha a magánszemély ingóértékesítésből származó összes jövedelme – ha az nem gazdasági tevékenységből származik – nem haladja meg a 200 ezer forintot. Ha az e jogcímen megszerzett jövedelem meghaladja ezt az összeget, akkor csak a 200 ezer forint feletti rész után kell a 15 százalékos adót megfizetni. Ilyenkor a teljes jövedelmet be kell vallani, de annak 15 százalékkal megállapított adóját csökkenteni kell 30 ezer forinttal.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Az adóbevallási tervezetben az ingóértékesítésből származó jövedelemhez kapcsolódó sorokat kétféleképp tudja hozzáadni. A „Bevallás elkészítése” felirat alatt látható az „Összes mező”, illetve a „Keresés a hozzáadható mezők között” felirat, amelyek segítségével további sorok adhatók a bevallási tervezethez.
+
+Az „Összes mezők” opciót választva a következő útvonalon érhetők el a szükséges mezők: Személyi jövedelemadó (szja)/ Jövedelmek/ Elkülönülten adózó jövedelmek/ Termőföld, ingatlan, vagyoni értékű jog, ingó vagyontárgy értékesítése. Ezt követően válassza a „Hozzáadás”-t, majd „Szerkesztés”-t, és megadhatja az ingóértékesítésből származó jövedelemmel kapcsolatos adatokat, a bevételt, a költségeket, a jövedelmet. A gazdasági tevékenységkénti ingóértékesítésnél a következő útvonalon érhetők el a szükséges mezők: Személyi jövedelemadó (szja)/ Jövedelmek/ Összevont adóalapba tartozó jövedelmek/ Önálló tevékenységből származó jövedelmek/ Gazdasági tevékenység keretében történő ingó, ingatlan értékesítés jövedelme. 
+
+A „Keresés a hozzáadható mezők között” lehetőséget választva keresőszóval választhatja ki a hozzáadni kívánt sorokat. Ehhez a keresőmezőbe írja be az „ingó” kifejezést és kattintson a mezőben látható nagyítót jelképező ikonra. Ezzel elérhetővé válnak az ingó vagyontárgy értékesítésével kapcsolatos sorok. Innen az eljárás megegyezik az előző pontban leírtakkal.
+
+
+
+A beírt adatokat a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás a zöld színű „Beadás” gombbal beadható.
+
+
+
+Az ingóértékesítésből származó jövedelem megállapításához és a bevallás kitöltéséhez segítséget nyújthat a „Termőföld, ingatlan, vagyoni értékű jog, ingó vagyontárgy értékesítése” rovathoz tartozó súgó. A súgó a sor végén található „i” ikonra kattintva érhető el.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha a postán küldött bevallási tervezetben foglaltak kiegészítésre szorulnak, akkor a 20SZJA jelű bevallást kell benyújtania 2021. május 20-áig.
+
+
+
+A 20SZJA jelű nyomtatvány elérhető
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+
+
+
+
+ 2020-ban adószámos magánszemélyként fizetővendéglátó tevékenységet folytattam, amire a tételes átalányadózást választottam. A bevallásban fel kell-e tüntetnem a bevételemet, és ha igen, melyik sorban? 
+
+
+
+Ha a NAV készített Önnek bevallási tervezetet, például azért, mert munkaviszonyból származó jövedelmet is szerzett 2020-ban, akkor annak a 174. sorát kell kitöltenie, ahol szerepeltetni kell a szobák számát és a fizetendő adó összegét, amely évente 38 400 forint szobánként. 
+
+
+
+A tételes átalányadózást választó, fizetővendéglátó tevékenységet folytató magánszemélynek nem kell a bevételét feltüntetni az szja-bevallásban. 
+
+
+
+	Ha a NAV Önnek nem készített bevallási tervezetet, vagy a tervezet papíralapú megküldését kérte, és annak tartalmát módosítania kell, akkor saját magának kell elkészítenie szja-bevallását a 20SZJA jelű nyomtatványon 2021. május 20-ig. 
+
+	
+
+	A 20SZJA jelű nyomtatvány elérhető 
+
+a webes felületen, a http://eszja.nav.gov.hu linken, ahol elektronikus hozzáférés nélkül is használhatja a nyomtatványkitöltő programot és üres bevallást is nyomtathat pdf-formátumban,
+
+az Általános Nyomtatványkitöltő Keretprogramban (ÁNYK) a következő linken: https://nav.gov.hu/nav/letoltesek/nyomtatvanykitolto_programok/nyomtatvanykitolto_programok_nav/bevallasok/20SZJA.html.
+
+	
+
+
+
+V. Adómentes, illetve a jövedelembe nem számító bevételek
+
+
+
+Szerepelni fog-e a bevallási tervezetben az egyszerűsített foglalkoztatásból származó jövedelmem?
+
+
+
+Az egyszerűsített foglalkoztatásból származó bevételről a magánszemélynek nem kell bevallást benyújtania, ha bevétele nem haladja meg a mentesített keretösszeget. Bevallási tervezet ilyenkor is készül, de ha adóköteles jövedelme nem keletkezett, akkor nem válik érvényes bevallássá a tervezet.
+
+
+
+A mentesített keretösszeg megállapításakor a foglalkoztatás napjainak számát kell megszorozni az adóév első napján hatályos kötelező legkisebb munkabér, azaz a minimálbér, vagy a garantált bérminimum napibérként meghatározott összege 130 százalékának szorzatával, ami napi  9 633 forint, illetve napi 12 597 forint.
+
+
+
+Jövedelemként tehát kizárólag a mentesített keretösszeget meghaladó részt kell figyelembe venni és bevallani.
+
+
+
+Ha Ön 2020-ban a mentesített keretösszeget meghaladó bevételre tett szert egyszerűsített foglalkoztatásból, akkor az adóbevallási tervezet tartalmazza a mentesített keretösszeget meghaladó jövedelmet és annak adóját.
+
+
+
+Példa:
+
+Foglalkoztatás napjainak száma: 10 nap
+
+Kapott jövedelem: 100 000 Ft
+
+Mentesített keretösszeg: 10 nap x  9 633 Ft=  96 330 Ft
+
+Az adóbevallás 1. sorában szereplő összeg: 
+
+100 000 – 96 330= 3 670 Ft
+
+
+
+A tervezetet megtekintheti a www.nav.gov.hu/nav/szja/szja honlapon, az „eSZJA” ikon kiválasztását követően a „Belépés”-re kattintva, KAÜ-azonosítás – ügyfélkapus, az e-személyi igazolványos vagy RKTA telefonos azonosítás – után. Ha nincs ügyfélkapuja és kérte a tervezet postázását, akkor postán kapja meg az elkészült tervezetet.
+
+
+
+Ha mindent rendben talál a bevallási tervezettel kapcsolatban, egyéb teendője nincs, az 2021. május 20-án bevallássá válik.
+
+
+
+
+
+ Kell-e személyijövedelemadó-bevallást benyújtanom, ha 2020-ban csak nyugdíjban vagy rokkantsági ellátásban vagy korhatár előtti ellátásban vagy szolgálati járandóságban részesültem?
+
+
+
+A nyugdíj, a megváltozott munkaképességűek ellátásai – a rokkantsági ellátás, a rehabilitációs ellátás –, a korhatár előtti ellátás, a szolgálati járandóság a személyi jövedelemadó szempontjából nyugdíjnak minősülnek, vagyis adómentes juttatásnak számítanak. Ezen ellátásokról szja-bevallást nem kell benyújtani, illetve ezt a juttatást a bevallási tervezet sem tartalmazza. 
+
+
+
+
+
+Kapok-e bevallási tervezetet, ha csak iskolai ösztöndíjat kaptam?
+
+
+
+Az oktatási intézményben folytatott tanulmány után kapott ösztöndíj adómentes bevétel, ezért arról nem kell szja-bevallást benyújtani, illetve az ösztöndíj a bevallási tervezetben sem szerepel.
+
+
+
+
+
+VI. Mezőgazdasági őstermelők és egyéni vállalkozók
+
+
+
+Mezőgazdasági őstermelő vagyok, ha 2021-re átalányadózást szeretnék választani, akkor erről hogyan tudok nyilatkozni?
+
+
+
+2021. január 1-jétől megváltoztak az őstermelő átalányadózásának szabályai. Az őstermelő akkor számít átalányadózónak, ha annak törvényi feltételei fennállnak. Ez azt jelenti, hogy az őstermelőnek akkor kell nyilatkoznia, ha a jövedelmét az adóévben tételes költségelszámolással vagy 10 százalékos költséghányad alkalmazásával számítja ki. Átalányadózás alkalmazásakor nem kell nyilatkozatot tennie.
+
+
+
+
+
+Mezőgazdasági őstermelőként a 2020-as évre nem kell szja-bevallást benyújtanom. 2021-re tételes költségelszámolást választok. Mi a teendőm?
+
+
+
+2021. január 1-jétől az őstermelőnek a tárgyévet megelőző évről szóló bevallásában kell nyilatkoznia, hogy a jövedelmét az adóévben tételes költségelszámolással számítja ki. 
+
+
+
+Ha az őstermelő nem kötelezett bevallás benyújtására, a bevallási határidőig nyilatkozhat a tételes költségelszámolás választásáról a ’T101 jelű nyomtatványon. A nyilatkozat megtehető az Online Nyomtatványkitöltő Alkalmazáson keresztül is.
+
+
+
+
+
+2020-ban őstermelői bevételt szereztem. Mit kell tennem a bevallási tervezettel?
+
+
+
+A 2020-as adóévre a NAV által a mezőgazdasági őstermelőknek elkészített bevallási tervezet a munkáltatói, kifizetői bevallások, adatszolgáltatások adatait tartalmazza. Az őstermelőknek elkészített adóbevallási tervezet módosítás, kiegészítés nélkül nem hagyható jóvá. 
+
+
+
+A kifizetők őstermelőkről küldött adatai a bevallási tervezetben tájékoztató adatként jelennek meg.
+
+
+
+Ha a 2020-ban megszerzett éves őstermelői bevétele nem haladta meg a 600 ezer forintot, akkor abból nem kell jövedelmet megállapítania, és ezt a bevételt bevallania sem kell.
+
+
+
+Ha van elektronikus hozzáférése
+
+Ha a 600 ezer forintot meg nem haladó őstermelői bevételen túl más adóköteles jövedelemmel is rendelkezett 2020-ban, akkor lépjen be a tervezetbe, azaz tekintse meg, és ezután a bevallását a „Mentés” gombra kattintva rögzítse. Ha az így módosított adatok megfelelőek, akkor a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás a zöld színű „Beadás” gombbal beadható.
+
+Ha az Ön által 2020-ban megszerzett éves őstermelői bevétel meghaladta a 600 ezer forintot, akkor a bevallási tervezetet ki kell egészítenie az őstermelői bevételre, költségekre vonatkozó és az őstermelői tevékenységgel összefüggő további adatokkal. Ezután a bevallását a „Mentés” gombra kattintva rögzítheti. Ha az így módosított adatok megfelelőek, úgy a „Tovább a beadáshoz” gombra kell kattintani, és a bevallás a zöld színű „Beadás” gombbal beadható.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+Ha bevallási tervezetét papíralapon kérte, és az a 600 ezer forint alatti őstermelői bevételen kívüli jövedelmeit is tartalmazza, akkor a tervezettel együtt a NAV megküldi az „Adóbevallási tervezetet kiegészítő nyilatkozat a 2020. adóévre” (20SZJAK) nyomtatványt. Ha a tervezetben foglaltakkal – az őstermelői adatoktól eltekintve – egyetért, akkor a 20SZJAK jelű nyomtatvány D) blokkjában jelölje be, hogy a mezőgazdasági őstermelésből származó 2020-as bevétele nem haladta meg a 600 000 forintot, és a nyomtatványt 2021. május 20-áig küldje vissza a NAV-nak. Ha a bevallás kiegészítésére, módosítására a 20SZJAK nem használható fel, akkor 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig. 
+
+Mivel a papíralapú tervezetet nem lehet módosítani, az őstermelői tevékenységével megszerzett valamennyi bevételét, költségeit és az őstermelői tevékenységgel összefüggő további adatokat is tartalmazó 20SZJA jelű bevallást kell benyújtania 2021. május 20-ig.
+
+
+
+ 2020-ban családi gazdaság vezetője voltam. A bevallási tervezetben 9 millió forint kifizetőtől származó bevétel szerepel. A számlák az én nevemre szólnak, de rajtam kívül még két tagja van a családi gazdaságnak. Eloszthatjuk-e a tervezetemben szereplő bevételt három részre?
+
+
+
+2020-ra vonatkozóan a NAV elkészíti a mezőgazdasági őstermelőknek a bevallási tervezetet, amely a munkáltatói, kifizetői bevallások, adatszolgáltatások adatait tartalmazza. 
+
+
+
+Ha Ön a családi gazdaság vezetője, és a számlák az Ön nevére szólnak, akkor Ön és a családi gazdaság többi tagja az őstermelői tevékenységből származó bevételét és – tételes költségelszámolásnál – az azzal kapcsolatos költségét úgy állapíthatja meg, hogy a közösen elért összes bevételt, illetve összes költséget a tagok számával elosztja, függetlenül attól, hogy a számlák, bizonylatok kinek a nevére szólnak. 
+
+
+
+Ha tehát a családi gazdaságnak 2020-ban három tagja volt, akkor az Ön bevallási tervezetében szereplő bevétel harmadát kell az őstermelői bevételnek tekinteni, ami az őstermelői jövedelem megállapításakor csökkenthető a törvény által elismert költségekkel.
+
+
+
+
+
+Egyéni vállalkozó vagyok. Elektronikus hozzáféréssel megnéztem a bevallási tervezetemet, de nem tudom jóváhagyni. Mi a teendő ilyenkor?
+
+
+
+A NAV 2020-ra az egyéni vállalkozóknak is elkészíti a bevallási tervezetet, amely a munkáltatói, kifizetői bevallások, adatszolgáltatások adatait tartalmazza. 
+
+
+
+Az egyéni vállalkozóknak a tervezet adatait ki kell egészíteniük az egyéni vállalkozói tevékenységből származó jövedelemmel és az azzal összefüggő adókötelezettségekkel. Ez azt is jelenti, hogy az egyéni vállalkozóknak elkészített adóbevallási tervezet a 2021. május 20-i bevallási határidő után nem válik bevallássá, vagyis módosítás, kiegészítés nélkül nem hagyható jóvá.
+
+
+
+A teljes adóévben katás egyéni vállalkozók adóbevallási tervezete automatikusan bevallássá válik, ha önállóan nem nyújtanak be szja-bevallást május 20-ig.
+
+
+
+A www.nav.gov.hu/nav/szja/szja honlapon, KAÜ-azonosítás – ügyfélkapus, e-személyi igazolványos vagy az RKTA telefonos azonosítás – után elérhető „eSZJA-portál” menüpont alatti internetes felületen be kell lépni a „Szerkesztés” menübe, meg kell adni az egyéni vállalkozói tevékenységből származó jövedelemre vonatkozó adatokat, ezt követően pedig a bevallást be kell küldeni.
+
+
+
+A teljes adóévben katás egyéni vállalkozók szerkesztés nélkül is jóváhagyhatják adóbevallási tervezetüket. 
+
+
+
+
+
+Kisadózó egyéni vállalkozó vagyok és emellett munkaviszonyom is volt 2020-ban. Készül-e nekem adóbevallási tervezet?
+
+
+
+2020-ra a NAV az egyéni vállalkozóknak is elkészíti a bevallási tervezetet, amely a munkáltatói, kifizetői bevallások, adatszolgáltatások adatait tartalmazza. A kisadózó egyéni vállalkozóknak is készül tervezet, amelyben szerepelnek a munkaviszonyban megszerzett jövedelemre vonatkozó adatok.
+
+
+
+A www.nav.gov.hu/nav/szja/szja honlapon KAÜ-azonosítás – ügyfélkapus , az e-személyi igazolványos vagy az RKTA telefonos azonosítás – után elérhető „eSZJA-portál” menüpont alatti internetes felületen megtekintheti a tervezetet.
+
+
+
+Az egyéni vállalkozónak a tervezet adatait ki kell egészítenie az egyéni vállalkozói tevékenységből származó jövedelemmel és az azzal összefüggő adókötelezettségekkel. Az egyéni vállalkozónak elkészített adóbevallási tervezet tehát a 2021. május 20-i bevallási határidő után nem válik bevallássá, vagyis módosítás, kiegészítés nélkül nem hagyható jóvá.
+
+
+
+A teljes adóévben katás egyéni vállalkozók szerkesztés nélkül is jóváhagyhatják adóbevallási tervezetüket. Ha mindent rendben talál a bevallási tervezettel kapcsolatban, akkor egyéb teendője nincs, az 2021. május 20-án bevallássá válik.
+
+
+
+
+
+
+
+
+
+VII. Szociális hozzájárulási adó
+
+
+
+A szociális hozzájárulási adó mértéke 2020. július 1-jétől 15,5 százalékra csökkent. Mennyi szociális hozzájárulási adóval kell számolni a bevallásban, ha magánszemélyként 2020. első félévében kaptam osztalékot, amelyből a kifizető 17,5 százalék szociális hozzájárulási adót vont le?
+
+
+
+A magánszemélynek évente kell megállapítania az adóját, így a 2020-as szja-bevallásban a 15,5 százalékos mértékkel kell a szociális hozzájárulási adót számolni. A ténylegesen fizetendő és a kifizető által levont adó közötti különbözetet a magánszemély az adóbevallási tervezet módosításával vagy a 20SZJA jelű bevallásában visszaigényelheti.
+
+
+
+
+
+A szociális hozzájárulási adó mértéke 2020. július 1-jén 15,5 százalékra csökkent. Az önálló tevékenységet folytató, szociális hozzájárulási adó fizetésére kötelezett magánszemélynek az év első felében megszerzett jövedelme 87 százalékát vagy 85 százalékát kell figyelembe vennie a bevallásban?
+
+
+
+Függetlenül attól, hogy a szociális hozzájárulási adó mértéke év közben csökkent, az egész 2020-as adóévre a „87 százalékos szabály”-t kell alkalmazni. Ennek megfelelően számol az adóbevallási tervezet és a 20SZJA jelű bevallás kitöltésekor a program.
+
+
+
+
+
+ A munkaviszonyban foglalkoztatott saját jogú nyugdíjas munkabére után a munkáltatónak nem kell szociális hozzájárulási adót fizetni. Ha a magánszemély egy társaság tagjaként osztalékot is kapott 2020-ban, a munkabér beleszámítható-e a szociális hozzájárulási adó megállapításakor az adófizetési felső határba?
+
+
+
+Az adófizetési felső határba – 2020-ban  3 864 000 forint – beletartoznak az összevont adóalapba tartozó adó- és adóelőleg-alap számításánál figyelembe vett jövedelmek, így a munkabér is. Ebből következően a saját jogú nyugdíjas munkabére beleszámít az adófizetési felső határba, függetlenül attól, hogy a munkáltatónak nem kell ez után szociális hozzájárulási adót fizetni.
+
+
+
+Az adóbevallási tervezet vagy a 20SZJA jelű bevallás 286. sorában kell feltüntetni a munkaviszonyból származó jövedelem összegét, a 287. sorban pedig az osztalékot. A 288. sorba kell beírni az osztalék után a magánszemélyt az adófizetési felső határig ténylegesen terhelő szociális hozzájárulási adó alapját (f oszlop) és az adóját (g oszlop). A kifizető által az osztalékból levont szociális hozzájárulási adó alapját (f oszlop) és az összegét (g oszlop) a 289. sorban kell szerepeltetni. 
+
+
+
+
+
+Az ingatlan bérbeadásából származó jövedelem beleszámít-e a szociális hozzájárulási adó megállapításakor az adófizetési felső határba?
+
+
+
+Az adófizetési felső határba – 2020-ban 3 864 000 forint – beletartoznak az összevont adóalapba tartozó adó- és adóelőleg-alap számításánál figyelembe vett jövedelmek is. Az ingatlan-bérbeadásból származó jövedelem az összevont adóalap része. Ezért a magánszemély ingatlan-bérbeadásból származó jövedelmét figyelembe lehet venni az adófizetési felső határ számításakor, függetlenül attól, hogy az után nem kell szociális hozzájárulási adót fizetni. 
+
+	
+
+
+
+VIII. Rendelkezés az adóról – önkéntes pénztári rendelkezések, 1+1 százalék
+
+
+
+Az önkéntes, kölcsönös pénztári befizetések utáni adókedvezményt hogyan lehet érvényesíteni a tervezetben? 
+
+
+
+Az önkéntes kölcsönös pénztári nyilatkozatot a magánszemély az önkéntes kölcsönös biztosítópénztár által kiadott igazolás alapján teheti meg. 
+
+
+
+Az önkéntes kölcsönös biztosítópénztár a kiadott igazolásról adatot szolgáltat a NAV-nak, a  bevallási tervezet tehát az önkéntes pénztári rendelkezőnyilatkozatot is automatikusan tartalmazza, külön nem kell rendelkezni az adókedvezmény érvényesítéséről. 
+
+
+
+Ha a magánszemély az adóbevallási tervezetet 2021. május 20-áig nem egészíti ki, nem javítja, és önállóan sem nyújt be bevallást, az ugyanúgy rendelkezésnek számít, hiszen ezzel elfogadja a tervezetben szereplő önkéntes kölcsönös pénztári nyilatkozatot is.
+
+
+
+Ha azonban több önkéntes pénztári tagsággal rendelkezik, akkor a rendelkezőnyilatkozathoz az ő közreműködése is szükséges.
+
+
+
+A papíralapú bevallási tervezet adataiban javítani nem lehet, azonban ha a NAV nyilvántartása szerint az adózó több önkéntes pénztári tagsággal rendelkezik és 2020-ban több pénztárhoz is teljesített befizetést, akkor a bevallási tervezet mellett megkapja a 20SZJAK jelű nyomtatványt is, amelyen megjelölheti azt a pénztár, ahová az utalást kéri. Ilyenkor csak a 20SZJAK jelű nyomtatványt kell kitölteni, amelynek visszaküldésével válik a bevallási tervezet szja-bevallássá, az összeget pedig a NAV a beérkezés időpontjától számított 30 napon belül kiutalja. 
+
+
+
+Ha a bevallási tervezet mellé nem kapott 20SZJAK jelű kiegészítő nyilatkozatot, mert a bevallási tervezetet más okból módosítani kell, vagy ki kell egészíteni, akkor a 20SZJA jelű nyomtatványon kell bevallását benyújtania, amelynek a 20SZJA-03-as lapján jelölheti meg a pénztárat, ahová az utalást kéri.
+
+
+
+Ha regisztrál az ügyfélkapun, akkor az adóbevallási tervezetét 2021. március 15-étől érheti el ügyfélkapuján keresztül az erre a célra létrehozott elektronikus felületen, ahol az adatokat 2021. május 20-áig ellenőrizheti, javíthatja, kiegészítheti. Itt lesz lehetősége arra, hogy ha több, rendelkezésre jogosító önkéntes pénztári tagsága van, megjelölje, hogy melyik pénztárhoz kéri a kiutalást.
+
+
+
+Az egészségpénztári, illetve nyugdíjpénztári befizetésről szóló igazolást egyik nem kell beküldeni a NAV-hoz, az elévülési időn belül, 2026. december 31-ig azonban meg kell őrizni.
+
+
+
+
+
+Mikor utalja át a NAV az önkéntes kölcsönös biztosító pénztári nyilatkozatban megjelölt összeget a pénztárnak? Hova történik az utalás, ha a teljesítéskor már nem vagyok tagja a megjelölt pénztárnak?
+
+
+
+Az önkéntes kölcsönös pénztári nyilatkozatban meghatározott összegeket, a visszatérítendő adót a visszaigényléshez szükséges adatok beérkezésétől számított 30 napon belül utalja ki a NAV. 
+
+
+
+Ha az adózó több önkéntes pénztárnak is tagja és több pénztárba is teljesített befizetést, akkor is csak egy önkéntes pénztárat tud megjelölni a visszaigényléshez.
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+Ha a bevallási tervezetét az online felületen hagyta jóvá, akkor a 30 napos kiutalási határidőt a bevallási tervezet jóváhagyásától kell számolni.
+
+
+
+Ha nincs elektronikus hozzáférése
+
+
+
+Ha a bevallási tervezetét papíralapon kapta meg, egy űrlapot is kézhez kapott, amelyen nyilatkoznia kell arról, hogy mely számlaszámra vagy postai címre kéri a visszaigényelhető adó kiutalását. A 30 napos kiutalási időt a nyilatkozat beérkezésétől kell számolni. Ha határidőig nem küldi vissza a nyilatkozatot, akkor a 2117 jelű átvezetési és kiutalási nyomtatványon kérheti vissza adótöbbletét.
+
+
+
+A 20SZJA jelű bevallás benyújtásakor is ugyanígy kell számítani a kiutalási határidőt, tehát ha ügyfélkapun nyújtotta be, akkor a benyújtástól, ha papíralapon, akkor a bevallás beérkezésétől kell számolni a 30 napot.
+
+
+
+Ha a teljesítéskor már nem tagja a korábban megjelölt pénztárnak, akkor a befolyt összeget a pénztár 
+
+ha Ön másik pénztárba lépett át, akkor a befogadó pénztárhoz.
+
+ha tagsági jogviszonya nyugdíjszolgáltatás miatti megszűnt, akkor Önnek
+
+utalja ki. 
+
+
+
+Ha a pénztártag időközben elhunyt, a pénztár a kedvezményezetteknek utal, illetve, ha nincs kedvezményezett vagy örökös, akkor az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény szabályai szerint a tagok egyéni számláin felosztják az összeget. 
+
+
+
+Ezektől eltérő esetben az összeget a NAV az erre a célra nyitott beszedési számlára utalja vissza. A magánszemély a visszautalt összeget akkor kaphatja meg, ha igazolja, hogy tagsági jogviszonya neki fel nem róható okból szűnt meg. 
+
+
+
+
+
+ Hogyan rendelkezhetem adóm 1+1 százalékáról?
+
+
+
+A rendelkezés május 20-áig nyújtható be. A határidő jogvesztő, vagyis ha határidőn túl nyújtja be a nyilatkozatot, akkor a rendelkezése érvénytelen lesz és késedelmét igazolási kérelemmel sem mentheti ki.
+
+
+
+Ha nincs elektronikus hozzáférése 
+
+
+
+A jogszabály lehetőséget biztosít arra is, hogy postán nyújtsa be rendelkezőnyilatkozatát. 
+
+
+
+A rendelkezés május 20-ig papíralapon benyújtható 
+
+az ÁNYK-val készített 20SZJA jelű bevallás részeként, a 20SZJA-EGYSZA lapjának kitöltésével, illetve 
+
+az ÁNYK-kitöltőprogrammal készített 20EGYSZA jelű nyomtatvány használatával lezárt borítékban, továbbá 
+
+a felsoroltaktól függetlenül a 20EGYSZA jelű nyomtatvány adattartalmával egyező nyilatkozati lapon, lezárt borítékban. 
+
+
+
+Ha van elektronikus hozzáférése
+
+
+
+A rendelkezőnyilatkozatot az online felületre KAÜ-azonosítással – ügyfélapus, e-személyi igazolványos vagy RKTA telefonos azonosítással – belépve, az „1+1%-os rendelkezőnyilatkozat csempére kattintva lehet megtenni. 
+
+
+
+A webes kitöltőprogram két úton érhető el:
+
+a NAV honlapjáról (www.nav.gov.hu) az „SZJA” aloldal majd az „eSZJA” ikon kiválasztásával,
+
+a www.magyarorszag.hu-n keresztül a bal oldalon található „eSZJA-portál” kiválasztásával.

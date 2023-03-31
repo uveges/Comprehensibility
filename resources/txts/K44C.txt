@@ -1,0 +1,63 @@
+
+
+Tárgy: OSS-regisztráció elfogadása
+
+Ügyfél: <ügyfél neve>
+Regisztrációs kérelem benyújtásának napja: <éééé.hh.nn.>
+Regisztrációs kérelem iktatószáma: <KÉRELEM BÁRKÓD>
+
+
+                                  ÉRTESÍTÉS
+
+
+Tisztelt <ügyfél neve>!
+
+A  Nemzeti  Adó-  és  Vámhivatal  nyilvántartásba  vette  regisztrációját  a
+Közösségi Egyablakos Rendszer (OSS)
+
+
+
+OSS regisztrációs kérelem – uniós séma
+      uniós sémájába.
+
+OSS regisztrációs kérelem – nem uniós séma
+      nem uniós sémájába.
+
+
+OSS regisztrációs kérelem – IOSS közvetítői regisztráció
+      importsémájába közvetítőként.
+
+
+OSS regisztrációs kérelem – IOSS adózói regisztráció
+      importsémájába adózóként.
+
+
+
+OSS regisztrációs kérelem – uniós séma
+OSS regisztrációs kérelem – nem uniós séma
+OSS regisztrációs kérelem – IOSS adózói regisztráció
+
+Az Ön OSS-azonosítója: <xxxxxxxxxx>.
+
+A sémát a következő időponttól alkalmazhatja:  <éééé.hh.nn.>. /
+
+OSS regisztrációs kérelem – IOSS közvetítői regisztráció
+
+Közvetítőként a következő naptól vettük nyilvántartásba: <éééé.hh.nn.>.
+
+
+
+[A döntéshozatal helye és dátuma]
+                               [igazgató neve]
+                                  igazgató
+                           (a hatáskör gyakorlója)
+
+                      [a döntés kiadmányozójának neve]
+               [a döntés kiadmányozójának hivatali beosztása]
+
+
+A döntésről értesítést kapnak:
+   1. a címzett,
+
+   2. az irattár.
+

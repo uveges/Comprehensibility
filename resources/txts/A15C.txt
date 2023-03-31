@@ -1,0 +1,42 @@
+NEMZETI ADÓ- ÉS VÁMHIVATAL
+
+https://ekaer.nav.gov.hu/cikkek/nebih-felir
+
+
+
+NÉBIH FELIR
+
+Az Élelmiszerlánc-felügyeleti Információs Rendszer, vagyis a FELIR az élelmiszerlánc- és agrárágazati szereplők, valamint tevékenységük közhiteles, elektronikus nyilvántartása. A NAV az élelmiszerlánc-felügyeleti hatóság (Nébih) hatáskörébe tartozó termékek szállításakor kizárólag a FELIR-azonosítóval rendelkező ügyfelek szállítmányaihoz ad ki EKÁER-számot.
+
+A FELIR-azonosító hasonlóan működik, mint az adóazonosító jel: ugyanazt a funkciót látja el, csak az agrárigazgatás, élelmiszerlánc területén. A FELIR-ben szereplők egyedi azonosítójának felépítése két betű és hét szám, például: XY1234567.
+
+
+
+
+
+
+
+
+
+A Nébih FELIR-kereső alkalmazásának oldalán (https://portal.nebih.gov.hu/felir-kereso) ellenőrizhető, hogy az élelmiszerlánc- vagy agrárágazati szereplőnek van-e FELIR-azonosítója. 
+
+A FELIR-be a Nébih Ügyfélprofil Rendszerében (https://upr.nebih.gov.hu/login) elektronikusan lehet regisztrálni. A nyilvántartásba vett ügyfelek a FELIR-azonosítóról szóló tájékoztató levelüket postán kapják meg.
+
+Ha nincs ügyfélkapu-regisztrációja, a FELIR-azonosítóval kapcsolatos ügyekben a Nébih ügyfélszolgálata (telefon: 06-1/336-9024; e-mail: felir@nebih.gov.hu), vagy az illetékes kormányhivatal munkatársai nyújtanak segítséget.
+
+Azok az élelmiszer-vállalkozások, amelyek élelmiszert uniós tagállamból forgalomba hozatal vagy továbbfeldolgozás céljából behoznak, kötelesek regisztrálni magukat és azt a telephelyet, első magyarországi tárolási helyet is, ahol az árut először betárolták. 
+
+A regisztrált első magyarországi tárolási helyek a Nébih weboldalán, a következő linken kereshetők (http://portal.nebih.gov.hu/elso-betarolasi-hely-kereso). 
+
+Az első tárolási helyet üzemeltető vállalkozásnak nyilvántartásba vételi kérelmet kell beadnia. A kérelemmel növényi alaptermék forgalmazása esetén a területileg illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságához, egyéb élelmiszernél a területileg illetékes járási állategészségügyi hivatalhoz kell fordulni.
+
+
+
+
+
+
+
+Elérhetőségek:
+
+
+Nébih FELIR-ügyfélszolgálat: 06-1/336-9024; felir@nebih.gov.hu elektronikus levélcím.

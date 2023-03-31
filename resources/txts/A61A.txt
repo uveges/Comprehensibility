@@ -1,0 +1,352 @@
+
+                             Telepítési útmutató
+
+ Hardver és szoftver követelmények
+Az Általános Nyomtatványkitöltő Program az alábbi hardverigényt támasztja  a
+számítógéppel szemben: (de legalább annyit, amennyit az  operációs  rendszer
+megkövetel)
+    • 400 MHz órajelű vagy gyorsabb processzor
+    • 256 MB vagy több RAM memória (256 MB javasolt)
+    • 40 MB szabad merevlemez-kapacitás (A nyomtatványok és dokumentációk
+      további merevlemez-kapacitást igényelnek)
+A program minden olyan operációs rendszeren működik,  amire  telepíthető  az
+Oracle által kiadott Java futtatási környezet, (JRE), 1.8 verziója.  A  java
+futtatási környezet aktuális verziója a java.com helyről letölthető.
+Figyelem!
+Az ÁNYK a Java 1.8 verziójával működik!
+A program tesztelése a következő operációs rendszereken történt:
+
+|Operációs rendszer|Tesztelt Java     |Megjegyzés                           |
+|                  |verzió            |                                     |
+|Windows           |                  |                                     |
+|Windows XP        |Java 8            |Microsoft kivezeti a Win XP          |
+|                  |                  |támogatását 2014. április elejétől.  |
+|                  |                  |A Java 8 hivatalosan nem támogatott  |
+|                  |                  |Win XP-n, de a 1.8.0_60 verzió       |
+|                  |                  |telepíthető.                         |
+|Windows 7         |Java 8            |                                     |
+|Windows 10        |Java 8            |                                     |
+|Unix alapú        |                  |                                     |
+|rendszerek        |                  |                                     |
+|Ubuntu            |Java 8            |21.04                                |
+|SUSE              |Java 8            |openSUSE Tumbleweed                  |
+|MINT              |Java 8            |Linux Mint 20.2 Cinnamon             |
+|Mac OS X          |Java 8            |Mac OS Mojave 10.14.6                |
+
+
+Amennyiben  a  táblázatban  nem  szereplő   operációs   rendszert   használ,
+ellenőrizze, hogy az alábbi linken  található  listában  szerepel-e.  (angol
+nyelvű honlap)
+http://www.oracle.com/technetwork/java/javase/certconfig-2095354.html
+
+Az ÁNYK hibátlan működését csak az általunk  tesztelt  operációs  rendszerek
+esetében garantáljuk.
+
+
+ Telepítés
+Háromféle telepítő csomag van:
+   1.   A   keretrendszer/program   telepítését   végző   csomag.   A   neve
+      abevjava_install.jar
+   2. A nyomtatványok telepítését végző csomagok. A csomag nevében  szerepel
+      a nyomtatvány azonosítója  és  .jar  kiterjesztésű  az  állomány.  pl:
+      NAV_2178.jar
+   3. A kitöltési útmutatók telepítését végző  csomagok.  A  csomag  nevében
+      szerepel a nyomtatvány azonosítója és .jar kiterjesztésű az  állomány.
+      pl: NAV_doc_2178.jar
+A telepítő  csomagok  JAR  kiterjesztésű  állományok.  A  JAR  kiterjesztésű
+állományok  a  java  rendszer  számára  futtatható  programok.  A  telepítés
+megkezdése előtt a Java futtató környezetet  fel  kell  telepíteni,  mert  a
+telepítő program futtatásához szükséges.
+Első lépésként az ÁNYK telepítését kell elvégezni, majd lehet  telepíteni  a
+nyomtatványokat és a kitöltési útmutatókat.
+A keretrendszer (ÁNYK) telepítő programja a következőket végzi:
+   1. Feltelepíti a programot a felhasználó által megadott könyvtárba.
+   2. Elvégzi a felhasználói beállításokat
+          o Létrehozza a felhasználó által megadott könyvtárba az  adatoknak
+            és egyéb állományoknak a megfelelő könyvtárakat.
+          o Beállítja az elektronikus küldéshez szükséges  KRDIR  környezeti
+            változót.
+ Telepítés Microsoft Windows operációs rendszer esetén
+Az abevjava_install.jar telepítő  csomagjára  az  egérrel  duplán  kattintva
+elindul a telepítés. Ha nem  indul  el  a  telepítő  program,  akkor  a  JAR
+állományok futtatása és hozzárendelése a java  futtatási  környezethez  című
+dokumentáció nyújthat segítséget a hiba megoldásában.
+Ha Ön nem rendszergazdai  jogosultságokkal  indította  a  telepítést,  akkor
+jelezni fogja a program, hogy az  abevjavapath.cfg  konfigurációs  állományt
+jogosultságok hiányában nem az alapértelmezett helyen hozza létre.  Ettől  a
+telepítés le fog futni és az ÁNYK működni fog, de csak azzal a  felhasználói
+azonosítóval  bejelentkezve  lehet  használni,  amivel  telepítve   lett   a
+program. Ilyenkor a frissítéseket is ugyanazzal a felhasználói  azonosítóval
+bejelentkezve kell elvégezni.
+Az  abevjava_start.bat  állományt  a  telepítés  felülírja.  Ez  az   indító
+állomány tartalmaz egy hivatkozást az ABEV_JAVA_HOME  környezeti  változóra.
+Ha az ÁNYK hiba nélkül elindul akkor Önnek ezzel nincs teendője. Ha az ÁNYK-
+t nem  sikerült  elindítania,  mert  nem  találja  a  rendszer  a  megfelelő
+verziójú java programot akkor ezt a környezeti változót létre  lehet  hozni.
+Ettől kezdve az ABEV_JAVA_HOME helyről fogja indítani a program a java-t.
+Windows    operációs    rendszerek     alatt     telepítésre     kerül     a
+gen_abevjava_start.vbs program az ÁNYK telepítési (indítási) könyvtárába.  A
+gen_abevjava_start.vbs egy diagnosztikai program, ami ellenőrzi, hogy  van-e
+megfelelő verziójú java az Ön gépén. Ha  telepítés  után  nem  indul  el  az
+ÁNYK, akkor  ezt  az  állományt  futtassa  le,  ezt  dupla  kattintással  az
+állományon meg tudja tenni.
+Ha a gen_abevjava_start.vbs nem talál megfelelő java  környezetet  a  gépén,
+akkor kiírja a hibát, ha talál akkor újra  generálja  az  abevjava_start.bat
+indító programot. Ezután Ön az asztali ikonnal indíthatja az ÁNYK-t.
+Hálózatos       telepítés       esetén        nem        javasoljuk        a
+gen_abevjava_start.vbs használatát, vagy nagyon körül  tekintően  használja,
+mert különböző gépeken különböző helyeken lehet a java.
+ Telepítés Windows 7 operációs rendszernél
+A telepítőprogram a v2.8.0-ás verziótól kezdődően a Program  Files  (illetve
+általános jogú felhasználó esetén annak  virtuális  megfelelője)  helyett  a
+\Felhasználók\Nyilvános\abevjava (Users\Public\abevjava) könyvtárat  ajánlja
+fel  telepítési   könyvtárnak.   Ezt   a   könyvtárat   minden   felhasználó
+használhatja (létrehozás, módosítás).
+A v2.8.0-ás verziótól az .xkr kiterjesztés programhoz történő  rendelése  is
+felhasználói szinten történik.
+
+Ha Ön az adott gépen más felhasználói bejelentkezéssel is használni  kívánja
+a  programot,  akkor  futtassa  a  telepítőt  és   telepítse   ugyanabba   a
+könyvtárba, mint a  többi  felhasználónál,  valamint  kérje  a  felhasználói
+beállítások elvégzését. Így minden letöltött frissítést  minden  felhasználó
+használni tud.
+
+Technikai információ:
+A korábbi verziókban az abevjavapath.cfg állomány vagy  a  \Windows  vagy  a
+\Felhasználók\felhasználónév\.abevjava     (\Users\felhasználónév\.abevjava)
+vagy  a   Felhasználói   fiókok   felügyeletének   bekapcsolása   esetén   a
+\Users\felhasználónév\AppData\Local\VirtualStore\Windows  könyvtárban   jött
+létre.
+A    v2.8.0-ás    verziótól    kezdődően    a    program    indulásakor    a
+\Users\felhasználónév\AppData\Local\VirtualStore\Windows   könyvtárból    az
+abevjavapath.cfg  áthelyezésre   kerül   a   \Users\felhasználónév\.abevjava
+könyvtárba.
+
+
+ Telepítés unix alapú rendszereknél
+A jar kiterjesztésű állományokat a legtöbb unix alapú  rendszer  archívumnak
+tekinti,  mivel  ezek  ZIP   formátumú   állományok.   Rákattintva   a   jar
+kiterjesztésű állományra kibontja és megmutatja  az  archívum  tartalmát.  A
+java futtató környezet a bennük található kódot tudja futtatni.  A  telepítő
+indítását vagy a  Megnyitás  mással  funkció  segítségével  kezdeményezheti,
+vagy parancssorban a java -jar utasítást megadva.
+Ha Ön nem rendszergazdai  jogosultságokkal  indította  a  telepítést,  akkor
+jelezni fogja a program, hogy az  abevjavapath.cfg  konfigurációs  állományt
+jogosultságok  hiányában  nem  az  alapértelmezett  /etc  könyvtárban  hozza
+létre. Ettől a telepítés le fog futni és a  program  működni  fog,  de  csak
+azzal a felhasználói  azonosítóval  bejelentkezve  lehet  használni,  amivel
+telepítve  lett  a  program.  Ilyenkor  a  frissítéseket  is  ugyanazzal   a
+felhasználói azonosítóval bejelentkezve kell elvégezni.
+Az abevjava_start állományt a telepítés felülírja.  Ez  az  indító  állomány
+tartalmaz egy hivatkozást az  JAVA_HOME_ABEV  környezeti  változóra.  Ha  az
+ÁNYK hiba nélkül elindul akkor ezzel Önnek nincs teendője. Ha az ÁNYK-t  nem
+sikerült elindítani, mert nem találja a rendszer a megfelelő  verziójú  java
+programot akkor ezt a környezeti változót létre lehet  hozni.  Ettől  kezdve
+az JAVA_HOME_ABEV helyről fogja indítani a program a java-t.
+ Telepítés Machintos számítógép esetén
+
+
+Machintos számítógépek esetén kérjük  olvassa  el  a  Telepítés  unix  alapú
+rendszereknél szekciót. Az  ott  leírtaknak  megfelelően  kell  a  rendszert
+telepíteni. Ha Ön a felhasználói beállításokat kérve futtatja a  telepítést,
+akkor Asztali ikon is létrejön.
+
+A telepítés lépései:
+
+   1.      Ellenőrizze       az       Applications-->Utilities-->Java-->Java
+      preferences fülön a  következőt:  A  Java  Applet  Plugin  és  a  Java
+      Applications részen is CSAK a Java SE 8 legyen kiválasztva.
+
+
+   2. Ezt követően indítson  el  egy  Terminált  (Applications-->Utilities--
+      >Terminal) A Terminál ablakba írja be a következőt    "  java -version
+      "  majd  futtassa  a  parancsot.  A  parancs  kiadása  megjeleníti  az
+      alapértelmezett Java verziót, ennek JAVA 1.8 -nak kell lennie.
+
+
+   3. Hozzon létre egy szabadon  választott  mappát  a  felhasználóneve  alá
+      (pl.: felhasználonev/abev),  majd  az  ÁNYK  telepítése  során  ezt  a
+      könyvtárat tallózza ki.
+      (Az ÁNYK telepítője  a  könyvtárakat  alapértelmezetten  a  /usr/share
+      útvonalra akarja  létrehozni,  ilyen  útvonal  nem  szerepel  a  macOS
+      rendszerben alapértelmezetten!)
+
+   4. A telepítés befejeztével  az  ÁNYK  programot  az  Asztalon  létrejött
+      ikonnal vagy az abevjava_start állománnyal lehet indítani.
+
+
+Telepítés Java WebStart használatával az OS X 10.8 (Mountain Lion) és  újabb
+verzióin:
+
+Az  OS  X  10.8  és  újabb  verziójú  operációs   rendszereinél   szoftverek
+beszerzésére  az   Apple   alkalmazásboltjának   (App   Store)   használatát
+preferálja, illetve az  Apple  által  hitelesített  fejlesztőktől  származó,
+előírt formátumú OS X telepítő csomagokat tekinti hitelesnek.  Ez  az  Apple
+termékeire specifikus, platformfüggő  szoftver  terjesztési  technológia.  A
+NAV nyomtatványkitöltőjének, illetve a  nyomtatványoknak  és  segédleteiknek
+telepítője a platformfüggetlen java web start technológiát használja.
+Ettől a NAV a támogatott platformok egységes kezelése  érdekében  nem  kíván
+eltérni.
+
+Amennyiben a Web Startos telepítők indítása sikertelen  lenne,  próbálkozzon
+a következő  lépések  végrehajtásával  (telepített  java  futtatókörnyezetet
+feltételezve):
+
+Safari böngésző esetén a telepítés lépései:
+   1. Kattintson a WebStart telepítőlinkre. Valószínűleg a Safari nem  fogja
+      tudni elindítani az abevjava_install.jnlp fájlt, ezért a jnlp állomány
+      letöltésre került a gépére.
+   2. Nyissa meg a Letöltések panelt. Ezt a Safari URL címek beviteli mezője
+      mellett megjelenő lefelé mutató nyílra kattintva teheti meg.
+   3. Keresse meg a futtatni kívánt .jnlp  fájlt.  Az  abevjava_install.jnlp
+      állomány feltehetőleg a lista legfelső eleme lesz.
+   4. Nyissa meg a Finderben a .jnlp fájlt. Ön  ezt  a  fájl  neve  melletti
+      nagyítóra kattintva tudja megtenni.
+   5. Nyissa meg a fájlt a Java Web Start  használatával.  Ezt  megteheti  a
+      CTRL+kattintás megnyíló panelen a 'Megnyitás ezzel' almenüben.
+   6. A megjelenő dialógusablak  megkérdezi,  hogy  biztosan  meg  kívánja-e
+      nyitni az állományt. Válassza a Megnyitás gombot az ablakban.
+   7. Ha minden rendben, akkor a Java Web Start  elindul  és  érvényesíti  a
+      telepítendő   alkalmazást.   Sikeres   érvényesítés   után   az   ÁNYK
+      telepítőprogram elindul.
+   8. Sikeres telepítés után távolítsa el a .jnlp fájlt a letöltési listából
+      illetve a Finderben a .jnlp fájlt is kidobhatja a Kukába.
+
+Google Chrome böngésző esetén a telepítés lépései:
+   1. Kattintson a WebStart telepítőlinkre.  A  Chrome  valószínűleg  üzenni
+      fog, hogy a .jnlp fájl nem nyitható meg.
+   2.  Nyissa  meg  a   Chrome   Letöltés   kezelőjét.   Ezt   megteheti   a
+      legegyszerűbben egy új  lap  megnyitásával,  és  a  chrome://downloads
+      beírásával a címsorba. A Letöltési lista elérhető a Chrome menüből  is
+      (az URL címsor melletti gombra kattintva).
+   3. Keresse meg a futtatni kívánt .jnlp fájlt. A .jnlp fájl valószínűleg a
+      lista legfelső eleme lesz.
+   4. Nyissa meg a  Finderben.  Ezt  a  fájl  neve  alatti  'Megjelenítés  a
+      Finderben' szövegre kattintva teheti meg.
+   5. Nyissa meg a fájlt a Java Web Start  használatával.  Ezt  megteheti  a
+      CTRL+Klikk megnyíló panelen a 'Megnyitás ezzel' almenüben.
+   6. A megjelenő dialógusablak  megkérdezi,  hogy  biztosan  meg  kívánja-e
+      nyitni az állományt. Válassza a Megnyitás gombot.
+   7. Ha minden rendben ment, akkor a Java Web Start elindul  és érvényesíti
+      a  telepítendő  alkalmazást.  Sikeres érvényesítés  után  a   telepítő
+      elindul.
+   8. Sikeres telepítés után távolítsa el a .jnlp fájlt a letöltési listából
+      illetve a Finderben a .jnlp fájlt is kidobhatja a Kukába.
+
+Firefox esetén a telepítés lépései:
+   1. Kattintson a WebStart telepítőlinkre. A Firefox valószínűleg fel  fog
+      dobni egy panelt, amin sikeresen telepített java esetén  a  Megnyitás
+      rádiógomb melletti listában a  Java  Web  Start  fog  megjelenni.  Ha
+      mégsem lenne már eleve kiválasztva, akkor válassza ki a listából.
+   2. A rendszer valószínűleg üzenni fog, hogy nem lehet megnyiti  a  .jnlp
+      fájlt, mert nem azonosított fejlesztőtől származik.
+   3. Válassza ki az Eszközök menü Letöltések menüpontját.
+   4. Keresse meg a futtatni kívánt fájlt a listában. Valószínűleg a  lista
+      legfelső eleme lesz.
+   5. Nyissa meg a Finderben. Ezt megteheti a fájl neve melletti  nagyítóra
+      kattintva.
+   6. Nyissa meg a fájlt a Java Web Start használatával.  Ezt  megteheti  a
+      CTRL+kattintás megnyíló panelen a 'Megnyitás ezzel' almenüben.
+   7. A megjelenő dialógusablak megkérdezi,  hogy  biztosan  meg  kívánja-e
+      nyitni az állományt. Válassza a Megnyitás gombot.
+   8. Ha minden rendben ment, akkor a Java Web Start elindul és érvényesíti
+      a  telepítendő  alkalmazást.  Sikeres érvényesítés  után  a  telepítő
+      elindul.
+   9. Sikeres telepítés  után  távolítsa  el  a  .jnlp  fájlt  a  letöltési
+      listából illetve a Finderben a .jnlp fájlt is kidobhatja a Kukába.
+FONTOS:  a  NAV   nyomtatványkitöltő,   a   nyomtatványok   és   segédleteik
+elektronikusan  aláírt,  megbízható  forrásból   származó   szoftverek.   Az
+ellenőrzést a Java végzi el.
+
+Javasolt telepítési mód (telepített java futtatókörnyezetet feltételezve):
+    • Ha még nincsen telepítve az ÁNYK a gépére, töltse  le  a  keretprogram
+      .jar kiterjesztésű telepítő csomagját.
+    • A Finderben dupla kattintással indítsa el a letöltött jar állományt
+    • A nyomtatványok és a kitöltési útmutatók beszerzésére javasoljuk, hogy
+      használja a kitöltőprogram Szerviz/Frissítések funkcióját.
+
+Telepítés másolással
+
+Lehetőség van a telepítő futtatása nélkül is telepíteni a programot.
+Lépések:
+   1. A kiadott .jar kiterjesztésű állományok  tömörített  ZIP  archívumok.
+      Bármilyen program, amelyik ZIP archívumokat ki tud csomagolni, a JAR-
+      t is kezelni tudja.
+   2. Mindhárom típusú telepítő csomag –  program,  nyomtatvány,  kitöltési
+      útmutató – tartalmazza az application könyvtárat.
+   3. Az application könyvtár tartalmát kell kicsomagolni mindig  ugyanarra
+      a helyre. Ebben a könyvtárban  nem  csak  állományok,  hanem  további
+      könyvtárak is találhatóak. Ezek struktúráját meg kell őrizni.
+   4. Létre kell hozni egy parancs állományt a telepítési könyvtárba – ahol
+      az abevjava.jar található -  az  alábbi  tartalommal:  java  -Xms128M
+      -Xmx256M     -jar     -DentityExpansionLimit=128000      abevjava.jar
+      cfg=cfg.enyk A program  indítását  ezzel  a  parancsállománnyal  kell
+      kezdeményezni. Enélkül is elindul a program, de a hiányzó paraméterek
+      bizonyos esetekben hibát okozhatnak.
+   5.  A  telepítési  könyvtárban  létrejött  ico   és   png   állományokat
+      felhasználhatja Képernyő ikon létrehozásához.
+   6.  A  program  első  indításakor  a  felhasználó  (home)   könyvtárában
+      létrehozza  a  szükséges  felhasználó  függő   könyvtárrendszert   és
+      paraméter állományokat. A felhasználó (home) könyvtára  az  operációs
+      rendszerenként más és  más,  Microsoft  Windows-on  belül  is  vannak
+      különbségek. Kérjük, olvassa el a program könyvtárszerkezetéről szóló
+      leírásokat.
+   7. Ha másolással történt a program telepítése és  a  későbbiekben  mégis
+      futtatja a telepítő programot, az nem fogja felismerni, hogy már  van
+      telepítve egy példány. A későbbiekben is másolással kell  telepíteni,
+      illetve kézzel kell eltávolítani a programot, ha ez szükséges.
+
+Több felhasználó egy gépen
+Amennyiben, több felhasználó is használja - más felhasználói azonosítóval  –
+ugyanazt a gépet, akkor minden felhasználó esetén le kell futtatni  az  ÁNYK
+telepítőjét.  Az  első  telepítést  rendszergazdai   jogosultságokkal   kell
+végezni, a többihez  nem  szükséges  rendszergazdai  jogosultság.  Az  elsőt
+kivéve a programot nem kell  telepíteni,  csak  a  felhasználói  beállítások
+elvégzését  kell  kérni   a   telepítőtől,   a   megfelelő   jelölőnégyzetek
+bejelölésével. Minden felhasználónak külön adatkönyvtár adható  meg,  és  az
+elektronikus feladás könyvtára is egyedi lehet felhasználónként.
+A  nyomtatványok  és  kitöltési  útmutatók  telepítése,   vagy   a   program
+frissítése    bármelyik    rendszergazdai    jogosultságokkal     rendelkező
+felhasználói bejelentkezéssel elvégezhető. A többi  felhasználó  számára  is
+frissülnek az állományok.
+Amennyiben  módosítani  kellene  az  adat  vagy  az   elektronikus   feladás
+könyvtárát,  akkor  újra  futtatni  kell   a   telepítőt.   A   felhasználói
+beállítások elvégzését kérve – a program telepítését nem –  módosíthatóak  a
+korábbi beállításokat. A már  létrehozott  adatállományokat  a  program  nem
+mozgatja! Azt a felhasználónak egyedileg kell megoldania!
+
+Silent módú telepítés
+Lehetőség van  a  grafikus  felület  nélküli,  parancssoros  telepítésre.  A
+program, nyomtatványok és  kitöltési  útmutatók  telepítőcsomagjai  egyaránt
+futtathatók ezen a módon.
+Teendők:
+   1. A telepítés előtt létre lehet hozni a felhasználói gépeken  a  windir
+      környezeti    változó     által     definiált     könyvtárban     egy
+      abevjavapath.cfg  nevű  állományt.  Az  abevjavapath.cfg  állománynak
+      tartalmaznia kell az  elérési  utat  ahová  a  programot  telepítésre
+      kerül.
+   2. Az állomány tartalma abevjava.path=elérési út
+      pl.: abevjava.path = C:\\Program Files\\APEH\\abevjava
+   3.  A  keretprogramot  kell  először  telepíteni.  A  ,,-s"  kapcsolóval
+      indítható a parancssoros telepítés.
+   4. Ha az abevjavapath.cfg állomány nincs létrehozva  a  telepítés  előtt
+      akkor a program az alapértelmezett értékekkel létrehozza.
+   5. A program készít egy log file-t az utolsó telepítés eredményéről.  Az
+      állományt futtató user home könyvtárában - MS Windows  esetén  a  TMP
+      környezeti      változó      által      mutatott       helyen       -
+      abevjava_silent_install.log néven jön létre.
+   6.  A  program,  a   nyomtatványok   és   a   kitöltési   útmutatók   az
+      abevjavapath.cfg  állományban  meghatározott  helyre  másolódnak.   A
+      felhasználói beállítások és az adat könyvtár  struktúrája  -  ha  nem
+      létezik - a program indításakor a felhasználó home  könyvtárában  jön
+      létre.
+|Kapcsoló|Felhasználá|Információk         |Példa                       |
+|        |s          |                    |                            |
+|-s      |Silent módú|A telepítő csomagok |java –jar <telepíto.jar> -s |
+|        |           |parancssorban futnak|                            |
+|        |futtatás   |                    |java –jar                   |
+|        |           |grafikus felület    |abevjava_install.jar -s     |
+|        |           |nélkül.             |java –jar NAV_2178.jar -s   |
+|        |           |                    |java –jar NAV_doc_2178.jar  |
+|        |           |                    |-s                          |
+

@@ -1,0 +1,77 @@
+Online Számlázó 1.25-ös verzió
+
+
+
+80 mm-es számlakép bevezetése
+
+VTSZ/SZJ/TESZOR szám nem kezdődhet „pont” karakterrel
+
+Bruttó ár megadásának bevezetése
+
+Felületet érintő változások
+
+FAD áfakulcsú tétel rögzítése csak ’Belföldi áfaalanynak’ lehetséges
+
+Rövid cégnév megjelenítése az eladó adatai között
+
+Mobiljelszó megadása
+
+
+
+
+
+1. 80 mm-es számlakép bevezetése
+
+Ettől a verziótól kezdve a számla és díjbekérő létrehozásakor lehetőség van választani 80-mm-es és A4-es számlakép között. Alapértelmezett a korábban is használt A4-es formátum lesz. Papír alapú számla esetén a nyomtatási kép később is változtatható. E-számla esetén csak a számla kiállítása során választott formátum lesz alkalmazható. A ’Számláim’ és ’Díjbekérő’ lista oldalon a számla vagy a díjbekérő a megnyitás PDF-ben ikonra kattintáskor, a rögzítéskor kiválasztott formátumban nyílik meg.   
+
+
+
+2. VTSZ/SZJ/TESZOR szám nem kezdődhet "pont" karakterrel 
+
+Termék létrehozásakor és számla, díjbekérő rögzítésekor megadott tétel esetén a VTSZ/SZJ/TESZOR szám mezőben az érték nem kezdődhet "pont" karakterrel.
+
+
+
+3. Bruttó ár megadásának bevezetése
+
+Termék létrehozásakor és számla, díjbekérő rögzítésekor nettó egységár mellett a felület lehetőséget ad a felhasználóknak bruttó egységár megadására is. Bruttó egységár megadásakor automatikusan kiszámításra kerül a nettó párja a kiválasztott áfakulcs alapján. 
+
+
+
+4. Felületet érintő változások
+
+Akadálymentességi alapelveket figyelembe véve a következő oldalakon lévő mező elrendezések változtak: 
+
+Termék létrehozása
+
+Termékek listája részletes keresés
+
+Számláim részletes keresés
+
+Számlázási beállítások
+
+Partner létrehozása
+
+Partnerek listája részletes keresés
+
+Díjbekérők részletes keresés
+
+A számlakép megjelenítés és letöltés akadálymentesítése is megtörtént, az oldalakon megjelenő információs üzenetek és hibaüzenetek mellett.  
+
+
+
+5. FAD áfakulcsú tétel rögzítése csak ’Belföldi áfaalanynak’ lehetséges
+
+Új számla ás díjbekérő létrehozásakor FAD áfakulcsú tétel megadása csak ’Belföldi áfaalany’ típusú vevőnek lehetséges. 
+
+
+
+6. Rövid cégnév megjelenítése az eladó adatai között
+
+Abban az esetben, ha az adott eladó rendelkezik rövid cégnévvel az Online Számla rendszerben, akkor a felhasználónak lehetősége van ennek az adatnak is a frissítésére az Adatok frissítése funkció segítségével. A frissítés után a számlaképen a rövid név fog megjelenni.
+
+
+
+7. Mobiljelszó megadása
+
+A mobilalkalmazás párosítása oldal kiegészül egy ’Mobiljelszó’ megadása funkcióval, ahol a mobilapplikáció későbbi használatához szükséges jelszót lehet megadni. Ezt egyszer, az első alkalommal kell megadni az Online Számlázóban. Későbbi változtatására az Online Számla rendszerben van lehetőség.

@@ -1,0 +1,15 @@
+Tisztelt Ügyfelünk!
+Levelünket azért küldtük Önnek, hogy emlékeztessük az Online Számla rendszer új szabályaival kapcsolatos teendőkre.
+2021. január 4-én változtak az online számlaadat-szolgáltatás szabályai.
+Ha a részleteket még nem ismeri, ajánljuk figyelmébe honlapunk tájékoztatóját:  2021. január 4-én nemcsak bővült azoknak a számláknak a köre, amelyekről adatot kell szolgáltatni, hanem megváltozott az adatszolgáltatásra alkalmazandó XSD-séma is.
+A számlázó programot használó áfaalanyoknak az Online Számla rendszerhez készült interfész specifikációban rögzített 3.0-ás verziószámú XSD adatstruktúrával kell beküldeniük a számlaadatokat a NAV-hoz.
+A változás az Ön kötelező adatszolgáltatását is érinti.
+2021. március 4-ei nyilvántartásunk szerint azonban Ön még a korábbi, 2.0-ás sémát használja az adatszolgáltatáshoz.
+Mivel a COVID-19 járvány miatti korlátozások akadályozhatták az adózókat az új szabályokra való felkészülésben, a NAV 2021. március végéig nem szab ki mulasztási bírságot akkor, ha ügyfelei nem, vagy nem megfelelően szolgáltatnak adatot azokról a számlákról, amelyek 2021. január 4-én újonnan kerültek be az adatszolgáltatással érintett számlák körébe.
+A szankciómentes időszak azonban 2021. március 31-én véget ér, és az adatszolgáltatás 2.0-ás séma szerinti teljesítésére sem lesz lehetőség.
+2021. április 1-jétől az áfaalanyok számlázó programjai kizárólag a 3.0-ás séma szerint teljesíthetik a kötelező online adatszolgáltatást.
+Ez biztosítja, hogy a NAV elkészíthesse ügyfeleinek az eÁFA rendszerben áfabevallási tervezetüket.
+Ha a kötelező adatszolgáltatáshoz és az alkalmazandó XSD-séma változásáról már értesült, és időközben intézkedett, hogy számlázó programja az új szabályoknak megfelelő adatszolgáltatást teljesítse, akkor nincs több teendője.
+Ha viszont erről még nem gondoskodott, a további zavartalan és jogszerű működéshez ezt meg kell tennie!
+Együttműködését köszönjük!
+Üdvözlettel: Nemzeti Adó- és Vámhivatal

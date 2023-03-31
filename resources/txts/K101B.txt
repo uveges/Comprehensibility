@@ -1,0 +1,1882 @@
+Nonprofit szervezetek (egyesületek, köztestületek, (köz) alapítványok) adózása
+
+2021
+
+
+
+Ez az információs füzet a nonprofit szektorban tevékenykedő jogi személyek, egyesületek, köztestületek, alapítványok adózásával kapcsolatos átfogó szabályokat tartalmazza. Ha az előírások különbséget tesznek a közhasznú besorolással rendelkező, illetve a nem közhasznú nonprofit szervezetek között – mint például a társasági adó szabályai –, a füzet kitér az eltérések ismertetésére is. 
+
+Tartalomjegyzék
+
+	1. Szervezeti jogi kérdések, számviteli szabályok	2
+
+	1.1. Bejelentkezés	2
+
+	1.2. Könyvvezetés, beszámolókészítés	3
+
+	1.3. Könyvvizsgálati kötelezettség	4
+
+	1.4. Nyilvánosságra hozatal, letétbe helyezés, közzététel	5
+
+	1.5. Gazdálkodás	6
+
+	1.6. A közhasznú jogállás	6
+
+	2. Tao-kötelezettség	7
+
+	2.1. Alap- és vállalkozási tevékenység, a társasági adóalap meghatározása	8
+
+	2.2. Kedvezmények	10
+
+	2.2.1. A közhasznú szervezetet megillető kedvezmény	10
+
+	2.2.2. A közhasznú besorolással nem rendelkező szervezetet megillető kedvezmény	13
+
+	2.2.3. A támogatót megillető kedvezmények	14
+
+	2.2.3.1. Az adományozó kedvezménye	15
+
+	2.2.3.2. Adományozónak nem minősülő támogató kedvezménye	16
+
+	2.3. Az adóalap megállapításának további sajátos esetei	17
+
+	2.4. A társasági adó megfizetése, bevallása	18
+
+	3. Speciális szja-szabályok	18
+
+	3.1. Általános szabályok	18
+
+	3.2. Speciális rendelkezések	19
+
+	3.2.1. Bevételnek nem minősülő szolgáltatás	19
+
+	3.2.2. Nonprofit szervezetek által adómentesen nyújtható juttatások	19
+
+	3.3. Reprezentáció, üzleti ajándék	20
+
+	3.4. Rendelkezés az adó 1 százalékáról	20
+
+	4. Áfakérdések	20
+
+	4.1. A nonprofit szervezetek áfaalanyisága	20
+
+	4.2. Az áfa alany nonprofit szervezetek	22
+
+	4.3. A nem áfaalany nonprofit szervezetek egyes adókötelezettségei	27
+
+	4.4. Adóvisszatérítés kérelemre	30
+
+	5. A társadalombiztosítás vonatkozó előírásai	30
+
+	5.1. Bejelentési kötelezettség	31
+
+	5.2. Nyilvántartási kötelezettség	31
+
+	5.3. Járulékbevallás és befizetés határideje	32
+
+	6. Szocho. kötelezettség	32
+
+	7. Illetékmentesség	33
+
+	8. Szakképzési hozzájárulás	34
+
+	9. Egyebek (rehabilitációs hozzájárulás, környezetvédelmi termékdíj, vám)	36
+
+	9.1. Rehabilitációs hozzájárulás	36
+
+	9.1.1. Nyilvántartási kötelezettség	37
+
+	9.1.2. Bevallási és befizetési kötelezettség	38
+
+	9.2. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény	38
+
+	9.3. A behozatali vámeljáráshoz kapcsolódó tudnivalók	39
+
+	9.3.1. Általános szabályok	40
+
+	9.3.1.1. Szabad forgalomba bocsátás	40
+
+	9.3.1.2. EORI-szám	40
+
+	9.3.1.3. Képviselet	41
+
+	9.3.2. Speciális rendelkezések	41
+
+
+
+Az egyesületek, alapítványok [civil szervezetek], köztestületek, közalapítványok [együtt: nonprofit szervezetek] alapítására, működésére vonatkozó legfontosabb szabályokat a Ptk. és az Ectv. határozza meg. A törvényszéken történő nyilvántartásba vétellel, ezen nyilvántartásba vétel napjával válnak jogi személlyé. E szervezetek is az egyes adókötelezettségekről rendelkező adótörvények és a számviteli törvény hatálya alá tartozó gazdálkodók.
+
+Új szervezeti forma 2019. március óta a vagyonkezelő alapítvány, amelyet külön törvény szabályoz. A vagyonkezelő alapítvány az alapító által rendelt vagyon kezelésére és az ebből származó jövedelemnek az alapító okiratban megjelölt feladatok megvalósítása, valamint a kedvezményezettként megjelölt személy, illetve személyek javára történő vagyoni juttatás céljából alapítható; gazdasági tevékenységként a javára rendelt, illetve általa az előzőek szerinti célból bizalmi vagyonkezelésbe vett vagyon kezelését végezheti.
+
+Vagyonkezelő alapítvány közérdekű célra is alapítható, mely esetben közhasznú besorolásra is igényt tarthat. A vagyonkezelő alapítvány társasági adózására irányadó szabályokról a 41. számú Információs füzetben olvashat.  
+
+
+
+1. Szervezeti jogi kérdések, számviteli szabályok
+
+
+
+1.1. Bejelentkezés
+
+
+
+Adóköteles tevékenységet főszabály szerint csak az állami adó- és vámhatósághoz bejelentkezett, adószámmal rendelkező adózó folytathat. A nonprofit szervezetek esetében is – hasonlóan a társaságokhoz – az ún. egyablakos bejelentkezési rendszer működik. Ez azt jelenti, hogy a nonprofit szervezet a nyilvántartásba vételét végző bíróság útján kap adószámot az adóhatóságtól. (A bejelentkezés, az adatkapcsolat és az eljárás menetének részletes szabályait a Bnytv. tartalmazza.)  
+
+
+
+A nonprofit szervezet – a Nemzeti Adó- és Vámhivatalhoz teljesítendő – bírósági nyilvántartásba vételt követő adatbejelentési és változásbejelentési kötelezettségét 2021. január 1-jétől a 21T201CSZ bejelentő és változásbejelentő lap – kitöltési útmutatónak megfelelő – benyújtásával teljesítheti.
+
+A jelölt nyomtatvány a NAV honlapjáról (www.nav.gov.hu) letölthető, illetve az ügyfélszolgálatokon papíralapon hozzáférhető.
+
+
+
+Az adószámot az adózással összefüggésben minden esetben – a levelezéseken, a befizetéseken, a visszaigénylések alkalmával, a kibocsátott számlákon stb. – fel kell tüntetni. Előfordulhat az is, hogy adott (közhasznú) szervezetnek például csak az adomány-igazolás kiállítása érdekében van szüksége adószámra.
+
+
+
+A belföldi jogi személyek (így a tárgybani szervezetek) - törvény vagy kormányrendelet eltérő rendelkezése hiányában - a készpénzben teljesíthető fizetések céljára szolgáló pénzeszközök kivételével kötelesek pénzeszközeiket pénzforgalmi számlán tartani, pénzforgalmukat pénzforgalmi számlán lebonyolítani, és ennek érdekében pénzforgalmi számlaszerződést kötni. Legalább egy belföldi pénzforgalmi számlával kell rendelkezniük.
+
+
+
+1.2. Könyvvezetés, beszámolókészítés
+
+
+
+A nonprofit szervezetek és az önálló jogi személyiséggel rendelkező szervezeti egységeik a számviteli törvény felhatalmazása alapján kiadott 479-es rendeletben foglaltak alapján teljesítik könyvvezetési és beszámolókészítési kötelezettségüket.
+
+
+
+A beszámoló lehet:
+
+egyszerűsített beszámoló,
+
+egyszerűsített éves beszámoló,
+
+a számviteli törvény szerinti éves beszámoló.
+
+
+
+Egyszerűsített beszámolót készíthet, s ez esetben egyszeres könyvvitelt köteles vezetni az az egyesület, alapítvány, köztestület, amelynek az alaptevékenységből, valamint a vállalkozási tevékenységből származó (ár)bevételének együttes összege - két egymást követő évben, évenként - az 50 millió forintot nem haladja meg.
+
+
+
+Az egyszerűsített beszámoló részei: egyszerűsített mérleg, eredménylevezetés.
+
+
+
+Az egyszeres könyvvitelt vezető egyéb szervezet a döntése alapján bármely üzleti év január 1-jével áttérhet a kettős könyvvitelre. Abban az esetben pedig köteles áttérni, ha két egymást követő üzleti évben már nem felel meg az egyszerűsített beszámoló készítésére előírt feltételeknek. 
+
+
+
+Egyszerűsített éves beszámolót köteles készíteni, s ez esetben kettős könyvvitel vezetésére kötelezett az az egyesület, alapítvány, köztestület, amelynek két egymást követő évben az alaptevékenységből, valamint a vállalkozási tevékenységből származó éves (ár)bevételének együttes összege évenként meghaladja az 50 millió forintot. Közhasznú jogállású szervezet kizárólag kettős könyvvitelt vezethet, azaz egyszerűsített éves beszámolót készíthet (ha nem választja az Szt. szerinti éves beszámoló készítését).
+
+
+
+Az egyszerűsített éves beszámoló részei: mérleg, eredménykimutatás, kiegészítő melléklet. 
+
+
+
+Éves beszámolót köteles készíteni a kettős könyvvitelt vezető egyéb szervezet, ha két egymást követő üzleti évben a mérleg fordulónapján az alábbi három érték közül a jogalany bármelyik kettőt meghaladja:
+
+a mérlegfőösszege az 1200 millió forintot,
+
+az alaptevékenységből, és a vállalkozási tevékenységből származó éves (ár)bevételének együttes összege a 2400 millió forintot,
+
+az üzleti évben átlagosan foglalkoztatottak száma az 50 főt. 
+
+
+
+Nem része a beszámolónak – annak bármely formája esetén –, de a civil szervezet (a közhasznú és a nem közhasznú egyaránt), továbbá jogi személyiséggel rendelkező szervezeti egységeik kötelesek a beszámolóval egyidejűleg közhasznúsági mellékletet is készíteni a beszámolóhoz kapcsolódóan.
+
+
+
+A civil szervezet jogi személyiséggel rendelkező szervezeti egysége a civil szervezetre vonatkozó szabályok szerinti beszámolót készít, amelyet a mérlegfordulónapot követő május 31ig az OBH (Országos Bírósági Hivatal) részére történő megküldéssel letétbe helyez. 
+
+
+
+A jogi személyiséggel rendelkező szervezeti egység beszámoló készítési és könyvvezetési kötelezettségére az azt létrehozó szervezet – az alapítvány, az egyesület, a köztestület, a közalapítvány – beszámoló készítési és könyvvezetési kötelezettségére szabályozó előírásokat kell alkalmazni.  
+
+
+
+1.3. Könyvvizsgálati kötelezettség
+
+
+
+Kötelező a könyvvizsgálat annál a szervezetnél, amelynél az éves (éves szintre átszámított) (ár)bevétel az üzleti évet megelőző két üzleti év átlagában meghaladja a 300 millió forintot. Ha az üzleti évet megelőző két üzleti év egyikére vagy mindkét üzleti évre vonatkozó (ár)bevételi adatok hiányoznak, vagy csak részben állnak rendelkezésre (új alapítású szervezeteknél), akkor a tárgyévi várható (ár)bevételt és – ha van – a megelőző (első) üzleti évi (éves szintre átszámított) (ár)bevételt kell figyelembe venni. 
+
+
+
+Az a szervezet, amely könyvvizsgálatra nem kötelezett – mert például nem végez vállalkozási tevékenységet, vagy végez ugyan, de nem lépi túl az előzőek szerinti 300 milliós határértéket – saját elhatározásból is dönthet arról, hogy beszámolója felülvizsgálatával könyvvizsgálót bíz meg (önként vállalt kötelezettség).
+
+
+
+Ha kötelező a könyvvizsgálat – vagy a szervezet azt saját elhatározásából választja – akkor az üzleti évről készített beszámoló felülvizsgálatára, az abban foglaltak valódiságának és jogszerűségének ellenőrzésére bejegyzett könyvvizsgálót, könyvvizsgáló céget kell – az előző üzleti évi beszámoló elfogadásakor, jogelőd nélkül alapított szervezetnél az üzleti év fordulónapja előtt – választani.
+
+
+
+1.4. Nyilvánosságra hozatal, letétbe helyezés, közzététel
+
+
+
+Az a cégbíróságon be nem jegyzett szervezet, ami más jogszabály alapján beszámolóját vagy annak fontosabb adatait köteles nyilvánosságra hozni, továbbá ami beszámolóját saját elhatározásából nyilvánosságra hozza, a közzétételnek – ha jogszabály másként nem rendelkezik – a Magyar Közlöny Hivatalos Értesítőjében való megjelentetéssel, a székhelyén történő betekinthetőséggel, internetes honlapján történő bemutatással vagy egyéb más, a számviteli politikájában rögzített módon tehet eleget. A közzététel határideje – ha jogszabály másként nem rendelkezik – az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napja.
+
+
+
+A civil szervezet és más nonprofit szervezet a beszámolót – kötelező könyvvizsgálat esetén a könyvvizsgálói jelentéssel együtt hozza nyilvánosságra. E szerint a szervezet köteles a jóváhagyásra jogosult testület által elfogadott beszámolóját, valamint közhasznúsági mellékletét – kötelező könyvvizsgálat esetén a könyvvizsgálói jelentéssel együtt – az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig letétbe helyezni és közzétenni. E letétbe helyezési és közzétételi kötelezettséget a Bnytv. szerint kell teljesíteni, azaz a beszámolót az OBH részére kell megküldeni.
+
+
+
+Ha a civil szervezet saját honlappal rendelkezik, a közzétételi kötelezettség kiterjed a beszámoló, valamint a közhasznúsági melléklet saját honlapon történő elhelyezésére is. A civil szervezet a saját honlapon közzétett adatok folyamatos megtekinthetőségét legalább a közzétételt követő második üzleti évre vonatkozó adatok közzétételéig biztosítja.
+
+Ha a civil szervezet a beszámolóval, valamint a közhasznúsági melléklettel kapcsolatos letétbe helyezési és közzétételi kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság a civil szervezetet a 10 000 forinttól 900 000 forintig terjedő pénzbírsággal sújthatja. .
+
+
+
+Az a szervezet, ami sem jogszabályból adódóan kötelezően, sem saját döntés alapján a beszámolóját könyvvizsgálóval nem vizsgáltatta felül, de valamely jogszabály alapján köteles beszámolóját vagy annak fontosabb adatait közzétenni, a beszámoló minden részén köteles feltüntetni a következő szöveget: „A közzétett adatok könyvvizsgálattal nincsenek alátámasztva.”
+
+
+
+Az előzőek egyikébe sem tartozó szervezetnek, amelynek sem nyilvánosságra hozatali, sem közzétételi, sem beszámoló letétbe helyezési kötelezettsége nincs, a beszámolóját legkésőbb az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig kell elkészítenie, és a jóváhagyásra jogosult testülettel elfogadtatnia.
+
+
+
+A közhasznú szervezet, valamint közhasznú szervezet jogi személyiséggel rendelkező szervezeti egysége – mint azt már említettük – köteles a beszámoló jóváhagyásával egyidejűleg közhasznúsági mellékletet készíteni, amelyet a beszámolóval azonos módon köteles jóváhagyni, letétbe helyezni és közzétenni.
+
+
+
+1.5. Gazdálkodás
+
+
+
+A civil szervezet a létesítő okiratában meghatározott cél megvalósítása érdekében vagyonával önállóan gazdálkodik, elsődlegesen gazdasági-vállalkozási tevékenység végzése céljából nem alapítható, de céljainak megvalósítása érdekében – azt nem veszélyeztetve – kiegészítő vállalkozási tevékenységet is folytathat.
+
+
+
+Elsődlegesen gazdasági-vállalkozási tevékenységű szervezet: azon szervezet, amelynek éves összes bevétele 60%-át eléri vagy meghaladja a gazdasági-vállalkozási tevékenységéből származó éves összes bevétele (ld. részletesebben a 2. pont alatt). 
+
+
+
+Ha valamely évre vonatkozóan megállapítható, hogy a civil szervezet elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősült, az adóhatóság a civil szervezettel szemben törvényességi ellenőrzési eljárást kezdeményez.
+
+
+
+1.6. A közhasznú jogállás
+
+
+
+A közhasznú szervezetté minősíthető szervezet közhasznú jogállását a közhasznú szervezetként való nyilvántartásba vétellel szerzi meg. 
+
+
+
+Közhasznú szervezetté minősíthető a Magyarországon nyilvántartásba vett közhasznú tevékenységet végző szervezet, amely a társadalom és az egyén közös szükségleteinek kielégítéséhez megfelelő erőforrásokkal rendelkezik, továbbá amelynek megfelelő társadalmi támogatottsága kimutatható, és amely:
+
+civil szervezet, vagy 
+
+olyan egyéb szervezet, amelyre vonatkozóan a közhasznú jogállás megszerzését törvény lehetővé teszi.
+
+
+
+Közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez.
+
+
+
+A közhasznú jogállásra előírt – említett – 2 mutatónak való megfelelés az adott szervezetnél a következőképpen vizsgálandó. 
+
+
+
+Megfelelő erőforrás akkor áll a szervezet rendelkezésére, ha az előző két lezárt üzleti év vonatkozásában a következő feltételek közül legalább egy teljesül:
+
+az átlagos éves bevétele meghaladja az 1 millió forintot, vagy
+
+a két év egybeszámított adózott eredménye (tárgyévi eredménye) nem negatív, vagy
+
+a személyi jellegű ráfordításai (kiadásai) - a vezető tisztségviselők juttatásainak figyelembevétele nélkül - elérik az összes ráfordítás (kiadás) egynegyedét (ideértve a közérdekű önkéntes tevékenységet végző személyek által összesen teljesített munkaórák értékét is).
+
+
+
+Megfelelő társadalmi támogatottság akkor mutatható ki a szervezetnél, ha az előző két lezárt üzleti éve vonatkozásában a következő feltétel közül legalább egy teljesül:
+
+a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint a szervezetnek felajánlott összegből kiutalt összeg eléri – az államháztartás alrendszereitől kapott támogatások nélkül számított – összes bevétel 2 százalékát, vagy
+
+a közhasznú tevékenység érdekében felmerült költségek, ráfordítások elérik az összes ráfordítás felét a 2 év átlagában, vagy
+
+közhasznú tevékenységének ellátását tartósan (2 év átlagában) legalább 10 közérdekű önkéntes tevékenységet végző személy segíti a Kötv.-nek megfelelően. 
+
+
+
+A beszámoló adatai alapján minden letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az előzőek szerinti feltételek teljesülését, hiszen 2 egymást követő lezárt üzleti évben kell megfelelni a követelményeknek. Ha e feltételek nem teljesülnek, úgy a szervezet közhasznú jogállását (nem pedig magát a szervezetet) a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásából törli. 
+
+  
+
+A közhasznúsági nyilvántartásba vételt kérelmező szervezet létesítő okiratának tartalmára vonatkozóan az Ectv. –ben foglaltakra kell figyelemmel lenni. 
+
+
+
+Csak az Ectv. szerint közhasznúsági nyilvántartásba vett szervezet jogosult a közhasznú megjelölés használatára és a közhasznú jogálláshoz kapcsolódó kedvezmények igénybevételére. A közhasznúsági nyilvántartásba vétel iránti kérelem bármikor benyújtható, illetve a közhasznú jogállás elnyerhető akkor, ha a szervezet rendelkezik az ahhoz szükséges feltételekkel (amit a két egymást követő üzleti évi beszámoló adatai támasztanak alá).   
+
+
+
+2. Tao-kötelezettség
+
+
+
+A Tao. tv. hatályos rendelkezései szerint e szervezetek továbbra is feltétel nélkül a társasági adó alanyai, függetlenül attól, hogy az adott adóévben vállalkozási tevékenységet végeznek-e vagy sem. Ezen általános adóalanyisággal összefüggésben rendelkezik a Tao. tv. oly módon (egyszerűsítő eljárásként), hogy a civil szervezet és más nonprofit szervezet (ideértve a jogi személyiséggel rendelkező szervezeti egységet is), ha az adóévben vállalkozási tevékenységből bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el, a társasági adóbevallás helyett, bevallást helyettesítő nyilatkozatot tesz az erre rendszeresített nyomtatványon az adóévet követő év május 31-éig. 
+
+
+
+Azok a civil szervezetek, amelyek ingatlanhasznosítást folytatnak, és ehhez kapcsolódóan a Tao. tv. alapján korrekciós tétel elszámolására kötelesek, nem jogosultak bevallást helyettesítő nyilatkozat benyújtására, társasági adóbevallást kell benyújtaniuk .
+
+
+
+Más esetben valamennyi adózó az illetékes első fokú állami adó- és vámhatósághoz akkor is köteles adóbevallást benyújtani, ha a bevallási időszakban adófizetési kötelezettsége nem keletkezett. Így például a jelölt határidőig abban az esetben is be kell nyújtani a társasági adóbevallásra rendszeresített ’29. számú nyomtatványt, ha az adott szervezet vállalkozási tevékenysége veszteséges, vagy nullszaldós vagy akkor is, ha nyereséges, de adómentessége miatt nem fizet adót.
+
+
+
+A civil szervezet és más nonprofit szervezet a közhasznú szervezetre vonatkozó rendelkezéseket először abban az adóévben alkalmazhatja, amely évben ilyen szervezetként besorolást nyert. Az adózó nem alkalmazhatja a közhasznú szervezetre vonatkozó rendelkezéseket – kivéve a törlés napjáig az igazolás kiadását – abban az adóévben, amelyben a közhasznúsági nyilvántartásból törölték, vagy amely adóévben az Ectv. szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül. A közhasznú besorolás adóéven belüli változása esetén – kivéve az átsorolás napjáig az igazolás kiadását – az adóév utolsó napján érvényes besorolásnak megfelelő rendelkezéseket kell az adóév egészére alkalmazni.
+
+
+
+Abban az adóévben, amelyben a civil szervezet és más nonprofit szervezet az Ectv. szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – a Tao. tv.-ben foglaltaktól  eltérően – az adózás előtti eredmény, módosítva a Tao. tv.-ben foglaltakkal. Ez azt jelenti, hogy az ilyen adóévére vonatkozóan a szervezet úgy állapítja meg az adófizetési kötelezettségét, mint egy gazdasági társaság.
+
+
+
+2.1. Alap- és vállalkozási tevékenység, a társasági adóalap meghatározása
+
+
+
+A cél szerinti (közhasznú) tevékenység, valamint a vállalkozási tevékenység meghatározása – annak alapján e két tevékenység elhatárolása – során az Ectv. e vonatkozású rendelkezéseit kell figyelembe venni, amely tevékenységi minősítés az adózás tekintetében is irányadó. 
+
+
+
+A Tao. tv. szerint ugyanis a civil szervezet esetében a vállalkozási tevékenység adózás előtti eredményét az Ectv. rendelkezéseit figyelembe véve, a gazdasági-vállalkozási tevékenység adózás előtti eredményének megfelelően kell megállapítani, azzal, hogy a Tao. tv. alkalmazásában nem minősül vállalkozási tevékenységnek az Ectv. szerint gazdasági-vállalkozási tevékenységnek nem minősülő – alapcél szerinti (közhasznú) – tevékenység.
+
+
+
+Az Ectv. meghatározása szerint gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, kivéve
+
+az adomány (ajándék) elfogadását, 
+
+a létesítő okiratban meghatározott cél szerinti tevékenységet (ideértve a közhasznú tevékenységet)
+
+a pénzeszközök betétbe, értékpapírba, társasági részesedésbe történő elhelyezését,
+
+az ingatlan megszerzését, használatának átengedését és átruházását.
+
+
+
+Az előzőekben (a)-d)) pontok) felsoroltak tehát a Tao. tv. alkalmazásában sem minősülnek vállalkozási tevékenységnek. 
+
+
+
+A civil szervezet számviteli nyilvántartásait úgy vezeti, hogy azok alapján az alapcél szerinti (közhasznú) tevékenységének és gazdasági-vállalkozási tevékenységének bevételei, költségei, ráfordításai és eredménye (nyeresége, vesztesége) egymástól elkülönítve megállapíthatók legyenek. A civil szervezet nyilvántartási (könyvvezetési) rendszerét köteles oly módon továbbrészletezni, hogy abból az Ectv.-ben meghatározott alaptevékenységgel, illetve a vállalkozási tevékenységgel kapcsolatos bevételek, ráfordítások (költségek), kiadások rendelkezésre álljanak.
+
+
+
+A közhasznúságnak a társaságiadó-alap, az adózás előtti eredmény korrekciós tételei, illetve a kedvezmények tekintetében van jelentősége, mivel eltérő szabályok vonatkoznak a közhasznú és a nem közhasznú szervezetekre. Ennek megfelelően a Tao. tv. - nonprofit szervezetek társasági adóalapjának megállapítására vonatkozó - speciális szabályokat rögzít a közhasznú szervezetekre nézve.
+
+ 
+
+Az ingatlannal kapcsolatos bevételek, ráfordítások  vonatkozásában, az alapítványnál, a közalapítványnál az egyesületnél, a köztestületnél sajátos korrekciós tételként
+
+csökkenteni kell az adózás előtti eredményt az ingatlanhoz kapcsolódóan a Tao. tv. szerinti értékcsökkentés adóévre kiszámított összegével, továbbá az ingatlan megszerzésére, használatának átengedésére vagy átruházására tekintettel, azzal közvetlen összefüggésben az alapcél szerinti (közhasznú) tevékenység költségeként, ráfordításaként az adóévben elszámolt összeggel;
+
+növelni kell az adózás előtti eredményt az ingatlan megszerzésére, használatának átengedésére vagy átruházására tekintettel, azzal közvetlen összefüggésben az alapcél szerinti (közhasznú) tevékenység bevételeként az adóévben elszámolt összeggel, valamint az ingatlanhoz kapcsolódóan a számviteli törvény szerint az adóévre kiszámított értékcsökkenés összegével.
+
+
+
+Az alapítvány, a közalapítvány, az egyesület, a köztestület a fentiek alapján akkor is módosítja az adózás előtti eredményét, ha az adóévben nincs gazdasági, vállalkozási tevékenysége.
+
+
+
+Alaptevékenységi bevételek 
+
+
+
+Az Ectv. az alapcél szerinti (közhasznú) tevékenységből származó bevételek körében rendelkezik arról, hogy elkülönítve kell kimutatni legalább a következő bevételeket:  
+
+egyesület esetében a tagdíjat, alapítvány esetében az alapítótól nem vagyoni hozzájárulásként kapott adományt,
+
+a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint kiutalt összegét,
+
+az alapcél szerinti (közhasznú) tevékenység költségei, ráfordításai ellentételezésére visszafizetési kötelezettség nélkül kapott támogatást, ideértve az alapcél szerinti (közhasznú) tevékenysége keretében megvalósuló fejlesztés céljára kapott támogatást is, 
+
+az a)-c) pont hatálya alá nem tartozó, az alapcél szerinti (közhasznú) tevékenységéhez kapott adományt, 
+
+az alapcél szerinti (közhasznú tevékenysége) keretében nyújtott szolgáltatás, teljesített termékértékesítés bevételét, ideértve különösen
+
+ea) a kizárólag az alapcél szerinti (közhasznú) tevékenységet szolgáló dolog, jog átruházásának, illetve átengedésének ellenértékét, valamint 
+
+eb) a részben az alapcél szerinti (közhasznú) tevékenységet szolgáló dolog, jog átruházásának, illetve átengedésének ellenértékéből a dolog, illetve a jog korábbi alapcél szerinti (közhasznú) használatával arányos részt,
+
+az a)-e) pont hatálya alá nem tartozó, gazdasági-vállalkozási tevékenységnek nem minősülő tevékenysége révén megszerzett bevételt, így különösen
+
+fa) a pénzeszköz betétbe, értékpapírba, társasági részesedésbe történő elhelyezése révén megszerzett (elért) kamatot, osztalékot, árfolyamnyereséget és más bevételt,
+
+fb) az ingatlan megszerzése, használatának átengedése és átruházása [ingatlan-hasznosítás] révén megszerzett bevételt.
+
+
+
+Ez utóbbi jogcímhez (ingatlan-hasznosítás) kapcsolódóan lényeges, hogy ingatlannak minősül – a Tao. tv. önálló fogalmi meghatározása szerint – a föld és a földdel alkotórészi kapcsolatban álló minden dolog. 
+
+
+
+2.2. Kedvezmények
+
+
+
+A Tao. tv. a kedvezmény rendszerében külön kezeli a besorolást nem kért, vagy nem nyert szervezeteket, továbbá eltérő számítási mód szerint határozza meg a vállalkozási tevékenység kedvezményezett mértékét (az adómentességet) annak függvényében, hogy az adott szervezet az adóévben ingatlan-hasznosítás címén realizál-e jövedelmet, vagy sem. 
+
+
+
+2.2.1. A közhasznú szervezetet megillető kedvezmény
+
+
+
+A közhasznú szervezetnek nem kell az adóévben társasági adót fizetnie,
+
+ha a vállalkozási tevékenységének a bevétele nem haladja meg a kedvezményezett bevételi mértéket, azaz az összes bevételének a 15 százalékát, illetve, 
+
+ha végez ingatlan-hasznosítási tevékenységet is, akkor az abból származó – egyébként alapcél szerinti (közhasznú) tevékenység – bevételeként elszámolt összeget a vállalkozási tevékenységből származó bevétele részének tekintve, az így számított együttes bevétel nem haladja meg az összes bevételének a 15 százalékát.  
+
+
+
+Az – előzőek szerinti – adómentes mérték meghaladása esetén a szervezetnél a kedvezményezett mérték túllépésével arányosan számított adóalap után kell az adót megállapítani. Emellett a nem a vállalkozási tevékenységéhez kapott támogatás ugyanilyen arányával meg kell növelni a vállalkozási tevékenység adózás előtti eredményét, ha az adott adóév december 31-én az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása nem áll fenn. Ha az adóév utolsó napján a szervezetnek az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van, úgy a kapott támogatások teljes összege növelő tétel. 
+
+
+
+A túllépés arányának meghatározása attól függ, hogy a közhasznú szervezet az adóévben végez-e ingatlan-hasznosítási tevékenységet.
+
+
+
+Amennyiben tehát a közhasznú civil szervezet az adóévi kedvezményezett mértéket (15%) túllépi, akkor a túllépés aránya a következő hányados alapján határozható meg (a számítást két tizedesjegy pontossággal kell elvégezni):
+
+
+
+A) Ingatlannal nem rendelkező szervezet esetében: 
+
+
+
+
+
+VB – B 15% 
+
+VB 
+
+
+
+B) Ingatlannal rendelkező szervezet esetében:
+
+
+
+(
+
+VB + IB) – B 15% 
+
+VB + IB
+
+
+
+ahol:
+
+VB = vállalkozási tevékenység bevétele
+
+IB = ingatlan megszerzése, használatának átengedése, átruházása alapján elszámolt közhasznú tevékenység bevétele 
+
+∑B = összes bevétel
+
+
+
+1. Példa: 
+
+Határozzuk meg egy – ingatlannal nem rendelkező – közhasznú alapítvány 2021 évi fizetendő társasági adóját, ha december 31-én nincs adótartozása, s módosító tétel csak a kapott adomány miatt merül fel, illetve érvényesíti a besorolt szervezeteket megillető „célzott” kedvezményt; adóévi adatai a következők:
+
+
+
+vállalkozási tevékenység bevétele: 		400 E Ft
+
+vállalkozási tevékenység költsége: 		170 E Ft
+
+adózás előtti eredmény:				230 E Ft
+
+közhasznú tevékenység bevétele:   		800 E Ft, ebből kapott adomány 100 E Ft
+
+összes bevétel: 		    			1.200 E Ft
+
+
+
+Kedvezményezett mérték: 	        1.200 E x 15% = 180 E Ft, és 400 E  180 E 
+
+Túllépés aránya: 		        (400 E – 180 E) 220 E : 400 E x 100 = 55%
+
+Adományra számított korrekció:   (100 E x 55%) 55 E Ft 
+
+Végleges (korrigált) adóalap:        (230 E + 55 E – 46 E) 239 E x 55% = 131.450 Ft
+
+Fizetendő társasági adó: 	       131.450 x 9% ~ 12 E Ft.
+
+
+
+A társasági adó mértéke a pozitív adóalap 9 százaléka.
+
+
+
+2. Példa: 
+
+Határozzuk meg egy – ingatlannal rendelkező – közhasznú jogállású, december 31-én adótartozással nem rendelkező egyesület 2021 adóévi fizetendő társasági adóját, ha
+
+a vállalkozási tevékenységből (reklám) származó bevétele: 20 000 E Ft, 
+
+a közhasznú tevékenységből származó bevétele: 80 000 E Ft,
+
+a kapott adomány összege: 10 000 E Ft,
+
+az ingatlan-hasznosításból származó (közhasznú) bevétele: 30 000 E Ft,
+
+az ingatlan-hasznosítással kapcsolatban felmerült költségei: 9 800 E Ft (az értékcsökkenés 1 600 E Ft összegével együtt),
+
+a vállalkozási tevékenység (reklám) költsége: 4 000 E Ft,
+
+az ingatlannal kapcsolatban elszámolt adóévi Szt. szerinti értékcsökkenéssel azonos a Tao. tv. szerinti értékcsökkenési leírás: 1 600 E Ft.
+
+
+
+Megnevezés
+
+Értékadatok 
+
+E Ft-ban
+
+Vállalkozási tevékenység bevétele 
+
+20 000
+
+Vállalkozási tevékenység költsége
+
+ 4 000
+
+Vállalkozási tevékenység adózás előtti eredménye
+
+ 16 000
+
+Közhasznú tevékenység bevétele
+
+80 000
+
+- ebből: ingatlan-hasznosítás bevétele
+
+30 000
+
+             kapott adomány 
+
+10 000
+
+             egyéb (80 000-30 000-10 000)
+
+40 000
+
+Összes bevétel (20 000 E + 80 000 E)
+
+        100 000
+
+Kedvezményezett bevételi mérték (100 000 E x 15%)
+
+15 000
+
+Vállalkozási bevétel – arány számításához – megnövelt összege
+
+50 000
+
+Túllépés aránya: (50 000 E – 15 000 E)/50 000 E
+
+70%
+
+Adomány miatti korrekció: 10 000 E x 70%
+
+7 000
+
+Számított adóalap 
+
+(16 000 E – 3 200 E + 1 600 E – 1 600 E + 30 000 E – 
+
+9 800 E + 7 000 E)
+
+40 000
+
+Végleges adóalap (40 000 E x 70%)
+
+28 000
+
+Fizetendő társasági adó (9%)
+
+  2 520
+
+
+
+2.2.2. A közhasznú besorolással nem rendelkező szervezetet megillető kedvezmény
+
+
+
+A közhasznú besorolással nem rendelkező szervezetnek nem kell az adót megfizetnie, ha a Tao. tv. által biztosított adómentes értékhatárt nem lépi túl. Ezen értékhatár attól függően kerülhet meghatározásra, hogy a szervezet az adóévben végez-e ingatlan-hasznosítási tevékenységet.
+
+
+
+A közhasznú szervezetnek nem minősülő civil szervezetnek – kivéve az országos érdekképviseleti szervezetet – ugyanis az adóévben nem kell társasági adót fizetnie, 
+
+ha a vállalkozási tevékenységéből elért bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát;
+
+ha vállalkozási tevékenységből származó, az ingatlan-hasznosítás bevételével növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát.
+
+
+
+Amennyiben a közhasznú besorolással nem rendelkező szervezet az adóévi adómentes értékhatárt túllépi, akkor a vállalkozási tevékenység teljes adóalapja után számított adófizetési kötelezettség terheli.   
+
+
+
+E szervezetek az adóalapjukat az általános szabályok szerint állapítják meg, azzal, hogy ha a szervezetnek az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van, akkor – a közhasznú szervezetekre előírtakkal azonosan – meg kell növelnie a vállalkozási tevékenysége adózás előtti eredményét a nem a vállalkozási tevékenységéhez kapott támogatás teljes összegével.
+
+
+
+3. Példa: 
+
+Határozzuk meg egy – ingatlannal nem rendelkező – nem közhasznú egyesület 2021 évi fizetendő társasági adóját, ha december 31-én nincs adótartozása, s módosító tételek nem merülnek fel (az adóalap az adózás előtti eredménnyel azonos); adatai a következők:
+
+
+
+vállalkozási tevékenység bevétele: 		400 E Ft
+
+vállalkozási tevékenység költsége: 		170 E Ft
+
+adózás előtti eredmény:				230 E Ft
+
+
+
+cél szerinti tevékenység bevétele:  800 E Ft, ebből kapott támogatás 100 E Ft
+
+összes bevétel: 		       	1.200 E Ft
+
+
+
+Tekintve, hogy az egyesület vállalkozási tevékenységének a bevétele meghaladja az összes bevételének a 10 százalékát, (400 E > 120 E), ezért adófizetési kötelezettsége áll fenn a vállalkozási tevékenysége pozitív adóalapjának első forintjától (nem csak az adómentes értékhatár túllépésével arányosan).   
+
+
+
+Fizetendő társasági adó: 	        230 E x 9% ~ 21 E Ft.
+
+
+
+Ha ennek a szervezetnek 2021.12.31-én az állami vagy önkormányzati adóhatóságnál lenne nyilvántartott adótartozása, akkor – a kapott támogatás miatti növelő tétel alkalmazása következtében – fizetendő társasági adója (230 E + 100 E) 330 E x 9% ~ 30 E Ft lenne.
+
+
+
+4. Példa: 
+
+Határozzuk meg egy – ingatlannal rendelkező – nem közhasznú jogállású, december 31-én adótartozással nem rendelkező alapítvány 2021 adóévi fizetendő társasági adóját, ha az adatai a 2. Példa szerintiek.
+
+
+
+     
+
+Megnevezés
+
+Értékadatok E Ft-ban
+
+Vállalkozási tevékenység bevétele 
+
+20 000
+
+Vállalkozási tevékenység költsége
+
+  4 000
+
+Vállalkozási tevékenység adózás előtti eredménye
+
+ 16 000
+
+Alapcél szerinti tevékenység bevétele
+
+80 000
+
+- ebből: ingatlan-hasznosítás bevétele
+
+30 000
+
+Összes bevétel (20 000 E + 80 000 E)
+
+          100 000
+
+Vállalkozási bevétel – adómentesség számításához – megnövelt összege
+
+50 000
+
+Adómentes értékhatár (100 000 x 10%) 10 000 E;  
+
+de 50 000 E  10 000 E
+
+nem adómentes
+
+Adóalap 
+
+(16 000 E + 1 600 E – 1 600 E + 30 000 E – 9 800 E)
+
+36 200
+
+Fizetendő társasági adó (9%)
+
+  3 258
+
+
+
+2.2.3. A támogatót megillető kedvezmények
+
+
+
+A Tao. tv. szabályrendszere másoldalról a támogató részére attól függően biztosít kisebb, illetve nagyobb mértékű kedvezményt, hogy a közhasznú szervezetnek tartós adományozási szerződés keretében nyújtja-e támogatását.
+
+
+
+A támogatásokon belül – a hozzá kapcsolódó kedvezmények érdekében – meg kell különböztetni az adománynak minősülő, illetve nem minősülő támogatásokat.  
+
+
+
+Adománynak minősül:
+
+a közhasznú szervezet részére az Ectv. szerinti közhasznú tevékenység támogatására, 
+
+az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, 
+
+feltéve, hogy az nem jelent a Tao. tv-ben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának (részvényesének), vezető tisztségviselőjének, felügyelő bizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a magánszemély tag (részvényes) közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás.
+
+
+
+Adománynak minősülő támogatást tehát – a fenti feltételekre figyelemmel – csak közhasznú szervezet fogadhat (nem közhasznú szervezet, akkor sem, ha civil szervezet – adójogi értelemben – adományban nem részesülhet, adomány-igazolást nem állíthat ki a támogató felé).
+
+
+
+Adományigazolás
+
+
+
+A kapott adományokról kiállítandó igazolás kötelező tartalmi kellékeit a Tao. tv. rögzíti. Ezek szerint az igazolásnak tartalmaznia kell:
+
+mindkét fél (a kiállító és a támogató (társasági adóalany) azonosító adatait, így a nevét, a székhelyét, az adószámát,
+
+az adomány (támogatás, juttatás) összegét,
+
+a támogatott célt.
+
+
+
+Az igazolást a támogatásnyújtás időpontjában, de legkésőbb az adóév végéig kell a támogató rendelkezésére bocsátani.
+
+
+
+2.2.3.1. Az adományozó kedvezménye
+
+
+
+Nem kell megnövelni az adományozó adózás előtti eredményét egyrészt az adomány címen nyújtott támogatás (pénz, eszköz, szolgáltatás) adóévi ráfordításként elszámolt összegével, ha az adózó rendelkezik a közhasznú szervezet, az egyház, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással.
+
+
+
+Adóalap-csökkentő tétel érvényesíthető másrészt az Ectv. szerinti közhasznú tevékenység támogatásaként nyújtott adomány értékének 
+
+20 százalékáig közhasznú szervezet támogatása esetén,
+
+40 százalékáig tartós adományozási szerződés esetén,
+
+de együttesen legfeljebb az adózás előtti eredmény összegéig.
+
+
+
+A társaságiadó-alany támogatót a fent leírt esetekben és módon illethetik meg a kedvezmények. 
+
+Így például, ha egy cég egyház részére nyújt adományt, annak összegével – igazolás birtokában – nem kell megnövelnie adózás előtti eredményét, de nem is csökkentheti azt, mivel az adományt fogadó egyház nem lehet közhasznú szervezet. 
+
+Ha pedig nem társasági adóalany támogatóról van szó, például magánszemély, egyéni vállalkozó nyújt támogatást, úgy adózásban érvényesíthető kedvezményre nem jogosult. 
+
+
+
+Tartós adományozás: a civil szervezet és az adományozó által írásban kötött szerződés alapján nyújtott pénzbeli támogatás, ha a szerződésben az adományozó arra vállal kötelezettséget, hogy az adományt a szerződéskötés (szerződésmódosítás) évében, és az azt követő legalább három évben, évente legalább egy alkalommal – azonos vagy növekvő összegben – ellenszolgáltatás nélkül adja, azzal hogy nem számít ellenszolgáltatásnak, ha a közhasznú szervezet a közhasznú szolgáltatása nyújtása keretében utal az adományozó nevére, tevékenységére.
+
+
+
+A tartós adományozásra tekintettel adott és a korábbi adóévekben adóalap-csökkentésként érvényesített többletkedvezményhez a Tao. tv. adóalap-növelő tételt ír elő, amely szerint az igénybe vett többletkedvezmény összege növeli az adózás előtti eredményt, amennyiben az adományozó a szerződésben vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból történő törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, illetve az igénybe vett többletkedvezmény kétszerese növeli az adóalapot, amennyiben az adományozó bármilyen más ok miatt nem teljesített a szerződésnek megfelelően. 
+
+
+
+Az adományozó jogutód nélküli megszűnésekor az adózás előtti eredményt növeli az adóévben vagy korábban a tartós adományozásra tekintettel elszámolt többletkedvezmény kétszerese, ha az adományozó a szerződésben vállaltakat jogutód nélküli megszűnése miatt nem teljesítette a szerződésnek megfelelően.
+
+2.2.3.2. Adományozónak nem minősülő támogató kedvezménye 
+
+
+
+Akkor nem kell megnövelni az adózó – például egy cég támogató – adózás előtti eredményét, az általa az adóévben nem adomány céljából nyújtott támogatás (pénz, eszköz, szolgáltatás, átvállalt kötelezettség) adóévi ráfordításként elszámolt összegével, ha
+
+a juttatás nem külföldi személy részére történik, és
+
+az adózó rendelkezik a juttatásban részesülő (például nem közhasznú alapítvány) nyilatkozatával, amely szerint a juttatás adóévében a juttatást az eredményében bevételként elszámolta és az adózás előtti eredménye, adóalapja e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, továbbá az e bevételre jutó társasági adót megfizeti, amelyet a társasági adóbevallás elkészítését követően nyilatkozat útján igazol.
+
+
+
+Ha a juttatásban részesülő vállalkozási tevékenységet nem végez, a nyilatkozatra vonatkozó feltételt teljesítettnek kell tekinteni, amennyiben a juttatásban részesülő arról nyilatkozik, hogy a juttatás adóévében vállalkozási tevékenységet nem végzett.
+
+Amennyiben például egy olyan közhasznú besorolással nem rendelkező civil szervezet kap ingyenes juttatást, amely vállalkozási tevékenységet egyáltalán nem végez, akkor az erről szóló nyilatkozat mentesíti a juttatót az adózás előtti eredmény növelése alól. Tulajdonképpen ilyen nyilatkozat birtokában bármely, az adóévben a TAONY nyomtatvány benyújtására jogosult szervezetnek adott juttatás elismert költség a juttatónál.
+
+A TAONY jelű nyomtatvány benyújtására nem jogosultak azok a civil szervezetek, amelyek ingatlanhasznosítást folytatnak, és ehhez kapcsolódóan korrekciós tétel elszámolására kötelesek. Mivel azonban az ingatlanhasznosítás nem minősül vállalkozási tevékenységnek, pusztán az ingatlanhasznosítás (és a kapcsoló korrekciós tételek alkalmazása) nem zárja ki, hogy a civil szervezet olyan nyilatkozatot állítson ki, hogy vállalkozási tevékenységet a juttatás adóévében nem folytatott. 
+
+
+
+Ha a juttatásban részesülő végez vállalkozási tevékenységet, a nyilatkozatra vonatkozó feltételt abban az esetben kell teljesítettnek tekinteni, ha a juttatásban részesülő arról nyilatkozik, hogy a támogatást nem a vállalkozási tevékenységéhez kapta, vagy a vállalkozási tevékenysége után adófizetési kötelezettsége nem keletkezik.
+
+Ha például egy közhasznú besorolással nem rendelkező civil szervezet, amely vállalkozási tevékenységet is végez, cél szerinti tevékenységéhez kap ingyenes juttatást, akkor az erről szóló nyilatkozat (miszerint a támogatást nem a vállalkozási tevékenységéhez kapta) mentesíti a juttatót az adózás előtti eredmény növelése alól. 
+
+Ha a közhasznú besorolással nem rendelkező civil szervezet vállalkozási tevékenységéhez kapja az ingyenes juttatást, a nyilatkozatra vonatkozó feltétel akkor teljesül, ha a civil szervezet arról nyilatkozik, hogy a vállalkozási tevékenysége után adófizetési kötelezettsége nem keletkezik.
+
+
+
+Nem kell az előzőek szerinti feltételre (két nyilatkozat meglétére) figyelemmel lenni, ha maga a közhasznú szervezet nyújtja a támogatást. Ha ugyanis közhasznú szervezet – például közhasznú alapítvány – ad támogatást bármely személynek – például egy másik alapítványnak, vagy akár egy cégnek –, akkor a nyújtott támogatás ráfordításként elszámolt összege feltétel nélkül elismert az adóalapnál, nem kell annak összegével megnövelnie a vállalkozási tevékenységének az adózás előtti eredményét.  
+
+
+
+2.3. Az adóalap megállapításának további sajátos esetei
+
+
+
+A civil szervezetnek és más nonprofit szervezetnek – ideértve a jogi személyiséggel rendelkező szervezeti egységeiket is – nem kell alkalmazni a jövedelem-(nyereség-) minimumra vonatkozó előírásokat.
+
+
+
+A munkáltatói és munkavállalói érdekképviseleti szervezet az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja a Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik. E szervezeteknél az adóalapjuk megállapítása során csökkentő tétel a vállalkozási tevékenység adóévi adózás előtti nyereségének azon része, amelyet a szervezet az adóévben, vagy az adóévet követő adóévben a cél szerinti tevékenysége bevételét meghaladó költségei, ráfordításai fedezetére használ fel. A szervezet cél szerinti tevékenységét az alapító okirat, illetve az alapszabály nevesíti.
+
+
+
+Az egyesületek közül az országos érdekképviseleti szervezetek – annak ellenére, hogy közhasznúsági besorolásra nem jogosultak – mégis adóalapjukat a közhasznú szervezetekre vonatkozó rendelkezések megfelelő alkalmazásával állapítják meg. Ezen országos érdekképviseleti szervezetek esetében további sajátosság, hogy az adóalapjuk megállapítása során figyelmen kívül hagyják a Tao. tv.-ben foglalt csökkentő és növelő tételekre vonatkozó rendelkezéseket, vagyis – többek között – nem alkalmazzák az ingatlan-hasznosítás esetében előírt speciális korrekciós tételeket. 
+
+
+
+2.4. A társasági adó megfizetése, bevallása
+
+
+
+A nonprofit szervezeteknek év közben társasági adóelőleget megállapítani, fizetni, bevallani nem kell; az éves társasági adót azonban – akkor is, ha annak összege nulla – be kell vallaniuk a 2021 évre rendszeresített társasági adóbevallásban és (fizetési kötelezettség esetén) meg kell fizetniük az adóévet követő év (2022.) május 31-éig. Az arra jogosult szervezetek bevallást helyettesítő nyilatkozatot tesznek. 
+
+
+
+3. Speciális szja-szabályok
+
+
+
+Az Szja tv. a nonprofit szervezetek vonatkozásában speciális szabályokat az általuk nyújtott juttatások tekintetében tartalmaz. A közhasznú szervezetek által foglalkoztatottak adókötelezettségére az általános rendelkezések az irányadók.
+
+
+
+3.1. Általános szabályok
+
+
+
+A szervezetek által foglalkoztatott magánszemélyek adókötelezettségét annak függvényében kell meghatározni, hogy milyen jogviszony keretében foglalkoztatják őket. 
+
+
+
+A szervezettel munkaviszonyban állók adókötelezettségét az Szja tv. nem önálló tevékenységből származó jövedelemre vonatkozó szabályai szerint kell megállapítani.
+
+
+
+			Azonban, ha megbízásos jogviszonyban végez tevékenységet a magánszemély a szervezetnél, akkor az ebből származó jövedelme az önálló tevékenységre vonatkozó rendelkezések szerint válik adókötelessé. 
+
+			
+
+			A jogszabály által választott vagy kijelölt tisztségviselő tevékenysége az Szja tv. alkalmazásában nem önálló tevékenységnek minősül, adókötelezettségére a 24-27. §-okban foglaltak az irányadók.
+
+			
+
+			A munkáltatónak (kifizetőnek) az összevonás alá eső jövedelmek után teljesítendő adóelőleg-megállapítási, bevallási valamint megfizetési kötelezettségének az Szja tv. 46-49. §-aiban előírtak szerint kell eleget tennie.
+
+			
+
+Az önálló tevékenységre vonatkozó adózási szabályokról bővebb információt tartalmaz a 2. számú információs füzet.
+
+
+
+3.2. Speciális rendelkezések
+
+
+
+3.2.1. Bevételnek nem minősülő szolgáltatás
+
+
+
+Az a szolgáltatás, amelyet a vállalkozási tevékenységet nem folytató egyesület, köztestület a magánszemély által fizetett tagdíjára, hozzájárulására, felajánlására tekintettel – az egyesület, köztestület alapszabálya alapján, a cél szerinti tevékenységével összefüggésben, a rendeltetésszerű joggyakorlás keretében – nyújt, nem minősül bevételnek az abban részesülő magánszemélynél.
+
+
+
+3.2.2. Nonprofit szervezetek által adómentesen nyújtható juttatások
+
+
+
+Az Szja tv. 1. számú mellékletének 3. pontja alatt kerültek felsorolásra a közcélú juttatások körében adómentes jogcímek. E körben határozza meg a jogalkotó, hogy mely feltételek fennállása esetén, mely szervezetek és kiknek teljesíthetnek adómentesen kifizetést (juttatást).
+
+
+
+Adómentes többek között a közhasznú alapítvány, közalapítvány által – alapszabályban rögzített közhasznú céljával összhangban – a magánszemély részére kifizetett azon összeg,
+
+amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén), 
+
+szociálisan rászoruló részére szociális segély címen,
+
+diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak.
+
+
+
+A közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból a közhasznú cél szerint címzett magánszemélynek nem pénzben adott juttatás értéke is mentes az adó alól (kivéve a béren kívüli juttatásnak minősülő juttatásokat). Ugyanakkor pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás tekinthető adómentesnek.
+
+
+
+Az itt említett adómentes juttatások példálózó jellegűek, valamennyi adómentes jogcím az Szja tv. hivatkozott mellékletének 3. pontja alatt található.
+
+
+
+Fontos kiemelni azonban azt, hogy a törvény nem preferálja adómentes kifizetésként azt a juttatást, 
+
+amelynek címzettje az alapító, az adományozó, a támogató – kivéve az orvosi javaslat alapján fogyatékosságával, gyógyításával összefüggő termék, szolgáltatás formájában nem pénzben megszerzett bevételt,
+
+amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más a Ptk. szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
+
+ba) az általa végzett tevékenység mennyiségi és/vagy minőségi jellemzőire tekintettel, 
+
+bb) termék értékesítésének, szolgáltatás nyújtásának ellenértékeként,
+
+bc) jog alapításának, joggyakorlás átengedésének, jogról való lemondásnak ellenértékeként 
+
+illeti meg. 
+
+
+
+3.3. Reprezentáció, üzleti ajándék
+
+
+
+Egyedi rendelkezést tartalmaz az Szja tv. az egyesület, köztestület, egyházi jogi személy, alapítvány (ideértve a közalapítványt is) által juttatott reprezentáció és üzleti ajándék esetére. 
+
+Az említett szervezetek által az adóévben nyújtott reprezentáció és üzleti ajándék együttes értékéből mentes az adó alól a jövedelem azon része, amely a közhasznú, illetve cél szerinti tevékenysége érdekében felmerült, az adóévre vonatkozó beszámolóban kimutatott összes ráfordítás 10 százalékát, de legfeljebb az adóévre elszámolt éves összes bevétele 10 százalékát nem haladja meg. Az üzleti ajándékok közül csak azok vehetők figyelembe, amelyeknek az egyedi értéke a minimálbér 25 százalékát nem haladja meg.
+
+Ezeknek a szervezeteknek az adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően, az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként kell teljesíteniük a bevallási és adófizetési kötelezettségüket.
+
+
+
+3.4. Rendelkezés az adó 1 százalékáról
+
+
+
+A magánszemély az Szftv.-ben rögzített mértékben és ott megjelölt kedvezményezettek javára rendelkezhet a befizetett adójának egy-egy százalékáról.
+
+
+
+Külön-külön lehet rendelkezni a befizetett adó 1 százalékáról a „nonprofit kedvezményezettek”, másik 1 százalékáról pedig az „egyházi kedvezményezettek” közül kiválasztott kedvezményezett javára.
+
+Arról, hogy miként lehet a személyi jövedelemadó egy százalékáról rendelkezni, valamint hogyan lehet abból kedvezményezettként részesülni, részletes tájékoztatás olvasható a 25. és 26. számú információs füzetben.
+
+
+
+4. Áfakérdések
+
+
+
+4.1. A nonprofit szervezetek áfaalanyisága  
+
+
+
+A nonprofit szervezetek az Áfa tv. általános szabályai alapján az alábbiak szerint válhatnak az általános forgalmi adó alanyává.
+
+
+
+A nonprofit szervezetek, mint jogképes szervezetek abban az esetben minősülnek áfaalanynak, ha saját nevük alatt gazdasági tevékenységet folytatnak, tekintet nélkül annak helyére, céljára és eredményére. Abban a tekintetben, hogy az adott nonprofit szervezet gazdasági tevékenységet végez-e, nem a nonprofit szervezetre vonatkozó jogszabály gazdasági, illetve vállalkozási tevékenység fogalma, hanem az Áfa tv. gazdasági tevékenység fogalma az irányadó.
+
+
+
+Gazdasági tevékenységnek minősül a nonprofit szervezetek által üzletszerűen, illetőleg tartós vagy rendszeres jelleggel folytatott tevékenység, amennyiben az ellenérték elérésére irányul, vagy azt eredményezi, és azt a nonprofit szervezetek független formában – azaz a saját nevükben, illetve nevük alatt – végzik. 
+
+
+
+A nonprofit szervezetek közül a köztestületeknél merülhet fel, hogy Magyarország Alaptörvénye által, illetőleg az annak felhatalmazása alapján megalkotott jogszabály alapján közhatalom gyakorlására jogosított szervezetként közhatalmi tevékenységet – jellemzően közigazgatási jogalkalmazási tevékenységet – látnak el. A közhatalmi tevékenység nem gazdasági tevékenység és nem eredményez áfaalanyiságot. 
+
+
+
+Gazdasági tevékenységnek minősül és áfaalanyiságot eredményez a nonprofit szervezetek számára az is, ha egyébként nem-áfaalanyi minőségben eljárva
+
+belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesítenek belföldön kívülre, de – beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző, vagy – bármelyikük javára – más végzi; 
+
+sorozat jelleggel értékesítenek építési telket (telekrészt), vagy olyan beépített ingatlant (ingatlanrészt) az ahhoz tartozó földrészlettel, amelynek első rendeltetésszerű használatba vétele még nem történt meg, vagy az első rendeltetésszerű használatba vétele már megtörtént, de az arra jogosító hatósági engedélyvéglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év. 
+
+
+
+Az új közlekedési eszköz Közösség más tagállamába történő értékesítése és az egyes ingatlanok sorozatjelleggel történő értékesítése tehát mindenképpen áfaalanyiságot eredményez a nonprofit szervezetek számára, akkor is, ha egyébként nem minősülnek áfaalanynak. 
+
+
+
+Az Áfa tv. a nonprofit szervezetekre vonatkozóan az áfaalanyiság keletkezése mellett, az egyes adókötelezettségek (pl.: adómegállapítás,  adófizetés, bizonylatolás), valamint a különös adózási módok választása tekintetében sem tartalmaz különös rendelkezéseket, ezért a nonprofit szervezetek esetében a fenti tárgykörökben az Áfa tv. általános szabályait kell irányadónak tekinteni. Ez utóbbi szabályok a 14-es számú információs füzetben kerültek ismertetésre. 
+
+
+
+Az előzőekre tekintettel a nonprofit szervezeteknek, mint áfa alanyoknak az Áfa tv. általános szabályait alkalmazó adóalanyokéval megegyező, a 14-es számú információs füzetben kifejtett alapvető kötelezettségeiről ehelyütt nem teszünk említést. 
+
+
+
+Az áfakötelezettség bejelentésére vonatkozó alapvető szabályokat részben az Art., részben pedig az Áfa tv. tartalmazza, emellett az áfaalanyoknak az Art. előírásait az áfa bevallási kötelezettség teljesítése során (bevallási gyakoriság meghatározása) is figyelembe kell venniük. 
+
+
+
+Az áfakötelezettség bejelentése és az áfabevallás kapcsán sem az Art., sem az Áfa tv. nem rendelkezik külön a nonprofit szervezetekről. A fenti kötelezettségeket szintén a 14-es számú információs füzet tartalmazza. Emellett az áfakötelezettség bejelentésére vonatkozóan az 1-es számú információs füzet is részletes tudnivalókat tartalmaz.  
+
+Az Áfa tv. előírásai alapján a nem áfa alany jogi személyeknek, így a nem áfa alany nonprofit szervezeteknek is keletkezhet adókötelezettsége.  
+
+
+
+A továbbiakban az Áfa tv. azon rendelkezései kerülnek ismertetésre, amelyeknek alkalmazása kifejezetten a nonprofit szervezetek által áfa alanyként és nem áfaalany jogi személyként végzett sajátos (jellemzően nonprofit, illetve karitatív) tevékenység kapcsán merülhet fel.
+
+
+
+4.2. Áfaalany nonprofit szervezetek
+
+
+
+Az áfaalany nonprofit szervezetek esetében is áfakötelezettség alá esik 
+
+az áfaalanyi minőségben belföldön és ellenérték fejében teljesített – az Áfa tv. szabályai szerint belföldön teljesítettnek minősülő – termékértékesítés és szolgáltatásnyújtás, 
+
+a belföldön és ellenérték fejében teljesített Közösségen belüli termékbeszerzés, valamint 
+
+a termékimport. 
+
+
+
+Az áfaalany nonprofit szervezetek kizárólag közösségi adószám birtokában végezhetik
+
+az Áfa tv. 19. §, 21. § és a 22. § (1) bekezdés szerinti Közösségen belüli termékbeszerzéseket,
+
+az Áfa tv. 89. § szerinti közösségen belüli termékértékesítéseket, 
+
+az Áfa tv. 37. § szerinti szolgáltatásnyújtásokat és szolgáltatás-igénybevételeket a Közösség valamely másik tagállamában gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában ott lakóhellyel, vagy szokásos tartózkodási hellyel rendelkező adóalany részére, illetve adóalanytól, valamint
+
+azokat az Áfa tv. 20. § szerinti – az adófizetési kötelezettség alóli mentesülés kapcsán kivételként nevesített – Közösségen belüli termékbeszerzéseket, amelyek belföldön adófizetési kötelezettséget keletkeztetnek.
+
+Az áfaalany nonprofit szervezetek a közösségi adószámuk megállapítása érdekében az állami adó- és vámhatóságnál előzetesen bejelentik, hogy a fentiekben ismertetett tevékenységeket kívánják végezni. A NAV a közösségi adószámot az adóalany nonprofit szervezetek bejelentése alapján a bejelentés előterjesztésének a napjával állapítja meg (de nem korábban, mint az adószám megállapításának a napja), ugyanakkor az áfa alany nonprofit szervezeteknek arra is lehetőségük van, hogy a közösségi adószám megállapítására vonatkozó bejelentésüket az adószám iránti kérelmükkel egyidejűleg terjesszék elő.
+
+Az közösségi adószám igénylésére és megállapítására vonatkozóan a 27-es számú információs füzet részletes tudnivalókat tartalmaz. 
+
+
+
+Az áfaalany nonprofit szervezetek tevékenységével összefüggésben az Áfa tv. alábbi rendelkezéseit kell kiemelni. 
+
+
+
+Adómentesség alkalmazása
+
+
+
+A nonprofit szervezetek, mint áfaalanyok részéről jellemzően az Áfa tv. „Adó alóli mentesség” című VI. Fejezetének „Az adó alóli mentesség a tevékenység közérdekű jellegére tekintettel” alcíme alatti 85. §-ában foglalt szabályoknak az alkalmazása merül fel. Emellett természetesen az áfaalany nonprofit szervezetek végezhetnek olyan tevékenységet is, amely az Áfa tv. más rendelkezése alapján, illetve egyéb okból minősül adómentesnek [pl.: a 86. § (1) bekezdésének l) pontja szerinti adómentes ingatlan-bérbeadás]. 
+
+
+
+Az áfaalany nonprofit szervezeteket, illetve azok tevékenységét érintő adómentességek két csoportra bonthatók. Az első csoportba azok az Áfa tv. 85. § (1) bekezdésének b), f), g) h), i), m) és n) pontja szerinti adómentes ügyeletek tartoznak, amelyeket a nonprofit szervezetek közszolgáltatói minőségben teljesítenek, a másik csoportba pedig az Áfa tv. 85. § (1) bekezdésének l) pontja szerinti adómentes ügyletek sorolhatók.
+
+
+
+Az Áfa tv. 85. § alkalmazásában közszolgáltatónak minősül többek között:
+
+az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
+
+az alapítvány és a közalapítvány az alapító okiratban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
+
+az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint közhasznú szervezetként nyilvántartásba vett nonprofit szervezet az alapszabályban (alapító okiratban) megjelölt közhasznú tevékenysége tekintetében;
+
+
+
+A közszolgáltatónak minősülő áfaalany nonprofit szervezetek által közszolgáltatói minőségben teljesített adómentes ügyletek körébe az alábbi termékértékesítések és szolgáltatásnyújtások tartoznak:
+
+humán-egészségügyi ellátás keretében teljesített szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás és sérült- vagy betegszállítás, valamint az azokhoz szorosan kapcsolódó termékértékesítés; 
+
+szociális ellátás keretében teljesített szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés;
+
+gyermek- és ifjúságvédelem keretében teljesített szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés;
+
+bölcsődei ellátás keretében teljesített szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés;
+
+köz- és felsőoktatás, továbbá az Áfa tv. 85. § (2) bekezdésben meghatározott egyéb oktatás keretében teljesített szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó óvodai, diákotthoni és kollégiumi ellátás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg –, valamint az azokhoz szorosan kapcsolódó termékértékesítés;
+
+sportolással, testedzéssel kapcsolatos szolgáltatásnyújtás olyan természetes személy részére, aki azt sportolása, testedzése érdekében veszi igénybe, vagy olyan egyéb személy, szervezet részére, amely azt természetes személy javára történő közvetlen biztosítása érdekében veszi igénybe, kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekintését, valamint a sportolást, testedzést szolgáló ingatlan (ingatlanrész) bérbeadását;
+
+népművészeti, népi iparművészeti és iparművészeti termékek kiállításának, vásárának és bemutatójának szervezése, rendezése és az ahhoz szorosan kapcsolódó, jogszabály által meghatározott minősítés szerint zsűriszámmal ellátott, egyedi vagy meghatározott példányszámban, nem ipari gyártástechnológiával előállított népművészeti, népi iparművészeti és iparművészeti termék értékesítése.
+
+
+
+Az Áfa tv. 85. § (1) bekezdés l) pontja szerinti adómentes ügyletek esetében az áfaalany nonprofit szervezetek
+
+a bírósági vagy más hatósági nyilvántartásba bejegyzett, alapszabállyal (alapító okirattal) és tagsággal rendelkező, alapszabálya (alapító okirata) szerint és ténylegesen is nyereségszerzésre nem törekvő személyekként, szervezetekként járnak el és
+
+a tagjaik részére olyan szolgáltatásnyújtásokat és az azokhoz szorosan kapcsolódó termékértékesítéseket teljesítenek amelyeknek kizárólagos vagyoni fedezete az alapszabállyal összhangban meghatározott, minden tagra kötelező tagsági díj, egyéb hozzájárulás, a kapott államháztartási támogatás és egyéb adomány, valamint a saját tevékenységből származó nyereség, amely a Tao tv. szerint az adózás előtti eredményt csökkenti, amelyek a közös érdekeknek megfelelően társadalmi, politikai, munkavállalói vagy munkáltatói, illetőleg egyéb, szakmai érdekeket képviselő vagy azt védő, vallási vagy más lelkiismereti, hazafias, humanitárius, karitatív és hagyományőrző célokat szolgálnak.
+
+
+Az áfaalany nonprofit szervezetek a fentiekben ismertetett adómentes ügyletekkel összefüggésben 
+
+adófizetésre nem kötelezettek
+
+az Áfa tv. 120. §-a értelmében adólevonási jogot sem gyakorolhatnak, továbbá 
+
+az Áfa tv. 165. § (1) bekezdésének a) pontja alapján számlát sem kell kibocsátaniuk, feltéve, hogy gondoskodnak olyan, az ügyletek teljesítését tanúsító okiratok kibocsátásáról, amelyek az Szt. rendelkezései szerint számviteli bizonylatnak minősülnek.
+
+
+
+Abban az esetben, ha az áfaalany nonprofit szervezetek 
+
+kizárólag az Áfa tv. 85. § (1) bekezdése, a 86. § (1) bekezdése vagy a 87. §-a szerint adómentes termékértékesítést, szolgáltatásnyújtást végeznek, vagy az Áfa tv. XIII. Fejezete szerint alanyi adómentességet választanak és
+
+az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tenniük, illetve nincs az Art. szerinti összesítő nyilatkozat benyújtási kötelezettséget keletkeztető közösségi kereskedelemmel kapcsolatos ügyletük, továbbá
+
+adólevonásra nem jogosultak vagy adólevonásra jogosultak ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorolnak, 
+
+akkor mentesülnek az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.
+
+
+
+b) Termék Közösségen belüli beszerzése
+
+
+
+Az áfaalany nonprofit szervezeteknek Közösségen belüli termékbeszerzés címén adókötelezettségük keletkezik többek között akkor, ha olyan terméket szereznek be, amelynek értékesítője olyan adóalanyként jár el, aki (amely) a Közösség azon tagállamában, ahol adóalanyként nyilvántartásba vették, nem részesül e tagállam azon joga szerinti adómentességben, amely tartalmában Héa-irányelv 282-292. cikkeinek felel meg, és akinek (amelynek) ez a termékértékesítése nem tartozik az Áfa tv. 29. és 32. § alkalmazása alá.
+
+
+
+A fenti ügyletek kapcsán az áfaalany nonprofit szervezeteknek Közösségen belüli termékbeszerzés címén nem keletkezik adókötelezettsége, ha 
+
+alanyi adómentességet választanak, vagy kizárólag olyan termékértékesítést és szolgáltatásnyújtást teljesítenek, amelyhez kapcsolódóan adólevonási jog nem illeti meg őket (pl.: az Áfa tv. 85. § (1) bekezdése szerinti ügyleteket), valamint
+
+az adott naptári évben a termékek Közösségen belüli beszerzése ellenértékének – adó nélkül számított és éves szinten göngyölített – összege nem haladja meg a 10 000 eurónak megfelelő pénzösszeget, és ez a feltétel az adott naptári évet megelőző naptári évre is teljesült. 
+
+A fenti értékhatárba a Közösség azon tagállamaiban megtérített vagy megtérítendő ellenérték számít, amelyekben a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt.
+
+
+
+Ha az áfaalany nonprofit szervezetek a fenti feltételeknek megfelelnek, akkor Közösségen belüli termékbeszerzés címén azon Közösségen belüli termékbeszerzésük folytán keletkezik adókötelezettségük, amelynek – adó nélkül számított – ellenértékével először meghaladják a 10.000 eurós értékhatárt.
+
+
+
+Az áfaalany nonprofit szervezetek az értékhatár meghaladása nélkül is dönthetnek úgy, hogy az állami adó- és vámhatóságnak tett előzetes bejelentésük alapján a Közösségen belüli termékbeszerzésekre vonatkozóan az Áfa tv. 19. § a) pontját alkalmazva adókötelezettséget választanak és a választásuktól a választási jog gyakorlása évét követő második naptári év végéig nem térhetnek el. Az áfaalany nonprofit szervezetek a fenti választásukat a tárgyévre vonatkozóan
+
+a tárgyévet megelőző adóév utolsó napjáig, 
+
+a tárgyévet megelőző évben teljesített Közösségen belüli termékbeszerzés hiányában a tárgyévi első Közösségen belüli termékbeszerzésüket megelőzően
+
+jelentik be az állami adó- és vámhatóságnak.
+
+
+
+Ha az áfaalany nonprofit szervezetek 
+
+nem élnek ugyan a fenti választási jogukkal, de 
+
+közösségi adószámmal rendelkeznek és azt egy adott Közösségen belüli termékbeszerzésük kapcsán megadják a termék értékesítőjének, és az annak figyelembevételével jár el, 
+
+akkor úgy kell tekinteni, hogy az áfaalany nonprofit szervezetek a kérdéses ügyleteikre, valamint az azokat követő összes olyan Közösségen belüli termékbeszerzésükre, melyeket az előzőekben említett ügyletek teljesítésének évét követő második naptári év végéig valósítanak meg, az Áfa tv. 19. § a) pontja alapján adókötelezettséget kívánnak alkalmazni.
+
+
+
+Az áfaalany nonprofit szervezetek a fenti módon elsőként megvalósuló Közösségen belüli termékbeszerzésük teljesítésének napját követő hónap 20. napjáig jelentik be az állami adó- és vámhatósághoz azt a tényt, hogy az előzőekben ismertetett feltételeknek megfelelően járnak el.
+
+
+
+Az áfaalany nonprofit szervezetek által teljesített Közösségen belüli termékbeszerzések, valamint az Áfa tv. általános szabályai szerint megítélendő közösségi vonatkozású ügyletek kapcsán a 29-es számú, valamint a 17. számú információs füzet további tudnivalókat tartalmaz. 
+
+
+
+4.3. A nem áfaalany nonprofit szervezetek egyes adókötelezettségei
+
+Az Áfa tv. rendelkezései alapján azon nonprofit szervezeteknek is keletkezhet áfakötelezettsége, amelyek az 1. pontban leírtak alapján nem tekinthetők áfaalanynak, vagyis az Áfa tv. alkalmazásában nem áfaalany jogi személynek minősülnek. Ezeknek a nem áfaalany nonprofit szervezeteknek (továbbiakban: nem áfaalany jogi személy nonprofit szervezetek) a tevékenységére tehát az Áfa tv.-nek a nem áfaalany jogi személyekre vonatkozó rendelkezéseit kell alkalmazni.
+
+
+
+A nem áfaalany jogi személy nonprofit szervezetek kizárólag közösségi adószám birtokában végezhetik azokat az Áfa tv. 20. § szerinti – az adófizetési kötelezettség alóli mentesülés kapcsán kivételként nevesített – Közösségen belüli termékbeszerzéseket, amelyek belföldön adófizetési kötelezettséget keletkeztetnek. 
+
+
+
+A nem áfaalany jogi személy nonprofit szervezetek a közösségi adószámuk megállapítása érdekében az állami adó- és vámhatóságnál előzetesen bejelentik, hogy a fentiekben ismertetett tevékenységeket kívánják végezni. Az állami adó- és vámhatóság a közösségi adószámot a nem áfaalany jogi személy nonprofit szervezetek bejelentése alapján a bejelentés előterjesztésének a napjával állapítja meg (de nem korábban, mint az adószám megállapításának a napja), ugyanakkor a nem áfaalany jogi személy nonprofit szervezeteknek arra is lehetőségük van, hogy a közösségi adószám megállapítására vonatkozó bejelentésüket az adószám iránti kérelmükkel egyidejűleg terjesszék elő.
+
+a) Termék Közösségen belüli beszerzése 
+
+Főszabály szerint a nem áfaalany jogi személy nonprofit szervezeteknek adókötelezettségük keletkezik termék belföldön és ellenérték fejében teljesített Közösségen belüli beszerzése címén abban az esetben, ha 
+
+olyan terméket szereznek be, amelynek értékesítője olyan adóalanyként jár el, aki (amely) a Közösség azon tagállamában, ahol adóalanyként nyilvántartásba vették, nem részesül e tagállam azon joga szerinti adómentességben, amely tartalmában a Héa-irányelv 282-292. cikkeinek felel meg, és akinek (amelynek) ez a termékértékesítése nem tartozik a 29. és 32. § alkalmazása alá;
+
+új közlekedési eszközt szereznek be;
+
+jövedéki terméket szereznek be, feltéve, hogy a beszerzés után jövedékiadó-fizetési kötelezettségük keletkezik.
+
+
+
+Az elsőként megjelölt ügyletek kapcsán a nem áfaalany jogi személy nonprofit szervezeteknek Közösségen belüli termékbeszerzés címén nem keletkezik adókötelezettsége, ha esetükben az adott naptári évben a termékek Közösségen belüli beszerzése ellenértékének – adó nélkül számított és éves szinten göngyölített – összege nem haladja meg a 10.000 eurónak megfelelő pénzösszeget, és ez a feltétel az adott naptári évet megelőző naptári évre is teljesült. 
+
+
+
+A nem áfaalany jogi személy nonprofit szervezetek Közösségen belüli termékbeszerzései tekintetében megfelelően alkalmazni kell az áfaalany nonprofit szervezetek által teljesített Közösségen belüli termékbeszerzések kapcsán a 2.b) pontban ismertetett, 
+
+a 10 000 eurós értékhatárba tartozó ellenértékek meghatározására, 
+
+a fenti értékhatár meghaladásával keletkező adókötelezettségre, 
+
+az adókötelezettség választására, valamint 
+
+a közösségi adószám megadására vonatkozó szabályokat.
+
+
+
+Ha a Közösségen belüli termékbeszerzés után egyébként adófizetésre kötelezett nem áfaalany jogi személy nonprofit szervezet úgy szerez be terméket, hogy 
+
+azt a Közösség területén kívül adja fel küldeményként vagy fuvarozza el és Magyarországon helyezi szabad forgalomba (azaz belföldön termékimportot teljesít), 
+
+azonban a termék küldeménykénti megérkezése vagy a fuvarozás befejezése a Közösség más tagállamában van,
+
+akkor a nem áfaalany jogi személy nonprofit szervezet, mint importáló a termék importja címén megfizetett adót visszatéríttetheti, feltéve, hogy igazolja, hogy abban a Közösségi tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor volt, megfizette az adót a termék Közösségen belüli beszerzése után e tagállam joga szerint.
+
+A nem áfaalany jogi személy nonprofit szervezetek Közösségen belüli termékbeszerzései kapcsán a 17-es számú információs füzet tartalmaz tudnivalókat.
+
+
+
+b) Termék importja 
+
+
+
+Az Európai Közösséget létrehozó Szerződés 24. cikkének értelmében szabad forgalomban nem lévő termékeknek 
+
+a Közösség területére történő behozatala vagy egyéb módon történő bejuttatása, valamint
+
+a Közösség vámterületének harmadik állam területével egy tekintet alá eső területrészéről a Közösség területére történő behozatala vagy egyéb módon történő bejuttatása 
+
+az Áfa tv. alkalmazásában termék importjának minősül, amely főszabály szerint adófizetési kötelezettséget keletkeztet az adóalanyok és a nem adóalany személyek, szervezetek, így a nem adóalany jogi személy nonprofit szervezetek részére is..
+
+
+
+Az a tény, hogy egy adott, az Áfa tv. alkalmazásában termék importjának tekinthető ügylet a hatályos vám jogszabályok szerint vámmentesnek minősül, a fenti személyeket és szervezeteket kizárólag akkor mentesíti az ügylet kapcsán termék importja címén felmerülő áfa fizetési kötelezettség alól, ha arról az Áfa tv. külön rendelkezik, vagyis a vámmentes és az áfa mentes termékimportként azonosítható ügyletek köre nem azonos, illetve termék importja esetében a vámmentesség az Áfa tv. rendelkezése hiányában önmagában nem eredményez áfa mentességet.
+
+
+
+c) Külföldről történő szolgáltatás-igénybevétel
+
+
+
+Abban az esetben, ha a nem áfaalany jogi személy nonprofit szervezetek 
+
+- közösségi adószámmal rendelkeznek vagy rendelkezniük kellene és 
+
+- belföldi gazdasági célú letelepedési hellyel, illetve lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalanytól olyan szolgáltatást vesznek igénybe, amely az Áfa tv-nek a szolgáltatásnyújtások teljesítési helyére vonatkozó főszabálya szerint a nem adóalany jogi személy nonprofit szervezeteknek, mint a fenti szolgáltatások igénybevevőinek a gazdasági célú letelepedési helye szerinti államban, azaz Magyarországon teljesül, 
+
+akkor a fenti ügyletek kapcsán a nem áfaalany jogi személy nonprofit szervezeteknek keletkezik adófizetési kötelezettsége.  
+
+
+
+A nem adóalany jogi személy nonprofit szervezetek Közösségen belülről történő szolgáltatás-igénybevételei kapcsán a 17-es számú információs füzet tartalmaz tudnivalókat.
+
+d) Bevallási és összesítő nyilatkozat tételi kötelezettség
+
+A nem áfaalany jogi személy nonprofit szervezetek 
+
+az új közlekedési eszköznek az Európai Unió más tagállamából történő beszerzése esetén önadózással megállapítandó fizetendő általános forgalmi adót az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallják be a 2165 számú bevallás megfelelő soraiban és fizetik meg az állami adó- és vámhatósághoz;
+
+ha közösségi adószámmal rendelkeznek, akkor a közösségi kereskedelemmel kapcsolatos ügyleteiket az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallják be a 2165 számú bevallás megfelelő soraiban, és az azokhoz kapcsolódó áfa fizetési kötelezettségüknek a bevallás benyújtásával egyidejűleg tesznek eleget (nem kell bevallást tenniük arról az időszakról, amelyben közösségi kereskedelmet nem folytattak);
+
+ha közösségi adószámmal rendelkeznek, úgy a Közösségen kívül letelepedett adóalanytól igénybevett azon szolgáltatásokat, amelyek után az adófizetési kötelezettség őket terheli, az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallják be a 2165 számú bevallás megfelelő soraiban, és az azokhoz kapcsolódó áfa fizetési kötelezettségüknek a bevallás benyújtásával egyidejűleg tesznek eleget.
+
+
+
+A közösségi adószámmal rendelkező nem áfaalany jogi személy nonprofit szervezetekkötelesek benyújtani az Áfa tv. 4/A. számú melléklete szerinti összesítő nyilatkozatot a melléklet 1. és 6. pontjában foglaltaknak megfelelően az összesítő nyilatkozattal érintett,  közösségi kereskedelemmel kapcsolatos ügyleteikre vonatkozóan az adófizetési kötelezettség keletkezését követő hó 20. napjáig a 21A60 számú, „Összesítő nyilatkozat az Európai Közösség területén belül történő közösségi termékértékesítésekről és szolgáltatásnyújtásokról, valamint az Európai Közösség területéről történő termékbeszerzésekről és szolgáltatás-igénybevételekről” megnevezésű nyomtatványon.
+
+
+
+4.4. Adóvisszatérítés kérelemre
+
+A nonprofit szervezetek sajátos tevékenysége szempontjából különös jelentőséggel bírnak az Áfa tv. 257/A. §-ban foglalt, a kérelemre történő adóvisszatérítésre vonatkozó szabályok.
+
+Ha az Áfa tv. 85. § (4) bekezdésének b), d) és f) pontja szerint igazoltan közszolgáltatónak minősülő nonprofit szervezet külföldi illetőségű adományozótól származó pénzbeni adomány, segély [együtt: adomány] kedvezményezettjévé válik, akkor az állami adó- és vámhatóság – a kedvezményezettként eljáró nonprofit szervezet írásos kérelmére – visszatéríti a termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan a nonprofit szervezetre áthárított és a nonprofit szervezet által az ellenérték részeként megtérített, illetőleg az általa fizetendő adóként is megállapított előzetesen felszámított adót, feltéve, hogy
+
+a termék beszerzése, szolgáltatás igénybevétele a kedvezményezettként eljáró nonprofit szervezet alapszabályában (alapító okiratában) megjelölt olyan tevékenységnek ellátását szolgálja, amely az Ectv. alapján közhasznú tevékenység,
+
+az adományozó az adomány összegét – az adóügyi illetősége szerinti állam joga szerint – a vonatkozó adózási rendelkezésekkel összhangban számolta el,
+
+az adományozó az adomány felhasználását kifejezetten ahhoz a feltételhez köti, hogy a kedvezményezettként eljáró nonprofit szervezetet mentesíteni kell a termékek, szolgáltatások árába (díjába) belefoglalt adó viselése alól, és
+
+a kedvezményezettként eljáró nonprofit szervezetet az adólevonási jog egészben vagy részben nem illeti meg.
+
+Az adó-visszatéríttetési jog legfeljebb olyan hányadban illeti meg a kedvezményezettként eljáró nonprofit szervezetet, amilyen hányadban az alapszabályában (alapító okiratában) megjelölt közhasznúnak minősülő tevékenység, feladat ellátását szolgáló kiadásokból az adomány összege részesedik.Az adó-visszatérítési kérelmek kötelező adattartalmára vonatkozó előírásokat és az adó-visszatérítés egyes eljárási szabályait a 15/2010. (XII. 28.) NGM rendelet tartalmazza.
+
+
+
+5. A társadalombiztosítás vonatkozó előírásai
+
+
+
+A társadalombiztosítás olyan társadalmi szintű kockázatközösség, amelyben a részvétel a törvényben meghatározott szabályok szerint kötelező. A biztosítás az annak alapjául szolgáló jogviszonnyal egyidejűleg a törvény erejénél fogva jön létre. A jogszabály tételesen felsorolja a biztosítási kötelezettség alá vont jogviszonyokat, amelyek jellemzően munkavégzéshez vagy tevékenység folytatásához kapcsolódnak. 
+
+
+
+A foglalkoztató a Tbj. általános szabályai szerint köteles a biztosítási kötelezettséggel járó jogviszonyt megállapítani, és a biztosított személlyel összefüggő bejelentési-, nyilvántartási-, járulék-megállapítási és járulék levonási kötelezettséget teljesíteni.
+
+
+
+Foglalkoztatónak minősül – egyebek mellett – bármely jogi és természetes személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat.
+
+
+
+5.1. Bejelentési kötelezettség
+
+
+
+A foglalkoztató (munkáltató, kifizető) – adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, továbbá jogelődje nevének és adószámának közlésével – az illetékes elsőfokú állami adó- és vámhatóságnak elektronikus úton bejelenti az általa foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, a TAJ számát. Ha a biztosított nem rendelkezik adóazonosító jellel, a születési családi és utónevét, születési helyét, anyja születési családi és utónevét és a biztosított állampolgárságát is kötelező bejelenteni. 
+
+
+
+2020. július 1-jétől a Tbj.  szerinti kiegészítő tevékenységet folytató természetes személy foglalkoztatott nem biztosított. Biztosítási kötelezettség hiányában a munkavállaló foglalkoztatásával kapcsolatos bejelentési kötelezettség nem merül fel.
+
+
+
+A bejelentést
+
+a biztosítás kezdetére vonatkozóan legkésőbb a biztosítási jogviszony első napján, a foglalkoztatás megkezdése előtt, illetve ha a biztosítás elbírálására utólag kerül sor, legkésőbb a biztosítási kötelezettség megállapítását követő napon kell teljesíteni,
+
+a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját közvetlenül követő 8 napon belül kell teljesíteni.
+
+
+
+A foglalkoztató a bejelentést követő napon, illetve a biztosított személy kérésére 3 munkanapon belül igazolást köteles kiadni a biztosított részére, mely tartalmazza a bejelentésben közölt adatokat, és a bejelentés teljesítésének időpontját.
+
+
+
+5.2. Nyilvántartási kötelezettség
+
+
+
+A foglalkoztató a tevékenységében személyesen közreműködő biztosított személyek adatait oly módon köteles nyilvántartásba venni, és erről a magánszemélynek igazolást adni, hogy abból a törvényben előírt adatok a munkavégzés (tevékenység) megkezdésétől megállapíthatók legyenek. A nyilvántartásba vétel elmulasztása miatt a foglalkoztatót az Art. szerint megállapítható mulasztási bírság – nyilvántartásba nem vett személyenként – terheli.
+
+
+
+A foglalkoztató a biztosítottakról köteles a külön törvényben meghatározottak szerint olyan nyilvántartást vezetni, amely tartalmazza a biztosított nevét és személyi adatait, társadalombiztosítási azonosító jelét, a foglalkoztató adatait, a biztosítási időre és a szolgálati időre vonatkozó adatokat, a biztosítottól levont járulékok alapját és összegét.
+
+
+
+A foglalkoztató a jövedelemigazoláshoz csatoltan a tárgyévet követő év január 31. napjáig köteles a nyilvántartás adataival egyező igazolást kiadni a biztosított részére a tárgyévben fennállt biztosítási idő "tól-ig" tartamáról, a tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok összegéről, valamint az egyes járulékokból érvényesített családi járulékkedvezményről. A biztosítással járó jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.
+
+
+
+A foglalkoztató írásban tájékoztatja a biztosítottat a tárgyhavi jövedelem kifizetésével egyidejűleg a biztosított jövedelméből levont társadalombiztosítási járulékról, nyugdíjjárulékról, valamint az egyes járulékokból érvényesített családi járulékkedvezményről, illetőleg a részére túlvonás miatt visszafizetett (átutalt) társadalombiztosítási járulékól.
+
+
+
+5.3. Járulékbevallás és befizetés határideje
+
+
+
+A foglalkoztató a biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem alapján a Tbj. általános szabályai szerint köteles társadalombiztosítási járulékot megállapítani és a biztosítottat terhelő járulékot levonni. 
+
+
+
+Járulékalapot képező jövedelemként – egyebek mellett – : 
+
+az Szja tv. szerint az összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőlegalap-számításnál figyelembe vett jövedelmet kell számításba venni.
+
+az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adóztatást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik, 
+
+ba)az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy - ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik - a szerződésben meghatározott díj havi összege, vagy
+
+bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett - munkaviszony esetében a tárgyhónapra elszámolt - jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket.
+
+
+
+A Tbj. 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
+
+a) a biztosítási kötelezettséget eredményező jogviszony hónap közben keletkezik vagy szűnik meg,
+
+b) a biztosítási jogviszony a 16. § alapján a hónap egészében nem áll fenn, vagy
+
+c) az adott hónapban a biztosított táppénzben, baleseti táppénzben részesül, vagy tizenkét évesnél fiatalabb beteg gyermek ápolása címén fizetési nélküli szabadságot vesz igénybe,
+
+a járulékfizetési alsó határ meghatározása során az a)-c) pontok szerinti naptári napokat figyelmen kívül kell hagyni. Amennyiben az a)-c) pontokban meghatározott körülmények a naptári hónap csak egy részében állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni.
+
+
+
+A járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
+
+a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermeknevelést segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
+
+b) a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban, a szakképzésről szóló törvény szerint szakképző intézményben nappali rendszerű szakmai oktatásban, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató esetében.
+
+
+
+A foglalkoztató köteles a járulékfizetési alsó határ és a ténylegesen kifizetett járulékalapot képező jövedelem közötti különbözet után fennálló társadalombiztosítási járulékfizetési kötelezettséget teljesíteni. A különbözet utáni társadalombiztosítási járulékfizetési kötelezettség előzőek szerinti teljesítését úgy kell tekinteni az ellátások számítási szabályainak alkalmazása során, mintha azt a biztosított személy teljesítette volna.
+
+
+
+
+
+Járulékalapot képező jövedelemként kell figyelembe venni azt a jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban e törvény alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában az uniós rendelkezések vagy nemzetközi egyezmény alapján más ország járulékszabályai alkalmazandók.
+
+
+
+A járulékalap megállapításánál a járulékalapot képező jövedelmet akkor is számításba kell venni, ha annak kifizetésére a biztosítási jogviszony megszűnését követően kerül sor.
+
+
+
+Ha a biztosítással járó jogviszonyból származó, tárgyhónapra eső jövedelem egy része Magyarországon, másik része külföldön adóztatható, járulékalapként
+
+a) az  összevont adóalapba tartozó önálló és nem önálló tevékenységből származó  jövedelmet és
+
+b) az alapbér, nemzetgazdasági szintű bruttó átlagkereset, a tevékenység ellenértéke alapján megállapított járulékalapot képező jövedelem összegének azon időszakra (naptári napokra) vonatkozó arányos részét, amelyben a jövedelem külföldön adóztatható
+
+együttesen kell figyelembe venni.
+
+
+
+A megállapított tárgyhavi járulékot a tárgyhónapot követő hónap 12-éig kell az Art-ban meghatározottak szerint a ’08-as számú bevallásban elektronikus úton kell bevallani, illetőleg megfizetni. 
+
+
+
+
+
+6. Szocho. kötelezettség
+
+
+
+A kifizetőt a természetes személynek juttatott meghatározott jövedelmekkel összefüggésben – a társadalmi közös szükségletek fedezetéhez való hozzájárulás kötelezettségének megfelelően – szociális hozzájárulási adó fizetés terheli. A szociális hozzájárulási adó fizetésére vonatkozó szabályok a 49. számú információs füzetben olvashatók.
+
+
+
+7. Illetékmentesség
+
+
+
+A nonprofit szervezetek az Itv. rendelkezései értelmében teljes személyes illetékmentességben részesülnek. Az illetékmentesség azonban csak abban az esetben illeti meg a szervezetet, ha a vagyonszerzést, illetőleg eljárási illeték esetén az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége – külföldi illetőségű szervezet esetén a társasági adónak megfelelő közteher-fizetési kötelezettsége – nem keletkezett.
+
+
+
+Az illetékmentesség feltételének meglétét a szervezet vagyonszerzése esetén – gépjármű, pótkocsi szerzése kivételével – az állami adóhatóság hivatalból ellenőrzi. 
+
+
+
+Gépjármű, pótkocsi szerzése estén illetékmentesség feltételének meglétéről a szervezet annak illetékkiszabás végett történő bejelentésekor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – a vagyonszerzést megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett. 
+
+
+
+Ha a vagyonszerzési illetékkötelezettség keletkezésére és illetékkiszabásra bejelentésére, illetve eljárási illeték esetén az eljárás megindítására a megelőző adóév utolsó napját követő 150. napot megelőzően kerül sor, a szervezetnek arról kell nyilatkoznia, hogy adófizetési kötelezettsége előreláthatóan nem keletkezik. Ha a nyilatkozatában vállaltak nem teljesültek, úgy a vagyonszerzést megelőző adóév utolsó napját követő 180. napig van lehetősége arra, hogy ezt a körülményt adóbírság terhe nélkül az eljáró hatóság felé jelezze, és az illetéket pótlólag megfizesse. Ha a feltételes személyes mentességre jogosult szervezet közigazgatási hatósági vagy bírósági eljárás kezdeményezésekor, illetve gépjármű, pótkocsi szerzése esetén az illetékmentesség igénybe vételére jogosult lett volna, a megfizetett illetéket az adózó kérelmére – az adó-visszatérítés szabályai szerint – a NAV visszatéríti.
+
+
+
+Alapítványokra vonatkozó speciális szabályok
+
+
+
+Az Itv. alkalmazásában alapítványnak az Ectv. szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány minősül, ha igazolja, hogy teljesíti az Ectv. szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt; valamint az alapítás évében és az azt követő két évben az újonnan létrejött alapítvány, amely vállalja, hogy az alapítás évét követő második év végéig e feltételeknek eleget tesz. 
+
+
+
+Ha a vagyonszerző a vállalása ellenére az alapítás évét követő második év végéig nem igazolja, hogy
+
+újonnan létrejött belföldi alapítványként az alapítás évét követő második év végéig az Ectv. szerinti közhasznú jogállást szerzett, vagy
+
+újonnan létrejött, más EGT-államban nyilvántartásba vett alapítványként az alapítás évét követő második év végéig teljesítette az Ectv. szerinti közhasznú szervezetté történő minősítés – magyarországi nyilvántartásba vételen kívüli – feltételeit,
+
+az 5. § (1) bekezdés f) pontja alapján igénybe vett mentességre tekintettel meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az állami adóhatóság felhívására megfizetni. Az alapítvány megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli. 
+
+
+
+Amennyiben a nonprofit szervezet társasági adó fizetésére kötelezett, az illeték tárgyához kapcsolódóan kedvezményben részesülhet, melyre vonatkozóan az alábbi információs füzetekből tájékozódhat:
+
+A visszterhes vagyonátruházási illeték
+
+Az ajándékozási illeték
+
+Az öröklési illeték
+
+A gépjármű és pótkocsi megszerzésére vonatkozó illetékszabályok
+
+Eljárási illeték a NAV eljárásaiban
+
+
+
+A vagyonkezelő alapítványok illetékkötelezettségére vonatkozó speciális szabályokat a 38. számú információs füzet tartalmazza. 
+
+
+
+8. Szakképzési hozzájárulás
+
+
+
+A gazdaság dinamikus fejlődését segítő szakképzési és felnőttképzési rendszer fejlesztési forrásainak biztosítása céljából az Szkt.-ben kötelezettként nevesített gazdálkodóknak szakképzési hozzájárulást kell fizetni. 
+
+
+
+
+
+Ki kötelezett a szakképzési hozzájárulásra?
+
+
+
+Szakképzési hozzájárulásra kötelezett:
+
+a gazdálkodó szervezet, ha belföldön székhellyel, telephellyel vagy fiókteleppel rendelkezik vagy üzletvezetésének helye belföld.
+
+Nem terheli szakképzési hozzájárulás fizetési kötelezettség:
+
+a civil szervezetet.
+
+
+
+A szakképzési hozzájárulás részletes szabályait a 74. számú információs füzet tartalmazza.
+
+
+
+
+
+9. Egyebek (rehabilitációs hozzájárulás, környezetvédelmi termékdíj, vám)
+
+
+
+9.1. Rehabilitációs hozzájárulás
+
+
+
+A munkáltatók rehabilitációs hozzájárulás fizetési kötelezettségére vonatkozó szabályokat az Mmtv. 7. pontjának 22-24. §-ai tartalmazzák. 
+
+
+
+A munkaadó a megváltozott munkaképességű személyek foglalkozási rehabilitációjának elősegítése érdekében rehabilitációs hozzájárulás fizetésére köteles, ha az általa foglalkoztatottak létszáma a 25 főt meghaladja, és az általa foglalkoztatott megváltozott munkaképességű személyek száma nem éri el a létszám 5 százalékát [kötelező foglalkoztatási szint]. 
+
+
+
+A rehabilitációs hozzájárulás részletes szabályait a 94. számú információs füzet tartalmazza.
+
+
+
+
+
+9.2. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény
+
+
+
+Ki a termékdíj-kötelezett?	
+
+Főszabály szerint az, aki a termék első belföldi forgalomba hozója, saját célú felhasználója vagy készletre vevője.
+
+
+
+Melyek a termékdíjköteles termékek?
+
+az akkumulátor;
+
+a csomagolószer;
+
+az egyéb kőolajtermék;
+
+az elektromos, elektronikai berendezés;
+
+a gumiabroncs;
+
+a reklámhordozó papír;
+
+az egyéb műanyag termék;
+
+az egyéb vegyipari termék;
+
+az irodai papír.
+
+
+
+Belföldi forgalomba hozatal a termékdíjköteles termék tulajdonjogának belföldi (visszterhes vagy ingyenes) átruházása, abban az esetben is is, ha más termék alkotórészeként vagy tartozékaként vagy a csomagolószer csomagolás részeként átruházásra.
+
+
+
+Például egy alapítvány az alapító okiratban meghatározott céljának megfelelő tevékenység keretében azzal összefüggő terméket vásárol külföldről, melyet belföldön ingyenesen szétoszt. A termékek az állagmegóvás érdekében, csomagoltan érkeznek közvetlenül az alapítványhoz. Az alapítványnak termékdíj kötelezettsége keletkezik a termékek csomagolása részét képező csomagolószer után, mert a belföldi forgalomba hozatal a termék és annak járulékos részét képező csomagolás/csomagolószer tulajdonjogának ingyenes átruházásával megvalósul.
+
+
+
+Saját célú felhasználás a termékdíjköteles termék, ideértve más termék alkotórészeként vagy tartozékaként vagy a csomagolószer csomagolás részeként:
+
+a kötelezett  vagy alkalmazottja magánszükségletének kielégítésére  felhasználása,
+
+a számvitelről szóló törvényben meghatározott alapkutatás, alkalmazott kutatás, kísérleti fejlesztés, beruházás, felújítás, karbantartás keretében történő felhasználása,
+
+minden más a fentiekben nem említett használata, ideértve a szolgáltatásnyújtás keretében történő használatot, felhasználást, használatba adást is, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi. 
+
+
+
+Például egy alapítvány az alapító okiratban meghatározott tevékenysége érdekében, külföldről, közvetlenül több személygépjárművet vásárol. A gépjárművek alapítványi célra használatánál, a gépjárművek alkotórészeként, tartozékaként behozott termékdíjköteles termékek után (akkumulátor, gumiabroncs, kenőolaj, elektromos, elektronikai berendezések) saját célú felhasználás címén termékdíj kötelezettség keletkezik.
+
+
+
+A termékdíjat a forgalomba hozott vagy saját célra felhasznált termékdíj köteles termék tömege után kell megfizetni a Ktdt. 2., 3. vagy a későbbiekben részletezett átalányfizetés választása esetén a 4. számú mellékletében meghatározott díjtételek szerint. 
+
+
+
+A kötelezett a termékdíjköteles tevékenységét a megkezdést követő 15 napon belül köteles bejelenteni a 21TKORNY nyomtatvány-csomag használatával. A tárgynegyedévben keletkezett termékdíj kötelezettséget – fő szabály szerint - a tárgynegyedévet követő hó 20-ig kell elektronikus úton bevallani és a termékdíjat addig kell megfizetni.
+
+
+
+A kötelezett a termékdíj köteles termékek 2. § 6. pontjában meghatározott mennyiségi határokon belüli kibocsátása esetén élhet az átalányfizetés lehetőségével, melyre vonatkozó szándékát a fent említett nyomtatványon jelentheti be a NAV felé tárgyév január 31-ig, mely határidő jogvesztő. A gépjárműveknél islehetőség nyílik az alkotórészek, tartozékok utáni átalánydíj-fizetésre, bejelenteni a fentiek szerint lehet. . A díjtételeket a törvény 4. melléklete tartalmazza.
+
+
+
+Nem kell termékdíjat fizetni, ha a reklámhordozó papírt a közhasznú szervezet alapfeladata körében adja ki. A közhasznú szervezetnek vagy az ő megbízása alapján eljáró szerződéses partnerének a mentesülés feltételeként a nyomdai szolgáltatást teljesítő felé nyilatkozatot kell tenni a jogállásáról és a megrendelt termék közhasznú célra történő felhasználásáról.
+
+
+
+A környezetvédelmi termékdíj kötelezettségre vonatkozó bővebb szabályokat a 48. számú információs füzet tartalmazza.
+
+
+
+9.3. A behozatali vámeljáráshoz kapcsolódó tudnivalók
+
+
+
+Az Európai Unió szabályai biztosítják az áruk szabad mozgását a tagállamok között. Ez azt jelenti, hogy Magyarországról egy másik tagállamba történő árukivitelhez, illetve onnan Magyarországra történő árubehozatalhoz nem kapcsolódik vámeljárás.
+
+
+
+9.3.1. Általános szabályok
+
+9.3.1.1. Szabad forgalomba bocsátás
+
+
+
+A harmadik országból – pl. Svájc, Amerikai Egyesült Államok, Kína stb. – az Európai Unió vámterületére beszállított nem uniós áruk kapcsán az Uniós Vámkódex, valamint a VA és FJA tartalmaz előírásokat.
+
+
+
+Az Európai Unió vámterületére beszállított árukat a belépés helye szerint illetékes vámhatóságnál a hivatkozott jogszabályok rendelkezései alapján vám elé kell állítani. A vám elé állított, nem uniós áru vámjogi sorsát rendezni kell az ilyen áruk számára engedélyezhető módon.
+
+
+
+Az áruk vámjogi sorsa – többek között – az Uniós Vámkódex 201. cikkében meghatározott szabad forgalomba bocsátás vámeljárás alá vonással kerülhet rendezésre.
+
+
+
+A szabad forgalomba bocsátás vámeljárás során, a jogszabályban foglalt rendelkezések alapján az Európai Unió területére behozott nem uniós árukkal összefüggésben – az Uniós Vámkódex 5. cikkének 18. pontjában meghatározott – vámtartozás keletkezik. Vámtartozás keletkezésekor a jog szerint fizetendő vám a Közös Vámtarifán alapul. A Közös Vámtarifa elektronikus formában (TARIC) elérhető a http://kkk.nav.gov.hu/eles/1/taricweb/ oldalon, ahol egy adott termék áruosztályozásának elvégzése után az áruhoz rendelt TARIC kód ismeretében az áru behozatalára/kivitelére vonatkozó előírások, követelmények (vámtétel, esetleg szükséges engedélyek stb.) megtalálhatóak.
+
+
+
+Az áruk szabad forgalomba bocsátása során az Áfa tv. 2. § c) pontja alapján általános forgalmi adó fizetési kötelezettség is keletkezik a termék importja után.
+
+
+
+A vámtartozás megfizetésének határidejére és módjára vonatkozóan az Uniós Vámkódex 108-109. cikke, valamint a Vtv. 67-68. §-a tartalmaz rendelkezéseket.
+
+
+
+9.3.1.2. EORI-szám
+
+
+
+A vámeljárás alá vonásra szánt árukról az adott vámeljárásra vonatkozó vám-árunyilatkozatot kell benyújtani az Uniós Vámkódex 158. cikkében foglaltak szerint.
+
+
+
+A vámeljárás alá vonás érdekében benyújtott vám-árunyilatkozatokon kötelező az EORI-szám feltüntetése, amely egy olyan nyilvántartási és azonosítási szám, amelyet a gazdálkodók és más személyek a vámhatóságokkal történő kapcsolattartás során használhatnak az Európai Unió egész területén.
+
+
+
+Az EORI-számmal még nem rendelkező ügyfelek a NAV adó-és vámigazgatóságainál igényelhetik az azonosítót. 
+
+
+
+9.3.1.3. Képviselet
+
+
+
+A vámjogszabályok komplexitására tekintettel az Uniós Vámkódex 18. cikke minden személynek (természetes, jogi és jogi személyiséggel nem rendelkező személy) lehetőséget ad arra, hogy képviselőt jelöljön ki a vámhatóságok előtti ügyeiben a vámjogszabályok által megállapított cselekmények és alakiságok elvégzésére.
+
+
+
+9.3.2. Speciális rendelkezések
+
+
+
+Az Európai Unió tagországain kívüli országokból történő termékbehozatal esetében a mentességek esetleges igénybevételéhez több, a vonatkozó jogszabályokban megfogalmazott kötelezettségnek kell eleget tenni.
+
+Jelen összeállítás természetesen nem törekedhet a vonatkozó szabályozások teljes körű bemutatására, hiszen minden szándékolt behozatal más és más, mind a szervezet, mind a termékek, mind pedig a termékek behozatalának célját illetően, csupán a leginkább érdeklődésre számot tartható esetekben szolgálhat iránymutatásul.
+
+
+
+Elöljáróban elengedhetetlen felhívni a figyelmet arra, hogy a termékeknek az Európai Unió tagországain kívülről történő behozatala során fizetendő vám- és nem közösségi adók és díjak kapcsán sem a szervezet jellege (pl. alapítvány), sem a szervezet tevékenységének jellege (karitatív, nonprofit stb.), sem a behozni kívánt termékek ellenérték-nélkülisége (vásárolt, vagy ajándékba kapott), sem pedig a felhasználás célja (ingyenes szétosztás, ajándékozás) nem nyújt önmagában elegendő jogalapot a behozatali vám- és adómentességek igénybe vételéhez. Továbbá egyes esetekben az áruk szabad forgalomba bocsátását követően is bármikor beállhat a vám- és nemzeti adó és díj-fizetési kötelezettség, ha a mentesség igénybevételével behozott termékek kapcsán bármilyen – a vonatkozó jogszabályokban meghatározottakat illetően – jogsértés merül fel. 
+
+
+
+A vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendelet [Vmts rendelet] – amely teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban – meghatározza azokat a kivételeket, amelyek alapján bizonyos meghatározott körülmények esetén, amikor az árubehozatal különleges feltételei nem követelik meg a szokásos gazdaságvédelmi érdekeket, az áruk a rendes körülmények között kivethető behozatali vámok alól mentességet élvezzenek. A mentesség igénybevételének eseteit, illetve pontos feltételeit a Vmts rendelet – jogcímenkénti bontásban, eltérő felhasználási feltételekkel és az elidegenítési tilalomra vonatkozó különböző rendelkezésekkel – valamint a kapcsolódó végrehajtási rendeletek, és nemzeti jogszabályok részletesen szabályozzák. A Vmts rendelet különböző jogcímeihez kapcsolódóan az esetlegesen felmerülő általános forgalmi adó mentességet az Áfa tv. vonatkozó 93-94. §-ai és 97. §-a biztosítják.
+
+
+
+Fontos tudni, hogy a vámmentesség – és minden más mentesség – kérdéskörét illetően az Európai Bizottság álláspontja szigorú: a mentességek leírására használt kifejezéseket szigorúan kell értelmezni, mivel ezek kivételt jelentenek a főszabályhoz képest.
+
+
+
+A Vmts rendelet több jogcíme továbbá a tagállamok illetékes hatóságainak jóváhagyásához köti a vámmentesség alkalmazását és így a vámmentesen behozott áruk fogadását, melynek végrehajtását a vámmentes vámeljárás végrehajtásának részletes szabályairól szóló 12/2016. (IV. 29.) NGM rendelet [NGM rendelet] segíti. Ennek alapján a vámmentesen behozni kívánt áruk fogadásához szükséges vámmentes vámkezelésre jogosító engedélyt kérelemre a NAV Kiemelt Adó- és Vámigazgatósága adja ki a feladatkör szerint érintett miniszter véleményének kikérését követően. A vámmentes vámeljárásra jogosító engedélyről rendelkező határozat tételesen tartalmazza azokat a releváns jogszabályi helyeket, amelyek az adott ügylet jogszerű végrehajtását hivatottak szabályozni. 
+
+
+
+A Vmts rendelet XVII. Fejezete két alfejezetben tartalmazza például azokat a különleges eseteket, amikor is a jótékonysági vagy emberbaráti szervezeteknek, vakoknak és más fogyatékos személyeknek szánt – behozott, illetve az Unió vámterületén kívül letelepedett személy vagy szervezet által ingyenesen küldött – alapvető szükségleti cikkek (pl.: élelmiszer, gyógyszer, ágynemű, ruhanemű), egyéb árucikkek, berendezések és irodai anyagok behozatali vámoktól mentesen hozhatók be.
+
+A két alfejezethez kapcsolódó, elidegenítési tilalomra vonatkozó cikkek fő szabályként rögzítik, hogy a mentességet élvező szervezet nem adhatja kölcsön, nem adhatja bérbe, és nem ruházhatja át, sem visszterhesen, sem ingyenesen az árucikkeket és berendezéseket az illetékes hatóság előzetes értesítése nélkül, ha az árucikkek, berendezések felhasználása nem a meghatározott kör részére és nem a meghatározott célokra történik. A jogszerűen történő átruházás esetén is nagyon fontos azonban, hogy az átruházás az illetékes hatóságok számára ellenőrizhetően dokumentálva történjen.
+
+
+
+A Vmts rendelet vonatkozó jogcímein túl további követelményeket határozhatnak meg egyéb jogszabályok is a vám- és nemzeti adómentesen behozott áruk nyomon követhetősége érdekében. 
+
+Így például bizonyos esetekben az intézmény, vagy szervezet vezetőjének, vagy meghatalmazott képviselőjének nyilatkozattételi kötelezettsége van annak tekintetében, hogy tudatában van a jogszabályok által előírt kötelezettségeknek és vállalnia kell, hogy eleget tesz azoknak. Ilyen kötelezettségek lehetnek az alábbiak a mentességet igénybe venni szándékozó intézmény vagy szervezet számára:
+
+köteles az árucikkeket közvetlenül azok rendeltetési helyére szállítani,
+
+köteles az árucikkeket a leltárában feltüntetni,
+
+az árucikkeket kizárólag a vámmentességi rendeletben meghatározott célokra használhatja fel,
+
+köteles minden olyan hatósági ellenőrzést elősegíteni, amelyet az illetékes hatóságok szükségesnek tartanak annak biztosítására, hogy a vámmentesség engedélyezésére vonatkozó feltételeknek folyamatosan eleget tesznek.
+
+
+
+Általánosságban fontos tudni továbbá, hogy amennyiben a termékbehozatal a vonatkozó jogszabályok alapján mentesség igénybevételével történhetett, úgy ha a lenti esetek bármelyike fennáll, a mentesség egy későbbi időpontban is megszűnhet, és vám- és nemzeti adó- és díjfizetési kötelezettség keletkezhet a behozott áruk vonatkozásában.
+
+A kedvezményezett szervezet többé nem teljesíti a jogosultságot adó feltételeket (pl. a szervezet jellege megváltozik);
+
+a vámmentesen behozott terméket nem olyan módon; és nem arra a célra használta fel, illetve használja továbbra is, amelyre azt behozta (pl. vakügyi eszközökkel nem a saját gondozottjait látja el);
+
+a vámmentesen behozott terméket az illetékes hatóságok értesítése nélkül olyan szervezet részére idegenítette el, amely nem jogosult a mentességre (pl. vakügyi eszközök behozatalával érintett szervezet a behozott cikkeket elidegeníti pl. egy könyvtár részére). 
+
+
+
+Természetesen nincs jogszabályi előírás, amely kizárná bármely szervezet, illetve alapítvány közreműködését egy elidegenítési tilalommal érintett termékek behozatalával kapcsolatos, adott ügyletben – pl. finanszírozhatja a kérdéses termékek vásárlását, a behozatal lebonyolításával kapcsolatos tevékenységeket, közreműködhet az áruk közvetítésében –, de az áruk vámmentes fogadására kizárólag a jogszabályban meghatározott intézmények jogosultak és a mentességgel érintett termékek szigorúan csak a jogszabályban meghatározott módon és célokra használhatóak fel.
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+
+
+
+
+Rövidítés
+
+
+
+
+
+Jogszabály megnevezése
+
+Ptk.
+
+A Polgári Törvénykönyvről szóló 2013. évi V. törvény
+
+
+
+Ectv.
+
+Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény
+
+Bnytv.
+
+A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény
+
+479-es rendelet
+
+A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet
+
+350-es rendelet
+
+A civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet
+
+Art.
+
+Az adózás rendjéről szóló 2017. évi CL. törvény
+
+Szt.
+
+A számvitelről szóló 2000. évi C. törvény
+
+Kötv.
+
+A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 
+
+Tao. tv. 
+
+A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény
+
+Szja tv.
+
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+
+Szftv.
+
+A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény
+
+Áfa tv.
+
+Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény
+
+Héa-irányelv
+
+A közös hozzáadottértékadó-rendszerről szóló 2006/112/EK tanácsi irányelv 
+
+15/2010. 
+
+NGM rendelet
+
+A közhasznú tevékenységet folytató személyt, szervezetet, továbbá a külföldi illetőségű adományozót és a tőle származó pénzbeni adomány kedvezményezettjét terhelő igazolási kötelezettségekről, valamint az általános forgalmi adó-visszatéríttetési kérelmek kötelező adattartalmáról és az utólagos általános forgalmi adóvisszatérítés egyes eljárási szabályairól szóló 15/2010. (XII. 28.) NGM rendelet
+
+Tbj.
+
+A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény
+
+Szocho
+
+A szociális hozzájárulási adóról szóló 2018. évi LII. törvény
+
+Itv.
+
+Az illetékekről szóló 1990. évi XCIII. törvény
+
+Sztv.
+
+A szakképzésről szóló 2011. évi CLXXXVII. törvény
+
+rendelet
+
+A gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló 280/2011. (XII. 20.) Korm. rendelet
+
+Mmtv.
+
+A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 
+
+Ktdt. 
+
+A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény
+
+Ktdt. Vhr.
+
+A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. tv. végrehajtásáról szóló 343/2011. (XII. 29.) Korm. rendelet
+
+Uniós Vámkódex
+
+Az Európai Parlament és a Tanács 952/2013/EU rendelete az Uniós Vámkódex létrehozásáról
+
+VA
+
+A Bizottság (EU) 2015/2447 végrehajtási rendelete az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról
+
+FJA
+
+A Bizottság (EU) 2015/2446 felhatalmazáson alapuló rendelete a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítésről
+
+Vmts rendelet
+
+A vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendelet
+
+NGM rendelet
+
+A vámmentes vámeljárás végrehajtásának részletes szabályairól szóló 12/2016. (IV. 29.) NGM rendelet
+
+
+
+6

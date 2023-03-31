@@ -1,0 +1,55 @@
+A Nemzeti Adó- és Vámhivatal elektronikus ügyintézési lehetőséget biztosít azok számára akik jövedéki- és energiaadó bevallás, a mezőgazdaságban felhasznált gázolaj utáni adó visszaigénylés, szőlőbor elszámolás, továbbá egyéb adatszolgáltatás benyújtására kötelezettek.
+
+Jogosultak köre
+
+Jövedéki- és energiaadó bevallás, a mezőgazdaságban felhasznált gázolaj utáni adó visszaigénylés, szőlőbor elszámolás, továbbá egyéb adatszolgáltatás benyújtására kötelezettek.
+
+Mit kell tennie
+
+A jövedéki ügyeket – ha a törvény eltérően nem rendelkezik – elektronikusan kell intézni.
+
+A szolgáltatás igénybevételével a jogszabályok által elrendelt jövedéki- és energiaadó bevallás, a mezőgazdaságban felhasznált gázolaj utáni adó visszaigénylés, szőlőbor elszámolás, továbbá egyéb adatszolgáltatás benyújtási kötelezettségének elektronikus ügyintézés keretében tehet eleget az ÁNYK (Abevjava) keretprogramon keresztül.
+
+A szolgáltatás használatához regisztráljon az Ügyfélkapun:
+
+A személyes ügyfélkapus azonosító létrehozása egy regisztrációs eljárás, amelyet az ügyfél kezdeményezhet személyesen bármelyik regisztrációs szervnél (okmányirodában, kormányablakban, a NAV központi ügyfélszolgálatain, külképviseleteken) vagy elektronikusan, 2016. január 1-jét követően kiállított érvényes személyazonosító igazolvány birtokában az ugyfelkapu.gov.hu/regisztracio/regEszemelyifelületen.
+
+Miután sikeresen telepítette a keretprogramot, annak segítségével töltse ki a beküldeni kívánt nyomtatványt, majd titkosítsa azt. A szolgáltatás használata során ügyfélkapuval történő azonosítást végez a rendszer, ezt követően nyílik lehetősége feltölteni a fájlokat JAVA-alkalmazás segítségével. A beküldést követően, ellenőrizze az ügyfélkapujához tartozó értesítési tárhelyét, ahol érkeztetési igazolást, elfogadó illetve elutasító nyugtáit megtekintheti 30 napig. Amennyiben elutasító nyugtát kapott, a javított bevallást ismét szükséges beküldeni. 30 nap elteltével a Nemzeti Adó- és Vámhivataltól kapott nyugtákat az eBEV-portál visszamenőleg is megtekintheti.
+
+Kötelezettségmulasztás
+
+Ha jogszabály eltérően nem rendelkezik, az adóhatóság az a törvényben, adókötelezettséget előíró törvényben, illetve e törvények felhatalmazásán alapuló más jogszabályban megállapított kötelezettségnek a megszegése miatt a természetes személy adózót kettőszázezer forintig, nem természetes személy adózót ötszázezer forintig terjedő mulasztási bírsággal sújthatja.
+
+A kötelezettség megszegésének minősül a kötelezettség hibás, hiányos, valótlan adattartalommal történő, vagy késedelmes teljesítése, illetve teljesítésének elmulasztása.
+
+Benyújtandó dokumentumok
+
+BEV_J02 Bevallás az ellenőrzött energiatermék, az alkoholtermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék után fizetendő, illetve visszaigényelhető jövedéki adó összegéről, valamint az önellenőrzéssel történő helyesbítéséről
+
+Fizetési kötelezettség
+
+Az eljárás illetékmentes.
+
+Eljáró szerv
+
+A Nemzeti Adó- és Vámhivatal.
+
+Felettes szerv/jogorvoslat
+
+A Nemzeti Adó- és Vámhivatal felügyeletét az adópolitikáért felelős miniszter látja el, a Nemzetgazdasági Minisztérium (a továbbiakban: NGM) útján.
+
+Vonatkozó jogszabályok
+
+2016. évi LXVIII. törvény a jövedéki adóról
+
+2017. évi CL. törvény az adózás rendjéről
+
+Fogalmak
+
+jövedéki termék: az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány.
+
+Ügyfélkapu: az állam által nyújtott azonosítási szolgáltatás, mely felhasználói a személyazonosság igazolása mellett biztosítja, biztonságosan kapcsolatba léphessenek az elektronikus közigazgatási ügyintézést és szolgáltatást nyújtó szervekkel.
+
+EGYKE adatlap: Egységes Képviseleti Adatlap - Bejelentés az állami adó- és vámhatósági ügyek képviselő útján történő intézéséhez.
+
+ÁNYK: Általános Nyomtatványkitöltő (ÁNYK) - keretprogram a Java-alapú nyomtatványokhoz, az AbevJava továbbfejlesztett változata.

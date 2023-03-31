@@ -1,0 +1,111 @@
+Az ÁNYK könyvtárszerkezete Microsoft Windows rendszereknél
+
+
+
+A nyomtatványkitöltő program a következő könyvtárakba települ és az alábbi állományokat használja:
+
+Rendszerkönyvtárak
+
+Ha a programot rendszergazdai jogosultságokkal rendelkező felhasználó telepíti, akkor a windir környezeti változó által definiált elérési út alatt található abevjavapath.cfg állomány tartalmazza azt az elérési utat, ahová telepítve lett az adott gépen a keretprogram.
+
+Amennyiben nem rendszergazdai jogosultságokkal indítják a telepítést, akkor a program jelzi, hogy nem tudja a fenti könyvtárban létrehozni az abevjavapath.cfg állományt és a felhasználó home könyvtára alatt a \.abevjava könyvtárba helyezi el.
+
+abevjavapath.cfg állomány felhasználása:
+
+Ez az állomány tartalmazza, hogy hová lett telepítve a program. A frissítések során a keretprogram, a nyomtatvány és az útmutatók telepítők innen veszik, hogy az adott gépen milyen könyvtárban található a keretprogram. Külső programok is innen állapíthatják meg, hogy hol keressék az ÁNYK-t.
+
+A rendszergazda is létrehozhatja ezt az állományt, beállítva a telepítési könyvtárat is az állományban. (Például: abevjava.path=D:\programok\ado\abevjava)
+
+Amennyiben már létezik ez a fájl akkor a telepítő az ebben található elérési utat tekinti a programkönyvtárnak és nem engedi módosítani.
+
+Programkönyvtár
+
+Program alatt a nyomtatványkitöltő program, a nyomtatvány sablonok, a program dokumentáció és a kitöltési útmutatók értendők. Ezek az állományok egy helyre települnek az adott gépen és az adott gép összes felhasználója ezt használja, futtatja. (Ez akkor igaz, ha rendszergazdai jogosultságokkal indították a telepítőt, vagy beállították a helyét a konfigurációs állományban.)
+
+A telepítés során az alapértelmezett programkönyvtár a \Program Files\abevjava. Ez első telepítéskor módosítható. Ezt az elérési utat tartalmazza az abevjavapath.cfg állomány.
+
+A program futása során ebbe a könyvtárba nem ír, az állományokat nem módosítja, log-ot nem hoz létre benne.
+
+A programkönyvtár (indítási könyvtár) tartalma: 
+
+abev: Segédállományok
+
+eroforrasok: Erőforrás állományok
+
+jre: Oracle JRE v1.8.0_202 java futtatókörnyezet (opcionális)
+
+lib: Program kiegészítések
+
+license: Szabadon felhasználható beépített szoftverek információi 
+
+nyomtatvanyok: Sablonok
+
+nyomtatvanyok_archivum: Arhivált sablonok
+
+segitseg: Programdokumentáció és Kitöltési útmutatók 
+
+upgrade: Munka könyvtár a programfrissítésekhez 
+
+xsd: XML ellenőrzéshez xsd állományok 
+
+abevjava_start*: Indító szkriptek 
+
+abevjava.jar: Főprogram
+
+*.enyk: Paraméterek
+
+gen_abevjava*: Szkriptek generálásához használható
+
+setenv.bat: Paraméter állomány
+
+boot.jar: Indításhoz szükséges állomány
+
+Felhasználói könyvtárak, adatállományok, felhasználói beállítások
+
+A felhasználó home könyvtára a különböző Windows verziók esetén:
+
+Verzió
+
+Könyvtár
+
+Windows XP
+
+\Documents and Settings\ %Felhasználói azonosító%
+
+Windows 7, 10
+
+\Users\ %Felhasználói azonosító%
+
+A program a felhasználó home könyvtárában létrehoz egy könyvtárat \.abevjava néven. Ebbe a könyvtárba jön létre a %Felhasználói azonosító%.enyk állomány. Ide kerülnek mentésre a felhasználó adatkönyvtárának az elérési útja illetve a további elérési utak. A nem teljes elérési úttal megadott paraméterek az adatkönyvtárhoz relatívak.
+
+A felhasználó home könyvtárában a \abevjava könyvtárát ajánlja fel a program adatkönyvtárnak. Ez a beállítási lehetőség tetszőlegesen módosítható. (Erre fog mutatni az említett %Felhasználói azonosító%.enyk állomány egy bejegyzése.)
+
+Minden felhasználónak a saját home könyvtára lesz felajánlva.
+
+Az adatkönyvtár tartalma:
+
+archivum: Az arhiválás funkció használja 
+
+beallitasok: A beállítások panel paraméterei
+
+csatolmanyok: Felhasználói csatolmányok 
+
+frissitesek: Munkakönyvtár a frissítésekhez 
+
+import: Adatbetöltés/Adatkimentés könyvtára
+
+kontroll: Kontroll nyomtatványok kezeléséhez 
+
+mentesek: A mentett nyomtatványok 
+
+tmp: Ideiglenes állományok, az egyes adatkönyvtárak (pl: \mentesek) tartalmának listázásához használt gyorsító állományok találhatóak itt. Szükség esetén törölhetőek, újra létrehozásra kerülnek. 
+
+torzsadatok: Törzsadatok 
+
+naplo: Minden plusz állományba kért információ ide kerül. 
+
+A program a felhasználó home könyvtárában abevjava.log állományba naplózza tevékenységét. Azért ide és nem az adatkönyvtárba, mert hibás indítás, indulás esetén előfordulhat, hogy még nem ismeri az adatkönyvtárat.
+
+Kapcsolat az Ügyfélkapuval, KRDIR környezeti változó
+
+A program létrehoz egy környezeti változót KRDIR néven, erre a nyomtatványok közvetlen beküldésénél van szükség. A környezeti változó felhasználó függő. Minden felhasználónak, a saját könyvtára (home) alatti \abevjava\eKuldes könyvtárát ajánlja fel a program. Ezt az Abev és az ÁNYK programok közösen használják. Ha már létezik a KRDIR környezeti változó, akkor a telepítő ezt ajánlja fel.

@@ -1,0 +1,239 @@
+Áfakérdések brexit után
+
+
+
+
+
+
+
+Az Egyesült Királyság 2020. január 31-én éjfélkor kilépett az Európai Unióból (brexit), 2020. december 31-én pedig a kilépést követő átmeneti időszak is lezárult. Az átmeneti időszakban az Egyesült Királyság továbbra is alkalmazta az EU joganyagát, a gyakorlatban része volt a belső piacnak és a vámuniónak, azonban e jogállása 2021. január 1-jén megszűnt, ezért ettől időponttól harmadik államnak tekintendő. A következőkben azokról az általános forgalmi adóval kapcsolatos információkról, kérdésekről olvashat, amelyek a gazdálkodó szervezeteket és a természetes személyeket érintik, érinthetik a brexit következményeként.
+
+
+
+
+
+Az Európai Bizottság honlapján elérhető legfontosabb anyagok:
+
+
+
+a kilépési megállapodás magyarul, 
+
+
+
+a kilépési megállapodás tervezete angolul és magyarázata magyarul,
+
+
+
+felkészülési értesítések,
+
+
+
+Hogyan célszerű felkészülni a Brexitre?,
+
+
+
+https://ec.europa.eu/info/brexit_en,
+
+
+
+Az Egyesült Királyság EU-ból való kilépése és a vámügyekre, valamint a közvetett adózásra vonatkozó uniós szabályok,
+
+
+
+Az Egyesült Királyság Unióból való kilépése és a hozzáadottérték-adóra vonatkozó uniós szabályok.
+
+
+
+
+
+Határon átnyúló termékértékesítések, termékbeszerzések
+
+
+
+A határon átnyúló termékértékesítésekre, termékbeszerzésekre a továbbiakban nem alkalmazhatók az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 
+
+Közösségen belüli (adómentes) termékértékesítésre, 
+
+Közösségen belüli termékbeszerzésre, illetve 
+
+távolsági értékesítésre 
+
+vonatkozó szabályai.
+
+
+
+Nem kell tehát az ’A60-as számú összesítő nyilatkozatot benyújtani, valamint az Egyesült Királyságban letelepedett partner közösségi adószámát sem kell feltüntetni a számlán. 
+
+
+
+Kivéve, ha az Egyesült Királyságban székhellyel rendelkező adóalany valamely tagállamban állandó telephelyet tart fenn, vagyis a Közösség területén letelepedettnek tekintendő. Ebben az esetben ugyanis az állandó telephelyről vagy az állandó telephelyre teljesített ügyletekben az összesítő nyilatkozatot be kell nyújtani, valamint a közösségi adószámot is fel kell tüntetni. 
+
+
+
+Az átmeneti időszak lejártával az Egyesült Királyságra a harmadik országra vonatkozó szabályokat kell alkalmazni, így 
+
+az Egyesült Királyságból az EU-27 területére irányuló termékértékesítésekre az Áfa tv. importra, 
+
+az Egyesült Királyságba irányuló termékértékesítésekre pedig az Áfa tv. exportra 
+
+vonatkozó előírásai érvényesek. 
+
+
+
+Továbbra is a Közösségen belüli ügyletekre vonatkozó szabályok szerint kell kezelni azonban az áfa szempontjából, ha 
+
+az Egyesült Királyságból valamely tagállamba – például Magyarországra – vagy 
+
+valamely tagállamból – például Magyarországról –az Egyesült Királyságba 
+
+adnak fel vagy fuvaroznak el terméket úgy, hogy a feladás vagy fuvarozás 2020. december 31. előtt kezdődött és ezt követően ért véget. 
+
+
+
+Tehát ezek az ügyletek Közösségen belüli termékértékesítésnek, Közösségen belüli termékbeszerzésnek, távértékesítésnek tekintendők.
+
+
+
+A kilépési megállapodás rendelkezik arról is, hogy az említett ügyletekben, valamint az átmeneti időszak vége előtt az Egyesült Királyság és valamely tagállam – például Magyarország – közötti határon átnyúló ügyletekben 2020. december 31-től számított 5 évig továbbra is az EU-s áfarendelkezéseket kell alkalmazni az adóalany jogaira és kötelezettségeire.
+
+
+
+A kilépési megállapodáshoz fűzött, Írországról és Észak-Írországról szóló jegyzőkönyv értelmében az Egyesült Királyság kilépése ellenére az Észak-Írország viszonylatában létrejött termékértékesítések és termékbeszerzések továbbra is közösségi ügyletnek tekintendők, Észak-Írország pedig a termékértékesítések szempontjából EU tagállamként kezelendő. Észak-Írország e speciális – egyébként 2024. december 31-ig tartó, de meghosszabbítható – státusza azt jelenti, hogy Észak-Írországba, illetve onnan a Közösség területére irányuló termékértékesítésekre 2020. december 31. után is a közösségi jogszabályokat kell alkalmazni. 
+
+
+
+A szolgáltatásoknál azonban ilyen megkülönböztetés nem érvényesül, ezen ügyletekben az Egyesült Királyságot egységesen harmadik országnak kell tekinteni.
+
+
+
+
+
+Határon átnyúló szolgáltatások 
+
+
+
+A határon átnyúló, tagállamok és harmadik országok közötti szolgáltatásnyújtások kapcsán a Tanács 2006. november 28-i 2006/112/EK irányelve a közös hozzáadottértékadó-rendszerről (a továbbiakban: Héa-irányelv) különböző hozzáadottértékadó-fizetési és -bevallási rendszereket szabályoz. 
+
+
+
+A szolgáltatások teljesítési helyére vonatkozóan az egyes ügylettípusokra különböző szabályokat állapít meg 
+
+a Héa-irányelv, 
+
+a Héa-irányelv végrehajtási intézkedéseinek megállapításáról szóló 2011/282/EU végrehajtási rendelet, amely a tagállamokban közvetlenül hatályos, valamint 
+
+e szabályokkal összhangban az Áfa tv. 
+
+
+
+A szolgáltatások teljesítési helye határozza meg, hogy hol keletkezik adófizetési kötelezettség az ügylet után. A teljesítés helye több tényezőtől függ, többek között a szolgáltatás tartalmától, jellegétől, a szolgáltatást igénybevevő személyétől (adóalany vagy nem adóalany az igénybevevő).    
+
+
+
+Az Egyesült Királyságot harmadik országként kell kezelni az áfa szempontjából, de néhány kivételtől eltekintve – Közösségen kívül letelepedett nem adóalanyoknak nyújtott, az Áfa tv. 46. §-ban meghatározott szolgáltatások – az Egyesült Királyság kilépése a szolgáltatásnyújtás teljesítési helyét nem változtatja meg. Ugyanakkor változik a szolgáltatásnyújtás igénybevevőjére vonatkozó igazolás módja. 
+
+
+
+Emellett – a termékértékesítésekhez, termékbeszerzésekhez hasonlóan – a szolgáltatásnyújtásra is érvényes, hogy az Egyesült Királyságban letelepedett adóalany által igénybevett, vagy általa nyújtott szolgáltatásokhoz kapcsolódóan – az állandó telephely érintettségével megvalósuló ügyletek kivételével – nem kell benyújtani az ’A60-as számú összesítő nyilatkozatot, illetve a közösségi adószámot nem kell a számlán feltüntetni. 
+
+
+
+
+
+Pénzügyi képviselő
+
+
+
+Az Áfa tv. szerint a harmadik országbeli adóalanyoknak kötelező pénzügyi képviselőt megbízniuk, ha belföldön gazdasági céllal nem telepedtek le, de Magyarországon teljesített ügyleteik után adót kell fizetniük. 
+
+
+
+Mivel 2021. január 1-jétől az Egyesült Királyságot harmadik országként kell kezelni, a pénzügyi képviselő megbízása a Magyarországon nem, de az Egyesült Királyságban gazdasági céllal letelepedett – gazdasági célú letelepedés hiányában lakóhellyel vagy szokásos tartózkodási hellyel rendelkező – adóalanyoknak kötelező. Ez a kötelezettség vonatkozik mind a Magyarországon már korábban regisztrált, mind pedig a jövőben regisztráló egyesült királyságbeli adóalanyokra. 
+
+
+
+Ha az érintett egyesült királyságbeli adóalanynak a Közösség területén állandó telephelye van, és azt a kilépést követően is fenntartja, akkor nem tekinthető harmadik államban letelepedettnek, és nem kötelezett pénzügyi képviselő bejelentésére, azonban dönthet úgy, hogy az Áfa tv-ben szabályozott jogainak gyakorlására, kötelezettségeinek teljesítésére pénzügyi képviselőt bíz meg. Ha azonban nem rendelkezik a Közösség területén állandó telephellyel, akkor kötelező pénzügyi képviselőt megbíznia és azt a NAV-hoz bejelentenie. 
+
+
+
+   
+
+A pénzügyi képviselővel kapcsolatban az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény további rendelkezéseket tartalmaz. Eszerint az a külföldi vállalkozás, amely belföldi gazdasági tevékenységével összefüggésben gazdasági célú letelepedésre nem köteles, belföldi adókötelezettségeinek teljesítésére pénzügyi képviselőt bízhat meg. A NAV a bejelentés alapján a külföldi vállalkozást és pénzügyi képviselőjét nyilvántartásba veszi és a külföldi vállalkozásnak adószámot állapít meg. Az adóazonosító számmal már rendelkező vállalkozásnak nem kell ismételten kérnie a nyilvántartásba vételét, esetükben csupán a pénzügyi képviselő bejelentésére van szükség. 
+
+
+
+A belföldi gazdasági tevékenységével összefüggésben gazdasági célú letelepedésre nem köteles külföldi vállalkozás magyar adószáma nem válik érvénytelenné a brexit után sem, ez azonban nem jelenti azt, hogy ha arra kötelezett, ne kellene pénzügyi képviselőt megbíznia és bejelentenie a NAV-hoz. 
+
+A külföldi vállalkozás pénzügyi képviselőjét a ’T201 jelű, a pénzügyi képviselő képviseletében eljáró magánszemélyt pedig az EGYKE-adatlapon jelentheti be.
+
+
+
+
+
+Áfa-visszatéríttetés
+
+
+
+Minthogy az átmeneti időszakban az Egyesült Királyság a többi tagállammal egy tekintet alá esett, 
+
+a Közösség más tagállamában megfizetett áfa az Egyesült Királyságban gazdasági céllal letelepedett adóalanynak – a vonatkozó feltételek fennállása esetén – visszajár, valamint 
+
+a Közösség más tagállamban gazdasági céllal letelepedett adóalany által az Egyesült Királyságban megfizetett áfa is visszaigényelhető.
+
+
+
+Mindkét esetben a tárgyévet követő év szeptember 30-ig kell benyújtani az adó-visszatéríttetési kérelmet. 
+
+
+
+A kilépési megállapodás ugyanakkor lerövidíti a visszatérítési kérelem benyújtásának határidejét, ezáltal a belföldi adóalanyoknak az Egyesült Királyságban, illetve az egyesült királyságbeli adóalanyoknak belföldön felszámított áfa visszatéríttetésére vonatkozó, 2020-as évet érintő kérelmek benyújtásának határideje 2021. március 31.
+
+
+
+A tárgyévet követően, vagyis 2020. december 31. után az Egyesült Királyságban gazdasági céllal letelepedett adóalany által Magyarországon megfizetett áfa, illetve a Magyarországon gazdasági célú letelepedéssel rendelkező adóalany által az Egyesült Királyságban megfizetett adó akkor jár vissza, ha az Egyesült Királyság és Magyarország viszonosságban állapodik meg egymással.  
+
+       
+
+
+
+Külföldi utasnak adható áfa-visszatérítés
+
+
+
+Az Áfa tv.  – a Héa-irányelvben foglaltakkal összhangban – az export adómentességek körében külön szabályozást tartalmaz az olyan termékértékesítés adómentességére, amelynél a be-szerző külföldi utas és a termék a külföldi utas személyi vagy útipoggyászának részeként hagyja el a Közösség területét. 
+
+
+
+Az Áfa tv. alkalmazásában külföldi utas az a természetes személy, aki
+
+		a Közösség egyetlen tagállamának sem állampolgára, és nem jogosult a Közösség egyetlen tagállamában sem állandó tartózkodásra, továbbá az, aki
+
+	a Közösség valamely tagállamának állampolgára ugyan, de a lakóhelye a Közösség területén kívül, vagyis harmadik országban van.
+
+
+
+Mivel 2021. január 1-től az Egyesült Királyság állampolgárai, illetve a Közösség valamely tagállamának azon állampolgárai, akiknek a lakóhelye az Egyesült Királyságban van, már megfelelnek a külföldi utas törvényi fogalmának, az Áfa tv-ben meghatározott feltételek fennállásakor áfa-visszatérítésre vagy – az értékesítő döntése alapján – adómentességre jogosultak. 
+
+
+
+
+
+6. Egyablakos rendszer
+
+
+
+Az egyablakos rendszer szolgál arra, hogy az adófizetés helye szerinti tagállamban, azaz a fogyasztási tagállamban nem letelepedett adóalanyok a nem adóalanyoknak nyújtott távközlési, műsorszolgáltatási és elektronikus szolgáltatás után az adót bevallják és megfizessék. 
+
+
+
+A rendszerben a bevallásokat és a befizetéseket az adóalany letelepedésének tagállama szerinti adóhatósághoz kell teljesíteni. Ha az egyablakos rendszerben benyújtott bevallásokat korrigálni kell, akkor azt az eredeti bevallás benyújtási határidejétől számított 3 évig lehet a letelepedési tagállamnál megtenni. A három év leteltével a fogyasztási tagállamnál kell ezt közvetlenül kezdeményezni. 
+
+
+
+A kilépési megállapodás értelmében 
+
+az Egyesült Királyságban, mint letelepedési tagállamban az egyablakos rendszerben, valamint 
+
+valamely tagállamban – például Magyarországon – mint letelepedési tagállamban az Egyesült Királyság vonatkozásában 
+
+az egyablakos rendszerben az átmeneti időszak vége előtt teljesített ügyletekre vonatkozóan benyújtott bevallások korrekcióját legkésőbb 2021. december 31-ig lehet a letelepedési tagállamban benyújtani.

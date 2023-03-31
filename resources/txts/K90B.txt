@@ -1,0 +1,433 @@
+Új áfaszabályok az elektronikus kereskedelemben
+
+
+
+
+
+I. Bevezetés; jogszabályi környezet
+
+
+
+2021. július 1-jén életbe lépnek az elektronikus kereskedelemre vonatkozó új forgalmi adó (hozzáadottérték-adó) szabályok. A vonatkozó rendelkezéseket – a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvvel (a továbbiakban: Héa-irányelv) összhangban – részben az általános forgalmi adóról szóló 2007. évi CXXVII. törvény tartalmazza (a továbbiakban: Áfa tv.), másrészt Héa-irányelv végrehajtási intézkedéseinek megállapításáról szóló 282/2011/EU végrehajtási rendelet (a továbbiakban: Vhr.), amely közvetlenül hatályos és alkalmazandó a Közösség valamennyi tagállamában. 
+
+
+
+
+
+II. A módosítás indoka, célja
+
+
+
+A 2015. január 1-jén a fogyasztás vagy célország szerinti adóztatás elvének kiszélesítésére uniós szinten bevezetett MOSS rendszer (Mini One Stop Shop – mini egyablakos ügyintézés) az úgynevezett távolról is nyújtható szolgáltatások – telekommunikációs, rádiós és audiovizuális médiaszolgáltatások, illetve elektronikusan nyújtott szolgáltatások – fogyasztás helye szerinti adózását biztosítja. 
+
+
+
+Az egyablakos rendszer 2021. július 1-jéig lehetővé teszi, hogy 
+
+a közösségi adóalany a letelepedésétől eltérő tagállamban teljesített ügylet utáni, 
+
+a nem közösségi adóalany bármely tagállamban teljesített ügylet után
+
+egy tagállamban teljesítse bevallási és adófizetési kötelezettségét.
+
+
+
+Az e-kereskedelmi vagy más néven digitális áfacsomag célja, hogy 
+
+megkönnyítse a határokon átnyúló kereskedelmet, így egyszerűsödjön az adófizetés,és adóbeszedés, 
+
+támogassa az áfacsalás elleni küzdelmet, 
+
+biztosítsa az uniós és nem uniós vállalkozások közötti tisztességes versenyt, továbbá 
+
+erősítse a fogyasztás vagy célország szerinti adóztatás elvét. 
+
+
+
+Mivel az elektronikus kereskedelem adta lehetőségek jelentősen megnövelték a harmadik országokból a Közösségbe érkező küldemények számát, így az e-kereskedelmi áfacsomag másik fontos célja, hogy a kisértékű importküldemények áfamentessége által generált problémákat ki lehessen küszöbölni.
+
+
+
+2021. július 1-jétől a MOSS rendszer alkalmazási köre kibővül, azt a Közösség valamennyi tagállamában az új egyablakos rendszer, az OSS rendszer (One Stop Shop) váltja fel. A kis értékű importküldemények áfamentességének eltörlése mellett a módosítás – a jelenlegi megoldás, azaz az importot terhelő áfa kivetése és önadózás mellett – két alternatívát vezet be az importot terhelő áfa megfizetésére. 
+
+
+
+
+
+III. A módosítások áttekintése
+
+
+
+A változások a következő területeket érintik 2021. július 1-jétől. 
+
+A módosítás kiterjeszti a jelenlegi egyablakos rendszer (MOSS) alkalmazási hatályát valamennyi, nem adóalanynak nyújtott (B2C) szolgáltatásra. 2021. július 1-jétől minden, nem adóalanynak nyújtott szolgáltatás után elegendő egy tagállamban bejelentkezni a bevallási és adófizetési kötelezettség teljesítéséhez, ha a szolgáltatás nyújtója nem telepedett le a teljesítési hely szerinti tagállamban. 
+
+2021. július 1-jétől az egyablakos rendszer a termékek Közösségen belüli távértékesítésére is alkalmazható, így a letelepedéstől eltérő tagállamban teljesített, Közösségen belüli távértékesítéskor is bevallható és megfizethető az áfa az egyablakos rendszer használatával.    
+
+2021. július 1-jétől megszűnik a kis értékű, 22 euró értékét meg nem haladó termékek importáfa-mentessége. A módosítás – a jelenlegi megoldás, azaz az importot terhelő áfa kivetése és önadózás mellett – az áfa megfizetésére és bevallására két új alternatívát vezet be, így az importáfa háromféleképpen lehet megfizetni:
+
+harmadik államból importált termékek távértékesítésekor, ha a termék értéke nem haladja meg a 150 euró belső értéket, az adóalanyok alkalmazhatják az import egyablakos rendszert (IOSS – Import One Stop Shop), vagy 
+
+lehetőség van az importáfa megfizetésére egyszerűsített eljárásban is (importáfa különös szabályok vagy special arrangement),
+
+ha az első két eset egyikét sem alkalmazzák, akkor a Nemzeti Adó- és Vámhivatal (NAV) veti ki az importáfát – ha az importáló nem rendelkezik importáfa-önadózási engedéllyel –, azaz a termékimportra vonatkozó főszabályt kell alkalmazni.  
+
+Az új szabályozás adófizetésre kötelezetté teszi azokat az elektronikus felületeket, online piactereket, platformokat működtető adóalanyokat (a továbbiakban: platform), amelyek más adóalanyok (értékesítők) termékértékesítését segítik elő az elektronikus felület használatával. A módosítás egy fikcióval két ügyletre bontja a termékértékesítést, és úgy tekinti, mintha az adott terméket az értékesítő a platformnak, a platform pedig a megrendelőnek értékesítette volna. 
+
+
+
+
+
+IV. Az egyablakos rendszer kiterjesztése a nem adóalanyoknak nyújtott szolgáltatásokra, valamint a Közösségen belüli távértékesítésekre
+
+
+
+Az új szabályozás kiterjeszti az egyablakos rendszer alkalmazásának hatályát minden, 
+
+a Közösség tagállamában, nem adóalanynak nyújtott szolgáltatás utáni, illetve 
+
+Közösségen belüli távértékesítés utáni 
+
+bevallási és adófizetési kötelezettségre. 
+
+
+
+Ezen belül – összhangban az uniós héaszabályokkal – külön egyablakos rendszert biztosít 
+
+a Közösségen kívül letelepedett adóalanyok által a közösségi nem adóalanyoknak nyújtott szolgáltatások utáni (nem uniós egyablakos rendszer vagy nem uniós különös szabályozás), valamint 
+
+a Közösségen belüli távértékesítések, az elektronikus felület által elősegített egyes belföldi termékértékesítések és a belföldön letelepedett adóalany által nyújtott szolgáltatások utáni (uniós egyablakos rendszer vagy uniós különös szabályozás)
+
+áfa megfizetésére és bevallására.
+
+
+
+
+
+IV. 1. Nem uniós különös szabályozás
+
+
+
+A Közösség területén gazdasági céllal nem letelepedett adóalany választhatja, hogy a Közösség területén gazdasági céllal letelepedett nem adóalanynak nyújtott szolgáltatása utáni adófizetési és adóbevallási kötelezettségének NAV útján tesz eleget. Az adóalany pénzügyi képviselő nélkül is eljárhat, tehát közvetlenül regisztrálhat a nem uniós egyablakos rendszerbe. 
+
+
+
+A nyilvántartásba vételhez az Áfa tv-ben meghatározott adatokat kell elektronikusan bejelenteni a NAV-hoz. A NAV ezután az adóalanyt nyilvántartásba veszi a nem uniós különös szabályozást alkalmazó adóalanyok között, és – a különös szabályozás alkalmazásához szükséges – úgynevezett nem uniós azonosító számmal látja el, amelyről elektronikusan értesíti. A bejelentkezésre 2021. április 1-jétől nyílik lehetőség, az egyablakos rendszert azonban csak 2021. július 1-jén kezdődő adómegállapítási időszaktól lehet alkalmazni.   
+
+
+
+A nem uniós különös szabályozást alkalmazó adóalanyok negyedévente kötelesek bevallást benyújtani. A bevallást azokra a negyedévekre is be kell nyújtani – a negyedévet követő hónap végéig –, amikor az adóalany nem teljesített nem uniós különös szabályozás hatálya alá tartozó szolgáltatást. Az adót a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, a NAV által közzétett bankszámlára forintban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló adóbevallásra. 
+
+
+
+A fenti szabályokon túl az Áfa tv. meghatározza a változásbejelentésre, a nyilvántartásból törlésre, valamint a nyilvántartás-vezetésre, továbbá a bevallás tartalmára és módosítására vonatkozó részletszabályokat is. 
+
+
+
+Fontos kiemelni, hogy a szolgáltatások teljesítési helyére vonatkozó szabályok nem változtak. Ennek megfelelően, igaz ugyan, hogy az egyablakos rendszer kiterjed minden, nem adóalanynak nyújtott szolgáltatásra, azonban a nem uniós különös szabályozás csak azon szolgáltatásokra alkalmazható, amelyeknél a teljesítés helye a Közösség azon tagállama, ahol a nem adóalany igénybevevő gazdasági céllal letelepedett, illetve ahol lakóhelye, szokásos tartózkodási helye van. 
+
+
+
+
+
+IV. 2. Uniós különös szabályozás
+
+
+
+Az uniós különös szabályozást 2021. július 1-jétől a következő ügyletekre kell alkalmazni:  
+
+termék Közösségen belüli távértékesítése 
+
+elektronikus felületet üzemeltető adóalanyok egyes belföldi termékértékesítése, valamint
+
+nem adóalanynak nyújtott szolgáltatás.  
+
+
+
+Az Áfa tv. szabályai alapján a Közösség területén nem letelepedett adóalany választhatja, hogy termék Közösségen belüli távértékesítése utáni adófizetési és adóbevallási kötelezettségének a NAV útján tesz eleget, feltéve, hogy a terméket belföldről adja fel küldeményként vagy fuvarozza el. A Közösség területén nem letelepedett adóalany az uniós különös szabályozást csak termék Közösségen belüli távértékesítésére választhatja, szolgáltatásokra a nem uniós különös szabályozást alkalmazhatja. 
+
+
+
+Az az adóalany, aki (amely) 
+
+gazdasági tevékenységének székhelye belföldön van, vagy 
+
+gazdasági tevékenységének székhelye a Közösség területén kívül van, azonban belföldön rendelkezik állandó telephellyel, 
+
+választhatja, hogy a Közösség azon tagállamában teljesített Közösségen belüli távértékesítése és nem adóalanynak nyújtott szolgáltatása után, ahol gazdasági céllal nem telepedett le, adófizetési és adóbevallási kötelezettségének a NAV útján tesz eleget. 
+
+
+
+Az adóalanyok választásukat 2021. április 1-jétől jelenthetik be a NAV-hoz, az egyablakos rendszert azonban csak 2021. július 1-jével kezdődő adómegállapítási időszaktól lehet alkalmazni.
+
+
+
+Az uniós különös szabályozást alkalmazó adóalanyok negyedévente kötelesek bevallást benyújtani. A bevallást azokra a negyedévekre is be kell nyújtani – a negyedévet követő hónap végéig –, amikor az adóalany nem teljesített az uniós különös szabályozás hatálya alá tartozó ügyletet. Az adót a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, a NAV által közzétett bankszámlára forintban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló adóbevallásra. 
+
+
+
+A fenti szabályokon túl az Áfa tv. meghatározza a változásbejelentésre, a nyilvántartásból törlésre, valamint a nyilvántartás-vezetésre, továbbá a bevallás tartalmára és módosítására vonatkozó részletszabályokat.
+
+
+
+IV. 3. A kisvállalkozások adminisztratív kötelezettségeinek enyhítése
+
+
+
+A módosítás az egyablakos rendszer Közösségen belüli távértékesítésekre kiterjesztésével párhuzamosan a jelenlegi tagállami értékhatárokat – 35.000 euró, illetve 100.000 euró – eltörli, és a kisvállalkozások adminisztratív terheinek csökkentésére az Áfa tv. 45/A. § 2021. július 1-jéig hatályos (3)-(6) bekezdéseiben foglalt könnyítést kiterjeszti a Közösségen belüli távértékesítést (is) teljesítő adóalanyokra is.  
+
+
+
+Ha az adóalany 
+
+a Közösségen belül csak egyetlen tagállamban telepedett le, és 
+
+az adott, valamint az azt megelőző naptári évben 10.000 eurónak megfelelő összeget meg nem haladóan nyújtott a letelepedésétől eltérő tagállami nem adóalanynak az Áfa tv. 45/A. § (1) bekezdése szerinti távolról is nyújtható szolgáltatást, illetve teljesített Közösségen belüli távértékesítést, 
+
+akkor ezen ügyletek után a letelepedése szerinti tagállam, illetve a termék feladási helye szerinti tagállam – mint a teljesítés helye – szabályai szerint kell adóznia. 
+
+
+
+Ugyanakkor az adóalany az értékhatár alatt is dönthet úgy, hogy a Közösségen belüli távértékesítésre, illetve a 45/A. § (1) bekezdése szerinti szolgáltatások után a fogyasztás tagállamában teljesíti adókötelezettségét, azonban ezt a döntését a választása évét követő második év végéig nem változtathatja meg. 
+
+
+
+
+
+IV. 4. Adólevonás 
+
+
+
+Az egyablakos rendszeren keresztül kizárólag a fizetendő adó rendezésére van lehetőség, az előzetesen felszámított adó levonására nincs.
+
+
+
+Így ha a belföldön gazdasági céllal nem letelepedett adóalany 
+
+kizárólag az egyablakos rendszerben van nyilvántartásba véve belföldön vagy egy másik tagállamban, és 
+
+előzetesen felszámított, levonható adót szeretne érvényesíteni, 
+
+akkor azt a belföldön nem letelepedett adóalanyok adó-visszatéríttetésére vonatkozó különös szabályok szerint teheti meg. 
+
+
+
+Ha azonban az egyéb tevékenysége folytán a belföldön nem letelepedett adóalany belföldön adóalanyként nyilvántartásba van véve, vagy erre lenne kötelezett, akkor az előzetesen felszámított levonható adót a belföldön benyújtandó áfabevallásában tudja érvényesíteni.
+
+
+
+Az uniós különös szabályozást alkalmazó belföldi – Magyarországon székhellyel vagy Áfa tv. szerinti állandó telephellyel rendelkező – adóalanyok az előzetesen felszámított áfát a ’65 számú áfabevallásban vonhatják le. 
+
+
+
+
+
+IV. 5. Átmeneti rendelkezések 
+
+
+
+Ha a Közösség területén nem letelepedett adóalany 
+
+2021. április 1-jén szerepel a NAV távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó különös szabályokat alkalmazó, Európai Unióban nem letelepedett adózókra vonatkozó nyilvántartásában, azaz korábban már bejelentkezett a MOSS rendszer nem uniós sémájába, 
+
+akkor az OSS nem uniós sémájába, azaz a nem uniós egyablakos rendszerbe nem kell ismételten bejelentkeznie, azonban az átmeneti rendelkezésekben meghatározott adatokat 2021. június 15-ig elektronikusan köteles bejelenteni a NAV-hoz. 
+
+
+
+A bejelentés elmulasztását úgy kell tekinteni, hogy továbbiakban nem kívánja a nem uniós különös szabályozást alkalmazni.  
+
+
+
+Ha a Közösség területén nem letelepedett adóalany a Közösségen belüli távértékesítés utáni adókötelezettségét is az egyablakos rendszeren keresztül kívánja teljesíteni, és ehhez Magyarországon kíván bejelentkezni az egyablakos rendszerbe, akkor – mivel a távértékesítésekre a nem uniós különös szabályozás nem alkalmazható – be kell jelentkeznie az uniós egyablakos rendszerbe is. 
+
+
+
+Ha a belföldön letelepedett adóalany
+
+2021. április 1-jén szerepel a NAV távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó különös szabályokat alkalmazó, Európai Unióban nem letelepedett adózókra vonatkozó nyilvántartásában, azaz korábban már bejelentkezett a MOSS rendszer nem uniós sémájába, 
+
+akkor szintén nem kell újra bejelentkezniük az OSS uniós sémájába, azaz az uniós egyablakos rendszerbe, elegendő az átmeneti rendelkezésekben meghatározott adatokat 2021. június 15-ig elektronikusan bejelenteni a NAV-hoz.
+
+
+
+A bejelentés elmulasztását úgy kell tekinteni, hogy az adóalany a továbbiakban nem kívánja az uniós különös szabályozást alkalmazni. 
+
+ 
+
+
+
+V. Új importszabályok 
+
+
+
+2021. július 1-jén a 22 eurót meg nem haladó értékű importküldemények áfamentessége megszűnik.
+
+
+
+A módosítás emellett két teljesen új konstrukciót vezet be a 150 euró belső értéket meg nem haladó importküldemények utáni áfa megfizetésére (150 euró értékhatár alatt – egyes kivételektől eltekintve – a termékimport vámmentes .) Az új szabályozás a jelenlegi megoldás, azaz az importot terhelő áfa kivetése mellett két alternatívát vezet be, így az áfát háromféleképpen lehet megfizetni:
+
+az adóalanyok alkalmazhatják az import egyablakos rendszert, más néven IOSS-t,
+
+az importáfa megfizethető egyszerűsített eljárásban (különös szabályok vagy special arrangement), továbbá,
+
+ha az első két eset egyikét sem alkalmazzák, akkor a NAV veti ki az importáfát – ha az importáló nem rendelkezik importáfa-önadózási engedéllyel –, azaz a termékimportra vonatkozó főszabályt kell alkalmazni.  
+
+
+
+
+
+V. 1. Az import egyablakos rendszer (IOSS) – harmadik államból importált termék távértékesítésére vonatkozó különös szabályozás
+
+
+
+A 150 euró belső értéket meg nem haladó, harmadik államból importált küldemények távértékesítésekor – a jövedéki termékek kivételével – az adóalany adófizetési kötelezettségét az import egyablakos rendszeren keresztül is teljesítheti. 
+
+
+
+Ha a terméket harmadik államból vagy harmadik állam területével egy tekintet alá eső területről importküldeményként, távértékesítéssel értékesítik, lényeges, hogy az ügylet két jogcímen is adóztatandó, egyrészt termékimport, másrészt import küldemény távértékesítése jogcímén.
+
+
+
+Ha a termék rendeltetési helye ugyanabban a tagállamban van, ahol a terméket vámjogi szabadforgalomba helyezték, és az adóalany alkalmazza az IOSS-t, 
+
+akkor termékimport áfamentes,
+
+a távértékesítés utáni adó pedig a termék rendeltetési helye szerinti tagállamban esedékes.
+
+
+
+Ha a terméket a rendeltetési helyétől eltérő tagállamban helyezték vámjogi szabadforgalomba, akkor az ügylet a rendeltetési helyen teljesül, vagyis az importált termék távértékesítése után az áfát a termék rendeltetési helye szerinti tagállamban kell megfizetni, függetlenül attól, hogy az értékesítő az IOSS-t alkalmazza-e vagy sem.
+
+
+
+Az import egyablakos rendszerbe bizonyos adóalanyok közvetlenül is bejelentkezhetnek, míg egyes adóalanyok csak közvetítőn keresztül regisztrálhatnak az IOSS-be. A vonatkozó szabályok értelmében 
+
+a belföldön gazdasági céllal letelepedett adóalany, valamint olyan harmadik országban letelepedett adóalany, amely harmadik országgal az Európai Unió megfelelő együttműködési és adóbehajtási megállapodással rendelkezik (jelenleg csak egy ilyen ország van, Norvégia), közvetlenül, közvetítő nélkül regisztrálhat az import egyablakos rendszerbe, míg 
+
+a Közösség területén gazdasági céllal nem letelepedett adóalany, valamint a belföldön nem, de a Közösség másik tagállamában letelepedett adóalany kizárólag belföldön gazdasági céllal letelepedett közvetítőn keresztül kérelmezheti nyilvántartásba vételét az import egyablakos rendszerbe. 
+
+
+
+A bejelentkezésre az IOSS-t alkalmazó adóalanyoknak, mind a közvetítőként eljáró gazdasági szereplőknek 2021. április 1-jétől nyílik meg a lehetőség, az egyablakos rendszert azonban csak 2021. július 1-jével kezdődő adómegállapítási időszaktól lehet alkalmazni. 
+
+
+
+Az import különös szabályozás alá tartozó ügyletekről az adóalany vagy a közvetítő havonta, elektronikusan kötelesek bevallást benyújtani. A bevallást azokra a hónapokra is be kell nyújtani, ha az adott adómegállapítási időszakban nem teljesített IOSS alá tartozó, harmadik államból importált termék távértékesítését. Az adót a bevallás benyújtásával egy időben, de legkésőbb az adómegállapítási időszak végét követő hónap végéig. Az adót NAV által közzétett számlára forintban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló adóbevallásra.
+
+
+
+Az Áfa tv. a fentieken túl meghatározza az adóalany és a közvetítő által teljesítendő bejelentési kötelezettség tartalmára, a változásokbejelentésre, a nyilvántartásból törlésre, valamint az adóalany a nyilvántartás-vezetési kötelezettségére, továbbá a bevallás tartalmára és módosítására vonatkozó részletszabályokat. 
+
+
+
+V. 2. Adólevonás
+
+
+
+Az IOSS-en keresztül kizárólag a fizetendő adó rendezésére van lehetőség, az előzetesen felszámított adó levonására nincs. 
+
+
+
+Ha a belföldön nem letelepedett adóalany 
+
+kizárólag az import egyablakos rendszerben van nyilvántartásba véve, és azon keresztül tesz eleget adófizetési kötelezettségének,
+
+és előzetesen felszámított, levonható adót szeretne érvényesíteni,  
+
+az előzetesen felszámított levonható adó érvényesítését a belföldön nem letelepedett adóalanyok adó-visszatéríttetésére vonatkozó különös szabályok szerint teheti meg.  
+
+
+
+Ha azonban az egyéb tevékenysége folytán a belföldön nem letelepedett adóalany belföldön adóalanyként nyilvántartásba van véve vagy erre lenne kötelezett, akkor az előzetesen felszámított, levonható adót a belföldön benyújtandó áfabevallásában tudja érvényesíteni. 
+
+
+
+A Magyarországon székhellyel vagy Áfa tv. szerinti állandó telephellyel rendelkező adóalanyok az előzetesen felszámított áfát a ’65 számú áfabevallásban vonhatják le.
+
+
+
+
+
+V. 3. Importáfa-fizetés egyszerűsített eljárásban (special arrangement)
+
+
+
+Az importáfa különös szabályozás a 150 eurónak megfelelő belső értéket meg nem haladó, harmadik államból importált termékek távértékesítésekor alkalmazható, ha az értékesítő nem alkalmazza az IOSS-t. 
+
+
+
+Termékimportnál a jelenlegi szabályok szerint a NAV kivetéssel, vagy önadózási engedély birtokában az adófizetésre kötelezett állapítja meg az adót. 
+
+
+
+Az eljárás egyszerűsítéséért
+
+egyrészt a NAV a fizetendő áfa összegéről nem hoz határozatot, ha az importküldemény valós értéke nem haladja meg a 150 eurót és az egyébként vámmentességet élvez, továbbá a természetes személy a vám-árunyilatkozatot a saját nevében és érdekében eljárva nyújtja be, és a NAV az ügyfél által benyújtott vám-árunyilatkozatban foglaltakkal megegyezően végzi el a szabadforgalomba bocsátást, 
+
+másrészt a kivetésre, valamint az önadózásra vonatkozó szabályoktól eltérően az importáfa különös szabályozás alkalmazásakor az adóbeszedésre kötelezett állapítja meg az adót.
+
+
+
+Az importáfa különös szabályozást az a belföldön nyilvántartásba vett adóalany alkalmazhatja, amely a vámjogi szabályok szerinti halasztott vámfizetési engedéllyel rendelkezik. .
+
+
+
+A különös szabályozást alkalmazó adóalanyok – jellemzően postai, gyorspostai szolgáltatók – a NAV-hoz 2021. április 1-jétől megtehető előzetes bejelentés után a termék szabadforgalomba bocsátását kezdeményező adóalanyként
+
+a termék címzettjének megbízásából járnak el (kivétel, ha címzett a vám-árunyilatkozat benyújtásáig ettől eltérő tartalmú nyilatkozatot tesz) 
+
+beszedik tőle az áfát – melyet havonta elektronikusan vallanak be –, 
+
+és megfizetik a költségvetésnek. 
+
+
+
+A bevallás benyújtásának határideje az importvám megfizetésére vonatkozó határidő.  
+
+
+
+Fontos tudni, hogy a különös szabályozás hatálya alá tartozó termékek importját minden esetben 27 százalékos áfa terheli, függetlenül attól, hogy az adott termékre az Áfa tv. esetleg kedvezményes adómértéket állapít meg.
+
+
+
+
+
+VI. Platformokra vonatkozó szabályok
+
+
+
+A termékek távértékesítésének jelentős hányadát – akár egyik tagállamból egy másik tagállamba irányuló távértékesítésről, akár harmadik országokból a Közösségbe irányuló távértékesítésről, akár ugyanazon tagállamon belüli távértékesítésről van szó – elektronikus felület, például online piactér, platform, portál közvetítésével bonyolítják le. Az új szabályozás bevonja az értékesítéseket terhelő áfa beszedésébe azokat az adóalanyokat, akik (amelyek) ilyen elektronikus felületekkel segítik a termékek távértékesítését. 
+
+
+
+Speciális szerep hárul az platformokat üzemeltetőkre bizonyos esetekben, amikor nem adóalanyoknak értékesítenek. 
+
+
+
+Ha egy platform 
+
+150 eurót meg nem haladó belső értékű küldeményként importált termék távértékesítését, illetve 
+
+értéktől függetlenül Közösségben nem letelepedett adóalany által nem adóalanynak teljesített termékértékesítést 
+
+segít elő (ide kell érteni azt az esetet is, amikor a termék feladási és rendeltetési helye ugyanaz a tagállam), az új szabályozás alapján – egy fikció segítségével – a platformot úgy kell tekinteni, mint amely a termék beszerzője és értékesítője egyben. 
+
+
+
+Az áfa szempontjából tehát úgy kell kezelni az említett eseteket, mintha két termékértékesítés teljesülne: az első ügylet az eredeti eladó és a platform között, a második ügylet pedig a platform és a vevő között teljesül. Ennek megfelelően a platformokat az általuk elősegített ügyletek után adófizetési kötelezettség terheli 2021. július 1-jétől, amit az egyablakos rendszerben is teljesíthetnek. 
+
+
+
+A platformokra a Vhr. tartalmaz további részletes szabályozást.
+
+
+
+A jogszabályi hivatkozások az Áfa tv. és a Vtv. 2021. április 1-jétől, illetve 2021. július 1-jétől hatályos pontjaira vonatkoznak. 
+
+
+
+
+
+Nemzeti Adó- és Vámhivatal
+
+1

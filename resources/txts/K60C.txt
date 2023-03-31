@@ -1,0 +1,321 @@
+Mit tehet Ön a gyorsabb vámkezelésért? 
+
+
+
+
+
+
+
+
+
+Az információs füzet azokat az alapvető tudnivalókat foglalja össze, amelyekkel érdemes tisztában lenni a Kínából érkező importszállítmányok vámkezelésekor. 
+
+
+
+
+
+Általános vámkérdések
+
+
+
+1.1. Miért kell vámkezelni az árumat?
+
+
+
+Magyarországon vámkezelés nélkül nem lehet az árut szabadon felhasználni, például raktározni, eladni, továbbadni, másnak átadni. A vámkezelést a vámhivatalok, vagyis a Nemzeti Adó- és Vámhivatal (NAV) adó- és vámigazgatóságai végzik.
+
+
+
+
+
+ Mi a vámkezelés menete?
+
+
+
+Először is elektronikus import-árunyilatkozatot kell benyújtani a vámhivatal nyitvatartási idején belül. Az adó- és vámigazgatóságok elérhetősége és nyitvatartása a következő linken érhető el: https://www.nav.gov.hu/nav/igazgatosagok
+
+
+
+Az importőr maga dönthet arról, hogy melyik vámhivatalhoz viszi az árut vámkezelésre, tehát bármelyik vámhivatalnál lehet kérni a vámkezelést, akár a legközelebbi és legkönnyebben elérhető vámhivatalnál is. 
+
+
+
+A vámhivatal az árunyilatkozat benyújtása után dönthet arról, hogy megvizsgálja a kapcsolódó okmányokat és az árut. A vámhivatal – az esetleges vizsgálat után – az árut akkor engedi át az importőrnek, ha az után a vámot és az áfát megfizették, vagy arra biztosítékot nyújtottak. 
+
+
+
+Az árunyilatkozat előzetesen is benyújtható, legkorábban az áruk megérkezése előtt 30 nappal.
+
+
+
+
+
+
+
+
+
+ Ha nem értek a vámhoz, van, aki segít a vámkezelésben?
+
+
+
+Lehetőség van arra, hogy az importőr vámkezelést egy hozzáértő személyre bízza, és dönthet arról is, hogy ez a képviselet közvetett vagy közvetlen legyen. A képviselet módjáról és annak költségeiről a megbízott képviselővel kell megegyezni, a vámhivatalnak ebbe nincs beleszólása. 
+
+
+
+
+
+ Ki nyújtja be az árunyilatkozatot, ki fizeti meg a vámot és az áfát?
+
+
+
+Ha nincs képviselő, az árunyilatkozatot az importőr nyújtja be és a vámot, illetve az áfát is ő fizeti meg. 
+
+
+
+Közvetlen képviseletnél az árunyilatkozatot a képviselő nyújtja be, de a vámot és az áfát az importőrnek kell megfizetnie.
+
+
+
+Közvetett képviseletnél az árunyilatkozatot a képviselő nyújtja be és a vámot, valamint az áfát is ő fizeti meg. Ezt az importőr – megállapodásuk szerint – megfizeti a képviselőnek. 
+
+
+
+A képviselet költsége nem része a vámhivatal által megállapított összegeknek, azt közvetlenül a megbízott képviselőnek kell megfizetni, a vám és áfa összegén felül.
+
+
+
+
+
+ Milyen esetekben vizsgálja a vámhivatal az árut?
+
+
+
+A vámhivatal vámvizsgálatot tart, ha az árunyilatkozat hiányos, vagy ha ellenőrizni kívánja az árukat, például az áru bevallott értéke vagy az árumegnevezés miatt. Ilyenkor további okmányokat kérhet be, az áruk egészét vagy akár csak egy részét megvizsgálhatja, és abból akár mintát is vehet.
+
+
+
+A vámvizsgálathoz kapcsolódó kirakodás, az áruk mozgatása, kicsomagolása és a visszarakodása az importőr vagy a képviselő feladata. 
+
+A vizsgálatok esetleges költségét – például rakodási díj – az importőrnek kell megfizetnie. Az áru vizsgálatánál az importőr és képviselője is jelen lehet.
+
+
+
+
+
+ Mikor kell biztosítékot nyújtani?
+
+
+
+Biztosítékot nyújtani akkor kell, ha a vámhivatal által kalkulált vám és áfa összege magasabb lenne, mint amennyit az importőr vagy képviselője – benyújtott árunyilatkozata alapján – fizetne.
+
+
+
+A vámvizsgálat eredményétől függően a biztosíték vagy a vámhivatalnál marad, vagy visszautalja azt részben vagy teljes egészében.
+
+
+
+
+
+1.7. Meddig tarthat a vámvizsgálat?
+
+
+
+Amikor a vámhivatal, minden felmerült kérdésére megkapta a választ, akkor befejezi a vámvizsgálatot. Meggyorsíthatja a vizsgálat lezárását, ha az importőr vagy képviselője aktívan közreműködik, és a kért adatokat, okmányokat mielőbb, hiánytalanul nyújtja be. 
+
+
+
+A biztosíték visszautalásáról vagy elszámolásáról a vámhivatal a vámvizsgálatot követő ellenőrzés után dönt. 
+
+
+
+
+
+ Milyen kötelezettségeim vannak? 
+
+
+
+Meg kell adni az áru tulajdonságaira, jellemzőire, paramétereire vonatkozó valamennyi adatot és információt, amit a vámhivatal kér. 
+
+
+
+Be kell mutatni az áru vásárlásával, importjával, szállításával kapcsolatos valamennyi okmányt, adatot.
+
+
+
+Ha az erre előírt határidő nem tartható, vagy az információnak csak egy része van meg, akkor azt is jelezni kell a vámhivatalnak.
+
+
+
+
+
+ Hogyan zárul az ellenőrzés? 
+
+
+
+A vámhivatal ellenőrzésének eredményét határozatban közli. Ha a vámhivatal szerint több vámot vagy áfát kell fizetni, akkor ezek összegét a határozatban megadja. Ha a biztosíték, vagy annak egy része visszajár, akkor azt a vámhivatal visszautalja. 
+
+
+
+
+
+Mikor mondhatom el a saját véleményemet?
+
+
+
+Az importőr vagy képviselője a vizsgálat közben bármikor jelezheti, ha nem ért egyet a vámhivatal eljárásával, a határozat ellen pedig az átvételtől számított 15 napon belül fellebbezhet.
+
+
+
+
+
+A bevallott vámérték vizsgálata
+
+
+
+ Mi az a vámérték és miért vizsgálja a vámhivatal?
+
+
+
+A vámérték az a vételár, amit a vevő – vagy helyette más – az áruért fizetett, vagy fizetni fog. A vámhivatal azért vizsgálja a vámérték helyességét, mert az befolyásolja a fizetendő vám és áfa összegét. 
+
+
+
+
+
+ Miért kell a számla?
+
+
+
+Mert a számla igazolja vételárat.
+
+
+
+A vételár igazolására azonban csak a végleges, tehát a teljes fizetési kötelezettséget tartalmazó számla alkalmas, a proforma számla, legyen az ajánlat, előszámla, részszámla, ehhez nem elegendő.
+
+
+
+
+
+ Miért nem mindig fogadja el a vámhivatal az áru értékét?
+
+
+
+Ha például a bevallott vételár szokatlanul alacsony, vagy az alacsony ár ellenére az exportőr viseli az Európai Unión kívüli szállítási költségeket, az egyes esetekben arra utalhat, hogy a vámérték nem valós. 
+
+
+
+Ha a vámhivatalnak kétségei merülnek fel a vámérték valódiságát illetően, akkor további dokumentumok, iratok bekérésével vizsgálhatja, hogy a számlán szereplő összeg helytálló-e.
+
+
+
+
+
+ Mivel tudom alátámasztani a számlám valódiságát?
+
+
+
+Ha a vámhivatal a vételár igazolását kéri, akkor az importőr a bevallott érték helyességét alátámaszthatja. 
+
+
+
+Mindezt megteheti a kereskedelmi ügyletben (például adásvétel, bizományosi, ügynöki, stb.) keletkezett, a vételárat hitelesen igazoló dokumentumok (a megrendeléstől a kifizetésig) benyújtásával, azonban a következők mindenképpen szükségesek:
+
+kereskedelmi számla, 
+
+az ügyletre vonatkozó üzleti levelezés, 
+
+kereskedelmi szerződés, 
+
+banki átutalás,
+
+bankszámlakivonat, 
+
+az ügyletre vonatkozó könyvelési tételek,
+
+a vámérték bevallására szolgáló formanyomtatvány (gyors link: https://www ?).
+
+
+
+Érdemes még a fuvarszámlát, fuvarszerződést és a fuvarozáshoz kapcsolódó biztosítás költségeit igazoló dokumentumot, és ha van, a licencdíjról szóló szerződést is benyújtani.
+
+
+
+Figyelem! 
+
+Az importőr kötelessége beszerezni valamennyi olyan adatot, információt, amely például az online piactéren a kínai eladó és vevője közt köttetett vételárat igazolja!
+
+
+
+Az online piactéren vásárolt, azaz interneten rendelt termékek bejelentése gyűjtőszállítmányként fokozott körültekintést igényel. Az ilyen küldemények jellemzője, hogy egy hazai cég (importőr) vállalja a Kínában konténerbe összegyűjtött és feladott küldemények magyarországi vámkezelését. 
+
+
+
+A szállítmányban lévő sok-sok küldemény tényleges címzettjei pedig az online piactéren vásárlóként megjelenő személyek lesznek. Éppen ezért, a vámkezelést kérő hazai cégnek (importőr) rendelkeznie kell valamennyi olyan információval és okmánnyal, amit a vámhivatal tőle ezekben az esetekben kérhet. Ha a vámügyek intézésben nem lenne jártas a hazai cég (importőr), akkor igénybe vehet vámjogi képviselőt, aki kellő szakértelemmel képes közvetíteni a vámkezeléskor felmerült kérdések tisztázásában a megbízója és a vámhivatal között. 
+
+
+
+(Az áru értékének vizsgálathoz benyújtandó legkülönfélébb okmányokat a mellékletben szereplő esetpéldák mutatják be.)
+
+
+
+
+
+ Hogy néz ki az áru értékének vizsgálata?
+
+
+
+
+
+
+
+Az áru tarifálása
+
+
+
+ Hogyan vizsgálja a vámhivatal az áru tarifálásának helyességét?
+
+
+
+A vámhivatal azt vizsgálja, hogy az árunyilatkozaton feltüntetett árumegnevezés és vámtarifaszám helytálló-e, a bejelentett árut valóban a megadott helyre kell-e tarifálni. A tarifálás helyességének eldöntéséhez a vámhivatal az áruról fényképet, műszaki leírást kérhet be és meg is vizsgálhatja azt. A vámhivatal ilyenkor azt vizsgálja, hogy az árunyilatkozaton feltüntetett árumegnevezés és vámtarifaszám helytálló-e, a bejelentett árut valóban a megadott helyre kell-e tarifálni.
+
+
+
+
+
+ Mi az a mintavétel?
+
+Ha a vámhivatal úgy dönt, hogy az áru laboratóriumi vizsgálata szükséges, akkor abból mintát vesz. A mintából egy az ügyfélé (importőr vagy képviselő), egy a vámhivatalé, egyet pedig a laboratóriumban vizsgálnak. A minta több darabot is tartalmazhat.
+
+
+
+
+
+Csak az eredeti és biztonságos termékek behozatala megengedett 
+
+
+
+ Miért foglalkozik ezzel a vámhivatal?
+
+
+
+A hamis, vagyis nem eredeti vagy nem biztonságos áru veszélyt jelent az emberek életére, egészségére, ezért a vámhivatal ezt is vizsgálja. Hamis áru például az utánzat, a hamis logóval ellátott termék. 
+
+
+
+
+
+ Mi történik a nem eredeti vagy nem biztonságos áruval?
+
+
+
+A vámhivatal – az illetékes hatóság vagy cég döntése alapján – elrendelheti a hamis vagy nem biztonságos áru megsemmisítését. 
+
+
+
+
+
+ Eredeti vagy márkajelzés nélküli terméket hozok be, mire figyeljek?
+
+
+
+Az áru biztonságosságát igazoló CE jelölés feltüntetésének szigorú szabályai vannak, és a jelölés megléte önmagában nem feltétlenül elegendő. A vámhivatal az ellenőrzéskor a termékre vonatkozó további dokumentációt is bekérhet.

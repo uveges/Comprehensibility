@@ -1,0 +1,129 @@
+Felhívás:
+
+az egyes oltóanyagok kiviteli engedélykötelezettségének elrendelése 
+
+ (70…/2021.)
+
+
+
+2021. január 30-ától – várhatóan 2021. március 31-ig – egyes, a koronavírussal szembeni védekezéshez felhasználható oltóanyagok csak exportengedéllyel vihetők ki az Európai Unió (EU) területéről. Az új szabályokat az egyes termékek kivitelének exportengedély bemutatásához kötéséről szóló 2021/111 (EU) bizottsági végrehajtási rendelet (a továbbiakban: EU rendelet) tartalmazza. 
+
+
+
+A meghatározott vállaltok által gyártott, a 30022010 vámtarifaszám alá tartozó oltóanyagok kiviteli engedélykötelezettsége a hatóanyagokra, az oltóanyagok gyártásához használt törzssejtállományra és a szaporító sejtbankokra is kiterjed. Az engedély mintáját az EU rendelet I. melléklete tartalmazza.
+
+
+
+Az érvényes kiviteli engedélynek rendelkezésre kell állnia a kivitel bejelentésekor, de legkésőbb az áruk átengedésének pillanatában. Érvényes engedély benyújtása nélkül a kiviteli eljárások nem végezhetők el. A kiviteli engedélykötelezettség csak az uniós áruk EU-ból kivitelére vonatkozik. Nem kell kiviteli engedély az EU rendelet 1. cikk (5) bekezdésében feltüntetett országokba, létesítményekbe, övezetekbe szállításhoz. Szintén nem engedélyköteles az előzetes beszerzési megállapodással vásárolt termékek újraértékesítési vagy adományozási, illetve a humanitárius célú kivitele.
+
+
+
+A kiviteli engedélyt az oltóanyagot gyártó tagállam illetékes hatósága adja ki írásban vagy elektronikusan. Magyarországon a kijelölt engedélyező hatóság Budapest Főváros Kormányhivatala (BFKH) Kereskedelmi, Haditechnikai, Exportellenőrzési és Nemesfémhitelesítési Főosztály Kereskedelmi Osztálya. Az engedélyezési feladatokat ellátó tagállami hatóságok listája a következő linken érhetők el:
+
+https://trade.ec.europa.eu/doclib/docs/2021/january/tradoc_159400.pdf.
+
+
+
+A kiviteli korlátozások átvezetése a TARIC_HU rendszerben megtörtént. Az alkalmazható új okmánykódok (igazoláskódok):
+
+Engedélyköteles kivitel: C089 kód, Exportengedély-korlátozás – SARS-koronavírusok elleni vakcinák (SARS-CoV fajok),
+
+Nem engedélyköteles kivitel: Y981 kód, Mentesség az (EU) 2021/111 rendelet 11. cikkének (5) bekezdése alapján 
+
+adományozás vagy viszonteladás, 
+
+humanitárius vészhelyzeti reagálás, 
+
+export egy tagállam kontinentális talapzatán található létesítményekbe vagy 
+
+a tagállam által bejelentett kizárólagos gazdasági övezetbe.
+
+
+
+
+
+
+
+
+
+
+
+A TARIC-intézkedések integrálása az egyes oltóanyagok gyártóihoz rendelt TARIC-kiegészítőkódok alapján valósul meg. A szóban forgó TARIC-kiegészítőkódokat az EU rendelet II. melléklete tartalmazza:
+
+Astra Zeneca AB:4500,
+
+Pfizer BioNTech: 4501,
+
+Moderna Switzerland / Moderna Inc: 4502,
+
+Janssen Pharmaceutica NV: 4503,
+
+CureVac AG: 4504,
+
+Sanofi Pasteur / Glaxosmithkline Biologicals S.A: 4505,
+
+Novavax: 4506,
+
+
+
+Egyéb: 4999.
+
+
+
+Ha az EU rendelet hatálya alá tartozó készítmények kiviteli vámeljárását Magyarországon kezdeményezik, a vámeljárás feldolgozása csak akkor végezhető el, ha a fenti okmánykódok (C089, Y981) egyike szerepel a vám-árunyilatkozat 44. rovatában, illetve a gyártókhoz kapcsolódó TARIC-kiegészítőkódok valamelyike szerepel a vám-árunyilatkozat 33. rovat 3-4. alrovatában.
+
+
+
+A 30022010 vámtarifaszámú oltóanyagok kivitelét – a korlátozások időtartama alatt – hivatali munkaidőn kívül a 0-24 órás szolgálatot működtető vámszerveknél javasolt kezdeményezni, mivel a C089 vagy az Y981 okmánykódot tételsoronként tartalmazó normál és egyszerűsített kiviteli eljárások alkalmával a feldolgozás a CDPS-ben a vám-árunyilatkozat elfogadását követően megáll.
+
+
+
+A Magyarországon üzemeltetett vámudvarok elérhetőségét és nyitvatartási adatait a Nemzeti Adó- és Vámhivatal Központi Irányítása Vám Főosztály főosztályvezetője által kiadott 7022/2020. felhívás tartalmazza, amely az alábbi linken érhető el:
+
+https://nav.gov.hu/nav/vam/vaminformaciok/vamudvarok/Vamudvarok_elerhetose20191111.html
+
+
+
+
+
+További információ
+
+
+
+A kiviteli korlátozásokról a Bizottság „Kérdések és válaszok: Egyes termékek exportengedély bemutatásához kötött kivitele” címmel tájékoztatást adott ki, amely a következő linken érhető el: 
+
+https://ec.europa.eu/commission/presscorner/detail/hu/qanda_21_308.
+
+
+
+A bizottsági tájékoztató röviden ismerteti az EU rendeletben foglaltakat, az irányadó eljárási szabályokat, az engedélykötelezettség alól kivont rendeltetési országokat, valamint az engedély kérelmezésére vonatkozó alapvető tudnivalókat.
+
+
+
+Az engedélyezést érintő kérdésekről bővebb felvilágosítást a BFKH Kereskedelmi, Haditechnikai, Exportellenőrzési és Nemesfémhitelesítési Főosztály Kereskedelmi Osztálya adhat. 
+
+Elérhetőségek:
+
+Cím: 1124 Budapest, Németvölgyi út 37-39.
+
+Telefon: 06 1 4585 519
+
+E-mail-cím: keo@bfkh.gov.hu
+
+Honlap: https://mkeh.gov.hu/kereskedelmi/kereskedelmi_osztaly/vakcina-export
+
+
+
+	Jelen felhívás a kiadmányozás napjától érvényes.
+
+	
+
+	Budapest, 2021. február
+
+	
+
+Torda Csaba
+
+pénzügyőr dandártábornok
+
+főosztályvezető

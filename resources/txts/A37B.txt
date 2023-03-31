@@ -1,0 +1,39 @@
+Augusztustól változik az Online Számla rendszer és az Online Számlázó mobilalkalmazás 
+
+
+
+2021 augusztusában új fejlesztéseket vezet be és karbantartási munkálatokat végez az Online Számla rendszerben és az Online Számlázó mobilalkalmazásban a Nemzeti Adó- és Vámhivatal (NAV).
+
+
+
+Az Online Számla rendszert érintő fontos változások
+
+
+
+Megszűnik az új adózók és felhasználók eddigi regisztrációja, ezért a felület fejlécéről lekerül a „Regisztráció” gomb.
+
+
+
+Az elsődleges felhasználók a jövőben egyszerűbben léphetnek be az Online Számla rendszerbe, nem felhasználónévvel és jelszóval jelentkeznek be a webes felületre, hanem a Központi Azonosítási Ügynökön (KAÜ) keresztül, az ügyfélkapus belépési adataikkal hitelesítik magukat.
+
+
+
+A sikeres KAÜ-azonosítás után az Online Számla rendszer adózó-felhasználó kapcsolatok felületén az összes olyan adózó megjelenik, akiket a felhasználó képviselhet.
+
+
+
+Azoknak az elsődleges felhasználóknak, akik több adózó nevében is eljárnak, ismét el kell fogadniuk az adatkezelési tájékoztatót és meg kell adniuk a kapcsolattartási adatokat az első bejelentkezéskor, ha korábban több, eltérő felhasználónévvel regisztráltak az egyes képviselteknél. Azoknak az elsődleges felhasználóknak, akik korábban valamennyi képviselt adózó nevében ugyanazt a felhasználónevet használták, ezt nem kell megismételniük.
+
+
+
+Az Online Számlázó mobilalkalmazást érintő fontos változások
+
+
+
+A karbantartás után az Online Számlázó mobilalkalmazás új verziója is elérhető lesz.
+
+Az új verzió telepítését követően a KAÜ-azonosítás bevezetése miatt, az applikációt használó elsődleges felhasználóknak ismét párosítaniuk kell mobilkészülékeiket az Online Számlázó program webes felületével. A készülékpárosítási folyamatban egy mobiljelszót kell megadni, amely minimum 4, maximum 15 karakter hosszú lehet, számokat és ékezet nélküli nagybetűket tartalmazhat. 
+
+
+
+Nemzeti Adó- és Vámhivatal

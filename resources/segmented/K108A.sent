@@ -1,0 +1,20 @@
+TÁJÉKOZTATÓ a Pénzmosás Elleni Komplex Informatikai Rendszer bevezetéséről A Nemzeti Adó- és Vámhivatal Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda egy új informatikai rendszert, a Pénzmosás Elleni Komplex Informatikai Rendszert (PEKIR) vezet be.
+A PEKIR éles üzembe állításának időpontja 2021. február 15. A cél egy olyan komplex rendszer fejlesztése, bevezetése, amely megfelel a hatályos európai uniós és hazai jogszabályoknak, továbbá az elemző-értékelő tevékenységet magas színvonalon képes támogatni.
+A PEKIR – többek között – a munkafolyamatokat, a kockázatértékelési módszereket egységesíti és a hatékonyságot javítja.
+A PEKIR sikeres bevezetésének alapfeltétele, hogy a Pmt. hatálya alá tartozó szolgáltatók bejelentéseiket a jogszabályban meghatározott követelmények figyelembevételével küldjék meg a Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda részére.
+A PEKIR sikeres bevezetése érdekében kérem, hogy a Pmt. hatálya alá tartozó szolgáltatók az alábbi szakmai kéréseket bejelentéseik megküldésekor szíveskedjenek figyelembe venni: A szolgáltató a bejelentés megküldésekor hatályos Pmt. rendelkezései alapján, valamennyi az ügyfél-átvilágítási intézkedések során kötelezően rögzítendő adatot szerepeltessen a VPOP_PMT17 vagy VPOP_PMT17XML nyomtatványon.
+(Kötelező adat esetében a „nincs adat” vagy „N/A” nyomtatványon történő rögzítése nem megengedett.)
+Az ügylet-felfüggesztés tényének nyomtatványon történő jelzése kizárólag az erre a célra kialakított mezőben szükséges.
+Kérem, hogy egyéb mezőkben (pl. tényállás) a felfüggesztett ügyletre vonatkozó különböző jelzéseket ne alkalmazzon a szolgáltató.
+A tranzakciós adatokat a szolgáltató lehetőség szerint Excel fájlban küldje meg.
+Törekedni kell arra, hogy egy Excel fájl egy fizetési számlára vonatkozó információt tartalmazzon.
+Kerülni kell az egy Excel táblán belül több munkalapon, különböző, nem beazonosítható fizetési számlák megküldését.
+Amennyiben az Excel fájlban egyértelműen nem beazonosítható a fizetési számla tulajdonosának neve, a fizetési számla száma vagy a devizanem, akkor kérem, hogy a szolgáltató egy „Alapadatok” munkalapot készítsen el.
+A munkalapról részletes információ a VPOP_PMT17 nyomtatvány kitöltési útmutatójában található.
+Számos bankkal előzetesen egyeztetett a Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda azzal a céllal, hogy az adott bank által használt tranzakciós adatokat tartalmazó Excel-fájlok – informatikai szabályok felállításával – a PEKIR-ben kerüljenek standardizálásra.
+Amennyiben a tranzakciós adatokat tartalmazó Excel-fájl szerkezetét módosítani kívánja a szolgáltató, akkor kérem, hogy a módosítás előtt előzetesen küldje meg a Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda részére az új fájlszerkezetet annak érdekében, hogy a tranzakciós adatokat feldolgozó alkalmazást időben fel lehessen készíteni a változásra A VPOP_PMT17 nyomtatvány 1/A) Bejelentés lapján szereplő „A pénzmosásra, terrorizmus finanszírozására vagy a dolog büntetendő cselekményből való származására utaló adat, tény, körülmény" mezőben maximum 999 karakter szerepelhet.
+Amennyiben a mező mérete nem elegendő, kérem, hogy a szolgáltató egy Tényállás.doc(x) elnevezésű Word csatolmányban küldje meg a felmerült adatokat, tényeket, körülményeket.
+A fájlnévben egyéb információ (bejelentett neve, azonosítószám) szerepeltetése nem szükséges.
+A VPOP_PMT17 nyomtatványon kizárólag a Pmt.-ben meghatározott esetekben alkalmazzák a Pmt. 14. § szerinti ügyfél-átvilágítási intézkedések alapján rendelkezésre álló adatkört.
+Kérdés, észrevétel esetén kérem, hogy szíveskedjenek e-mail-t küldeni a fiu@nav.gov.hu címre!
+NAV Pénzmosás és Terrorizmusfinanszírozás Elleni Iroda

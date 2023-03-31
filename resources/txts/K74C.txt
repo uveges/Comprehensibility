@@ -1,0 +1,11 @@
+e-ellenőrzés – a biztonságos, korlátok nélkül megoldás
+
+A magyar adóhatóság már 2015-ben megkezdte az e-ellenőrzések előkészítését, amikor az ellenőrzésről szóló tájékoztatást és ellenőreinek megbízólevelét elektronikusan küldte meg az adózók elektronikus tárhelyére. A Magyarországon 2018-ban bevezetett kötelező e-ügyintézés a Nemzeti Adó és Vámhivatal (NAV) mellett az adózókat is az elektronikus kommunikáció útjára terelte. A törvényi kötelezés innovatív informatikai megoldások kialakítására ösztönözte a NAV-ot. Alapvetés volt az, hogy az új kommunikációs eszköz adatméretkorlát nélkül és költségmentesen álljon az adózók rendelkezésére.
+
+A 2018 végén elkészült platform és a méretkorlát nélküli digitalizált iratanyag továbbításának lehetősége rendkívül népszerűvé tette az e-kommunikációt az ellenőrzések terén, és 2019-ben debütálhatott Magyarországon az EU-ban is egyedülálló e-ellenőrzés. Ez a teljes folyamat a digitális térben zajlik, az adózó és a NAV kapcsolata személyes és postán keresztüli kontaktusoktól mentes. 2019-ben és 2020-ban az ellenőrzött adózók összesen 2,7 millió megabyte méretű e-dokumentumot küldtek, a NAV pedig közel 1 millió e-iratot küldött ki.
+
+Az e-ellenőrzésnek köszönhetően a járványhelyzettel bevezetett korlátozások sem akadályozzák az ellenőrzéseket. Informatikai eszközökkel az adózók bárhonnan, biztonságosan képesek együttműködni a hatósággal. Az e-ellenőrzés nemcsak biztonságos, hanem rendkívül költséghatékony és környezettudatos eljárás is, az eddig több mint 5 millió papírlap kiváltása komoly nyomdai kapacitás és postai díj megtakarítását jelenti. 
+
+Az e-ellenőrzés további előnye, hogy a hagyományos eljáráshoz képest jóval rövidebb idő alatt elvégezhető. Míg egy klasszikus utólagos adóellenőrzés átlagos hossza korábban 128 nap volt, addig az e-ellenőrzés esetében ez 86 napra csökkent.
+
+Az e-ellenőrzés mindenkinek előnyös, az adózók és az adóhatóság is humán- és anyagi kapacitást takaríthat meg. A felszabaduló források az üzleti oldalon a gazdasági tevékenységére, az adóhivatali oldalon pedig a költségvetési bevételek hatékonyabb biztosítására fordítható.

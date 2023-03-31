@@ -1,0 +1,129 @@
+Az egyéni vállalkozás megszüntetése
+
+Jogosultak köre
+
+Jogosult az, aki egyéni vállalkozói tevékenységet folytat.
+
+Hol intézhető
+
+Az egyéni vállalkozói tevékenység megszüntetését be lehet jelenteni:
+
+a Webes Ügysegéd alkalmazáson keresztül az erre a célra rendszeresített űrlapon (elektronikus bejelentés),
+
+bármelyik NAV-ügyfélszolgálaton.
+
+Elektronikus úton az egyéni vállalkozói tevékenység megszüntetésének bejelentését az Ügyfélkapun történő belépést követően a Webes Ügysegéden keresztül kell megtenni.
+
+A NAV ügyfélszolgálatain – személyesen vagy meghatalmazott útján is – kezdeményezhető a bejelentés. A postai úton történő, papír alapú ügyintézés kizárt!
+
+Szükséges iratok
+
+Költségek
+
+A vállalkozás megszüntetésének bejelentése díj- és illetékmentes.
+
+További információ
+
+További információ telefonon a NAV Infóvonalán a 1819-es számon vagy személyesen a NAV ügyfélszolgálatain kérhető.
+
+Ügyintézési idő
+
+Sürgősségi eljárásra nincs mód. Ha a bejelentő a Webes Ügysegéden található vagy a NAV ügyfélszolgálatán rendelkezésére bocsátott bejelentési űrlapot megfelelően kitöltötte, a NAV haladéktalanul, automatikusan, azonnal nyilvántartásba veszi a tevékenység megszüntetésének napját, és a Webes Ügysegéden keresztül megküldi, vagy személyesen átadja a nyilvántartásba bejegyzett, megszűnés időpontját tartalmazó értesítést a bejelentő részére.
+
+Érdemes tudni
+
+Az egyéni vállalkozói tevékenység megszüntetésének bejelentésével a tevékenységre való jogosultság megszűnik a bejelentés napján. A vállalkozó a bejelentés nyilvántartásba vételéről értesítést kap. Az egyéni vállalkozói tevékenység megszüntetésére vonatkozó elektronikus úton megtett bejelentés akkor tekinthető eredményesnek, ha az egyéni vállalkozói tevékenység megszüntetésének nyilvántartásban való rögzítése megtörtént. Az erről szóló értesítés a Webes Ügysegéd felületén elérhető, onnan letölthető.
+
+Az egyéni vállalkozói tevékenységre való jogosultság a törvény erejénél fogva megszűnik:
+
+ha az egyéni vállalkozó tevékenysége megszüntetését a NAV részére bejelenti, a bejelentés napján,
+
+ha az egyéni vállalkozó egyéni céget vagy az Evectv. 19/C. § szerinti korlátolt felelősségű társaságot alapított, az Evectv. 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, vagy ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
+
+az egyéni vállalkozó halála napján,
+
+az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
+
+ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat véglegessé válásának napján,
+
+ha az egyéni vállalkozói tevékenység megkezdését vagy folytatását kizáró ok áll fenn,
+
+ha az egyéni vállalkozó 2 éven belül nem jelentette be az egyéni vállalkozói tevékenység szünetelés utáni folytatását vagy megszüntetését, a szünetelés kezdőnapját követő két év elteltét követő napon.
+
+A bejelentett adatok ellenőrizhetőek az Egyéni Vállalkozók Nyilvántartásában.
+
+Elektronikus ügyintézés
+
+Az egyéni vállalkozói tevékenység megszüntetése elektronikus úton, az ügyfélkapun történő belépést követően az erre szolgáló Webes Ügysegéden keresztül intézhető.
+
+A Webes Ügysegéd használatának általános feltételei
+
+Bejelentkezés
+
+A Webes Ügysegéd a Központi Azonosítási Ügynök (röviden: KAÜ) szolgáltatáson keresztül vehető igénybe, tehát
+
+vagy Ügyfélkapu-regisztrációval,
+
+vagy Telefonos Azonosítási szolgáltatásra vonatkozó regisztrációval,
+
+vagy eSzemélyi okmánnyal
+
+szükséges rendelkeznie.
+
+Ügyfélkapu-regisztrációt igényelhet személyesen bármely okmányirodai- és kormányablak ügyfélszolgálaton, a NAV kiemelt ügyfélszolgálatain, egyes postahivatalokban, illetve elektronikus úton – amennyiben Ön rendelkezik 2016. január 1-jét követően kiállított, tároló elemmel ellátott személyazonosító igazolvánnyal – az ugyfelkapu.gov.hu webes felületen.
+
+Telefonos Azonosítási szolgáltatásra vonatkozó regisztrációt igényelhet személyesen bármely okmányirodai- és kormányablak-ügyfélszolgálaton.
+
+A KAÜ-szolgáltatással kapcsolatos kérdéseivel forduljon bizalommal a 1818-as hívószámon elérhető Kormányzati Ügyfélvonalhoz.
+
+Az ügyintézés menete
+
+Új bejelentés, illetve kérelem indítása és bejelentkezés
+
+Új kérelem/bejelentés/nyilatkozat indításához a legtöbb szolgáltatás esetében be kell jelentkezni az alkalmazásba a KAÜ-n keresztül, ahol valamely ott felajánlott bejelentkezési lehetőséget kell kiválasztani. Ezt követően, néhány másodpercen belül automatikusan megjelenik a Webes Ügysegéd főoldala.
+
+Személyes adatok megadása az első belépéskor
+
+Sikeres azonosítást követően a Webes Ügysegéd első használatakor meg kell adni a hiányzó természetes személyazonosító adatokat és az elektronikus levélcímet (e-mail címet) is.
+
+Bejelentés/Kérelem összeállítása
+
+A sikeres azonosítást követően a kiválasztott ügytípushoz tartozó űrlap jelenik meg, amelynek mezőit értelemszerűen kell kitölteni. A Webes Ügysegéd a kitöltés során ellenőrzéseket végez, amelynek eredményeként megjeleníti az esetleges hibákat.
+
+Bejelentés/Kérelem benyújtása
+
+A bejelentés, illetve a kérelem benyújtásával az ügy intézése megkezdődik, amelyet a Webes Ügysegéd visszaigazol.
+
+Bejelentés/Kérelem státusza
+
+Ismételt bejelentkezéssel akár utólag is megtekinthetők a Webes Ügysegédről indított ügyek és azok ügyintézésének állása. A bejelentett adatok ellenőrizhetőek az Egyéni Vállalkozók Nyilvántartásában.
+
+Letölthető dokumentumok
+
+Önálló vállalkozók tevékenységi jegyzéke„ (ÖVTJ-kódok)
+
+Fogalmak
+
+Gyakran ismételt kérdések
+
+
+
+Jogszabályok
+
+2009. évi CXV. törvény az egyéni vállalkozóról és az egyéni cégről
+
+2009. évi LXXVI. törvény a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól
+
+210/2009. (IX. 29.) Korm. rendelet a kereskedelmi tevékenységek végzésének feltételeiről
+
+5/1997. (III. 5.) IKIM rendelet az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről
+
+21/2010. (V. 14.) NFGM rendelet az egyes ipari és kereskedelmi tevékenységek gyakorlásához szükséges képesítésekről
+
+Az EURÓPAI PARLAMENT ÉS A TANÁCS 2006. december 12-i 2006/123/EK IRÁNYELVE a belső piaci szolgáltatásokról
+
+Letölthető dokumentumok
+
+
+
+Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ kódok).pdf

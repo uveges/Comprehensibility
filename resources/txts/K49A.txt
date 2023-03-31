@@ -1,0 +1,65 @@
+Május 1-jétől új szabályozás a kártérítési eljárásokban 
+
+
+
+Tisztelt Munkatársak! 
+
+  
+
+Május 1-jétől érvényes a kártérítési felelősségről szóló 2025/2021/VEZ szabályzat.
+
+A szabályzat a 2021. január 1-jétől hatályos NAV Szj.tv. és új NAV Szjvhr. rendelkezésein alapul, azonban - mivel az anyagi jogszabályok érdemi változást nem tartalmaztak -, jelentős tartalmi, eljárási változtatásra nem volt szükség.
+
+Új elemként jelenik meg viszont a szabályzatban, s emiatt külön figyelmet érdemel az egyoldalú munkáltatói döntések elektronikus kiadmányozása, kézbesítése, mely érinti a NAV foglalkoztatotti, munkavállalói, tisztjelölti állományát.
+
+Az alább felsorolt esetkörökben a munkáltatói/kártérítési jogkör gyakorlójának elektronikusan, legalább fokozott biztonságú elektronikus aláírással kell kiadmányoznia egyoldalú munkáltatói döntéseit:
+
+kártérítési ügyben hozott határozat, 
+
+a sérelemdíj megfizetése ügyében hozott határozat, 
+
+az összeférhetetlenség megszüntetésére irányuló felszólítás és 
+
+a fizetési felszólítás.
+
+
+
+Elektronikusa kiadmányozható az „Értesítés az egyszerűsített eljárás megindításáról” szóló ügyirat is. 
+
+
+
+A sorolt egyoldalú munkáltatói döntések Ügyfélkapura történő elektronikus kézbesítésén túl, megnyílik a lehetőség, hogy a foglalkozatott, munkavállaló egyszerűsített eljáráshoz kapcsolódó nyilatkozatát Ügyfélkapun keresztül küldje vissza a NAV-nak.
+
+
+
+Ez a funkció – hasonlóan a személyügyi iratokhoz – az Általános Nyomtatványkitöltő program (ÁNYK) segítségével működik. A Nyilatkozatot az elektronikus kézbesítéshez alkalmas KARTERNYIL nyomtatványon kell megtenni.
+
+Az ABEVJava Adózói alkalmazáson keresztül minden belső munkaállomásról elérhető a KARTERNYIL nyomtatvány, amit csak a NAV dolgozói használhatnak.
+
+Ha az eljárás alá vont foglalkoztatott, munkavállaló saját eszközön (otthoni számítógép) szeretné a Nyilatkozatot elkészíteni és Ügyfélkapun keresztül beküldeni, a NAV honlapjáról az ÁNYK programot le tudja tölteni, azonban a telepítéséről egyénileg kell gondoskodnia a NAV_KARTERNYIL.jar program futtatásával.
+
+Fontos hangsúlyozni, hogy a KARTERNYIL nyomtatvány elektronikusan és papíralapon is visszaküldhető a NAV-nak.
+
+
+
+A fent jelzett, egyoldalú munkáltatói/kártérítési döntések Ügyfélkapun történő elektronikus kézbesítése és a foglalkoztatott, munkavállaló egyszerűsített eljáráshoz kapcsolódó Nyilatkozatának (KARTERNYIL) Ügyfélkapun keresztül történő visszaküldése az informatikai fejlesztéseknek köszönhetően 2021. május 1-jével alkalmazhatóak.
+
+
+
+
+
+
+
+Segítség:
+
+A kártérítési okmányok tartalmi problémáival, az elektronikus kapcsolattartással (pl. új ügyfélkapu létesítése) összefüggő problémákkal, a kártérítési feladatokat ellátó szervezeti egységhez, illetve a változások kapcsán felmerülő szakmai iránymutatásért a NAV szervek kártérítési tevékenységét irányító és felügyelő KI Szervezetszabályozási és Szervezési Főosztályhoz kell fordulni.
+
+A NAV-os munkaállomásokon, a tárhely elérésével, a küldemények megtekintésével és a nyomtatvány kitöltésével kapcsolatos problémák megoldásában az informatikai szakterület munkatársai nyújtanak segítséget.
+
+Kérem szíves türelmüket és megértésüket az ügyviteli folyamatokban esetlegesen felmerülő kezdeti problémák miatt.
+
+   
+
+dr. Balaska Andrea pénzügyőr ezredes, főosztályvezető
+
+NAV KI Szervezetszabályozási és Szervezési Főosztály

@@ -1,0 +1,257 @@
+Az Áfa tv. 95-96. §-a szerinti adómentes termékimport alapvető szabályai
+
+ 
+
+
+
+
+
+Az Áfa tv. – a Héa-irányelvben foglaltakkal összhangban – termék importja esetében számos adómentességi jogcímet szabályoz. Az Áfa tv. 95. §-a szerinti adómentesség indoka, hogy a terméket, annak szabad forgalomba bocsátását követően, Közösségen belüli adómentes termékértékesítés keretében a Közösség valamely Magyarországtól eltérő másik tagállamába szállítják, ahol a termék beszerzőjének Közösségen belüli termékbeszerzés után keletkezik adófizetési kötelezettsége. (A Közösségen belüli ügyletekről részletesen lásd a 29. Információs füzetet.) 
+
+
+
+A termékimport adómentességének feltételei
+
+Közösségen belüli termékértékesítés
+
+Az importált termék másik tagállamba történő eljuttatására vonatkozó kötelezettség
+
+Az adóbiztosítékra vonatkozó szabályok   
+
+A termék használatára vonatkozó szabályok
+
+A termék bemutatására vonatkozó szabályok  
+
+Ki kezdeményezheti a szabad forgalomba bocsátást? 
+
+Az áfa összegének megállapítása és felfüggesztése, az adóbiztosíték felszabadítása
+
+Közvetett vámjogi képviselő 
+
+A belföldről történő elfuvarozás vagy a belföldön küldeményként történő feladás igazolása 
+
+
+
+A termékimport adómentességének feltételei
+
+
+
+Az adómentességhez az alábbi feltételek együttes teljesülését követeli meg az Áfa tv.: 
+
+
+
+az importáló a terméket Közösségen belüli adómentes termékértékesítés (Áfa tv. 89. §) keretében értékesítse
+
+a termék előző pontban meghatározottak céljából történő kiszállítása Magyarországról legkésőbb azon időponttól számított 30 – vagy, ha a vámhatóság a határidőt kérelemre meghosszabbította –, 60 napon belül igazoltan megtörténjen, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő, 
+
+az importáló – az Áfa tv. 95. § (4) bekezdésében meghatározott eltéréssel – a termékre a Vám tv. rendelkezéseinek megfelelően adóbiztosítékot nyújtson
+
+a terméket belföldön rendeltetésszerűen ne használják, egyéb módon nem hasznosítsák 
+
+a terméket a vámhatóság felhívására mutassák be.
+
+
+
+Közösségen belüli termékértékesítés
+
+
+
+Az adómentesség 1. pontban említett feltétele kapcsán ki kell emelni, hogy a közösségi adómentes értékesítés körébe nem csak azok az esetek tartoznak, amikor az importálótól eltérő más tagállambeli adóalany felé történik értékesítés, hanem a terméknek saját vagyon áthelyezés keretében más tagállamba történő továbbítása is ide tartozik. Abban az esetben, amikor az adóalany a Magyarországon szabad forgalomba bocsátott terméket saját vállalkozásának céljára elfuvarozza, elfuvaroztatja, postán feladja a Közösség valamely másik tagállamába - azaz amikor a másik („beszerzői”) oldalon ugyanazon jogalany áll, csak másik tagállam által megállapított közösségi adószámmal -, a jogalanynak, ezen, másik tagállam által megállapított közösségi adószám alatt teljesített Közösségen belüli termékbeszerzés miatt adókötelezettsége keletkezik a másik tagállamban.  
+
+
+
+Az Áfa tv. rögzíti, hogy a termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során az importálónak meg kell adnia közösségi adószámát, valamint megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsítenie kell, hogy a terméket Közösségen belüli adómentes termékértékesítés keretében értékesíti (ideértve a saját vagyon áthelyezést is). Az okirat alapján megállapíthatónak kell lennie a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam, azaz a rendeltetés államának joga szerint. 
+
+
+
+Az adómentes termékimport megvalósulását megalapozó értékesítésre vonatkozó okirat lehet különösen az adásvételi szerződés, a másik tagállami vevő felé kiállított számla, fuvarokmány, egyéb kereskedelmi okmány.  Amennyiben nem saját vagyon áthelyezéséről, hanem valódi értékesítésről van szó, az adómentes termékimport megvalósulását valószínűsítő okirat elsősorban az importált termék értékesítésére vonatkozó adásvételi szerződés. A szerződés többféle módon jöhet létre, például az eladó és vevő által aláírt külön okmányba foglaltan; ajánlat, rendelés adása után annak visszaigazolásával – akár faxon, akár elektronikus formában –, ajánlat után az előleg, illetve a vételár megfizetésével. Természetesen elfogadható egyéb kereskedelmi okmány is, amennyiben az igazolja a vámhatóság felé, hogy valós, az adómentességet megalapozó értékesítésről van szó, így például az adóalanyok közötti levelezés, amelyből az értékesítés megállapítható, vagy bankgarancia.
+
+
+
+Abban az esetben, ha a Közösségen belüli adómentes értékesítésre tulajdonosváltással nem járó, saját vagyon áthelyezés keretében kerül sor, úgy az importáló olyan értelmű nyilatkozata is elfogadható, hogy a terméket az előírt határidőn belül másik tagállamba kiszállítja. 
+
+
+
+Az importált termék másik tagállamba történő eljuttatására vonatkozó kötelezettség
+
+
+
+Az adómentességgel szabad forgalomba bocsátott terméket 30 napon belül belföldről másik tagállamba igazoltan el kell juttatni, vagy postai forgalomban belföldön küldeményként fel kell adni (a 30 napos határidő megtartottnak tekintendő akkor, ha a termék másik tagállamba történő tényleges eljuttatására a szabad forgalomba bocsátást követő 30. nap után kerül sor, azonban azt legkésőbb a 30. napon másik tagállami rendeltetéssel útnak indították).
+
+
+
+Az Áfa tv. értelmében a 30 napos határidőt a szabad forgalomba bocsátás vámeljárást végző vámszerv indokolt esetben, külön írásbeli kérelemre legfeljebb egy alkalommal, 30 nappal meghosszabbíthatja. A határidő meghosszabbítását a szabad forgalomba bocsátást végző vámszerv feltételhez kötheti, különösen a szabad forgalomba bocsátott termék ismételt bemutatásához. Ez a bemutatás más vámszervnél is történhet, de a vámeljárást követő 30 napon belül igazoltan meg kell történnie úgy, hogy a szabad forgalomba bocsátott és a bemutatott termék azonossága kétséget kizáróan megállapítható legyen. 
+
+  
+
+Az adóbiztosítékra vonatkozó szabályok   
+
+
+
+Az adómentes termékimport további feltétele, hogy az importáló vagy a képviseletében eljáró közvetett vámjogi képviselő adóbiztosítékot nyújtson. Ennek hiányában a vámhatóság nem hozza meg az adó ideiglenes felfüggesztéséről szóló határozatot. Ha az importáló képviseletére pénzügyi képviselőt bízott meg, az adóbiztosítékot az importáló helyett a pénzügyi képviselő is nyújthatja saját nevében, a Vám tv. rendelkezéseinek megfelelően.
+
+
+
+Az adóbiztosíték fogalmát az Áfa tv. határozza meg az értelmező rendelkezések között. Az adóbiztosíték az adó megfizetésének biztosítására szolgáló összeg, amelyet a Vám tv-nek a vámbiztosíték nyújtására vonatkozó rendelkezései megfelelő alkalmazásával nyújtanak, és amely összegében a 95. § szerinti adómentesség esetében megfelel a termék vámjogi szabad forgalomba bocsátására irányuló eljárásban megállapított adónak. 
+
+
+
+Adóbiztosíték az alábbi módon nyújtható:
+
+
+
+A Vám tv. 150. § szerint a Vámkódex 92. cikk (1) bekezdése alapján a biztosítékot nyújtó személy
+
+a) a Vámkódex 92. cikk (1) bekezdés a) pontja szerinti biztosítékot hitelintézet által kiadott fedezetigazolással, vagy készpénz letétbe helyezésével,
+
+b) a Vámkódex 92. cikk (1) bekezdés b) pontja szerinti biztosítékot mint kötelezettségvállalást a Ptk. szerinti garanciavállaló nyilatkozattal vagy készfizető kezesi szerződéssel teljesítheti.
+
+A 150. § b) pontja szerinti kötelezettségvállalás formanyomtatványait a NAV a honlapján teszi közzé.
+
+
+
+Az adómentes termékimporthoz kapcsolódó szabad forgalomba bocsátás vámeljárás alkalmával a gazdálkodó (importőr, annak közvetett vámjogi képviselője vagy pénzügyi képviselője) akkor is köteles adóbiztosítékot nyújtani, amennyiben rendelkezik az Áfa tv. 156. §-a szerinti önadózásra jogosító engedéllyel. 
+
+
+
+A termék használatára vonatkozó szabályok
+
+
+
+Az áfa alóli mentesség mellett szabad forgalomba bocsátott termékek belföldön rendeltetésszerűen nem használhatók, egyéb módon nem hasznosíthatók. A termék használatának, hasznosításának tilalma alapján a termékkel kapcsolatban belföldön csupán olyan szolgáltatás nyújtható, amely a termék jellegét nem változtatja meg, illetve amely nem minősül gazdasági értelemben vett használatnak, hasznosításnak. Nem minősül a termék gazdasági értelemben vett használatának, hasznosításának, valamint nem jelenti a termék jellegének megváltoztatását a termék fuvarozása, raktározása, csomagolása. Ezen túl nem minősül a termék gazdasági értelemben vett használatának, hasznosításának, valamint nem jelenti a termék jellegének megváltoztatását az sem, ha azon állagmegóvást, valamint kárelhárítást végeznek. 
+
+
+
+A termék bemutatására vonatkozó szabályok  
+
+
+
+Az Áfa tv. előírása értelmében az adómentesség további feltétele, hogy a vámhatóság felhívására a terméket mutassák be. A bemutatási kötelezettség fennáll egyrészt a szabad forgalomba bocsátás vámeljárás során alkalmazott áruvizsgálat során, másrészt a másik tagállamba történő átszállításra adott határidő meghosszabbításánál alkalmazott áruvizsgálat során is. Ugyanakkor ez a kötelezettség nem eredményez valamennyi esetben fizikai áruvizsgálatot. 
+
+
+
+Ki kezdeményezheti a szabad forgalomba bocsátást? 
+
+
+
+Az Áfa tv. 95. §-a szerinti adómentes termékimport jogcímén szabad forgalomba bocsátás vámeljárást a termék importálója, illetve vámjogi képviselője kezdeményezheti. Eltérő szabályokat kell azonban alkalmazni annak függvényében, hogy az importáló belföldön nyilvántartásba vett adóalany, vagy sem. 
+
+
+
+Abban az esetben, ha belföldön nyilvántartásba vett adóalany az importáló, akkor nem szükséges más szereplőt bevonni az eljárásba. Természetesen az importálónak lehetősége van arra, hogy közvetlen, illetve közvetett vámjogi képviselőt bízzon meg. Ez utóbbi azonban csak közvetlen képviselőként, azaz az importáló nevében járhat el. Ez egyben azt is jelenti, hogy a feltételeket ilyenkor is az importálónak kell teljesíteni. 
+
+   
+
+Az import ügylet adómentességének feltétele, hogy a termék az importot követően Közösségen belüli adómentes termékértékesítés keretében másik tagállamba kerüljön Magyarországról. Ebből következően főszabályként az importálónak adóalanyként be kell jelentkeznie Magyarországon, adószámmal és közösségi adószámmal kell rendelkeznie. Ennek hiányában ugyanis a belföldön teljesült ügyletet nem tudja bevallani. 
+
+
+
+Az Áfa tv. azonban lehetőséget biztosít arra, hogy a Közösség más tagállamában nyilvántartásba vett, Magyarországon adószámmal, közösségi adószámmal nem rendelkező importáló az adóalanyként történő bejelentkezés (adószám kiváltás) helyett közvetett vámjogi képviselőt bízzon meg. (Amennyiben az adófizetésre kötelezett adóalany gazdasági céllal harmadik államban telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van harmadik államban, pénzügyi képviselő megbízása kötelező.)
+
+
+
+Az Áfa tv. értelmében mentesül az Art. szerinti bejelentkezési kötelezettség alól az a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön kizárólag a 95. § szerinti adómentes termékimportot megalapozó 89. § szerinti termékértékesítést teljesít, és az adómentesség érvényesítéséhez közvetett vámjogi képviselőt hatalmaz meg. 
+
+   
+
+A Magyarországon nyilvántartásba nem vett adóalany kizárólag közvetett vámjogi képviselő útján járhat el az adómentesség érvényesítésére vonatkozó eljárásban. Ilyen esetben az adómentesség alkalmazásához szükséges feltételek teljesítését a közvetett vámjogi képviselőnek saját nevében kell igazolnia, továbbá a Közösségen belüli adómentes termékértékesítés kapcsán a közvetett vámjogi képviselőnek kell teljesítenie a számlázási, bevallási és összesítő nyilatkozattételi kötelezettséget.
+
+
+
+Az áfa összegének megállapítása és felfüggesztése, az adóbiztosíték felszabadítása
+
+
+
+A vámhatóság a szabad forgalomba bocsátás eljárás során az áfa összegét megállapítja, egyúttal azonban rendelkezik az adó megfizetésének felfüggesztéséről. A felfüggesztés időtartama alatt az importálónak nem kell megfizetnie az áfát. 
+
+
+
+Abban az esetben, ha minden feltétel teljesült, és ezt az importáló a termék más tagállamába történő elfuvarozására előírt 30 napos – meghosszabbítás esetén 60 napos – határidő leteltétől számított 15 napon belül megfelelően igazolta a vámhatóság felé, továbbá, ha az importáló 15 napon belül eleget tesz a másik tagállamba történő közösségi termékértékesítéséhez vagy vagyonáthelyezéséhez kapcsolódó bevallási és/vagy összesítő-nyilatkozattételi és/vagy fizetendőadó-megállapítási kötelezettségének is, akkor a vámhatóság az importálót határozattal véglegesen mentesíti a megállapított adó megfizetése alól (azaz ez esetben az adó megfizetésének felfüggesztése úgy szűnik meg, hogy az import véglegesen adómentessé válik). Ez esetben a vámhatóság az adóbiztosítékot az adómentes importról szóló határozat meghozatalával egyidejűleg felszabadítja.
+
+
+
+Amennyiben azonban az adómentességre előírt feltételek valamelyike nem teljesült, illetve ezt az importáló a termék más tagállamába történő elfuvarozásra előírt 30 napos – meghosszabbítás esetén 60 napos – határidő leteltétől számított 15 napon belül nem igazolta a vámhatóság felé, akkor a vámhatóság határozattal kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről arra az időpontra visszamenőleg rendelkezik, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő (ez esetben az adó megfizetésének felfüggesztése az adómentesség nélkül szűnik meg). Ilyenkor a vámhatóság az adó megfizetését kiszabó határozat alapján az adóbiztosítékot akkor szabadítja fel, ha az importáló az adót megfizette.
+
+
+
+A 95. § (6) és (10) bekezdésében említett esetekben a közvetett vámjogi képviselő az importálóval együtt egyetemlegesen felelős az adó megfizetéséért.
+
+   
+
+Figyelemmel arra, hogy az Áfa tv. 156. § (1) bekezdése kifejezetten csak a 155. § (1) bekezdésére hivatkozik, az Áfa tv. 155. § (2) bekezdésére nem, a 156. §-a szerinti, önadózásra jogosító engedéllyel rendelkező adóalany esetében az Áfa tv. 95-96. §-aiban szabályozott termékimport esetén nincsen lehetőség önadózásra, így részükre a szabad forgalomba bocsátás vámeljárás során az áfa összegét szintén meg kell állapítani és fel kell függeszteni.
+
+
+
+Közvetett vámjogi képviselő 
+
+
+
+Ahhoz, hogy az importáló helyett közvetett vámjogi képviselő járhasson el az adómentesség érvényesítése érdekében, több feltételnek is teljesülnie kell: 
+
+
+
+szükséges az importáló írásbeli meghatalmazása, amelyet a termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozattal együtt kell a vámhatóságnak benyújtani, 
+
+az importáló csak belföldön nyilvántartásba nem vett és arra nem is kötelezett adóalany vagy olyan adóalany lehet, aki (amely) kizárólag a 95. § (1) bekezdésének a) pontjában említett eset miatt lenne belföldi nyilvántartásba vételre kötelezett,
+
+a közvetett vámjogi képviselő belföldön nyilvántartásba vett és közösségi adószámmal rendelkező adóalany legyen, akinek (amelynek) nincs olyan, az Áfa tv-ben szabályozott jogállása, amelynek alapján tőle adó fizetése ne lenne követelhető (azaz nem alanyi adómentes adóalany, illetve nem eva-alany). 
+
+
+
+A közvetett vámjogi képviselőt a Közösségen belüli adómentes értékesítéssel összefüggésben az alábbi kötelezettségek terhelik (amelyeknek saját nevében tesz eleget): 
+
+
+
+az ügylet teljesítését tanúsító számlát mint az importáló meghatalmazottja bocsátja ki
+
+köteles adóbiztosítékot nyújtani (kivéve, ha engedélyezett gazdálkodói minősítéssel rendelkezik) 
+
+a közösségi ügyletekről importálónként, ezen belül megbízásonként egymástól elkülönített nyilvántartást vezet
+
+bevallásában és az Áfa tv. 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
+
+
+
+A belföldről történő elfuvarozás vagy a belföldön küldeményként történő feladás igazolása 
+
+
+
+Az importálónak, pénzügyi képviselőjének vagy a közvetett vámjogi képviselőnek a termék másik tagállamba történő elfuvarozására vagy postai forgalomban a belföldön küldeménykénti feladásra meghatározott határidő lejártát követő 15 napon belül igazolnia kell, hogy a terméket belföldről másik tagállamba határidőben elszállították, vagy postai forgalomban belföldről küldeményként feladták. 
+
+
+
+A termék másik tagállamba történő elfuvarozásának, eljuttatásának, illetve postai forgalomban küldeményként történő feladásának ténye igazolható különösen
+
+
+
+eredeti fuvarokmánnyal, vagy 
+
+minden olyan okmánnyal, amely hitelt érdemlően igazolja, hogy az 	importtermék kiszállítása, illetve postai forgalomban belföldről küldeményként 	történő feladása másik tagállam területére megtörtént, így például:
+
+fuvarlevél átvételt igazoló eredeti példányával; 
+
+az eladótól és vevőtől független szállító cég által kibocsátott 	rakományjegyzék, rakjegyzék, rakodási lista, szállítólevél átvételt 	igazoló eredeti példányával;  
+
+a fuvarlevél másolatának bemutatása mellett a vevő eredeti 	nyilatkozatával a szállítmány átvételéről; 
+
+a fuvarlevél másolatának bemutatása mellett az eredeti szállítmányozói 	nyilatkozattal az áru más tagállamba történő leszállításáról
+
+rakományjegyzékkel, rakjegyzékkel, stb. és emellett a kiszállítás igazolásául annak megtörténtét igazoló egyéb okmánnyal (menetlevéllel, útnyilvántartással, stb.) – amennyiben a gazdálkodó saját maga szállítja az árut és fuvarlevél kiállítására nem kötelezett.
+
+
+
+Ahhoz, hogy vámhatóság véglegesen mentesítse az importálót a megállapított adó megfizetése alól, a fenti igazolási kötelezettségen kívül az Áfa tv. előírja, hogy az importálónak vagy pénzügyi képviselőjének eleget kell tennie a másik tagállamba történő közösségi termékértékesítéséhez vagy vagyonáthelyezéséhez kapcsolódó 
+
+
+
+az Áfa tv. 4/A. számú melléklet I. pont szerinti összesítőnyilatkozat-tételi kötelezettségnek, vagy 
+
+bevallási kötelezettségének, ha az előző pontban említett összesítőnyilatkozat-tételi kötelezettség a 30 (határidő hosszabbítás esetén 60) napos határidőt követő 15. naphoz képest később válik esedékessé, vagy 
+
+az Áfa tv. 60. § (4) bekezdése szerinti fizetendőadó-megállapítási kötelezettségének az ügylet teljesítését tanúsító számla vagy – számla hiányában –a kötelezettség teljesítését igazoló egyéb okirat bemutatásával, ha az előző pontban említett áfabevallási-kötelezettség a 30 (határidő hosszabbítás esetén 60) napos határidőt követő 15. naphoz képest később válik esedékessé.  
+
+
+
+
+
+8

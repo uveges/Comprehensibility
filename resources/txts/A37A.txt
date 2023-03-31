@@ -1,0 +1,37 @@
+A NAV Online Számla rendszert és az Online Számlázó mobilalkalmazást érintő fontos változások
+
+
+
+Előzetesen tájékoztatjuk a Tisztelt Adózókat, hogy a Nemzeti Adó- és Vámhivatal (NAV) 2021. augusztus hónapban karbantartási munkálatokat fog végezni az Online Számla rendszerben, melynek keretében több új fejlesztés bevezetése fog megtörténni.
+
+
+
+Az Online Számla rendszert érintő fontos változások
+
+
+
+Megszűnik az eddigi regisztráció, azaz az új adózót nem kell regisztrálni, és az új felhasználóknak sem kell a továbbiakban regisztrálniuk, ezért a felület fejlécéről lekerül a „Regisztráció” gomb.
+
+A felhasználók egy megújult, egyszerűbb bejelentkezési folyamattal léphetnek be az Online Számla rendszer webes felületére. Megváltozik az elsődleges felhasználók azonosítása, azaz a jövőben az elsődleges felhasználók nem felhasználónévvel és jelszóval jelentkeznek be a webes felületre, hanem a bejelentkezésnél a Központi Azonosítási Ügynökön (KAÜ) keresztül az ügyfélkapus belépési adataikkal hitelesítik magukat.
+
+
+
+A sikeres KAÜ-azonosítás után az Online Számla rendszerben az Adózó-felhasználó kapcsolatok felületen az összes olyan adózó megjelenik, akiknek a képviseletére a felhasználó jogosult.
+
+
+
+Azoknak az elsődleges felhasználóknak, akik több adózó nevében is eljárnak, fontos információ, hogy ha korábban több, eltérő felhasználónévvel regisztráltak az egyes képviselteknél, akkor az első bejelentkezéskor ismét el kell fogadniuk az adatkezelési tájékoztatót és meg kell adniuk a kapcsolattartási adatokat. Azoknak az elsődleges felhasználóknak, akik ugyanazt a felhasználónevet használták korábban valamennyi képviselt adózó nevében, ezt nem kell megismételniük.
+
+
+
+Az Online Számlázó mobilalkalmazást érintő fontos változások
+
+
+
+A karbantartás után az Online Számlázó mobilalkalmazás új verziója is elérhető lesz.
+
+Fontos információ, hogy az új verzió telepítését követően a KAÜ-azonosítás bevezetése miatt, az applikációt használó elsődleges felhasználóknak ismét párosítaniuk kell mobilkészülékeiket az Online Számlázó program webes felületével. A készülékpárosítási folyamatban egy mobiljelszót kell megadni. A mobiljelszónak minimum 4, maximum 15 karakter hosszúnak kell lennie, számokat és ékezet nélküli nagybetűket tartalmazhat. 
+
+
+
+Nemzeti Adó- és Vámhivatal
